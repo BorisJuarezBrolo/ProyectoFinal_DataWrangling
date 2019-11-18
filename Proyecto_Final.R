@@ -20,7 +20,6 @@ for (nombre in archivos) {
   nombre <- str_remove(nombre, "(_municipal|_departamental)\\.xlsx$")
   nombre <- paste(pre,nombre, sep = "")
   assign(nombre, temp_df)
-  
 }
 
 rm(nombre, pre, archivos, temp_df, n)
@@ -122,11 +121,91 @@ d_educacion<- d_educacion %>% gather(key = 'Nivel Educativo', value = 'Cantidad 
 ### Municipal
 
 
+
 ## Formatear tablas de Empleo
+# Se genera una sola tabla quye basicamente es la misma pero cambiada de forma.
+
+# Depertamental
+d_empleo <- d_empleo %>% gather(key = 'Situación Laboral', value = 'Personas', 5:7) %>% arrange(`Código`) %>% 
+  select(1:2, 4, `Situación Laboral`, `Personas`) %>% 
+  mutate(`Porcentaje de Economicamente Activa`=round(`Población Económicamente Activa`/`Personas`*100, 2))
+  
+# Municipal
+
+
+## Formatear tablas de Hogares
+
+# Departamental
+
+
+
+# Municipal
+
+
+## Formatear tablas de Poblacion
+# De la tabla de poblacion se generaron siete tablas nuevas siendo estas: 1. genero 2.Edad grupos de 15 años 
+# 3. Edad grupo de 5 años 4. Zona demografica 5. relación con el Jefe del Hogar 6.Personas en Situación de Calle y
+# finalmente 7. Estado Civil
+
+# Departamental
+
+d_genero <- d_poblacion %>% gather(key = 'Genero' , value= 'Cantidad', 4:5) %>% arrange(`Código`) %>% 
+  select(1:3, `Genero`, `Cantidad`)
+
+d_edad_15 <- d_poblacion %>% gather(key = 'Grupo de Edades 15 años', value='Cantidad', 6:10) %>% arrange(`Código`) %>%
+  select(1:3, `Grupo de Edades 15 años`, `Cantidad`) %>% 
+  mutate(`Porcentaje de Poblacion`= round(`Cantidad`/ `Total de personas`*100, 2))
+
+d_edad_5 <- d_poblacion %>% gather(key = 'Grupo de Edades 5 años', value='Cantidad', 11:31) %>% arrange(`Código`) %>%
+  select(1:3, `Grupo de Edades 5 años`, `Cantidad`) %>% 
+  mutate(`Porcentaje de Poblacion`= round(`Cantidad`/ `Total de personas`*100, 2))
+
+d_zona <- d_poblacion %>%  gather(key = 'Zona', value='Cantidad de Personas', 32:33) %>% arrange(`Código`) %>%
+  select(1:3, `Zona`, `Cantidad de Personas`) %>% 
+  mutate(`Porcentaje de Poblacion`= round(`Cantidad de Personas`/ `Total de personas`*100, 2))
+
+d_relacion_jefe <- d_poblacion %>%  gather(key = 'Relacion con el Jefe', value = 'Cantidad de Personas', 34:44) %>% arrange(`Código`) %>%
+  select(1:3, `Relacion con el Jefe`, `Cantidad de Personas`) %>% 
+  mutate(`Porcentaje de Poblacion`= round(`Cantidad de Personas`/ `Total de personas`*100, 2))
+
+d_situacion_calle <- d_poblacion %>%  
+  select(1:3, 45)
+
+d_estado_civil <- d_poblacion %>% gather(key = 'Estado Civil', value = 'Cantidad', 47:52) %>% arrange(`Código`) %>%
+  select(1:2,46, `Estado Civil`, `Cantidad`) %>% 
+  mutate(`Porcentaje de Poblacion`= round(`Cantidad`/`Población de 10 años o más`*100, 2))
+
+rm(d_poblacion)
+
+# Municipal
+
+
+
+## Formatear tablas de pueblo
+# La tabla de pueblo se formatea y se generan dos nuevas tablas, una de comunidad linguistica y la otra con el 
+# idioma materno, y la de pueblo queda unicamente con los pueblos de pertenencia
+
+# Departamental
+d_comunidad_linguistica <- d_pueblo %>% gather(key = 'Comunidad Linguistica', value = 'Cantidad', 10:31) %>% arrange(`Código`) %>%
+  select(1:3, `Comunidad Linguistica`, `Cantidad`) %>% 
+  mutate(`Porcentaje de Total`= round(`Cantidad`/ `Total de personas`*100, 2))
+
+d_idioma_materno <- d_pueblo %>% gather(key = 'Idioma Materno', value = 'Cantidad', 32:61) %>% arrange(`Código`) %>%
+  select(1:2,62, `Idioma Materno`, `Cantidad`) %>% 
+  mutate(`Porcentaje de Total`= round(`Cantidad`/`Población de 4 años o más`*100, 2)) %>%
+  mutate(`Idioma Materno` = str_remove(`Idioma Materno`, "__1"))
+
+d_pueblo <- d_pueblo %>% gather(key = 'Pueblo de Pertenencia', value='Cantidad', 4:9) %>% arrange(`Código`) %>%
+  select(1:3, `Pueblo de Pertenencia`, `Cantidad`) %>% 
+  mutate(`Porcentaje de Total`= round(`Cantidad`/ `Total de personas`*100, 2))
+
+# Municipal
 
 
 
 ## Formatear tablas de tecnologia
+# Esta tabla se formatea y se separa en dos tablas, una con información individual y la otra con conglomerado
+
 #### Departamental
 d_tecnologia <- d_tecnologia %>% rename('NA_Celular'=`No Declarado`, 'NA_Computadora'=`No Declarado__1`, 'NA_Internet'=`No Declarado__2`)
 d_tecnologia_agrupado <- d_tecnologia %>% select(1:3, 13:16) 
@@ -135,6 +214,13 @@ d_tecnologia_agrupado <- d_tecnologia %>% select(1:3, 13:16)
 d_tecnologia <-d_tecnologia %>% select(-(13:16)) %>%  
   gather(key= 'Uso de Tecnologias', value= 'Cantidad de Personas', `Usa Celular`:`NA_Internet`) %>% arrange(`Código`) %>% 
   mutate(`Porcentaje de Poblacion`= round(`Cantidad de Personas`/ `Población de 7 años o más`*100, 2))
+#### Municipal
+
+## Formatear tablas de Vivienda
+
+#### Departamental
+
+
 #### Municipal
 
 
