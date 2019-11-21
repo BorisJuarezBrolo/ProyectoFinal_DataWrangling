@@ -6,6 +6,7 @@ library(tidyverse)
 library(DataExplorer)
 library(ggplot2)
 library(plotly)
+library(corrplot)
 
 rm(list = ls())
 
@@ -205,9 +206,9 @@ d_empleo <- d_empleo %>% gather(key = 'Situación Laboral', value = 'Personas', 
   mutate(`Porcentaje de Economicamente Activa`=round(`Personas`/`Población Económicamente Activa`*100, 2))
   
 # Municipal
-m_empleo <- d_empleo %>% gather(key = 'Situación Laboral', value = 'Personas', 5:7) %>% arrange(`Código`) %>% 
+m_empleo <- m_empleo %>% gather(key = 'Situación Laboral', value = 'Personas', 5:7) %>% arrange(`Código`) %>% 
   select(1:2, 4, `Situación Laboral`, `Personas`) %>% 
-  mutate(`Porcentaje de Economicamente Activa`=round(`Población Económicamente Activa`/`Personas`*100, 2))
+  mutate(`Porcentaje de Economicamente Activa`=round(`Personas`/`Población Económicamente Activa`*100, 2))
 
 ## Formatear tablas de Hogares
 
@@ -381,12 +382,90 @@ m_vivienda <- m_vivienda %>% gather(key = 'Tipo de Vivienda', value = 'Cantidad 
 
 write.csv(d_alfabetizacion, file = 'Base de Datos/d_alfabetizacion.csv', row.names = FALSE)
 write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
+write.csv(d_causas_inasistencia, file = 'Base de Datos/d_causas_inasistencia.csv', row.names = FALSE)
+write.csv(d_comunidad_linguistica, file = 'Base de Datos/d_comunidad_linguistica.csv', row.names = FALSE)
+write.csv(d_dificultades, file = 'Base de Datos/d_dificultades.csv', row.names = FALSE)
+write.csv(d_edad_15, file = 'Base de Datos/d_edad_15.csv', row.names = FALSE)
+write.csv(d_edad_5, file = 'Base de Datos/d_edad_5.csv', row.names = FALSE)
+write.csv(d_empleo, file = 'Base de Datos/d_empleo.csv', row.names = FALSE)
+write.csv(d_estado_civil, file = 'Base de Datos/d_estado_civil.csv', row.names = FALSE)
+write.csv(d_genero, file = 'Base de Datos/d_genero.csv', row.names = FALSE)
+write.csv(d_hijos_x_mujeres, file = 'Base de Datos/d_hijos_x_mujeres.csv', row.names = FALSE)
+write.csv(d_hogares, file = 'Base de Datos/d_hogares.csv', row.names = FALSE)
+write.csv(d_lugar_estudio, file = 'Base de Datos/d_lugar_estudio.csv', row.names = FALSE)
+write.csv(d_lugar, file = 'Base de Datos/d_lugar.csv', row.names = FALSE)
 
+write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
+write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
+write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
+write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
+write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
+write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
+write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
+write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
 
 
 
 d_edad_5 %>% plot_ly(x =~`Grupo de Edades 5 años`, y = ~`Porcentaje de Poblacion`, color= ~Departamento,colors = "Accent", barmode = 'group', type = 'bar')%>%
   layout(title = 'Grupos de Edades') 
 
-d_lugar_estudio %>% filter(`Lugar de Estudio`== 'En otro país') %>% full_join(d_empleo, by = c('Departamento', 'Código')) %>% 
+d_estado_civil %>% plot_ly(x =~`Estado Civil`, y = ~`Porcentaje de Poblacion`, color= ~Departamento,colors = "Accent", barmode = 'group', type = 'bar')%>%
+  layout(title = 'Estado Civil') 
 
+d_estado_civil %>% plot_ly(labels =~`Estado Civil`, values = ~`Porcentaje de Poblacion` ,colors = "Accent", type = 'pie')%>%
+  layout(title = 'Estado Civil Pie') 
+
+d_educacion %>% plot_ly(labels = ~`Nivel Educativo`, values = ~`Cantidad de Personas`, type = 'pie') %>% 
+  layout(title = 'Personas por Nivel Educativo')
+
+d_empleo %>% plot_ly(labels = ~`Situación Laboral`, values = ~`Personas`, type = 'pie') %>% 
+  layout(title = 'Situación Laboral')
+m_empleo %>% plot_ly(x = ~`Situación Laboral`, y = ~`Porcentaje de Economicamente Activa`, color= ~Municipio,colors = "Accent", barmode = 'group', type = 'bar')%>%
+  layout(title = 'Situación Laboral por Municipio') 
+
+
+
+d_lugar_estudio %>% filter(`Lugar de Estudio`== 'En otro país') %>% full_join(d_empleo, by = c('Departamento', 'Código')) %>% 
+  plot_correlation()
+
+m_lugar_nacimiento %>%
+plot_ly(x =~`Lugar de Nacimiento`, y = ~`Porcentaje de la Poblacion`, color= ~Municipio,colors = "Accent", barmode = 'group', type = 'bar')%>%
+  layout(title = 'Lugar de Nac') 
+
+
+
+m_lugar_nacimiento %>% arrange(`Porcentaje de la Poblacion`) %>% head(3)
+
+d_lugar_nacimiento %>% filter(`Lugar de Nacimiento`=="En otro paÍs")%>% arrange(desc(`Porcentaje de la Poblacion`)) %>% head(3)
+
+m_lugar_nacimiento %>% filter(`Lugar de Nacimiento`=="En otro paÍs")%>% 
+  arrange(desc(`Porcentaje de la Poblacion`)) %>% head(10)
+
+
+
+d_educacion %>% filter(`Lugar de Nacimiento`=="Nive")%>% arrange(desc(`Porcentaje de la Poblacion`)) %>% head(3)
+
+
+
+rm(list = ls())
+
+# Abrir todos los archivos que existen en la carpeta data
+archivos <- list.files("Data")
+for (nombre in archivos) {
+  temp_df <- read_excel(path =  paste("Data", nombre, sep = "/"), skip = 9) %>% select(-X__1)
+  temp_df <- temp_df %>% filter(complete.cases(temp_df))
+  temp_df[1] <- as.integer(pull(temp_df, 1))
+  temp_df[2] <- factor(pull(temp_df,2), ordered= TRUE)
+  
+  pre<- ifelse(str_detect(nombre, "municipal"), "m_", "d_") 
+  nombre <- str_remove(nombre, "(_municipal|_departamental)\\.xlsx$")
+  nombre <- paste(pre,nombre, sep = "")
+  assign(nombre, temp_df)
+}
+
+
+d_empleo %>% full_join(d_tecnologia) %>%
+  select(`Población ocupada`,Cesante, Aspirante, `No declarado`, `Usa Celular`, `Usa Computadora`, `Usa Internet`) %>% 
+  cor %>% corrplot()
+
+d_empleo %>% full_join(d_tecnologia)
