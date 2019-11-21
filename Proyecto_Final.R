@@ -420,7 +420,7 @@ d_educacion %>% plot_ly(labels = ~`Nivel Educativo`, values = ~`Cantidad de Pers
 
 d_empleo %>% plot_ly(labels = ~`Situación Laboral`, values = ~`Personas`, type = 'pie') %>% 
   layout(title = 'Situación Laboral')
-m_empleo %>% plot_ly(x = ~`Situación Laboral`, y = ~`Porcentaje de Poblacion`, color= ~Departamento,colors = "Accent", barmode = 'group', type = 'bar')%>%
+m_empleo %>% plot_ly(x = ~`Situación Laboral`, y = ~`Porcentaje de Economicamente Activa`, color= ~Municipio,colors = "Accent", barmode = 'group', type = 'bar')%>%
   layout(title = 'Situación Laboral por Municipio') 
 
 
@@ -428,7 +428,9 @@ m_empleo %>% plot_ly(x = ~`Situación Laboral`, y = ~`Porcentaje de Poblacion`, 
 d_lugar_estudio %>% filter(`Lugar de Estudio`== 'En otro país') %>% full_join(d_empleo, by = c('Departamento', 'Código')) %>% 
   plot_correlation()
 
-m_lugar_nacimiento
+m_lugar_nacimiento %>%
+plot_ly(x =~`Lugar de Nacimiento`, y = ~`Porcentaje de la Poblacion`, color= ~Municipio,colors = "Accent", barmode = 'group', type = 'bar')%>%
+  layout(title = 'Lugar de Nac') 
 
 
 
@@ -436,12 +438,34 @@ m_lugar_nacimiento %>% arrange(`Porcentaje de la Poblacion`) %>% head(3)
 
 d_lugar_nacimiento %>% filter(`Lugar de Nacimiento`=="En otro paÍs")%>% arrange(desc(`Porcentaje de la Poblacion`)) %>% head(3)
 
+m_lugar_nacimiento %>% filter(`Lugar de Nacimiento`=="En otro paÍs")%>% 
+  arrange(desc(`Porcentaje de la Poblacion`)) %>% head(10)
+
+
 
 d_educacion %>% filter(`Lugar de Nacimiento`=="Nive")%>% arrange(desc(`Porcentaje de la Poblacion`)) %>% head(3)
 
 
 
+rm(list = ls())
+
+# Abrir todos los archivos que existen en la carpeta data
+archivos <- list.files("Data")
+for (nombre in archivos) {
+  temp_df <- read_excel(path =  paste("Data", nombre, sep = "/"), skip = 9) %>% select(-X__1)
+  temp_df <- temp_df %>% filter(complete.cases(temp_df))
+  temp_df[1] <- as.integer(pull(temp_df, 1))
+  temp_df[2] <- factor(pull(temp_df,2), ordered= TRUE)
+  
+  pre<- ifelse(str_detect(nombre, "municipal"), "m_", "d_") 
+  nombre <- str_remove(nombre, "(_municipal|_departamental)\\.xlsx$")
+  nombre <- paste(pre,nombre, sep = "")
+  assign(nombre, temp_df)
+}
 
 
+d_empleo %>% full_join(d_tecnologia) %>%
+  select(`Población ocupada`,Cesante, Aspirante, `No declarado`, `Usa Celular`, `Usa Computadora`, `Usa Internet`) %>% 
+  cor %>% corrplot()
 
-
+d_empleo %>% full_join(d_tecnologia)
