@@ -1,0 +1,199 @@
+"Código","Departamento","Nivel Educativo","Cantidad de Personas"
+1,"Guatemala","Ninguno",270955
+1,"Guatemala","Preprimaria",122936
+1,"Guatemala","Primaria, 1-3",365946
+1,"Guatemala","Primaria, 4-5",184828
+1,"Guatemala","Primaria, 6",384037
+1,"Guatemala","Basico",514259
+1,"Guatemala","Diversificado",620707
+1,"Guatemala","Licenciatura",301578
+1,"Guatemala","Maestria y doctorado",41251
+2,"El Progreso","Ninguno",25105
+2,"El Progreso","Preprimaria",8495
+2,"El Progreso","Primaria, 1-3",30316
+2,"El Progreso","Primaria, 4-5",13742
+2,"El Progreso","Primaria, 6",27073
+2,"El Progreso","Basico",24065
+2,"El Progreso","Diversificado",27620
+2,"El Progreso","Licenciatura",5736
+2,"El Progreso","Maestria y doctorado",442
+3,"Sacatepéquez","Ninguno",37690
+3,"Sacatepéquez","Preprimaria",13966
+3,"Sacatepéquez","Primaria, 1-3",53927
+3,"Sacatepéquez","Primaria, 4-5",24927
+3,"Sacatepéquez","Primaria, 6",50870
+3,"Sacatepéquez","Basico",50373
+3,"Sacatepéquez","Diversificado",52816
+3,"Sacatepéquez","Licenciatura",19815
+3,"Sacatepéquez","Maestria y doctorado",2157
+4,"Chimaltenango","Ninguno",100277
+4,"Chimaltenango","Preprimaria",22415
+4,"Chimaltenango","Primaria, 1-3",122925
+4,"Chimaltenango","Primaria, 4-5",59822
+4,"Chimaltenango","Primaria, 6",91652
+4,"Chimaltenango","Basico",76392
+4,"Chimaltenango","Diversificado",68995
+4,"Chimaltenango","Licenciatura",16601
+4,"Chimaltenango","Maestria y doctorado",1201
+5,"Escuintla","Ninguno",107234
+5,"Escuintla","Preprimaria",31607
+5,"Escuintla","Primaria, 1-3",124281
+5,"Escuintla","Primaria, 4-5",58158
+5,"Escuintla","Primaria, 6",107891
+5,"Escuintla","Basico",113920
+5,"Escuintla","Diversificado",105566
+5,"Escuintla","Licenciatura",20738
+5,"Escuintla","Maestria y doctorado",1942
+6,"Santa Rosa","Ninguno",62906
+6,"Santa Rosa","Preprimaria",17133
+6,"Santa Rosa","Primaria, 1-3",74583
+6,"Santa Rosa","Primaria, 4-5",33634
+6,"Santa Rosa","Primaria, 6",60244
+6,"Santa Rosa","Basico",52046
+6,"Santa Rosa","Diversificado",50554
+6,"Santa Rosa","Licenciatura",11513
+6,"Santa Rosa","Maestria y doctorado",825
+7,"Sololá","Ninguno",97212
+7,"Sololá","Preprimaria",26593
+7,"Sololá","Primaria, 1-3",68302
+7,"Sololá","Primaria, 4-5",34778
+7,"Sololá","Primaria, 6",58520
+7,"Sololá","Basico",46046
+7,"Sololá","Diversificado",44776
+7,"Sololá","Licenciatura",9609
+7,"Sololá","Maestria y doctorado",641
+8,"Totonicapán","Ninguno",99190
+8,"Totonicapán","Preprimaria",16345
+8,"Totonicapán","Primaria, 1-3",81989
+8,"Totonicapán","Primaria, 4-5",40414
+8,"Totonicapán","Primaria, 6",62573
+8,"Totonicapán","Basico",39885
+8,"Totonicapán","Diversificado",31371
+8,"Totonicapán","Licenciatura",8230
+8,"Totonicapán","Maestria y doctorado",436
+9,"Quetzaltenango","Ninguno",130546
+9,"Quetzaltenango","Preprimaria",30759
+9,"Quetzaltenango","Primaria, 1-3",141295
+9,"Quetzaltenango","Primaria, 4-5",64552
+9,"Quetzaltenango","Primaria, 6",105387
+9,"Quetzaltenango","Basico",106192
+9,"Quetzaltenango","Diversificado",100466
+9,"Quetzaltenango","Licenciatura",49712
+9,"Quetzaltenango","Maestria y doctorado",3735
+10,"Suchitepéquez","Ninguno",104761
+10,"Suchitepéquez","Preprimaria",25015
+10,"Suchitepéquez","Primaria, 1-3",106052
+10,"Suchitepéquez","Primaria, 4-5",45707
+10,"Suchitepéquez","Primaria, 6",71782
+10,"Suchitepéquez","Basico",68369
+10,"Suchitepéquez","Diversificado",66091
+10,"Suchitepéquez","Licenciatura",14863
+10,"Suchitepéquez","Maestria y doctorado",965
+11,"Retalhuleu","Ninguno",53759
+11,"Retalhuleu","Preprimaria",14874
+11,"Retalhuleu","Primaria, 1-3",61622
+11,"Retalhuleu","Primaria, 4-5",26194
+11,"Retalhuleu","Primaria, 6",41639
+11,"Retalhuleu","Basico",42985
+11,"Retalhuleu","Diversificado",46127
+11,"Retalhuleu","Licenciatura",9503
+11,"Retalhuleu","Maestria y doctorado",633
+12,"San Marcos","Ninguno",205806
+12,"San Marcos","Preprimaria",41117
+12,"San Marcos","Primaria, 1-3",223561
+12,"San Marcos","Primaria, 4-5",91391
+12,"San Marcos","Primaria, 6",135266
+12,"San Marcos","Basico",110682
+12,"San Marcos","Diversificado",92901
+12,"San Marcos","Licenciatura",25788
+12,"San Marcos","Maestria y doctorado",1437
+13,"Huehuetenango","Ninguno",300863
+13,"Huehuetenango","Preprimaria",43124
+13,"Huehuetenango","Primaria, 1-3",244335
+13,"Huehuetenango","Primaria, 4-5",115979
+13,"Huehuetenango","Primaria, 6",170304
+13,"Huehuetenango","Basico",75486
+13,"Huehuetenango","Diversificado",68184
+13,"Huehuetenango","Licenciatura",23038
+13,"Huehuetenango","Maestria y doctorado",1643
+14,"Quiché","Ninguno",279280
+14,"Quiché","Preprimaria",37708
+14,"Quiché","Primaria, 1-3",184056
+14,"Quiché","Primaria, 4-5",88827
+14,"Quiché","Primaria, 6",120596
+14,"Quiché","Basico",70886
+14,"Quiché","Diversificado",55857
+14,"Quiché","Licenciatura",12584
+14,"Quiché","Maestria y doctorado",861
+15,"Baja Verapaz","Ninguno",69541
+15,"Baja Verapaz","Preprimaria",12535
+15,"Baja Verapaz","Primaria, 1-3",53583
+15,"Baja Verapaz","Primaria, 4-5",25514
+15,"Baja Verapaz","Primaria, 6",40975
+15,"Baja Verapaz","Basico",30626
+15,"Baja Verapaz","Diversificado",29418
+15,"Baja Verapaz","Licenciatura",7472
+15,"Baja Verapaz","Maestria y doctorado",449
+16,"Alta Verapaz","Ninguno",336970
+16,"Alta Verapaz","Preprimaria",52527
+16,"Alta Verapaz","Primaria, 1-3",215937
+16,"Alta Verapaz","Primaria, 4-5",112580
+16,"Alta Verapaz","Primaria, 6",146745
+16,"Alta Verapaz","Basico",119230
+16,"Alta Verapaz","Diversificado",76373
+16,"Alta Verapaz","Licenciatura",20915
+16,"Alta Verapaz","Maestria y doctorado",1508
+17,"Petén","Ninguno",113880
+17,"Petén","Preprimaria",25465
+17,"Petén","Primaria, 1-3",108333
+17,"Petén","Primaria, 4-5",49978
+17,"Petén","Primaria, 6",62204
+17,"Petén","Basico",63930
+17,"Petén","Diversificado",55306
+17,"Petén","Licenciatura",11965
+17,"Petén","Maestria y doctorado",982
+18,"Izabal","Ninguno",75313
+18,"Izabal","Preprimaria",17701
+18,"Izabal","Primaria, 1-3",76159
+18,"Izabal","Primaria, 4-5",35564
+18,"Izabal","Primaria, 6",55769
+18,"Izabal","Basico",52667
+18,"Izabal","Diversificado",48652
+18,"Izabal","Licenciatura",8916
+18,"Izabal","Maestria y doctorado",947
+19,"Zacapa","Ninguno",45236
+19,"Zacapa","Preprimaria",10249
+19,"Zacapa","Primaria, 1-3",46916
+19,"Zacapa","Primaria, 4-5",20790
+19,"Zacapa","Primaria, 6",33932
+19,"Zacapa","Basico",28499
+19,"Zacapa","Diversificado",30981
+19,"Zacapa","Licenciatura",8024
+19,"Zacapa","Maestria y doctorado",737
+20,"Chiquimula","Ninguno",103283
+20,"Chiquimula","Preprimaria",17493
+20,"Chiquimula","Primaria, 1-3",75089
+20,"Chiquimula","Primaria, 4-5",35036
+20,"Chiquimula","Primaria, 6",58904
+20,"Chiquimula","Basico",36943
+20,"Chiquimula","Diversificado",36590
+20,"Chiquimula","Licenciatura",10336
+20,"Chiquimula","Maestria y doctorado",962
+21,"Jalapa","Ninguno",71487
+21,"Jalapa","Preprimaria",14983
+21,"Jalapa","Primaria, 1-3",72367
+21,"Jalapa","Primaria, 4-5",30279
+21,"Jalapa","Primaria, 6",45247
+21,"Jalapa","Basico",35488
+21,"Jalapa","Diversificado",30374
+21,"Jalapa","Licenciatura",8572
+21,"Jalapa","Maestria y doctorado",663
+22,"Jutiapa","Ninguno",86445
+22,"Jutiapa","Preprimaria",22789
+22,"Jutiapa","Primaria, 1-3",90847
+22,"Jutiapa","Primaria, 4-5",40889
+22,"Jutiapa","Primaria, 6",75883
+22,"Jutiapa","Basico",57834
+22,"Jutiapa","Diversificado",58933
+22,"Jutiapa","Licenciatura",13372
+22,"Jutiapa","Maestria y doctorado",1074

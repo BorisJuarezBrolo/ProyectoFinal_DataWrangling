@@ -1,0 +1,89 @@
+"Código","Departamento","Población de 7 años o más","Lugar de Estudio","Cantidad de Personas x Lugar","Porcentaje por Lugar de Estudio"
+1,"Guatemala",2641109,"En el mismo municipio",683699,25.89
+1,"Guatemala",2641109,"En otro municipio",112673,4.27
+1,"Guatemala",2641109,"En otro país",895,0.03
+1,"Guatemala",2641109,"NA_Lugar_Estudio",32350,1.22
+2,"El Progreso",151201,"En el mismo municipio",37251,24.64
+2,"El Progreso",151201,"En otro municipio",3638,2.41
+2,"El Progreso",151201,"En otro país",12,0.01
+2,"El Progreso",151201,"NA_Lugar_Estudio",1817,1.2
+3,"Sacatepéquez",287301,"En el mismo municipio",59357,20.66
+3,"Sacatepéquez",287301,"En otro municipio",20812,7.24
+3,"Sacatepéquez",287301,"En otro país",74,0.03
+3,"Sacatepéquez",287301,"NA_Lugar_Estudio",4109,1.43
+4,"Chimaltenango",517360,"En el mismo municipio",122454,23.67
+4,"Chimaltenango",517360,"En otro municipio",18854,3.64
+4,"Chimaltenango",517360,"En otro país",29,0.01
+4,"Chimaltenango",517360,"NA_Lugar_Estudio",4718,0.91
+5,"Escuintla",623009,"En el mismo municipio",152163,24.42
+5,"Escuintla",623009,"En otro municipio",11659,1.87
+5,"Escuintla",623009,"En otro país",31,0
+5,"Escuintla",623009,"NA_Lugar_Estudio",7492,1.2
+6,"Santa Rosa",336320,"En el mismo municipio",83498,24.83
+6,"Santa Rosa",336320,"En otro municipio",10812,3.21
+6,"Santa Rosa",336320,"En otro país",19,0.01
+6,"Santa Rosa",336320,"NA_Lugar_Estudio",2499,0.74
+7,"Sololá",358457,"En el mismo municipio",83135,23.19
+7,"Sololá",358457,"En otro municipio",11585,3.23
+7,"Sololá",358457,"En otro país",24,0.01
+7,"Sololá",358457,"NA_Lugar_Estudio",3350,0.93
+8,"Totonicapán",350819,"En el mismo municipio",74267,21.17
+8,"Totonicapán",350819,"En otro municipio",11289,3.22
+8,"Totonicapán",350819,"En otro país",28,0.01
+8,"Totonicapán",350819,"NA_Lugar_Estudio",4056,1.16
+9,"Quetzaltenango",680558,"En el mismo municipio",164479,24.17
+9,"Quetzaltenango",680558,"En otro municipio",25153,3.7
+9,"Quetzaltenango",680558,"En otro país",87,0.01
+9,"Quetzaltenango",680558,"NA_Lugar_Estudio",7439,1.09
+10,"Suchitepéquez",463564,"En el mismo municipio",107583,23.21
+10,"Suchitepéquez",463564,"En otro municipio",18454,3.98
+10,"Suchitepéquez",463564,"En otro país",14,0
+10,"Suchitepéquez",463564,"NA_Lugar_Estudio",3847,0.83
+11,"Retalhuleu",274349,"En el mismo municipio",68827,25.09
+11,"Retalhuleu",274349,"En otro municipio",8303,3.03
+11,"Retalhuleu",274349,"En otro país",12,0
+11,"Retalhuleu",274349,"NA_Lugar_Estudio",2533,0.92
+12,"San Marcos",848315,"En el mismo municipio",217197,25.6
+12,"San Marcos",848315,"En otro municipio",20253,2.39
+12,"San Marcos",848315,"En otro país",201,0.02
+12,"San Marcos",848315,"NA_Lugar_Estudio",8625,1.02
+13,"Huehuetenango",946716,"En el mismo municipio",222948,23.55
+13,"Huehuetenango",946716,"En otro municipio",10720,1.13
+13,"Huehuetenango",946716,"En otro país",161,0.02
+13,"Huehuetenango",946716,"NA_Lugar_Estudio",7853,0.83
+14,"Quiché",773272,"En el mismo municipio",194350,25.13
+14,"Quiché",773272,"En otro municipio",9181,1.19
+14,"Quiché",773272,"En otro país",67,0.01
+14,"Quiché",773272,"NA_Lugar_Estudio",7954,1.03
+15,"Baja Verapaz",248176,"En el mismo municipio",63019,25.39
+15,"Baja Verapaz",248176,"En otro municipio",6679,2.69
+15,"Baja Verapaz",248176,"En otro país",10,0
+15,"Baja Verapaz",248176,"NA_Lugar_Estudio",1526,0.61
+16,"Alta Verapaz",984235,"En el mismo municipio",267430,27.17
+16,"Alta Verapaz",984235,"En otro municipio",15147,1.54
+16,"Alta Verapaz",984235,"En otro país",50,0.01
+16,"Alta Verapaz",984235,"NA_Lugar_Estudio",7503,0.76
+17,"Petén",449331,"En el mismo municipio",120801,26.88
+17,"Petén",449331,"En otro municipio",6616,1.47
+17,"Petén",449331,"En otro país",591,0.13
+17,"Petén",449331,"NA_Lugar_Estudio",4208,0.94
+18,"Izabal",342614,"En el mismo municipio",91084,26.59
+18,"Izabal",342614,"En otro municipio",2482,0.72
+18,"Izabal",342614,"En otro país",42,0.01
+18,"Izabal",342614,"NA_Lugar_Estudio",3824,1.12
+19,"Zacapa",209192,"En el mismo municipio",48627,23.25
+19,"Zacapa",209192,"En otro municipio",4020,1.92
+19,"Zacapa",209192,"En otro país",11,0.01
+19,"Zacapa",209192,"NA_Lugar_Estudio",2962,1.42
+20,"Chiquimula",343834,"En el mismo municipio",82403,23.97
+20,"Chiquimula",343834,"En otro municipio",4815,1.4
+20,"Chiquimula",343834,"En otro país",50,0.01
+20,"Chiquimula",343834,"NA_Lugar_Estudio",3606,1.05
+21,"Jalapa",283478,"En el mismo municipio",75038,26.47
+21,"Jalapa",283478,"En otro municipio",3782,1.33
+21,"Jalapa",283478,"En otro país",17,0.01
+21,"Jalapa",283478,"NA_Lugar_Estudio",2043,0.72
+22,"Jutiapa",415727,"En el mismo municipio",103883,24.99
+22,"Jutiapa",415727,"En otro municipio",9495,2.28
+22,"Jutiapa",415727,"En otro país",164,0.04
+22,"Jutiapa",415727,"NA_Lugar_Estudio",4069,0.98

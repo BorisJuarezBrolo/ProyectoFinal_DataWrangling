@@ -1,0 +1,681 @@
+"Código","Municipio","Total de personas","Genero","Cantidad"
+101,"Guatemala",923392,"Hombre",438695
+101,"Guatemala",923392,"Mujer",484697
+102,"Santa Catarina Pinula",80582,"Hombre",38174
+102,"Santa Catarina Pinula",80582,"Mujer",42408
+103,"San José Pinula",79844,"Hombre",38661
+103,"San José Pinula",79844,"Mujer",41183
+104,"San José del Golfo",7229,"Hombre",3493
+104,"San José del Golfo",7229,"Mujer",3736
+105,"Palencia",70973,"Hombre",34608
+105,"Palencia",70973,"Mujer",36365
+106,"Chinautla",114752,"Hombre",55265
+106,"Chinautla",114752,"Mujer",59487
+107,"San Pedro Ayampuc",58609,"Hombre",28578
+107,"San Pedro Ayampuc",58609,"Mujer",30031
+108,"Mixco",465773,"Hombre",221110
+108,"Mixco",465773,"Mujer",244663
+109,"San Pedro Sacatepéquez",51292,"Hombre",25149
+109,"San Pedro Sacatepéquez",51292,"Mujer",26143
+110,"San Juan Sacatepéquez",218156,"Hombre",106748
+110,"San Juan Sacatepéquez",218156,"Mujer",111408
+111,"San Raymundo",31605,"Hombre",15019
+111,"San Raymundo",31605,"Mujer",16586
+112,"Chuarrancho",12638,"Hombre",6326
+112,"Chuarrancho",12638,"Mujer",6312
+113,"Fraijanes",58922,"Hombre",30496
+113,"Fraijanes",58922,"Mujer",28426
+114,"Amatitlán",116711,"Hombre",56846
+114,"Amatitlán",116711,"Mujer",59865
+115,"Villa Nueva",433734,"Hombre",208914
+115,"Villa Nueva",433734,"Mujer",224820
+116,"Villa Canales",155422,"Hombre",75968
+116,"Villa Canales",155422,"Mujer",79454
+117,"San Miguel Petapa",135447,"Hombre",65153
+117,"San Miguel Petapa",135447,"Mujer",70294
+201,"Guastatoya",24821,"Hombre",12206
+201,"Guastatoya",24821,"Mujer",12615
+202,"Morazán",12164,"Hombre",6008
+202,"Morazán",12164,"Mujer",6156
+203,"San Agustín Acasaguastlán",45765,"Hombre",22760
+203,"San Agustín Acasaguastlán",45765,"Mujer",23005
+204,"San Cristóbal Acasaguastlán",7199,"Hombre",3459
+204,"San Cristóbal Acasaguastlán",7199,"Mujer",3740
+205,"El Jícaro",13128,"Hombre",6474
+205,"El Jícaro",13128,"Mujer",6654
+206,"Sansare",13154,"Hombre",6488
+206,"Sansare",13154,"Mujer",6666
+207,"Sanarate",39444,"Hombre",19274
+207,"Sanarate",39444,"Mujer",20170
+208,"San Antonio la Paz",20957,"Hombre",10503
+208,"San Antonio la Paz",20957,"Mujer",10454
+301,"Antigua Guatemala",46054,"Hombre",22403
+301,"Antigua Guatemala",46054,"Mujer",23651
+302,"Jocotenango",21657,"Hombre",10419
+302,"Jocotenango",21657,"Mujer",11238
+303,"Pastores",17814,"Hombre",8725
+303,"Pastores",17814,"Mujer",9089
+304,"Sumpango",37260,"Hombre",18398
+304,"Sumpango",37260,"Mujer",18862
+305,"Santo Domingo Xenacoj",12402,"Hombre",5995
+305,"Santo Domingo Xenacoj",12402,"Mujer",6407
+306,"Santiago Sacatepéquez",29238,"Hombre",14305
+306,"Santiago Sacatepéquez",29238,"Mujer",14933
+307,"San Bartolomé Milpas Altas",7816,"Hombre",3712
+307,"San Bartolomé Milpas Altas",7816,"Mujer",4104
+308,"San Lucas Sacatepéquez",23369,"Hombre",11099
+308,"San Lucas Sacatepéquez",23369,"Mujer",12270
+309,"Santa Lucía Milpas Altas",15570,"Hombre",7586
+309,"Santa Lucía Milpas Altas",15570,"Mujer",7984
+310,"Magdalena Milpas Altas",11856,"Hombre",5886
+310,"Magdalena Milpas Altas",11856,"Mujer",5970
+311,"Santa María de Jesús",21938,"Hombre",11143
+311,"Santa María de Jesús",21938,"Mujer",10795
+312,"Ciudad Vieja",33405,"Hombre",16443
+312,"Ciudad Vieja",33405,"Mujer",16962
+313,"San Miguel Dueñas",12696,"Hombre",6191
+313,"San Miguel Dueñas",12696,"Mujer",6505
+314,"San Juan Alotenango",23986,"Hombre",11855
+314,"San Juan Alotenango",23986,"Mujer",12131
+315,"San Antonio Aguas Calientes",11347,"Hombre",5527
+315,"San Antonio Aguas Calientes",11347,"Mujer",5820
+316,"Santa Catarina Barahona",4061,"Hombre",2004
+316,"Santa Catarina Barahona",4061,"Mujer",2057
+401,"Chimaltenango",96985,"Hombre",46985
+401,"Chimaltenango",96985,"Mujer",50000
+402,"San José Poaquil",26845,"Hombre",12633
+402,"San José Poaquil",26845,"Mujer",14212
+403,"San Martín Jilotepeque",73469,"Hombre",34461
+403,"San Martín Jilotepeque",73469,"Mujer",39008
+404,"San Juan Comalapa",48597,"Hombre",23615
+404,"San Juan Comalapa",48597,"Mujer",24982
+405,"Santa Apolonia",18540,"Hombre",8847
+405,"Santa Apolonia",18540,"Mujer",9693
+406,"Tecpán Guatemala",91927,"Hombre",44291
+406,"Tecpán Guatemala",91927,"Mujer",47636
+407,"Patzún",58240,"Hombre",28185
+407,"Patzún",58240,"Mujer",30055
+408,"San Miguel Pochuta",8790,"Hombre",4350
+408,"San Miguel Pochuta",8790,"Mujer",4440
+409,"Patzicía",33207,"Hombre",16107
+409,"Patzicía",33207,"Mujer",17100
+410,"Santa Cruz Balanyá",9479,"Hombre",4644
+410,"Santa Cruz Balanyá",9479,"Mujer",4835
+411,"Acatenango",23228,"Hombre",11212
+411,"Acatenango",23228,"Mujer",12016
+412,"San Pedro Yepocapa",34948,"Hombre",17567
+412,"San Pedro Yepocapa",34948,"Mujer",17381
+413,"San Andrés Itzapa",32083,"Hombre",15552
+413,"San Andrés Itzapa",32083,"Mujer",16531
+414,"Parramos",15924,"Hombre",7640
+414,"Parramos",15924,"Mujer",8284
+415,"Zaragoza",24022,"Hombre",11643
+415,"Zaragoza",24022,"Mujer",12379
+416,"El Tejar",19492,"Hombre",9422
+416,"El Tejar",19492,"Mujer",10070
+501,"Escuintla",156313,"Hombre",78365
+501,"Escuintla",156313,"Mujer",77948
+502,"Santa Lucía Cotzumalguapa",112780,"Hombre",56258
+502,"Santa Lucía Cotzumalguapa",112780,"Mujer",56522
+503,"La Democracia",23017,"Hombre",11491
+503,"La Democracia",23017,"Mujer",11526
+504,"Siquinalá",22968,"Hombre",11543
+504,"Siquinalá",22968,"Mujer",11425
+505,"Masagua",45323,"Hombre",22701
+505,"Masagua",45323,"Mujer",22622
+506,"Tiquisate",57292,"Hombre",28423
+506,"Tiquisate",57292,"Mujer",28869
+507,"La Gomera",46666,"Hombre",23493
+507,"La Gomera",46666,"Mujer",23173
+508,"Guanagazapa",15958,"Hombre",8115
+508,"Guanagazapa",15958,"Mujer",7843
+509,"San José",62801,"Hombre",31246
+509,"San José",62801,"Mujer",31555
+510,"Iztapa",18342,"Hombre",9173
+510,"Iztapa",18342,"Mujer",9169
+511,"Palín",65873,"Hombre",32261
+511,"Palín",65873,"Mujer",33612
+512,"San Vicente Pacaya",16705,"Hombre",8346
+512,"San Vicente Pacaya",16705,"Mujer",8359
+513,"Nueva Concepción",72909,"Hombre",35953
+513,"Nueva Concepción",72909,"Mujer",36956
+514,"Sipacate",16234,"Hombre",8139
+514,"Sipacate",16234,"Mujer",8095
+601,"Cuilapa",41359,"Hombre",20524
+601,"Cuilapa",41359,"Mujer",20835
+602,"Barberena",58276,"Hombre",28398
+602,"Barberena",58276,"Mujer",29878
+603,"Santa Rosa de Lima",19702,"Hombre",9518
+603,"Santa Rosa de Lima",19702,"Mujer",10184
+604,"Casillas",24956,"Hombre",12023
+604,"Casillas",24956,"Mujer",12933
+605,"San Rafael las Flores",12641,"Hombre",6249
+605,"San Rafael las Flores",12641,"Mujer",6392
+606,"Oratorio",24954,"Hombre",12296
+606,"Oratorio",24954,"Mujer",12658
+607,"San Juan Tecuaco",10122,"Hombre",5100
+607,"San Juan Tecuaco",10122,"Mujer",5022
+608,"Chiquimulilla",53727,"Hombre",26480
+608,"Chiquimulilla",53727,"Mujer",27247
+609,"Taxisco",29846,"Hombre",15047
+609,"Taxisco",29846,"Mujer",14799
+610,"Santa María Ixhuatán",23801,"Hombre",11803
+610,"Santa María Ixhuatán",23801,"Mujer",11998
+611,"Guazacapán",18855,"Hombre",9354
+611,"Guazacapán",18855,"Mujer",9501
+612,"Santa Cruz Naranjo",16385,"Hombre",8159
+612,"Santa Cruz Naranjo",16385,"Mujer",8226
+613,"Pueblo Nuevo Viñas",25529,"Hombre",12972
+613,"Pueblo Nuevo Viñas",25529,"Mujer",12557
+614,"Nueva Santa Rosa",36454,"Hombre",17661
+614,"Nueva Santa Rosa",36454,"Mujer",18793
+701,"Sololá",88612,"Hombre",42261
+701,"Sololá",88612,"Mujer",46351
+702,"San José Chacayá",4068,"Hombre",1950
+702,"San José Chacayá",4068,"Mujer",2118
+703,"Santa María Visitación",2370,"Hombre",1155
+703,"Santa María Visitación",2370,"Mujer",1215
+704,"Santa Lucía Utatlán",21284,"Hombre",9931
+704,"Santa Lucía Utatlán",21284,"Mujer",11353
+705,"Nahualá",75430,"Hombre",35401
+705,"Nahualá",75430,"Mujer",40029
+706,"Santa Catarina Ixtahuacán",56981,"Hombre",26490
+706,"Santa Catarina Ixtahuacán",56981,"Mujer",30491
+707,"Santa Clara la Laguna",9405,"Hombre",4555
+707,"Santa Clara la Laguna",9405,"Mujer",4850
+708,"Concepción",6601,"Hombre",3171
+708,"Concepción",6601,"Mujer",3430
+709,"San Andrés Semetabaj",13142,"Hombre",6114
+709,"San Andrés Semetabaj",13142,"Mujer",7028
+710,"Panajachel",15077,"Hombre",7269
+710,"Panajachel",15077,"Mujer",7808
+711,"Santa Catarina Palopó",3924,"Hombre",1930
+711,"Santa Catarina Palopó",3924,"Mujer",1994
+712,"San Antonio Palopó",14437,"Hombre",6754
+712,"San Antonio Palopó",14437,"Mujer",7683
+713,"San Lucas Tolimán",29772,"Hombre",14723
+713,"San Lucas Tolimán",29772,"Mujer",15049
+714,"Santa Cruz la Laguna",5820,"Hombre",2850
+714,"Santa Cruz la Laguna",5820,"Mujer",2970
+715,"San Pablo la Laguna",7299,"Hombre",3638
+715,"San Pablo la Laguna",7299,"Mujer",3661
+716,"San Marcos la Laguna",2617,"Hombre",1253
+716,"San Marcos la Laguna",2617,"Mujer",1364
+717,"San Juan la Laguna",12162,"Hombre",6043
+717,"San Juan la Laguna",12162,"Mujer",6119
+718,"San Pedro la Laguna",10705,"Hombre",5202
+718,"San Pedro la Laguna",10705,"Mujer",5503
+719,"Santiago Atitlán",41877,"Hombre",20575
+719,"Santiago Atitlán",41877,"Mujer",21302
+801,"Totonicapán",103952,"Hombre",47890
+801,"Totonicapán",103952,"Mujer",56062
+802,"San Cristóbal Totonicapán",36119,"Hombre",16808
+802,"San Cristóbal Totonicapán",36119,"Mujer",19311
+803,"San Francisco el Alto",57894,"Hombre",27109
+803,"San Francisco el Alto",57894,"Mujer",30785
+804,"San Andrés Xecul",26984,"Hombre",12430
+804,"San Andrés Xecul",26984,"Mujer",14554
+805,"Momostenango",105617,"Hombre",50031
+805,"Momostenango",105617,"Mujer",55586
+806,"Santa María Chiquimula",55013,"Hombre",26349
+806,"Santa María Chiquimula",55013,"Mujer",28664
+807,"Santa Lucía la Reforma",22378,"Hombre",10727
+807,"Santa Lucía la Reforma",22378,"Mujer",11651
+808,"San Bartolo Aguas Calientes",10612,"Hombre",4949
+808,"San Bartolo Aguas Calientes",10612,"Mujer",5663
+901,"Quetzaltenango",180706,"Hombre",85644
+901,"Quetzaltenango",180706,"Mujer",95062
+902,"Salcajá",19434,"Hombre",9207
+902,"Salcajá",19434,"Mujer",10227
+903,"San Juan Olintepeque",35060,"Hombre",16364
+903,"San Juan Olintepeque",35060,"Mujer",18696
+904,"San Carlos Sija",30224,"Hombre",14221
+904,"San Carlos Sija",30224,"Mujer",16003
+905,"Sibilia",8407,"Hombre",3996
+905,"Sibilia",8407,"Mujer",4411
+906,"Cabricán",23033,"Hombre",10427
+906,"Cabricán",23033,"Mujer",12606
+907,"Cajolá",14948,"Hombre",6344
+907,"Cajolá",14948,"Mujer",8604
+908,"San Miguel Siguilá",7889,"Hombre",3395
+908,"San Miguel Siguilá",7889,"Mujer",4494
+909,"San Juan Ostuncalco",51828,"Hombre",23475
+909,"San Juan Ostuncalco",51828,"Mujer",28353
+910,"San Mateo",7895,"Hombre",3758
+910,"San Mateo",7895,"Mujer",4137
+911,"Concepción Chiquirichapa",17342,"Hombre",7838
+911,"Concepción Chiquirichapa",17342,"Mujer",9504
+912,"San Martín Sacatepéquez",29373,"Hombre",13373
+912,"San Martín Sacatepéquez",29373,"Mujer",16000
+913,"Almolonga",15724,"Hombre",7182
+913,"Almolonga",15724,"Mujer",8542
+914,"Cantel",42142,"Hombre",21383
+914,"Cantel",42142,"Mujer",20759
+915,"Huitán",13450,"Hombre",5964
+915,"Huitán",13450,"Mujer",7486
+916,"Zunil",14118,"Hombre",6381
+916,"Zunil",14118,"Mujer",7737
+917,"Colomba Costa Cuca",47544,"Hombre",23477
+917,"Colomba Costa Cuca",47544,"Mujer",24067
+918,"San Francisco la Unión",7939,"Hombre",3591
+918,"San Francisco la Unión",7939,"Mujer",4348
+919,"El Palmar",29132,"Hombre",14230
+919,"El Palmar",29132,"Mujer",14902
+920,"Coatepeque",105415,"Hombre",51087
+920,"Coatepeque",105415,"Mujer",54328
+921,"Génova",37497,"Hombre",17981
+921,"Génova",37497,"Mujer",19516
+922,"Flores Costa Cuca",21630,"Hombre",10677
+922,"Flores Costa Cuca",21630,"Mujer",10953
+923,"La Esperanza",22166,"Hombre",10508
+923,"La Esperanza",22166,"Mujer",11658
+924,"Palestina de los Altos",16205,"Hombre",7279
+924,"Palestina de los Altos",16205,"Mujer",8926
+1001,"Mazatenango",77431,"Hombre",37643
+1001,"Mazatenango",77431,"Mujer",39788
+1002,"Cuyotenango",33436,"Hombre",16366
+1002,"Cuyotenango",33436,"Mujer",17070
+1003,"San Francisco Zapotitlán",22533,"Hombre",10992
+1003,"San Francisco Zapotitlán",22533,"Mujer",11541
+1004,"San Bernardino",15849,"Hombre",7703
+1004,"San Bernardino",15849,"Mujer",8146
+1005,"San José el Ídolo",10212,"Hombre",4976
+1005,"San José el Ídolo",10212,"Mujer",5236
+1006,"Santo Domingo Suchitepéquez",42291,"Hombre",20653
+1006,"Santo Domingo Suchitepéquez",42291,"Mujer",21638
+1007,"San Lorenzo",13282,"Hombre",6468
+1007,"San Lorenzo",13282,"Mujer",6814
+1008,"Samayac",24790,"Hombre",12085
+1008,"Samayac",24790,"Mujer",12705
+1009,"San Pablo Jocopilas",20433,"Hombre",9758
+1009,"San Pablo Jocopilas",20433,"Mujer",10675
+1010,"San Antonio Suchitepéquez",59184,"Hombre",29259
+1010,"San Antonio Suchitepéquez",59184,"Mujer",29925
+1011,"San Miguel Panán",10320,"Hombre",5067
+1011,"San Miguel Panán",10320,"Mujer",5253
+1012,"San Gabriel",7383,"Hombre",3602
+1012,"San Gabriel",7383,"Mujer",3781
+1013,"Chicacao",60735,"Hombre",30119
+1013,"Chicacao",60735,"Mujer",30616
+1014,"Patulul",40683,"Hombre",20278
+1014,"Patulul",40683,"Mujer",20405
+1015,"Santa Bárbara",26346,"Hombre",13318
+1015,"Santa Bárbara",26346,"Mujer",13028
+1016,"San Juan Bautista",7826,"Hombre",3869
+1016,"San Juan Bautista",7826,"Mujer",3957
+1017,"Santo Tomas la Unión",11698,"Hombre",5605
+1017,"Santo Tomas la Unión",11698,"Mujer",6093
+1018,"Zunilito",8280,"Hombre",4133
+1018,"Zunilito",8280,"Mujer",4147
+1019,"Pueblo Nuevo",11315,"Hombre",5528
+1019,"Pueblo Nuevo",11315,"Mujer",5787
+1020,"Río Bravo",27606,"Hombre",13725
+1020,"Río Bravo",27606,"Mujer",13881
+1021,"San José La Máquina",23062,"Hombre",11170
+1021,"San José La Máquina",23062,"Mujer",11892
+1101,"Retalhuleu",90505,"Hombre",43862
+1101,"Retalhuleu",90505,"Mujer",46643
+1102,"San Sebastián",29167,"Hombre",14155
+1102,"San Sebastián",29167,"Mujer",15012
+1103,"Santa Cruz Muluá",13545,"Hombre",6714
+1103,"Santa Cruz Muluá",13545,"Mujer",6831
+1104,"San Martín Zapotitlán",12083,"Hombre",6017
+1104,"San Martín Zapotitlán",12083,"Mujer",6066
+1105,"San Felipe",24446,"Hombre",11820
+1105,"San Felipe",24446,"Mujer",12626
+1106,"San Andrés Villa Seca",47820,"Hombre",23764
+1106,"San Andrés Villa Seca",47820,"Mujer",24056
+1107,"Champerico",32815,"Hombre",16119
+1107,"Champerico",32815,"Mujer",16696
+1108,"Nuevo San Carlos",39565,"Hombre",19453
+1108,"Nuevo San Carlos",39565,"Mujer",20112
+1109,"El Asintal",36882,"Hombre",17841
+1109,"El Asintal",36882,"Mujer",19041
+1201,"San Marcos",47063,"Hombre",22256
+1201,"San Marcos",47063,"Mujer",24807
+1202,"San Pedro Sacatepéquez",79158,"Hombre",37710
+1202,"San Pedro Sacatepéquez",79158,"Mujer",41448
+1203,"San Antonio Sacatepéquez",19100,"Hombre",9102
+1203,"San Antonio Sacatepéquez",19100,"Mujer",9998
+1204,"Comitancillo",59489,"Hombre",28760
+1204,"Comitancillo",59489,"Mujer",30729
+1205,"San Miguel Ixtahuacán",47301,"Hombre",23014
+1205,"San Miguel Ixtahuacán",47301,"Mujer",24287
+1206,"Concepción Tutuapa",68148,"Hombre",32557
+1206,"Concepción Tutuapa",68148,"Mujer",35591
+1207,"Tacaná",75788,"Hombre",37423
+1207,"Tacaná",75788,"Mujer",38365
+1208,"Sibinal",15733,"Hombre",7849
+1208,"Sibinal",15733,"Mujer",7884
+1209,"Tajumulco",50907,"Hombre",24262
+1209,"Tajumulco",50907,"Mujer",26645
+1210,"Tejutla",38669,"Hombre",18810
+1210,"Tejutla",38669,"Mujer",19859
+1211,"San Rafael Pie de la Cuesta",17139,"Hombre",8376
+1211,"San Rafael Pie de la Cuesta",17139,"Mujer",8763
+1212,"Nuevo Progreso",30067,"Hombre",14806
+1212,"Nuevo Progreso",30067,"Mujer",15261
+1213,"El Tumbador",44395,"Hombre",22073
+1213,"El Tumbador",44395,"Mujer",22322
+1214,"San José el Rodeo",17881,"Hombre",8884
+1214,"San José el Rodeo",17881,"Mujer",8997
+1215,"Malacatán",92816,"Hombre",45371
+1215,"Malacatán",92816,"Mujer",47445
+1216,"Catarina",30014,"Hombre",14783
+1216,"Catarina",30014,"Mujer",15231
+1217,"Ayutla",37049,"Hombre",17992
+1217,"Ayutla",37049,"Mujer",19057
+1218,"Ocós",10841,"Hombre",5338
+1218,"Ocós",10841,"Mujer",5503
+1219,"San Pablo",48937,"Hombre",23541
+1219,"San Pablo",48937,"Mujer",25396
+1220,"El Quetzal",23511,"Hombre",11544
+1220,"El Quetzal",23511,"Mujer",11967
+1221,"La Reforma",17918,"Hombre",8832
+1221,"La Reforma",17918,"Mujer",9086
+1222,"Pajapita",21725,"Hombre",10578
+1222,"Pajapita",21725,"Mujer",11147
+1223,"Ixchiguán",22375,"Hombre",10544
+1223,"Ixchiguán",22375,"Mujer",11831
+1224,"San José Ojetenam",19009,"Hombre",9388
+1224,"San José Ojetenam",19009,"Mujer",9621
+1225,"San Cristóbal Cucho",16619,"Hombre",7949
+1225,"San Cristóbal Cucho",16619,"Mujer",8670
+1226,"Sipacapa",20178,"Hombre",9839
+1226,"Sipacapa",20178,"Mujer",10339
+1227,"Esquipulas Palo Gordo",12892,"Hombre",6217
+1227,"Esquipulas Palo Gordo",12892,"Mujer",6675
+1228,"Río Blanco",5318,"Hombre",2499
+1228,"Río Blanco",5318,"Mujer",2819
+1229,"San Lorenzo",13125,"Hombre",6340
+1229,"San Lorenzo",13125,"Mujer",6785
+1230,"La Blanca",29112,"Hombre",14505
+1230,"La Blanca",29112,"Mujer",14607
+1301,"Huehuetenango",117818,"Hombre",55751
+1301,"Huehuetenango",117818,"Mujer",62067
+1302,"Chiantla",87447,"Hombre",42163
+1302,"Chiantla",87447,"Mujer",45284
+1303,"Malacatancito",19155,"Hombre",9321
+1303,"Malacatancito",19155,"Mujer",9834
+1304,"Cuilco",60395,"Hombre",28434
+1304,"Cuilco",60395,"Mujer",31961
+1305,"Nentón",45679,"Hombre",22308
+1305,"Nentón",45679,"Mujer",23371
+1306,"San Pedro Necta",38510,"Hombre",18651
+1306,"San Pedro Necta",38510,"Mujer",19859
+1307,"Jacaltenango",37171,"Hombre",17364
+1307,"Jacaltenango",37171,"Mujer",19807
+1308,"San Pedro Soloma",49030,"Hombre",21982
+1308,"San Pedro Soloma",49030,"Mujer",27048
+1309,"San Ildefonso Ixtahuacán",44424,"Hombre",21484
+1309,"San Ildefonso Ixtahuacán",44424,"Mujer",22940
+1310,"Santa Bárbara",33608,"Hombre",15960
+1310,"Santa Bárbara",33608,"Mujer",17648
+1311,"La Libertad",38234,"Hombre",18401
+1311,"La Libertad",38234,"Mujer",19833
+1312,"La Democracia",55434,"Hombre",26658
+1312,"La Democracia",55434,"Mujer",28776
+1313,"San Miguel Acatán",27128,"Hombre",12892
+1313,"San Miguel Acatán",27128,"Mujer",14236
+1314,"San Rafael La Independencia",14149,"Hombre",6728
+1314,"San Rafael La Independencia",14149,"Mujer",7421
+1315,"Todos Santos Cuchumatán",30186,"Hombre",14064
+1315,"Todos Santos Cuchumatán",30186,"Mujer",16122
+1316,"San Juan Atitán",19418,"Hombre",8892
+1316,"San Juan Atitán",19418,"Mujer",10526
+1317,"Santa Eulalia",39025,"Hombre",18545
+1317,"Santa Eulalia",39025,"Mujer",20480
+1318,"San Mateo Ixtatán",43810,"Hombre",20930
+1318,"San Mateo Ixtatán",43810,"Mujer",22880
+1319,"Colotenango",34834,"Hombre",16588
+1319,"Colotenango",34834,"Mujer",18246
+1320,"San Sebastián Huehuetenango",32608,"Hombre",15638
+1320,"San Sebastián Huehuetenango",32608,"Mujer",16970
+1321,"Tectitán",10830,"Hombre",5296
+1321,"Tectitán",10830,"Mujer",5534
+1322,"Concepción Huista",18915,"Hombre",8809
+1322,"Concepción Huista",18915,"Mujer",10106
+1323,"San Juan Ixcoy",23204,"Hombre",10827
+1323,"San Juan Ixcoy",23204,"Mujer",12377
+1324,"San Antonio Huista",16697,"Hombre",8116
+1324,"San Antonio Huista",16697,"Mujer",8581
+1325,"San Sebastián Coatán",20905,"Hombre",9956
+1325,"San Sebastián Coatán",20905,"Mujer",10949
+1326,"Santa Cruz Barillas",100849,"Hombre",49736
+1326,"Santa Cruz Barillas",100849,"Mujer",51113
+1327,"Aguacatán",49607,"Hombre",22542
+1327,"Aguacatán",49607,"Mujer",27065
+1328,"San Rafael Petzal",11271,"Hombre",5454
+1328,"San Rafael Petzal",11271,"Mujer",5817
+1329,"San Gaspar Ixchil",8142,"Hombre",3846
+1329,"San Gaspar Ixchil",8142,"Mujer",4296
+1330,"Santiago Chimaltenango",10507,"Hombre",4881
+1330,"Santiago Chimaltenango",10507,"Mujer",5626
+1331,"Santa Ana Huista",9413,"Hombre",4586
+1331,"Santa Ana Huista",9413,"Mujer",4827
+1332,"Unión Cantinil",15900,"Hombre",7343
+1332,"Unión Cantinil",15900,"Mujer",8557
+1333,"Petatán",6366,"Hombre",2940
+1333,"Petatán",6366,"Mujer",3426
+1401,"Santa Cruz del Quiché",78279,"Hombre",37168
+1401,"Santa Cruz del Quiché",78279,"Mujer",41111
+1402,"Chiché",29646,"Hombre",14319
+1402,"Chiché",29646,"Mujer",15327
+1403,"Chinique",11382,"Hombre",5455
+1403,"Chinique",11382,"Mujer",5927
+1404,"Zacualpa",32750,"Hombre",15499
+1404,"Zacualpa",32750,"Mujer",17251
+1405,"Chajul",46658,"Hombre",22650
+1405,"Chajul",46658,"Mujer",24008
+1406,"Santo Tomás Chichicastenango",141567,"Hombre",67187
+1406,"Santo Tomás Chichicastenango",141567,"Mujer",74380
+1407,"Patzité",6144,"Hombre",2884
+1407,"Patzité",6144,"Mujer",3260
+1408,"San Antonio Ilotenango",25590,"Hombre",12030
+1408,"San Antonio Ilotenango",25590,"Mujer",13560
+1409,"San Pedro Jocopilas",31950,"Hombre",15447
+1409,"San Pedro Jocopilas",31950,"Mujer",16503
+1410,"Cunén",41455,"Hombre",20111
+1410,"Cunén",41455,"Mujer",21344
+1411,"San Juan Cotzal",31532,"Hombre",15327
+1411,"San Juan Cotzal",31532,"Mujer",16205
+1412,"Joyabaj",82369,"Hombre",37751
+1412,"Joyabaj",82369,"Mujer",44618
+1413,"Santa María Nebaj",72686,"Hombre",33997
+1413,"Santa María Nebaj",72686,"Mujer",38689
+1414,"San Andrés Sajcabajá",24981,"Hombre",11762
+1414,"San Andrés Sajcabajá",24981,"Mujer",13219
+1415,"San Miguel Uspantán",65872,"Hombre",32548
+1415,"San Miguel Uspantán",65872,"Mujer",33324
+1416,"Sacapulas",52620,"Hombre",25332
+1416,"Sacapulas",52620,"Mujer",27288
+1417,"San Bartolomé Jocotenango",13568,"Hombre",6608
+1417,"San Bartolomé Jocotenango",13568,"Mujer",6960
+1418,"Canillá",12172,"Hombre",5802
+1418,"Canillá",12172,"Mujer",6370
+1419,"Chicamán",39731,"Hombre",19403
+1419,"Chicamán",39731,"Mujer",20328
+1420,"Playa Grande Ixcán",99470,"Hombre",49845
+1420,"Playa Grande Ixcán",99470,"Mujer",49625
+1421,"Pachalum",8839,"Hombre",4222
+1421,"Pachalum",8839,"Mujer",4617
+1501,"Salamá",65275,"Hombre",31246
+1501,"Salamá",65275,"Mujer",34029
+1502,"San Miguel Chicaj",33121,"Hombre",15933
+1502,"San Miguel Chicaj",33121,"Mujer",17188
+1503,"Rabinal",40797,"Hombre",19591
+1503,"Rabinal",40797,"Mujer",21206
+1504,"Cubulco",54869,"Hombre",26436
+1504,"Cubulco",54869,"Mujer",28433
+1505,"Granados",13595,"Hombre",6584
+1505,"Granados",13595,"Mujer",7011
+1506,"Santa Cruz El Chol",9538,"Hombre",4490
+1506,"Santa Cruz El Chol",9538,"Mujer",5048
+1507,"San Jerónimo",25459,"Hombre",12395
+1507,"San Jerónimo",25459,"Mujer",13064
+1508,"Purulhá",56822,"Hombre",28250
+1508,"Purulhá",56822,"Mujer",28572
+1601,"Cobán",212421,"Hombre",103927
+1601,"Cobán",212421,"Mujer",108494
+1602,"Santa Cruz Verapaz",32042,"Hombre",15722
+1602,"Santa Cruz Verapaz",32042,"Mujer",16320
+1603,"San Cristóbal Verapaz",68819,"Hombre",34072
+1603,"San Cristóbal Verapaz",68819,"Mujer",34747
+1604,"Tactic",38052,"Hombre",18331
+1604,"Tactic",38052,"Mujer",19721
+1605,"Tamahú",19984,"Hombre",9930
+1605,"Tamahú",19984,"Mujer",10054
+1606,"San Miguel Tucurú",43473,"Hombre",21736
+1606,"San Miguel Tucurú",43473,"Mujer",21737
+1607,"Panzós",71846,"Hombre",36243
+1607,"Panzós",71846,"Mujer",35603
+1608,"Senahú",91974,"Hombre",46017
+1608,"Senahú",91974,"Mujer",45957
+1609,"San Pedro Carchá",235275,"Hombre",116267
+1609,"San Pedro Carchá",235275,"Mujer",119008
+1610,"San Juan Chamelco",57456,"Hombre",28048
+1610,"San Juan Chamelco",57456,"Mujer",29408
+1611,"San Agustín Lanquín",24099,"Hombre",12172
+1611,"San Agustín Lanquín",24099,"Mujer",11927
+1612,"Santa María Cahabón",64911,"Hombre",32516
+1612,"Santa María Cahabón",64911,"Mujer",32395
+1613,"Chisec",84553,"Hombre",43042
+1613,"Chisec",84553,"Mujer",41511
+1614,"Chahal",26644,"Hombre",13270
+1614,"Chahal",26644,"Mujer",13374
+1615,"Fray Bartolomé de las Casas",66141,"Hombre",32975
+1615,"Fray Bartolomé de las Casas",66141,"Mujer",33166
+1616,"Santa Catalina La Tinta",40516,"Hombre",20135
+1616,"Santa Catalina La Tinta",40516,"Mujer",20381
+1617,"Raxruhá",36832,"Hombre",18475
+1617,"Raxruhá",36832,"Mujer",18357
+1701,"Flores",38186,"Hombre",18823
+1701,"Flores",38186,"Mujer",19363
+1702,"San José",6989,"Hombre",3570
+1702,"San José",6989,"Mujer",3419
+1703,"San Benito",43841,"Hombre",21357
+1703,"San Benito",43841,"Mujer",22484
+1704,"San Andrés",32878,"Hombre",16934
+1704,"San Andrés",32878,"Mujer",15944
+1705,"La Libertad",71939,"Hombre",36495
+1705,"La Libertad",71939,"Mujer",35444
+1706,"San Francisco",15371,"Hombre",7718
+1706,"San Francisco",15371,"Mujer",7653
+1707,"Santa Ana",21970,"Hombre",10879
+1707,"Santa Ana",21970,"Mujer",11091
+1708,"Dolores",26920,"Hombre",13416
+1708,"Dolores",26920,"Mujer",13504
+1709,"San Luis",67038,"Hombre",33303
+1709,"San Luis",67038,"Mujer",33735
+1710,"Sayaxché",93414,"Hombre",47076
+1710,"Sayaxché",93414,"Mujer",46338
+1711,"Melchor de Mencos",28238,"Hombre",14137
+1711,"Melchor de Mencos",28238,"Mujer",14101
+1712,"Poptún",52282,"Hombre",25667
+1712,"Poptún",52282,"Mujer",26615
+1713,"Las Cruces",32715,"Hombre",16609
+1713,"Las Cruces",32715,"Mujer",16106
+1714,"El Chal",13819,"Hombre",6879
+1714,"El Chal",13819,"Mujer",6940
+1801,"Puerto Barrios",100593,"Hombre",49144
+1801,"Puerto Barrios",100593,"Mujer",51449
+1802,"Livingston",73492,"Hombre",36456
+1802,"Livingston",73492,"Mujer",37036
+1803,"El Estor",73328,"Hombre",36947
+1803,"El Estor",73328,"Mujer",36381
+1804,"Morales",100361,"Hombre",49191
+1804,"Morales",100361,"Mujer",51170
+1805,"Los Amates",60914,"Hombre",30121
+1805,"Los Amates",60914,"Mujer",30793
+1901,"Zacapa",60424,"Hombre",29201
+1901,"Zacapa",60424,"Mujer",31223
+1902,"Estanzuela",9797,"Hombre",4759
+1902,"Estanzuela",9797,"Mujer",5038
+1903,"Río Hondo",21434,"Hombre",10319
+1903,"Río Hondo",21434,"Mujer",11115
+1904,"Gualán",45663,"Hombre",22471
+1904,"Gualán",45663,"Mujer",23192
+1905,"Teculután",17602,"Hombre",8603
+1905,"Teculután",17602,"Mujer",8999
+1906,"Usumatlán",12232,"Hombre",6034
+1906,"Usumatlán",12232,"Mujer",6198
+1907,"Cabañas",13641,"Hombre",6808
+1907,"Cabañas",13641,"Mujer",6833
+1908,"San Diego",7235,"Hombre",3536
+1908,"San Diego",7235,"Mujer",3699
+1909,"La Unión",33572,"Hombre",16804
+1909,"La Unión",33572,"Mujer",16768
+1910,"Huité",11470,"Hombre",5743
+1910,"Huité",11470,"Mujer",5727
+1911,"San Jorge",12304,"Hombre",5961
+1911,"San Jorge",12304,"Mujer",6343
+2001,"Chiquimula",111505,"Hombre",53300
+2001,"Chiquimula",111505,"Mujer",58205
+2002,"San José la Arada",8756,"Hombre",4193
+2002,"San José la Arada",8756,"Mujer",4563
+2003,"San Juan Ermita",16418,"Hombre",8101
+2003,"San Juan Ermita",16418,"Mujer",8317
+2004,"Jocotán",66379,"Hombre",32249
+2004,"Jocotán",66379,"Mujer",34130
+2005,"Camotán",56138,"Hombre",27808
+2005,"Camotán",56138,"Mujer",28330
+2006,"Olopa",27511,"Hombre",13325
+2006,"Olopa",27511,"Mujer",14186
+2007,"Esquipulas",53556,"Hombre",25517
+2007,"Esquipulas",53556,"Mujer",28039
+2008,"Concepción las Minas",11693,"Hombre",5558
+2008,"Concepción las Minas",11693,"Mujer",6135
+2009,"Quezaltepeque",28075,"Hombre",13030
+2009,"Quezaltepeque",28075,"Mujer",15045
+2010,"San Jacinto",12619,"Hombre",6143
+2010,"San Jacinto",12619,"Mujer",6476
+2011,"Ipala",22413,"Hombre",10686
+2011,"Ipala",22413,"Mujer",11727
+2101,"Jalapa",159840,"Hombre",77140
+2101,"Jalapa",159840,"Mujer",82700
+2102,"San Pedro Pinula",61908,"Hombre",30545
+2102,"San Pedro Pinula",61908,"Mujer",31363
+2103,"San Luis Jilotepeque",24679,"Hombre",11470
+2103,"San Luis Jilotepeque",24679,"Mujer",13209
+2104,"San Manuel Chaparrón",8317,"Hombre",3865
+2104,"San Manuel Chaparrón",8317,"Mujer",4452
+2105,"San Carlos Alzatate",18977,"Hombre",9353
+2105,"San Carlos Alzatate",18977,"Mujer",9624
+2106,"Monjas",27354,"Hombre",13043
+2106,"Monjas",27354,"Mujer",14311
+2107,"Mataquescuintla",41848,"Hombre",20455
+2107,"Mataquescuintla",41848,"Mujer",21393
+2201,"Jutiapa",145880,"Hombre",71056
+2201,"Jutiapa",145880,"Mujer",74824
+2202,"El Progreso",22114,"Hombre",10399
+2202,"El Progreso",22114,"Mujer",11715
+2203,"Santa Catarina Mita",28983,"Hombre",13546
+2203,"Santa Catarina Mita",28983,"Mujer",15437
+2204,"Agua Blanca",16353,"Hombre",7810
+2204,"Agua Blanca",16353,"Mujer",8543
+2205,"Asunción Mita",48297,"Hombre",23188
+2205,"Asunción Mita",48297,"Mujer",25109
+2206,"Yupiltepeque",17389,"Hombre",8612
+2206,"Yupiltepeque",17389,"Mujer",8777
+2207,"Atescatempa",18402,"Hombre",8948
+2207,"Atescatempa",18402,"Mujer",9454
+2208,"Jerez",6309,"Hombre",3109
+2208,"Jerez",6309,"Mujer",3200
+2209,"El Adelanto",6500,"Hombre",3232
+2209,"El Adelanto",6500,"Mujer",3268
+2210,"Zapotitlán",9126,"Hombre",4551
+2210,"Zapotitlán",9126,"Mujer",4575
+2211,"Comapa",32207,"Hombre",15805
+2211,"Comapa",32207,"Mujer",16402
+2212,"Jalpatagua",28832,"Hombre",14087
+2212,"Jalpatagua",28832,"Mujer",14745
+2213,"Conguaco",23452,"Hombre",11619
+2213,"Conguaco",23452,"Mujer",11833
+2214,"Moyuta",39781,"Hombre",19429
+2214,"Moyuta",39781,"Mujer",20352
+2215,"Pasaco",8854,"Hombre",4347
+2215,"Pasaco",8854,"Mujer",4507
+2216,"San José Acatempa",13206,"Hombre",6351
+2216,"San José Acatempa",13206,"Mujer",6855
+2217,"Quesada",22710,"Hombre",11174
+2217,"Quesada",22710,"Mujer",11536

@@ -1,0 +1,3061 @@
+"Código","Municipio","Población de 7 años o más","Uso de Tecnologias","Cantidad de Personas","Porcentaje de Poblacion"
+101,"Guatemala",823541,"Usa Celular",686460,83.35
+101,"Guatemala",823541,"No Usa Celular",126413,15.35
+101,"Guatemala",823541,"NA_Celular",10668,1.3
+101,"Guatemala",823541,"Usa Computadora",437433,53.12
+101,"Guatemala",823541,"No usa Computadora",375594,45.61
+101,"Guatemala",823541,"NA_Computadora",10514,1.28
+101,"Guatemala",823541,"Usa Internet",512366,62.21
+101,"Guatemala",823541,"No usa Internet",299216,36.33
+101,"Guatemala",823541,"NA_Internet",11959,1.45
+102,"Santa Catarina Pinula",70958,"Usa Celular",58190,82.01
+102,"Santa Catarina Pinula",70958,"No Usa Celular",11862,16.72
+102,"Santa Catarina Pinula",70958,"NA_Celular",906,1.28
+102,"Santa Catarina Pinula",70958,"Usa Computadora",34861,49.13
+102,"Santa Catarina Pinula",70958,"No usa Computadora",35151,49.54
+102,"Santa Catarina Pinula",70958,"NA_Computadora",946,1.33
+102,"Santa Catarina Pinula",70958,"Usa Internet",41243,58.12
+102,"Santa Catarina Pinula",70958,"No usa Internet",28689,40.43
+102,"Santa Catarina Pinula",70958,"NA_Internet",1026,1.45
+103,"San José Pinula",68509,"Usa Celular",52853,77.15
+103,"San José Pinula",68509,"No Usa Celular",14668,21.41
+103,"San José Pinula",68509,"NA_Celular",988,1.44
+103,"San José Pinula",68509,"Usa Computadora",26148,38.17
+103,"San José Pinula",68509,"No usa Computadora",41417,60.45
+103,"San José Pinula",68509,"NA_Computadora",944,1.38
+103,"San José Pinula",68509,"Usa Internet",31807,46.43
+103,"San José Pinula",68509,"No usa Internet",35520,51.85
+103,"San José Pinula",68509,"NA_Internet",1182,1.73
+104,"San José del Golfo",6206,"Usa Celular",4603,74.17
+104,"San José del Golfo",6206,"No Usa Celular",1534,24.72
+104,"San José del Golfo",6206,"NA_Celular",69,1.11
+104,"San José del Golfo",6206,"Usa Computadora",1289,20.77
+104,"San José del Golfo",6206,"No usa Computadora",4868,78.44
+104,"San José del Golfo",6206,"NA_Computadora",49,0.79
+104,"San José del Golfo",6206,"Usa Internet",2628,42.35
+104,"San José del Golfo",6206,"No usa Internet",3510,56.56
+104,"San José del Golfo",6206,"NA_Internet",68,1.1
+105,"Palencia",59630,"Usa Celular",39603,66.41
+105,"Palencia",59630,"No Usa Celular",19646,32.95
+105,"Palencia",59630,"NA_Celular",381,0.64
+105,"Palencia",59630,"Usa Computadora",12460,20.9
+105,"Palencia",59630,"No usa Computadora",46859,78.58
+105,"Palencia",59630,"NA_Computadora",311,0.52
+105,"Palencia",59630,"Usa Internet",19869,33.32
+105,"Palencia",59630,"No usa Internet",39324,65.95
+105,"Palencia",59630,"NA_Internet",437,0.73
+106,"Chinautla",98780,"Usa Celular",77271,78.23
+106,"Chinautla",98780,"No Usa Celular",20475,20.73
+106,"Chinautla",98780,"NA_Celular",1034,1.05
+106,"Chinautla",98780,"Usa Computadora",36166,36.61
+106,"Chinautla",98780,"No usa Computadora",61722,62.48
+106,"Chinautla",98780,"NA_Computadora",892,0.9
+106,"Chinautla",98780,"Usa Internet",50207,50.83
+106,"Chinautla",98780,"No usa Internet",47455,48.04
+106,"Chinautla",98780,"NA_Internet",1118,1.13
+107,"San Pedro Ayampuc",50043,"Usa Celular",34245,68.43
+107,"San Pedro Ayampuc",50043,"No Usa Celular",15330,30.63
+107,"San Pedro Ayampuc",50043,"NA_Celular",468,0.94
+107,"San Pedro Ayampuc",50043,"Usa Computadora",10953,21.89
+107,"San Pedro Ayampuc",50043,"No usa Computadora",38665,77.26
+107,"San Pedro Ayampuc",50043,"NA_Computadora",425,0.85
+107,"San Pedro Ayampuc",50043,"Usa Internet",17279,34.53
+107,"San Pedro Ayampuc",50043,"No usa Internet",32270,64.48
+107,"San Pedro Ayampuc",50043,"NA_Internet",494,0.99
+108,"Mixco",413084,"Usa Celular",345565,83.65
+108,"Mixco",413084,"No Usa Celular",60207,14.58
+108,"Mixco",413084,"NA_Celular",7312,1.77
+108,"Mixco",413084,"Usa Computadora",223721,54.16
+108,"Mixco",413084,"No usa Computadora",182105,44.08
+108,"Mixco",413084,"NA_Computadora",7258,1.76
+108,"Mixco",413084,"Usa Internet",265394,64.25
+108,"Mixco",413084,"No usa Internet",139352,33.73
+108,"Mixco",413084,"NA_Internet",8338,2.02
+109,"San Pedro Sacatepéquez",43666,"Usa Celular",29859,68.38
+109,"San Pedro Sacatepéquez",43666,"No Usa Celular",13506,30.93
+109,"San Pedro Sacatepéquez",43666,"NA_Celular",301,0.69
+109,"San Pedro Sacatepéquez",43666,"Usa Computadora",11309,25.9
+109,"San Pedro Sacatepéquez",43666,"No usa Computadora",32053,73.4
+109,"San Pedro Sacatepéquez",43666,"NA_Computadora",304,0.7
+109,"San Pedro Sacatepéquez",43666,"Usa Internet",15151,34.7
+109,"San Pedro Sacatepéquez",43666,"No usa Internet",28090,64.33
+109,"San Pedro Sacatepéquez",43666,"NA_Internet",425,0.97
+110,"San Juan Sacatepéquez",184474,"Usa Celular",114939,62.31
+110,"San Juan Sacatepéquez",184474,"No Usa Celular",64353,34.88
+110,"San Juan Sacatepéquez",184474,"NA_Celular",5182,2.81
+110,"San Juan Sacatepéquez",184474,"Usa Computadora",38308,20.77
+110,"San Juan Sacatepéquez",184474,"No usa Computadora",142418,77.2
+110,"San Juan Sacatepéquez",184474,"NA_Computadora",3748,2.03
+110,"San Juan Sacatepéquez",184474,"Usa Internet",52452,28.43
+110,"San Juan Sacatepéquez",184474,"No usa Internet",126486,68.57
+110,"San Juan Sacatepéquez",184474,"NA_Internet",5536,3
+111,"San Raymundo",26643,"Usa Celular",17476,65.59
+111,"San Raymundo",26643,"No Usa Celular",9015,33.84
+111,"San Raymundo",26643,"NA_Celular",152,0.57
+111,"San Raymundo",26643,"Usa Computadora",4986,18.71
+111,"San Raymundo",26643,"No usa Computadora",21547,80.87
+111,"San Raymundo",26643,"NA_Computadora",110,0.41
+111,"San Raymundo",26643,"Usa Internet",6777,25.44
+111,"San Raymundo",26643,"No usa Internet",19655,73.77
+111,"San Raymundo",26643,"NA_Internet",211,0.79
+112,"Chuarrancho",10555,"Usa Celular",5798,54.93
+112,"Chuarrancho",10555,"No Usa Celular",4676,44.3
+112,"Chuarrancho",10555,"NA_Celular",81,0.77
+112,"Chuarrancho",10555,"Usa Computadora",759,7.19
+112,"Chuarrancho",10555,"No usa Computadora",9726,92.15
+112,"Chuarrancho",10555,"NA_Computadora",70,0.66
+112,"Chuarrancho",10555,"Usa Internet",2044,19.37
+112,"Chuarrancho",10555,"No usa Internet",8396,79.55
+112,"Chuarrancho",10555,"NA_Internet",115,1.09
+113,"Fraijanes",52138,"Usa Celular",36839,70.66
+113,"Fraijanes",52138,"No Usa Celular",14381,27.58
+113,"Fraijanes",52138,"NA_Celular",918,1.76
+113,"Fraijanes",52138,"Usa Computadora",22006,42.21
+113,"Fraijanes",52138,"No usa Computadora",29398,56.38
+113,"Fraijanes",52138,"NA_Computadora",734,1.41
+113,"Fraijanes",52138,"Usa Internet",25742,49.37
+113,"Fraijanes",52138,"No usa Internet",25491,48.89
+113,"Fraijanes",52138,"NA_Internet",905,1.74
+114,"Amatitlán",100917,"Usa Celular",76041,75.35
+114,"Amatitlán",100917,"No Usa Celular",23634,23.42
+114,"Amatitlán",100917,"NA_Celular",1242,1.23
+114,"Amatitlán",100917,"Usa Computadora",35632,35.31
+114,"Amatitlán",100917,"No usa Computadora",63988,63.41
+114,"Amatitlán",100917,"NA_Computadora",1297,1.29
+114,"Amatitlán",100917,"Usa Internet",48175,47.74
+114,"Amatitlán",100917,"No usa Internet",51229,50.76
+114,"Amatitlán",100917,"NA_Internet",1513,1.5
+115,"Villa Nueva",378827,"Usa Celular",309693,81.75
+115,"Villa Nueva",378827,"No Usa Celular",62187,16.42
+115,"Villa Nueva",378827,"NA_Celular",6947,1.83
+115,"Villa Nueva",378827,"Usa Computadora",171116,45.17
+115,"Villa Nueva",378827,"No usa Computadora",200885,53.03
+115,"Villa Nueva",378827,"NA_Computadora",6826,1.8
+115,"Villa Nueva",378827,"Usa Internet",215866,56.98
+115,"Villa Nueva",378827,"No usa Internet",155268,40.99
+115,"Villa Nueva",378827,"NA_Internet",7693,2.03
+116,"Villa Canales",133606,"Usa Celular",97433,72.93
+116,"Villa Canales",133606,"No Usa Celular",34489,25.81
+116,"Villa Canales",133606,"NA_Celular",1684,1.26
+116,"Villa Canales",133606,"Usa Computadora",40482,30.3
+116,"Villa Canales",133606,"No usa Computadora",91480,68.47
+116,"Villa Canales",133606,"NA_Computadora",1644,1.23
+116,"Villa Canales",133606,"Usa Internet",55352,41.43
+116,"Villa Canales",133606,"No usa Internet",76142,56.99
+116,"Villa Canales",133606,"NA_Internet",2112,1.58
+117,"San Miguel Petapa",119532,"Usa Celular",100497,84.08
+117,"San Miguel Petapa",119532,"No Usa Celular",17034,14.25
+117,"San Miguel Petapa",119532,"NA_Celular",2001,1.67
+117,"San Miguel Petapa",119532,"Usa Computadora",63792,53.37
+117,"San Miguel Petapa",119532,"No usa Computadora",53823,45.03
+117,"San Miguel Petapa",119532,"NA_Computadora",1917,1.6
+117,"San Miguel Petapa",119532,"Usa Internet",77088,64.49
+117,"San Miguel Petapa",119532,"No usa Internet",40313,33.73
+117,"San Miguel Petapa",119532,"NA_Internet",2131,1.78
+201,"Guastatoya",21686,"Usa Celular",16543,76.28
+201,"Guastatoya",21686,"No Usa Celular",4940,22.78
+201,"Guastatoya",21686,"NA_Celular",203,0.94
+201,"Guastatoya",21686,"Usa Computadora",7161,33.02
+201,"Guastatoya",21686,"No usa Computadora",14385,66.33
+201,"Guastatoya",21686,"NA_Computadora",140,0.65
+201,"Guastatoya",21686,"Usa Internet",10169,46.89
+201,"Guastatoya",21686,"No usa Internet",11339,52.29
+201,"Guastatoya",21686,"NA_Internet",178,0.82
+202,"Morazán",10512,"Usa Celular",6913,65.76
+202,"Morazán",10512,"No Usa Celular",3498,33.28
+202,"Morazán",10512,"NA_Celular",101,0.96
+202,"Morazán",10512,"Usa Computadora",963,9.16
+202,"Morazán",10512,"No usa Computadora",9408,89.5
+202,"Morazán",10512,"NA_Computadora",141,1.34
+202,"Morazán",10512,"Usa Internet",1142,10.86
+202,"Morazán",10512,"No usa Internet",9179,87.32
+202,"Morazán",10512,"NA_Internet",191,1.82
+203,"San Agustín Acasaguastlán",38035,"Usa Celular",20098,52.84
+203,"San Agustín Acasaguastlán",38035,"No Usa Celular",17468,45.93
+203,"San Agustín Acasaguastlán",38035,"NA_Celular",469,1.23
+203,"San Agustín Acasaguastlán",38035,"Usa Computadora",3511,9.23
+203,"San Agustín Acasaguastlán",38035,"No usa Computadora",34120,89.71
+203,"San Agustín Acasaguastlán",38035,"NA_Computadora",404,1.06
+203,"San Agustín Acasaguastlán",38035,"Usa Internet",5523,14.52
+203,"San Agustín Acasaguastlán",38035,"No usa Internet",31953,84.01
+203,"San Agustín Acasaguastlán",38035,"NA_Internet",559,1.47
+204,"San Cristóbal Acasaguastlán",6227,"Usa Celular",3959,63.58
+204,"San Cristóbal Acasaguastlán",6227,"No Usa Celular",2190,35.17
+204,"San Cristóbal Acasaguastlán",6227,"NA_Celular",78,1.25
+204,"San Cristóbal Acasaguastlán",6227,"Usa Computadora",974,15.64
+204,"San Cristóbal Acasaguastlán",6227,"No usa Computadora",5180,83.19
+204,"San Cristóbal Acasaguastlán",6227,"NA_Computadora",73,1.17
+204,"San Cristóbal Acasaguastlán",6227,"Usa Internet",1327,21.31
+204,"San Cristóbal Acasaguastlán",6227,"No usa Internet",4800,77.08
+204,"San Cristóbal Acasaguastlán",6227,"NA_Internet",100,1.61
+205,"El Jícaro",11426,"Usa Celular",7180,62.84
+205,"El Jícaro",11426,"No Usa Celular",4173,36.52
+205,"El Jícaro",11426,"NA_Celular",73,0.64
+205,"El Jícaro",11426,"Usa Computadora",1092,9.56
+205,"El Jícaro",11426,"No usa Computadora",10246,89.67
+205,"El Jícaro",11426,"NA_Computadora",88,0.77
+205,"El Jícaro",11426,"Usa Internet",2878,25.19
+205,"El Jícaro",11426,"No usa Internet",8425,73.74
+205,"El Jícaro",11426,"NA_Internet",123,1.08
+206,"Sansare",11416,"Usa Celular",7145,62.59
+206,"Sansare",11416,"No Usa Celular",4139,36.26
+206,"Sansare",11416,"NA_Celular",132,1.16
+206,"Sansare",11416,"Usa Computadora",1821,15.95
+206,"Sansare",11416,"No usa Computadora",9449,82.77
+206,"Sansare",11416,"NA_Computadora",146,1.28
+206,"Sansare",11416,"Usa Internet",2462,21.57
+206,"Sansare",11416,"No usa Internet",8776,76.87
+206,"Sansare",11416,"NA_Internet",178,1.56
+207,"Sanarate",34148,"Usa Celular",24334,71.26
+207,"Sanarate",34148,"No Usa Celular",9511,27.85
+207,"Sanarate",34148,"NA_Celular",303,0.89
+207,"Sanarate",34148,"Usa Computadora",8972,26.27
+207,"Sanarate",34148,"No usa Computadora",24940,73.04
+207,"Sanarate",34148,"NA_Computadora",236,0.69
+207,"Sanarate",34148,"Usa Internet",13438,39.35
+207,"Sanarate",34148,"No usa Internet",20408,59.76
+207,"Sanarate",34148,"NA_Internet",302,0.88
+208,"San Antonio la Paz",17751,"Usa Celular",12358,69.62
+208,"San Antonio la Paz",17751,"No Usa Celular",5230,29.46
+208,"San Antonio la Paz",17751,"NA_Celular",163,0.92
+208,"San Antonio la Paz",17751,"Usa Computadora",2805,15.8
+208,"San Antonio la Paz",17751,"No usa Computadora",14751,83.1
+208,"San Antonio la Paz",17751,"NA_Computadora",195,1.1
+208,"San Antonio la Paz",17751,"Usa Internet",5674,31.96
+208,"San Antonio la Paz",17751,"No usa Internet",11906,67.07
+208,"San Antonio la Paz",17751,"NA_Internet",171,0.96
+301,"Antigua Guatemala",40973,"Usa Celular",30333,74.03
+301,"Antigua Guatemala",40973,"No Usa Celular",9705,23.69
+301,"Antigua Guatemala",40973,"NA_Celular",935,2.28
+301,"Antigua Guatemala",40973,"Usa Computadora",17621,43.01
+301,"Antigua Guatemala",40973,"No usa Computadora",22550,55.04
+301,"Antigua Guatemala",40973,"NA_Computadora",802,1.96
+301,"Antigua Guatemala",40973,"Usa Internet",21087,51.47
+301,"Antigua Guatemala",40973,"No usa Internet",18885,46.09
+301,"Antigua Guatemala",40973,"NA_Internet",1001,2.44
+302,"Jocotenango",19292,"Usa Celular",15625,80.99
+302,"Jocotenango",19292,"No Usa Celular",3407,17.66
+302,"Jocotenango",19292,"NA_Celular",260,1.35
+302,"Jocotenango",19292,"Usa Computadora",10205,52.9
+302,"Jocotenango",19292,"No usa Computadora",8876,46.01
+302,"Jocotenango",19292,"NA_Computadora",211,1.09
+302,"Jocotenango",19292,"Usa Internet",11373,58.95
+302,"Jocotenango",19292,"No usa Internet",7641,39.61
+302,"Jocotenango",19292,"NA_Internet",278,1.44
+303,"Pastores",15433,"Usa Celular",10612,68.76
+303,"Pastores",15433,"No Usa Celular",4652,30.14
+303,"Pastores",15433,"NA_Celular",169,1.1
+303,"Pastores",15433,"Usa Computadora",4636,30.04
+303,"Pastores",15433,"No usa Computadora",10650,69.01
+303,"Pastores",15433,"NA_Computadora",147,0.95
+303,"Pastores",15433,"Usa Internet",6109,39.58
+303,"Pastores",15433,"No usa Internet",9143,59.24
+303,"Pastores",15433,"NA_Internet",181,1.17
+304,"Sumpango",31813,"Usa Celular",18761,58.97
+304,"Sumpango",31813,"No Usa Celular",11648,36.61
+304,"Sumpango",31813,"NA_Celular",1404,4.41
+304,"Sumpango",31813,"Usa Computadora",5897,18.54
+304,"Sumpango",31813,"No usa Computadora",24763,77.84
+304,"Sumpango",31813,"NA_Computadora",1153,3.62
+304,"Sumpango",31813,"Usa Internet",7306,22.97
+304,"Sumpango",31813,"No usa Internet",23016,72.35
+304,"Sumpango",31813,"NA_Internet",1491,4.69
+305,"Santo Domingo Xenacoj",10585,"Usa Celular",7098,67.06
+305,"Santo Domingo Xenacoj",10585,"No Usa Celular",3221,30.43
+305,"Santo Domingo Xenacoj",10585,"NA_Celular",266,2.51
+305,"Santo Domingo Xenacoj",10585,"Usa Computadora",3568,33.71
+305,"Santo Domingo Xenacoj",10585,"No usa Computadora",6770,63.96
+305,"Santo Domingo Xenacoj",10585,"NA_Computadora",247,2.33
+305,"Santo Domingo Xenacoj",10585,"Usa Internet",3469,32.77
+305,"Santo Domingo Xenacoj",10585,"No usa Internet",6801,64.25
+305,"Santo Domingo Xenacoj",10585,"NA_Internet",315,2.98
+306,"Santiago Sacatepéquez",25291,"Usa Celular",17487,69.14
+306,"Santiago Sacatepéquez",25291,"No Usa Celular",7258,28.7
+306,"Santiago Sacatepéquez",25291,"NA_Celular",546,2.16
+306,"Santiago Sacatepéquez",25291,"Usa Computadora",6092,24.09
+306,"Santiago Sacatepéquez",25291,"No usa Computadora",18642,73.71
+306,"Santiago Sacatepéquez",25291,"NA_Computadora",557,2.2
+306,"Santiago Sacatepéquez",25291,"Usa Internet",6624,26.19
+306,"Santiago Sacatepéquez",25291,"No usa Internet",17892,70.74
+306,"Santiago Sacatepéquez",25291,"NA_Internet",775,3.06
+307,"San Bartolomé Milpas Altas",6831,"Usa Celular",5417,79.3
+307,"San Bartolomé Milpas Altas",6831,"No Usa Celular",1381,20.22
+307,"San Bartolomé Milpas Altas",6831,"NA_Celular",33,0.48
+307,"San Bartolomé Milpas Altas",6831,"Usa Computadora",3601,52.72
+307,"San Bartolomé Milpas Altas",6831,"No usa Computadora",3198,46.82
+307,"San Bartolomé Milpas Altas",6831,"NA_Computadora",32,0.47
+307,"San Bartolomé Milpas Altas",6831,"Usa Internet",4148,60.72
+307,"San Bartolomé Milpas Altas",6831,"No usa Internet",2651,38.81
+307,"San Bartolomé Milpas Altas",6831,"NA_Internet",32,0.47
+308,"San Lucas Sacatepéquez",20577,"Usa Celular",17287,84.01
+308,"San Lucas Sacatepéquez",20577,"No Usa Celular",2970,14.43
+308,"San Lucas Sacatepéquez",20577,"NA_Celular",320,1.56
+308,"San Lucas Sacatepéquez",20577,"Usa Computadora",11898,57.82
+308,"San Lucas Sacatepéquez",20577,"No usa Computadora",8413,40.89
+308,"San Lucas Sacatepéquez",20577,"NA_Computadora",266,1.29
+308,"San Lucas Sacatepéquez",20577,"Usa Internet",13531,65.76
+308,"San Lucas Sacatepéquez",20577,"No usa Internet",6729,32.7
+308,"San Lucas Sacatepéquez",20577,"NA_Internet",317,1.54
+309,"Santa Lucía Milpas Altas",13662,"Usa Celular",10436,76.39
+309,"Santa Lucía Milpas Altas",13662,"No Usa Celular",2900,21.23
+309,"Santa Lucía Milpas Altas",13662,"NA_Celular",326,2.39
+309,"Santa Lucía Milpas Altas",13662,"Usa Computadora",5089,37.25
+309,"Santa Lucía Milpas Altas",13662,"No usa Computadora",8230,60.24
+309,"Santa Lucía Milpas Altas",13662,"NA_Computadora",343,2.51
+309,"Santa Lucía Milpas Altas",13662,"Usa Internet",6697,49.02
+309,"Santa Lucía Milpas Altas",13662,"No usa Internet",6568,48.07
+309,"Santa Lucía Milpas Altas",13662,"NA_Internet",397,2.91
+310,"Magdalena Milpas Altas",10365,"Usa Celular",6216,59.97
+310,"Magdalena Milpas Altas",10365,"No Usa Celular",4025,38.83
+310,"Magdalena Milpas Altas",10365,"NA_Celular",124,1.2
+310,"Magdalena Milpas Altas",10365,"Usa Computadora",2427,23.42
+310,"Magdalena Milpas Altas",10365,"No usa Computadora",7841,75.65
+310,"Magdalena Milpas Altas",10365,"NA_Computadora",97,0.94
+310,"Magdalena Milpas Altas",10365,"Usa Internet",2868,27.67
+310,"Magdalena Milpas Altas",10365,"No usa Internet",7376,71.16
+310,"Magdalena Milpas Altas",10365,"NA_Internet",121,1.17
+311,"Santa María de Jesús",18454,"Usa Celular",9834,53.29
+311,"Santa María de Jesús",18454,"No Usa Celular",8459,45.84
+311,"Santa María de Jesús",18454,"NA_Celular",161,0.87
+311,"Santa María de Jesús",18454,"Usa Computadora",2649,14.35
+311,"Santa María de Jesús",18454,"No usa Computadora",15654,84.83
+311,"Santa María de Jesús",18454,"NA_Computadora",151,0.82
+311,"Santa María de Jesús",18454,"Usa Internet",3640,19.72
+311,"Santa María de Jesús",18454,"No usa Internet",14601,79.12
+311,"Santa María de Jesús",18454,"NA_Internet",213,1.15
+312,"Ciudad Vieja",29121,"Usa Celular",19294,66.25
+312,"Ciudad Vieja",29121,"No Usa Celular",8742,30.02
+312,"Ciudad Vieja",29121,"NA_Celular",1085,3.73
+312,"Ciudad Vieja",29121,"Usa Computadora",8056,27.66
+312,"Ciudad Vieja",29121,"No usa Computadora",20108,69.05
+312,"Ciudad Vieja",29121,"NA_Computadora",957,3.29
+312,"Ciudad Vieja",29121,"Usa Internet",9253,31.77
+312,"Ciudad Vieja",29121,"No usa Internet",18672,64.12
+312,"Ciudad Vieja",29121,"NA_Internet",1196,4.11
+313,"San Miguel Dueñas",10985,"Usa Celular",7576,68.97
+313,"San Miguel Dueñas",10985,"No Usa Celular",3171,28.87
+313,"San Miguel Dueñas",10985,"NA_Celular",238,2.17
+313,"San Miguel Dueñas",10985,"Usa Computadora",2630,23.94
+313,"San Miguel Dueñas",10985,"No usa Computadora",8146,74.16
+313,"San Miguel Dueñas",10985,"NA_Computadora",209,1.9
+313,"San Miguel Dueñas",10985,"Usa Internet",4082,37.16
+313,"San Miguel Dueñas",10985,"No usa Internet",6624,60.3
+313,"San Miguel Dueñas",10985,"NA_Internet",279,2.54
+314,"San Juan Alotenango",20473,"Usa Celular",12740,62.23
+314,"San Juan Alotenango",20473,"No Usa Celular",7413,36.21
+314,"San Juan Alotenango",20473,"NA_Celular",320,1.56
+314,"San Juan Alotenango",20473,"Usa Computadora",3118,15.23
+314,"San Juan Alotenango",20473,"No usa Computadora",17000,83.04
+314,"San Juan Alotenango",20473,"NA_Computadora",355,1.73
+314,"San Juan Alotenango",20473,"Usa Internet",3978,19.43
+314,"San Juan Alotenango",20473,"No usa Internet",15991,78.11
+314,"San Juan Alotenango",20473,"NA_Internet",504,2.46
+315,"San Antonio Aguas Calientes",9900,"Usa Celular",7099,71.71
+315,"San Antonio Aguas Calientes",9900,"No Usa Celular",2724,27.52
+315,"San Antonio Aguas Calientes",9900,"NA_Celular",77,0.78
+315,"San Antonio Aguas Calientes",9900,"Usa Computadora",3580,36.16
+315,"San Antonio Aguas Calientes",9900,"No usa Computadora",6259,63.22
+315,"San Antonio Aguas Calientes",9900,"NA_Computadora",61,0.62
+315,"San Antonio Aguas Calientes",9900,"Usa Internet",4546,45.92
+315,"San Antonio Aguas Calientes",9900,"No usa Internet",5264,53.17
+315,"San Antonio Aguas Calientes",9900,"NA_Internet",90,0.91
+316,"Santa Catarina Barahona",3546,"Usa Celular",2451,69.12
+316,"Santa Catarina Barahona",3546,"No Usa Celular",1065,30.03
+316,"Santa Catarina Barahona",3546,"NA_Celular",30,0.85
+316,"Santa Catarina Barahona",3546,"Usa Computadora",1204,33.95
+316,"Santa Catarina Barahona",3546,"No usa Computadora",2324,65.54
+316,"Santa Catarina Barahona",3546,"NA_Computadora",18,0.51
+316,"Santa Catarina Barahona",3546,"Usa Internet",1512,42.64
+316,"Santa Catarina Barahona",3546,"No usa Internet",2005,56.54
+316,"Santa Catarina Barahona",3546,"NA_Internet",29,0.82
+401,"Chimaltenango",83554,"Usa Celular",58518,70.04
+401,"Chimaltenango",83554,"No Usa Celular",23565,28.2
+401,"Chimaltenango",83554,"NA_Celular",1471,1.76
+401,"Chimaltenango",83554,"Usa Computadora",27327,32.71
+401,"Chimaltenango",83554,"No usa Computadora",54587,65.33
+401,"Chimaltenango",83554,"NA_Computadora",1640,1.96
+401,"Chimaltenango",83554,"Usa Internet",34213,40.95
+401,"Chimaltenango",83554,"No usa Internet",47316,56.63
+401,"Chimaltenango",83554,"NA_Internet",2025,2.42
+402,"San José Poaquil",22856,"Usa Celular",13633,59.65
+402,"San José Poaquil",22856,"No Usa Celular",9130,39.95
+402,"San José Poaquil",22856,"NA_Celular",93,0.41
+402,"San José Poaquil",22856,"Usa Computadora",4681,20.48
+402,"San José Poaquil",22856,"No usa Computadora",18126,79.31
+402,"San José Poaquil",22856,"NA_Computadora",49,0.21
+402,"San José Poaquil",22856,"Usa Internet",5872,25.69
+402,"San José Poaquil",22856,"No usa Internet",16864,73.78
+402,"San José Poaquil",22856,"NA_Internet",120,0.53
+403,"San Martín Jilotepeque",61676,"Usa Celular",36630,59.39
+403,"San Martín Jilotepeque",61676,"No Usa Celular",24503,39.73
+403,"San Martín Jilotepeque",61676,"NA_Celular",543,0.88
+403,"San Martín Jilotepeque",61676,"Usa Computadora",5044,8.18
+403,"San Martín Jilotepeque",61676,"No usa Computadora",56197,91.12
+403,"San Martín Jilotepeque",61676,"NA_Computadora",435,0.71
+403,"San Martín Jilotepeque",61676,"Usa Internet",5147,8.35
+403,"San Martín Jilotepeque",61676,"No usa Internet",55799,90.47
+403,"San Martín Jilotepeque",61676,"NA_Internet",730,1.18
+404,"San Juan Comalapa",41229,"Usa Celular",25076,60.82
+404,"San Juan Comalapa",41229,"No Usa Celular",15533,37.67
+404,"San Juan Comalapa",41229,"NA_Celular",620,1.5
+404,"San Juan Comalapa",41229,"Usa Computadora",10117,24.54
+404,"San Juan Comalapa",41229,"No usa Computadora",30499,73.97
+404,"San Juan Comalapa",41229,"NA_Computadora",613,1.49
+404,"San Juan Comalapa",41229,"Usa Internet",11109,26.94
+404,"San Juan Comalapa",41229,"No usa Internet",29274,71
+404,"San Juan Comalapa",41229,"NA_Internet",846,2.05
+405,"Santa Apolonia",15016,"Usa Celular",6965,46.38
+405,"Santa Apolonia",15016,"No Usa Celular",7908,52.66
+405,"Santa Apolonia",15016,"NA_Celular",143,0.95
+405,"Santa Apolonia",15016,"Usa Computadora",1080,7.19
+405,"Santa Apolonia",15016,"No usa Computadora",13822,92.05
+405,"Santa Apolonia",15016,"NA_Computadora",114,0.76
+405,"Santa Apolonia",15016,"Usa Internet",1650,10.99
+405,"Santa Apolonia",15016,"No usa Internet",13184,87.8
+405,"Santa Apolonia",15016,"NA_Internet",182,1.21
+406,"Tecpán Guatemala",75219,"Usa Celular",39696,52.77
+406,"Tecpán Guatemala",75219,"No Usa Celular",35036,46.58
+406,"Tecpán Guatemala",75219,"NA_Celular",487,0.65
+406,"Tecpán Guatemala",75219,"Usa Computadora",11098,14.75
+406,"Tecpán Guatemala",75219,"No usa Computadora",63736,84.73
+406,"Tecpán Guatemala",75219,"NA_Computadora",385,0.51
+406,"Tecpán Guatemala",75219,"Usa Internet",14508,19.29
+406,"Tecpán Guatemala",75219,"No usa Internet",60087,79.88
+406,"Tecpán Guatemala",75219,"NA_Internet",624,0.83
+407,"Patzún",49017,"Usa Celular",29955,61.11
+407,"Patzún",49017,"No Usa Celular",18668,38.08
+407,"Patzún",49017,"NA_Celular",394,0.8
+407,"Patzún",49017,"Usa Computadora",10123,20.65
+407,"Patzún",49017,"No usa Computadora",38481,78.51
+407,"Patzún",49017,"NA_Computadora",413,0.84
+407,"Patzún",49017,"Usa Internet",12580,25.66
+407,"Patzún",49017,"No usa Internet",35851,73.14
+407,"Patzún",49017,"NA_Internet",586,1.2
+408,"San Miguel Pochuta",7463,"Usa Celular",3695,49.51
+408,"San Miguel Pochuta",7463,"No Usa Celular",3729,49.97
+408,"San Miguel Pochuta",7463,"NA_Celular",39,0.52
+408,"San Miguel Pochuta",7463,"Usa Computadora",1228,16.45
+408,"San Miguel Pochuta",7463,"No usa Computadora",6192,82.97
+408,"San Miguel Pochuta",7463,"NA_Computadora",43,0.58
+408,"San Miguel Pochuta",7463,"Usa Internet",1318,17.66
+408,"San Miguel Pochuta",7463,"No usa Internet",6066,81.28
+408,"San Miguel Pochuta",7463,"NA_Internet",79,1.06
+409,"Patzicía",28069,"Usa Celular",17739,63.2
+409,"Patzicía",28069,"No Usa Celular",9969,35.52
+409,"Patzicía",28069,"NA_Celular",361,1.29
+409,"Patzicía",28069,"Usa Computadora",4888,17.41
+409,"Patzicía",28069,"No usa Computadora",22885,81.53
+409,"Patzicía",28069,"NA_Computadora",296,1.05
+409,"Patzicía",28069,"Usa Internet",6422,22.88
+409,"Patzicía",28069,"No usa Internet",21223,75.61
+409,"Patzicía",28069,"NA_Internet",424,1.51
+410,"Santa Cruz Balanyá",7931,"Usa Celular",5144,64.86
+410,"Santa Cruz Balanyá",7931,"No Usa Celular",2764,34.85
+410,"Santa Cruz Balanyá",7931,"NA_Celular",23,0.29
+410,"Santa Cruz Balanyá",7931,"Usa Computadora",2619,33.02
+410,"Santa Cruz Balanyá",7931,"No usa Computadora",5293,66.74
+410,"Santa Cruz Balanyá",7931,"NA_Computadora",19,0.24
+410,"Santa Cruz Balanyá",7931,"Usa Internet",3020,38.08
+410,"Santa Cruz Balanyá",7931,"No usa Internet",4880,61.53
+410,"Santa Cruz Balanyá",7931,"NA_Internet",31,0.39
+411,"Acatenango",19335,"Usa Celular",12206,63.13
+411,"Acatenango",19335,"No Usa Celular",6906,35.72
+411,"Acatenango",19335,"NA_Celular",223,1.15
+411,"Acatenango",19335,"Usa Computadora",3187,16.48
+411,"Acatenango",19335,"No usa Computadora",15976,82.63
+411,"Acatenango",19335,"NA_Computadora",172,0.89
+411,"Acatenango",19335,"Usa Internet",4927,25.48
+411,"Acatenango",19335,"No usa Internet",14122,73.04
+411,"Acatenango",19335,"NA_Internet",286,1.48
+412,"San Pedro Yepocapa",28758,"Usa Celular",15656,54.44
+412,"San Pedro Yepocapa",28758,"No Usa Celular",12938,44.99
+412,"San Pedro Yepocapa",28758,"NA_Celular",164,0.57
+412,"San Pedro Yepocapa",28758,"Usa Computadora",4671,16.24
+412,"San Pedro Yepocapa",28758,"No usa Computadora",23976,83.37
+412,"San Pedro Yepocapa",28758,"NA_Computadora",111,0.39
+412,"San Pedro Yepocapa",28758,"Usa Internet",7584,26.37
+412,"San Pedro Yepocapa",28758,"No usa Internet",21004,73.04
+412,"San Pedro Yepocapa",28758,"NA_Internet",170,0.59
+413,"San Andrés Itzapa",26742,"Usa Celular",15555,58.17
+413,"San Andrés Itzapa",26742,"No Usa Celular",10852,40.58
+413,"San Andrés Itzapa",26742,"NA_Celular",335,1.25
+413,"San Andrés Itzapa",26742,"Usa Computadora",5277,19.73
+413,"San Andrés Itzapa",26742,"No usa Computadora",21239,79.42
+413,"San Andrés Itzapa",26742,"NA_Computadora",226,0.85
+413,"San Andrés Itzapa",26742,"Usa Internet",6972,26.07
+413,"San Andrés Itzapa",26742,"No usa Internet",19393,72.52
+413,"San Andrés Itzapa",26742,"NA_Internet",377,1.41
+414,"Parramos",13554,"Usa Celular",8774,64.73
+414,"Parramos",13554,"No Usa Celular",4607,33.99
+414,"Parramos",13554,"NA_Celular",173,1.28
+414,"Parramos",13554,"Usa Computadora",3533,26.07
+414,"Parramos",13554,"No usa Computadora",9864,72.78
+414,"Parramos",13554,"NA_Computadora",157,1.16
+414,"Parramos",13554,"Usa Internet",4288,31.64
+414,"Parramos",13554,"No usa Internet",9045,66.73
+414,"Parramos",13554,"NA_Internet",221,1.63
+415,"Zaragoza",20166,"Usa Celular",13561,67.25
+415,"Zaragoza",20166,"No Usa Celular",6432,31.9
+415,"Zaragoza",20166,"NA_Celular",173,0.86
+415,"Zaragoza",20166,"Usa Computadora",4439,22.01
+415,"Zaragoza",20166,"No usa Computadora",15572,77.22
+415,"Zaragoza",20166,"NA_Computadora",155,0.77
+415,"Zaragoza",20166,"Usa Internet",6338,31.43
+415,"Zaragoza",20166,"No usa Internet",13639,67.63
+415,"Zaragoza",20166,"NA_Internet",189,0.94
+416,"El Tejar",16775,"Usa Celular",12199,72.72
+416,"El Tejar",16775,"No Usa Celular",4180,24.92
+416,"El Tejar",16775,"NA_Celular",396,2.36
+416,"El Tejar",16775,"Usa Computadora",5216,31.09
+416,"El Tejar",16775,"No usa Computadora",11159,66.52
+416,"El Tejar",16775,"NA_Computadora",400,2.38
+416,"El Tejar",16775,"Usa Internet",7484,44.61
+416,"El Tejar",16775,"No usa Internet",8825,52.61
+416,"El Tejar",16775,"NA_Internet",466,2.78
+501,"Escuintla",135581,"Usa Celular",91013,67.13
+501,"Escuintla",135581,"No Usa Celular",41597,30.68
+501,"Escuintla",135581,"NA_Celular",2971,2.19
+501,"Escuintla",135581,"Usa Computadora",31694,23.38
+501,"Escuintla",135581,"No usa Computadora",100913,74.43
+501,"Escuintla",135581,"NA_Computadora",2974,2.19
+501,"Escuintla",135581,"Usa Internet",45591,33.63
+501,"Escuintla",135581,"No usa Internet",86207,63.58
+501,"Escuintla",135581,"NA_Internet",3783,2.79
+502,"Santa Lucía Cotzumalguapa",95804,"Usa Celular",56445,58.92
+502,"Santa Lucía Cotzumalguapa",95804,"No Usa Celular",36976,38.6
+502,"Santa Lucía Cotzumalguapa",95804,"NA_Celular",2383,2.49
+502,"Santa Lucía Cotzumalguapa",95804,"Usa Computadora",16059,16.76
+502,"Santa Lucía Cotzumalguapa",95804,"No usa Computadora",77639,81.04
+502,"Santa Lucía Cotzumalguapa",95804,"NA_Computadora",2106,2.2
+502,"Santa Lucía Cotzumalguapa",95804,"Usa Internet",22604,23.59
+502,"Santa Lucía Cotzumalguapa",95804,"No usa Internet",70378,73.46
+502,"Santa Lucía Cotzumalguapa",95804,"NA_Internet",2822,2.95
+503,"La Democracia",19293,"Usa Celular",12372,64.13
+503,"La Democracia",19293,"No Usa Celular",6741,34.94
+503,"La Democracia",19293,"NA_Celular",180,0.93
+503,"La Democracia",19293,"Usa Computadora",3211,16.64
+503,"La Democracia",19293,"No usa Computadora",15934,82.59
+503,"La Democracia",19293,"NA_Computadora",148,0.77
+503,"La Democracia",19293,"Usa Internet",5834,30.24
+503,"La Democracia",19293,"No usa Internet",13256,68.71
+503,"La Democracia",19293,"NA_Internet",203,1.05
+504,"Siquinalá",19307,"Usa Celular",11207,58.05
+504,"Siquinalá",19307,"No Usa Celular",7464,38.66
+504,"Siquinalá",19307,"NA_Celular",636,3.29
+504,"Siquinalá",19307,"Usa Computadora",2931,15.18
+504,"Siquinalá",19307,"No usa Computadora",15728,81.46
+504,"Siquinalá",19307,"NA_Computadora",648,3.36
+504,"Siquinalá",19307,"Usa Internet",4702,24.35
+504,"Siquinalá",19307,"No usa Internet",13805,71.5
+504,"Siquinalá",19307,"NA_Internet",800,4.14
+505,"Masagua",38004,"Usa Celular",21814,57.4
+505,"Masagua",38004,"No Usa Celular",15473,40.71
+505,"Masagua",38004,"NA_Celular",717,1.89
+505,"Masagua",38004,"Usa Computadora",3607,9.49
+505,"Masagua",38004,"No usa Computadora",33787,88.9
+505,"Masagua",38004,"NA_Computadora",610,1.61
+505,"Masagua",38004,"Usa Internet",8146,21.43
+505,"Masagua",38004,"No usa Internet",28994,76.29
+505,"Masagua",38004,"NA_Internet",864,2.27
+506,"Tiquisate",48081,"Usa Celular",30302,63.02
+506,"Tiquisate",48081,"No Usa Celular",17148,35.66
+506,"Tiquisate",48081,"NA_Celular",631,1.31
+506,"Tiquisate",48081,"Usa Computadora",5688,11.83
+506,"Tiquisate",48081,"No usa Computadora",41796,86.93
+506,"Tiquisate",48081,"NA_Computadora",597,1.24
+506,"Tiquisate",48081,"Usa Internet",13526,28.13
+506,"Tiquisate",48081,"No usa Internet",33809,70.32
+506,"Tiquisate",48081,"NA_Internet",746,1.55
+507,"La Gomera",39179,"Usa Celular",23777,60.69
+507,"La Gomera",39179,"No Usa Celular",14969,38.21
+507,"La Gomera",39179,"NA_Celular",433,1.11
+507,"La Gomera",39179,"Usa Computadora",4070,10.39
+507,"La Gomera",39179,"No usa Computadora",34734,88.65
+507,"La Gomera",39179,"NA_Computadora",375,0.96
+507,"La Gomera",39179,"Usa Internet",7734,19.74
+507,"La Gomera",39179,"No usa Internet",30896,78.86
+507,"La Gomera",39179,"NA_Internet",549,1.4
+508,"Guanagazapa",13346,"Usa Celular",6685,50.09
+508,"Guanagazapa",13346,"No Usa Celular",6443,48.28
+508,"Guanagazapa",13346,"NA_Celular",218,1.63
+508,"Guanagazapa",13346,"Usa Computadora",943,7.07
+508,"Guanagazapa",13346,"No usa Computadora",12244,91.74
+508,"Guanagazapa",13346,"NA_Computadora",159,1.19
+508,"Guanagazapa",13346,"Usa Internet",1757,13.16
+508,"Guanagazapa",13346,"No usa Internet",11367,85.17
+508,"Guanagazapa",13346,"NA_Internet",222,1.66
+509,"San José",53388,"Usa Celular",35465,66.43
+509,"San José",53388,"No Usa Celular",17072,31.98
+509,"San José",53388,"NA_Celular",851,1.59
+509,"San José",53388,"Usa Computadora",6713,12.57
+509,"San José",53388,"No usa Computadora",45811,85.81
+509,"San José",53388,"NA_Computadora",864,1.62
+509,"San José",53388,"Usa Internet",12754,23.89
+509,"San José",53388,"No usa Internet",39428,73.85
+509,"San José",53388,"NA_Internet",1206,2.26
+510,"Iztapa",15581,"Usa Celular",10303,66.13
+510,"Iztapa",15581,"No Usa Celular",5194,33.34
+510,"Iztapa",15581,"NA_Celular",84,0.54
+510,"Iztapa",15581,"Usa Computadora",1769,11.35
+510,"Iztapa",15581,"No usa Computadora",13689,87.86
+510,"Iztapa",15581,"NA_Computadora",123,0.79
+510,"Iztapa",15581,"Usa Internet",5114,32.82
+510,"Iztapa",15581,"No usa Internet",10347,66.41
+510,"Iztapa",15581,"NA_Internet",120,0.77
+511,"Palín",56334,"Usa Celular",40429,71.77
+511,"Palín",56334,"No Usa Celular",15050,26.72
+511,"Palín",56334,"NA_Celular",855,1.52
+511,"Palín",56334,"Usa Computadora",15583,27.66
+511,"Palín",56334,"No usa Computadora",39889,70.81
+511,"Palín",56334,"NA_Computadora",862,1.53
+511,"Palín",56334,"Usa Internet",21687,38.5
+511,"Palín",56334,"No usa Internet",33511,59.49
+511,"Palín",56334,"NA_Internet",1136,2.02
+512,"San Vicente Pacaya",14221,"Usa Celular",9050,63.64
+512,"San Vicente Pacaya",14221,"No Usa Celular",5062,35.6
+512,"San Vicente Pacaya",14221,"NA_Celular",109,0.77
+512,"San Vicente Pacaya",14221,"Usa Computadora",2230,15.68
+512,"San Vicente Pacaya",14221,"No usa Computadora",11874,83.5
+512,"San Vicente Pacaya",14221,"NA_Computadora",117,0.82
+512,"San Vicente Pacaya",14221,"Usa Internet",3612,25.4
+512,"San Vicente Pacaya",14221,"No usa Internet",10468,73.61
+512,"San Vicente Pacaya",14221,"NA_Internet",141,0.99
+513,"Nueva Concepción",61150,"Usa Celular",39818,65.12
+513,"Nueva Concepción",61150,"No Usa Celular",20934,34.23
+513,"Nueva Concepción",61150,"NA_Celular",398,0.65
+513,"Nueva Concepción",61150,"Usa Computadora",6663,10.9
+513,"Nueva Concepción",61150,"No usa Computadora",54108,88.48
+513,"Nueva Concepción",61150,"NA_Computadora",379,0.62
+513,"Nueva Concepción",61150,"Usa Internet",8704,14.23
+513,"Nueva Concepción",61150,"No usa Internet",51938,84.94
+513,"Nueva Concepción",61150,"NA_Internet",508,0.83
+514,"Sipacate",13740,"Usa Celular",7973,58.03
+514,"Sipacate",13740,"No Usa Celular",5528,40.23
+514,"Sipacate",13740,"NA_Celular",239,1.74
+514,"Sipacate",13740,"Usa Computadora",1520,11.06
+514,"Sipacate",13740,"No usa Computadora",12080,87.92
+514,"Sipacate",13740,"NA_Computadora",140,1.02
+514,"Sipacate",13740,"Usa Internet",3469,25.25
+514,"Sipacate",13740,"No usa Internet",10045,73.11
+514,"Sipacate",13740,"NA_Internet",226,1.64
+601,"Cuilapa",35176,"Usa Celular",23164,65.85
+601,"Cuilapa",35176,"No Usa Celular",11611,33.01
+601,"Cuilapa",35176,"NA_Celular",401,1.14
+601,"Cuilapa",35176,"Usa Computadora",7112,20.22
+601,"Cuilapa",35176,"No usa Computadora",27749,78.89
+601,"Cuilapa",35176,"NA_Computadora",315,0.9
+601,"Cuilapa",35176,"Usa Internet",12208,34.71
+601,"Cuilapa",35176,"No usa Internet",22372,63.6
+601,"Cuilapa",35176,"NA_Internet",596,1.69
+602,"Barberena",49388,"Usa Celular",32325,65.45
+602,"Barberena",49388,"No Usa Celular",16701,33.82
+602,"Barberena",49388,"NA_Celular",362,0.73
+602,"Barberena",49388,"Usa Computadora",9472,19.18
+602,"Barberena",49388,"No usa Computadora",39609,80.2
+602,"Barberena",49388,"NA_Computadora",307,0.62
+602,"Barberena",49388,"Usa Internet",16042,32.48
+602,"Barberena",49388,"No usa Internet",32932,66.68
+602,"Barberena",49388,"NA_Internet",414,0.84
+603,"Santa Rosa de Lima",16734,"Usa Celular",11548,69.01
+603,"Santa Rosa de Lima",16734,"No Usa Celular",5063,30.26
+603,"Santa Rosa de Lima",16734,"NA_Celular",123,0.74
+603,"Santa Rosa de Lima",16734,"Usa Computadora",2858,17.08
+603,"Santa Rosa de Lima",16734,"No usa Computadora",13798,82.45
+603,"Santa Rosa de Lima",16734,"NA_Computadora",78,0.47
+603,"Santa Rosa de Lima",16734,"Usa Internet",6206,37.09
+603,"Santa Rosa de Lima",16734,"No usa Internet",10401,62.15
+603,"Santa Rosa de Lima",16734,"NA_Internet",127,0.76
+604,"Casillas",21176,"Usa Celular",13692,64.66
+604,"Casillas",21176,"No Usa Celular",7353,34.72
+604,"Casillas",21176,"NA_Celular",131,0.62
+604,"Casillas",21176,"Usa Computadora",2246,10.61
+604,"Casillas",21176,"No usa Computadora",18824,88.89
+604,"Casillas",21176,"NA_Computadora",106,0.5
+604,"Casillas",21176,"Usa Internet",6145,29.02
+604,"Casillas",21176,"No usa Internet",14891,70.32
+604,"Casillas",21176,"NA_Internet",140,0.66
+605,"San Rafael las Flores",10535,"Usa Celular",6232,59.16
+605,"San Rafael las Flores",10535,"No Usa Celular",4253,40.37
+605,"San Rafael las Flores",10535,"NA_Celular",50,0.47
+605,"San Rafael las Flores",10535,"Usa Computadora",1292,12.26
+605,"San Rafael las Flores",10535,"No usa Computadora",9193,87.26
+605,"San Rafael las Flores",10535,"NA_Computadora",50,0.47
+605,"San Rafael las Flores",10535,"Usa Internet",2454,23.29
+605,"San Rafael las Flores",10535,"No usa Internet",8017,76.1
+605,"San Rafael las Flores",10535,"NA_Internet",64,0.61
+606,"Oratorio",21058,"Usa Celular",13685,64.99
+606,"Oratorio",21058,"No Usa Celular",7264,34.5
+606,"Oratorio",21058,"NA_Celular",109,0.52
+606,"Oratorio",21058,"Usa Computadora",3385,16.07
+606,"Oratorio",21058,"No usa Computadora",17584,83.5
+606,"Oratorio",21058,"NA_Computadora",89,0.42
+606,"Oratorio",21058,"Usa Internet",5955,28.28
+606,"Oratorio",21058,"No usa Internet",14884,70.68
+606,"Oratorio",21058,"NA_Internet",219,1.04
+607,"San Juan Tecuaco",8476,"Usa Celular",4715,55.63
+607,"San Juan Tecuaco",8476,"No Usa Celular",3716,43.84
+607,"San Juan Tecuaco",8476,"NA_Celular",45,0.53
+607,"San Juan Tecuaco",8476,"Usa Computadora",1279,15.09
+607,"San Juan Tecuaco",8476,"No usa Computadora",7179,84.7
+607,"San Juan Tecuaco",8476,"NA_Computadora",18,0.21
+607,"San Juan Tecuaco",8476,"Usa Internet",1873,22.1
+607,"San Juan Tecuaco",8476,"No usa Internet",6549,77.27
+607,"San Juan Tecuaco",8476,"NA_Internet",54,0.64
+608,"Chiquimulilla",45898,"Usa Celular",30491,66.43
+608,"Chiquimulilla",45898,"No Usa Celular",15033,32.75
+608,"Chiquimulilla",45898,"NA_Celular",374,0.81
+608,"Chiquimulilla",45898,"Usa Computadora",6820,14.86
+608,"Chiquimulilla",45898,"No usa Computadora",38634,84.17
+608,"Chiquimulilla",45898,"NA_Computadora",444,0.97
+608,"Chiquimulilla",45898,"Usa Internet",11703,25.5
+608,"Chiquimulilla",45898,"No usa Internet",33520,73.03
+608,"Chiquimulilla",45898,"NA_Internet",675,1.47
+609,"Taxisco",25394,"Usa Celular",16547,65.16
+609,"Taxisco",25394,"No Usa Celular",8712,34.31
+609,"Taxisco",25394,"NA_Celular",135,0.53
+609,"Taxisco",25394,"Usa Computadora",3224,12.7
+609,"Taxisco",25394,"No usa Computadora",22015,86.69
+609,"Taxisco",25394,"NA_Computadora",155,0.61
+609,"Taxisco",25394,"Usa Internet",4720,18.59
+609,"Taxisco",25394,"No usa Internet",20472,80.62
+609,"Taxisco",25394,"NA_Internet",202,0.8
+610,"Santa María Ixhuatán",20106,"Usa Celular",12837,63.85
+610,"Santa María Ixhuatán",20106,"No Usa Celular",7163,35.63
+610,"Santa María Ixhuatán",20106,"NA_Celular",106,0.53
+610,"Santa María Ixhuatán",20106,"Usa Computadora",2342,11.65
+610,"Santa María Ixhuatán",20106,"No usa Computadora",17656,87.81
+610,"Santa María Ixhuatán",20106,"NA_Computadora",108,0.54
+610,"Santa María Ixhuatán",20106,"Usa Internet",4960,24.67
+610,"Santa María Ixhuatán",20106,"No usa Internet",15010,74.65
+610,"Santa María Ixhuatán",20106,"NA_Internet",136,0.68
+611,"Guazacapán",15935,"Usa Celular",10384,65.16
+611,"Guazacapán",15935,"No Usa Celular",5476,34.36
+611,"Guazacapán",15935,"NA_Celular",75,0.47
+611,"Guazacapán",15935,"Usa Computadora",3616,22.69
+611,"Guazacapán",15935,"No usa Computadora",12226,76.72
+611,"Guazacapán",15935,"NA_Computadora",93,0.58
+611,"Guazacapán",15935,"Usa Internet",5283,33.15
+611,"Guazacapán",15935,"No usa Internet",10558,66.26
+611,"Guazacapán",15935,"NA_Internet",94,0.59
+612,"Santa Cruz Naranjo",13984,"Usa Celular",9996,71.48
+612,"Santa Cruz Naranjo",13984,"No Usa Celular",3921,28.04
+612,"Santa Cruz Naranjo",13984,"NA_Celular",67,0.48
+612,"Santa Cruz Naranjo",13984,"Usa Computadora",3303,23.62
+612,"Santa Cruz Naranjo",13984,"No usa Computadora",10631,76.02
+612,"Santa Cruz Naranjo",13984,"NA_Computadora",50,0.36
+612,"Santa Cruz Naranjo",13984,"Usa Internet",5958,42.61
+612,"Santa Cruz Naranjo",13984,"No usa Internet",7963,56.94
+612,"Santa Cruz Naranjo",13984,"NA_Internet",63,0.45
+613,"Pueblo Nuevo Viñas",21419,"Usa Celular",12891,60.18
+613,"Pueblo Nuevo Viñas",21419,"No Usa Celular",8417,39.3
+613,"Pueblo Nuevo Viñas",21419,"NA_Celular",111,0.52
+613,"Pueblo Nuevo Viñas",21419,"Usa Computadora",2157,10.07
+613,"Pueblo Nuevo Viñas",21419,"No usa Computadora",19157,89.44
+613,"Pueblo Nuevo Viñas",21419,"NA_Computadora",105,0.49
+613,"Pueblo Nuevo Viñas",21419,"Usa Internet",3618,16.89
+613,"Pueblo Nuevo Viñas",21419,"No usa Internet",17623,82.28
+613,"Pueblo Nuevo Viñas",21419,"NA_Internet",178,0.83
+614,"Nueva Santa Rosa",31041,"Usa Celular",20302,65.4
+614,"Nueva Santa Rosa",31041,"No Usa Celular",10600,34.15
+614,"Nueva Santa Rosa",31041,"NA_Celular",139,0.45
+614,"Nueva Santa Rosa",31041,"Usa Computadora",5729,18.46
+614,"Nueva Santa Rosa",31041,"No usa Computadora",25196,81.17
+614,"Nueva Santa Rosa",31041,"NA_Computadora",116,0.37
+614,"Nueva Santa Rosa",31041,"Usa Internet",10154,32.71
+614,"Nueva Santa Rosa",31041,"No usa Internet",20735,66.8
+614,"Nueva Santa Rosa",31041,"NA_Internet",152,0.49
+701,"Sololá",75102,"Usa Celular",47386,63.1
+701,"Sololá",75102,"No Usa Celular",26897,35.81
+701,"Sololá",75102,"NA_Celular",819,1.09
+701,"Sololá",75102,"Usa Computadora",13887,18.49
+701,"Sololá",75102,"No usa Computadora",60568,80.65
+701,"Sololá",75102,"NA_Computadora",647,0.86
+701,"Sololá",75102,"Usa Internet",17599,23.43
+701,"Sololá",75102,"No usa Internet",56413,75.12
+701,"Sololá",75102,"NA_Internet",1090,1.45
+702,"San José Chacayá",3387,"Usa Celular",1925,56.83
+702,"San José Chacayá",3387,"No Usa Celular",1426,42.1
+702,"San José Chacayá",3387,"NA_Celular",36,1.06
+702,"San José Chacayá",3387,"Usa Computadora",555,16.39
+702,"San José Chacayá",3387,"No usa Computadora",2805,82.82
+702,"San José Chacayá",3387,"NA_Computadora",27,0.8
+702,"San José Chacayá",3387,"Usa Internet",548,16.18
+702,"San José Chacayá",3387,"No usa Internet",2783,82.17
+702,"San José Chacayá",3387,"NA_Internet",56,1.65
+703,"Santa María Visitación",2059,"Usa Celular",1591,77.27
+703,"Santa María Visitación",2059,"No Usa Celular",456,22.15
+703,"Santa María Visitación",2059,"NA_Celular",12,0.58
+703,"Santa María Visitación",2059,"Usa Computadora",966,46.92
+703,"Santa María Visitación",2059,"No usa Computadora",1081,52.5
+703,"Santa María Visitación",2059,"NA_Computadora",12,0.58
+703,"Santa María Visitación",2059,"Usa Internet",972,47.21
+703,"Santa María Visitación",2059,"No usa Internet",1072,52.06
+703,"Santa María Visitación",2059,"NA_Internet",15,0.73
+704,"Santa Lucía Utatlán",18358,"Usa Celular",11922,64.94
+704,"Santa Lucía Utatlán",18358,"No Usa Celular",6303,34.33
+704,"Santa Lucía Utatlán",18358,"NA_Celular",133,0.72
+704,"Santa Lucía Utatlán",18358,"Usa Computadora",3421,18.63
+704,"Santa Lucía Utatlán",18358,"No usa Computadora",14852,80.9
+704,"Santa Lucía Utatlán",18358,"NA_Computadora",85,0.46
+704,"Santa Lucía Utatlán",18358,"Usa Internet",4537,24.71
+704,"Santa Lucía Utatlán",18358,"No usa Internet",13694,74.59
+704,"Santa Lucía Utatlán",18358,"NA_Internet",127,0.69
+705,"Nahualá",63409,"Usa Celular",31939,50.37
+705,"Nahualá",63409,"No Usa Celular",30842,48.64
+705,"Nahualá",63409,"NA_Celular",628,0.99
+705,"Nahualá",63409,"Usa Computadora",6898,10.88
+705,"Nahualá",63409,"No usa Computadora",56072,88.43
+705,"Nahualá",63409,"NA_Computadora",439,0.69
+705,"Nahualá",63409,"Usa Internet",9338,14.73
+705,"Nahualá",63409,"No usa Internet",53183,83.87
+705,"Nahualá",63409,"NA_Internet",888,1.4
+706,"Santa Catarina Ixtahuacán",47679,"Usa Celular",20593,43.19
+706,"Santa Catarina Ixtahuacán",47679,"No Usa Celular",26346,55.26
+706,"Santa Catarina Ixtahuacán",47679,"NA_Celular",740,1.55
+706,"Santa Catarina Ixtahuacán",47679,"Usa Computadora",4295,9.01
+706,"Santa Catarina Ixtahuacán",47679,"No usa Computadora",42967,90.12
+706,"Santa Catarina Ixtahuacán",47679,"NA_Computadora",417,0.87
+706,"Santa Catarina Ixtahuacán",47679,"Usa Internet",5313,11.14
+706,"Santa Catarina Ixtahuacán",47679,"No usa Internet",41505,87.05
+706,"Santa Catarina Ixtahuacán",47679,"NA_Internet",861,1.81
+707,"Santa Clara la Laguna",8071,"Usa Celular",5253,65.08
+707,"Santa Clara la Laguna",8071,"No Usa Celular",2744,34
+707,"Santa Clara la Laguna",8071,"NA_Celular",74,0.92
+707,"Santa Clara la Laguna",8071,"Usa Computadora",2062,25.55
+707,"Santa Clara la Laguna",8071,"No usa Computadora",5967,73.93
+707,"Santa Clara la Laguna",8071,"NA_Computadora",42,0.52
+707,"Santa Clara la Laguna",8071,"Usa Internet",2165,26.82
+707,"Santa Clara la Laguna",8071,"No usa Internet",5824,72.16
+707,"Santa Clara la Laguna",8071,"NA_Internet",82,1.02
+708,"Concepción",5437,"Usa Celular",3009,55.34
+708,"Concepción",5437,"No Usa Celular",2357,43.35
+708,"Concepción",5437,"NA_Celular",71,1.31
+708,"Concepción",5437,"Usa Computadora",183,3.37
+708,"Concepción",5437,"No usa Computadora",5218,95.97
+708,"Concepción",5437,"NA_Computadora",36,0.66
+708,"Concepción",5437,"Usa Internet",395,7.27
+708,"Concepción",5437,"No usa Internet",4972,91.45
+708,"Concepción",5437,"NA_Internet",70,1.29
+709,"San Andrés Semetabaj",11114,"Usa Celular",6898,62.07
+709,"San Andrés Semetabaj",11114,"No Usa Celular",4088,36.78
+709,"San Andrés Semetabaj",11114,"NA_Celular",128,1.15
+709,"San Andrés Semetabaj",11114,"Usa Computadora",2178,19.6
+709,"San Andrés Semetabaj",11114,"No usa Computadora",8824,79.4
+709,"San Andrés Semetabaj",11114,"NA_Computadora",112,1.01
+709,"San Andrés Semetabaj",11114,"Usa Internet",3019,27.16
+709,"San Andrés Semetabaj",11114,"No usa Internet",7921,71.27
+709,"San Andrés Semetabaj",11114,"NA_Internet",174,1.57
+710,"Panajachel",13068,"Usa Celular",10067,77.04
+710,"Panajachel",13068,"No Usa Celular",2908,22.25
+710,"Panajachel",13068,"NA_Celular",93,0.71
+710,"Panajachel",13068,"Usa Computadora",5827,44.59
+710,"Panajachel",13068,"No usa Computadora",7175,54.91
+710,"Panajachel",13068,"NA_Computadora",66,0.51
+710,"Panajachel",13068,"Usa Internet",6913,52.9
+710,"Panajachel",13068,"No usa Internet",6058,46.36
+710,"Panajachel",13068,"NA_Internet",97,0.74
+711,"Santa Catarina Palopó",3323,"Usa Celular",1662,50.02
+711,"Santa Catarina Palopó",3323,"No Usa Celular",1600,48.15
+711,"Santa Catarina Palopó",3323,"NA_Celular",61,1.84
+711,"Santa Catarina Palopó",3323,"Usa Computadora",311,9.36
+711,"Santa Catarina Palopó",3323,"No usa Computadora",2964,89.2
+711,"Santa Catarina Palopó",3323,"NA_Computadora",48,1.44
+711,"Santa Catarina Palopó",3323,"Usa Internet",423,12.73
+711,"Santa Catarina Palopó",3323,"No usa Internet",2829,85.13
+711,"Santa Catarina Palopó",3323,"NA_Internet",71,2.14
+712,"San Antonio Palopó",12242,"Usa Celular",7106,58.05
+712,"San Antonio Palopó",12242,"No Usa Celular",5024,41.04
+712,"San Antonio Palopó",12242,"NA_Celular",112,0.91
+712,"San Antonio Palopó",12242,"Usa Computadora",1303,10.64
+712,"San Antonio Palopó",12242,"No usa Computadora",10821,88.39
+712,"San Antonio Palopó",12242,"NA_Computadora",118,0.96
+712,"San Antonio Palopó",12242,"Usa Internet",2002,16.35
+712,"San Antonio Palopó",12242,"No usa Internet",10066,82.23
+712,"San Antonio Palopó",12242,"NA_Internet",174,1.42
+713,"San Lucas Tolimán",25377,"Usa Celular",13558,53.43
+713,"San Lucas Tolimán",25377,"No Usa Celular",11534,45.45
+713,"San Lucas Tolimán",25377,"NA_Celular",285,1.12
+713,"San Lucas Tolimán",25377,"Usa Computadora",4233,16.68
+713,"San Lucas Tolimán",25377,"No usa Computadora",20897,82.35
+713,"San Lucas Tolimán",25377,"NA_Computadora",247,0.97
+713,"San Lucas Tolimán",25377,"Usa Internet",4759,18.75
+713,"San Lucas Tolimán",25377,"No usa Internet",20235,79.74
+713,"San Lucas Tolimán",25377,"NA_Internet",383,1.51
+714,"Santa Cruz la Laguna",4846,"Usa Celular",2719,56.11
+714,"Santa Cruz la Laguna",4846,"No Usa Celular",2093,43.19
+714,"Santa Cruz la Laguna",4846,"NA_Celular",34,0.7
+714,"Santa Cruz la Laguna",4846,"Usa Computadora",769,15.87
+714,"Santa Cruz la Laguna",4846,"No usa Computadora",4063,83.84
+714,"Santa Cruz la Laguna",4846,"NA_Computadora",14,0.29
+714,"Santa Cruz la Laguna",4846,"Usa Internet",1135,23.42
+714,"Santa Cruz la Laguna",4846,"No usa Internet",3679,75.92
+714,"Santa Cruz la Laguna",4846,"NA_Internet",32,0.66
+715,"San Pablo la Laguna",6329,"Usa Celular",3248,51.32
+715,"San Pablo la Laguna",6329,"No Usa Celular",3044,48.1
+715,"San Pablo la Laguna",6329,"NA_Celular",37,0.58
+715,"San Pablo la Laguna",6329,"Usa Computadora",773,12.21
+715,"San Pablo la Laguna",6329,"No usa Computadora",5532,87.41
+715,"San Pablo la Laguna",6329,"NA_Computadora",24,0.38
+715,"San Pablo la Laguna",6329,"Usa Internet",776,12.26
+715,"San Pablo la Laguna",6329,"No usa Internet",5480,86.59
+715,"San Pablo la Laguna",6329,"NA_Internet",73,1.15
+716,"San Marcos la Laguna",2298,"Usa Celular",1527,66.45
+716,"San Marcos la Laguna",2298,"No Usa Celular",748,32.55
+716,"San Marcos la Laguna",2298,"NA_Celular",23,1
+716,"San Marcos la Laguna",2298,"Usa Computadora",925,40.25
+716,"San Marcos la Laguna",2298,"No usa Computadora",1359,59.14
+716,"San Marcos la Laguna",2298,"NA_Computadora",14,0.61
+716,"San Marcos la Laguna",2298,"Usa Internet",972,42.3
+716,"San Marcos la Laguna",2298,"No usa Internet",1308,56.92
+716,"San Marcos la Laguna",2298,"NA_Internet",18,0.78
+717,"San Juan la Laguna",10300,"Usa Celular",6898,66.97
+717,"San Juan la Laguna",10300,"No Usa Celular",3293,31.97
+717,"San Juan la Laguna",10300,"NA_Celular",109,1.06
+717,"San Juan la Laguna",10300,"Usa Computadora",3262,31.67
+717,"San Juan la Laguna",10300,"No usa Computadora",6965,67.62
+717,"San Juan la Laguna",10300,"NA_Computadora",73,0.71
+717,"San Juan la Laguna",10300,"Usa Internet",3382,32.83
+717,"San Juan la Laguna",10300,"No usa Internet",6733,65.37
+717,"San Juan la Laguna",10300,"NA_Internet",185,1.8
+718,"San Pedro la Laguna",9447,"Usa Celular",6629,70.17
+718,"San Pedro la Laguna",9447,"No Usa Celular",2722,28.81
+718,"San Pedro la Laguna",9447,"NA_Celular",96,1.02
+718,"San Pedro la Laguna",9447,"Usa Computadora",3307,35.01
+718,"San Pedro la Laguna",9447,"No usa Computadora",6064,64.19
+718,"San Pedro la Laguna",9447,"NA_Computadora",76,0.8
+718,"San Pedro la Laguna",9447,"Usa Internet",3537,37.44
+718,"San Pedro la Laguna",9447,"No usa Internet",5757,60.94
+718,"San Pedro la Laguna",9447,"NA_Internet",153,1.62
+719,"Santiago Atitlán",36611,"Usa Celular",19548,53.39
+719,"Santiago Atitlán",36611,"No Usa Celular",16540,45.18
+719,"Santiago Atitlán",36611,"NA_Celular",523,1.43
+719,"Santiago Atitlán",36611,"Usa Computadora",5229,14.28
+719,"Santiago Atitlán",36611,"No usa Computadora",31108,84.97
+719,"Santiago Atitlán",36611,"NA_Computadora",274,0.75
+719,"Santiago Atitlán",36611,"Usa Internet",6352,17.35
+719,"Santiago Atitlán",36611,"No usa Internet",29682,81.07
+719,"Santiago Atitlán",36611,"NA_Internet",577,1.58
+801,"Totonicapán",90604,"Usa Celular",59101,65.23
+801,"Totonicapán",90604,"No Usa Celular",30391,33.54
+801,"Totonicapán",90604,"NA_Celular",1112,1.23
+801,"Totonicapán",90604,"Usa Computadora",21146,23.34
+801,"Totonicapán",90604,"No usa Computadora",68678,75.8
+801,"Totonicapán",90604,"NA_Computadora",780,0.86
+801,"Totonicapán",90604,"Usa Internet",28454,31.4
+801,"Totonicapán",90604,"No usa Internet",60881,67.19
+801,"Totonicapán",90604,"NA_Internet",1269,1.4
+802,"San Cristóbal Totonicapán",31310,"Usa Celular",17306,55.27
+802,"San Cristóbal Totonicapán",31310,"No Usa Celular",12254,39.14
+802,"San Cristóbal Totonicapán",31310,"NA_Celular",1750,5.59
+802,"San Cristóbal Totonicapán",31310,"Usa Computadora",4456,14.23
+802,"San Cristóbal Totonicapán",31310,"No usa Computadora",25810,82.43
+802,"San Cristóbal Totonicapán",31310,"NA_Computadora",1044,3.33
+802,"San Cristóbal Totonicapán",31310,"Usa Internet",6324,20.2
+802,"San Cristóbal Totonicapán",31310,"No usa Internet",23148,73.93
+802,"San Cristóbal Totonicapán",31310,"NA_Internet",1838,5.87
+803,"San Francisco el Alto",49012,"Usa Celular",25711,52.46
+803,"San Francisco el Alto",49012,"No Usa Celular",19951,40.71
+803,"San Francisco el Alto",49012,"NA_Celular",3350,6.84
+803,"San Francisco el Alto",49012,"Usa Computadora",4714,9.62
+803,"San Francisco el Alto",49012,"No usa Computadora",42202,86.11
+803,"San Francisco el Alto",49012,"NA_Computadora",2096,4.28
+803,"San Francisco el Alto",49012,"Usa Internet",8310,16.96
+803,"San Francisco el Alto",49012,"No usa Internet",37151,75.8
+803,"San Francisco el Alto",49012,"NA_Internet",3551,7.25
+804,"San Andrés Xecul",22806,"Usa Celular",11926,52.29
+804,"San Andrés Xecul",22806,"No Usa Celular",10460,45.87
+804,"San Andrés Xecul",22806,"NA_Celular",420,1.84
+804,"San Andrés Xecul",22806,"Usa Computadora",3081,13.51
+804,"San Andrés Xecul",22806,"No usa Computadora",19438,85.23
+804,"San Andrés Xecul",22806,"NA_Computadora",287,1.26
+804,"San Andrés Xecul",22806,"Usa Internet",4362,19.13
+804,"San Andrés Xecul",22806,"No usa Internet",17982,78.85
+804,"San Andrés Xecul",22806,"NA_Internet",462,2.03
+805,"Momostenango",86389,"Usa Celular",44053,50.99
+805,"Momostenango",86389,"No Usa Celular",40157,46.48
+805,"Momostenango",86389,"NA_Celular",2179,2.52
+805,"Momostenango",86389,"Usa Computadora",7540,8.73
+805,"Momostenango",86389,"No usa Computadora",77400,89.59
+805,"Momostenango",86389,"NA_Computadora",1449,1.68
+805,"Momostenango",86389,"Usa Internet",11459,13.26
+805,"Momostenango",86389,"No usa Internet",72356,83.76
+805,"Momostenango",86389,"NA_Internet",2574,2.98
+806,"Santa María Chiquimula",44425,"Usa Celular",20882,47.01
+806,"Santa María Chiquimula",44425,"No Usa Celular",22759,51.23
+806,"Santa María Chiquimula",44425,"NA_Celular",784,1.76
+806,"Santa María Chiquimula",44425,"Usa Computadora",2569,5.78
+806,"Santa María Chiquimula",44425,"No usa Computadora",41356,93.09
+806,"Santa María Chiquimula",44425,"NA_Computadora",500,1.13
+806,"Santa María Chiquimula",44425,"Usa Internet",3791,8.53
+806,"Santa María Chiquimula",44425,"No usa Internet",39643,89.24
+806,"Santa María Chiquimula",44425,"NA_Internet",991,2.23
+807,"Santa Lucía la Reforma",17677,"Usa Celular",8821,49.9
+807,"Santa Lucía la Reforma",17677,"No Usa Celular",8591,48.6
+807,"Santa Lucía la Reforma",17677,"NA_Celular",265,1.5
+807,"Santa Lucía la Reforma",17677,"Usa Computadora",467,2.64
+807,"Santa Lucía la Reforma",17677,"No usa Computadora",17075,96.59
+807,"Santa Lucía la Reforma",17677,"NA_Computadora",135,0.76
+807,"Santa Lucía la Reforma",17677,"Usa Internet",1565,8.85
+807,"Santa Lucía la Reforma",17677,"No usa Internet",15783,89.29
+807,"Santa Lucía la Reforma",17677,"NA_Internet",329,1.86
+808,"San Bartolo Aguas Calientes",8596,"Usa Celular",4947,57.55
+808,"San Bartolo Aguas Calientes",8596,"No Usa Celular",3533,41.1
+808,"San Bartolo Aguas Calientes",8596,"NA_Celular",116,1.35
+808,"San Bartolo Aguas Calientes",8596,"Usa Computadora",897,10.44
+808,"San Bartolo Aguas Calientes",8596,"No usa Computadora",7624,88.69
+808,"San Bartolo Aguas Calientes",8596,"NA_Computadora",75,0.87
+808,"San Bartolo Aguas Calientes",8596,"Usa Internet",1237,14.39
+808,"San Bartolo Aguas Calientes",8596,"No usa Internet",7207,83.84
+808,"San Bartolo Aguas Calientes",8596,"NA_Internet",152,1.77
+901,"Quetzaltenango",158834,"Usa Celular",125472,79
+901,"Quetzaltenango",158834,"No Usa Celular",30723,19.34
+901,"Quetzaltenango",158834,"NA_Celular",2639,1.66
+901,"Quetzaltenango",158834,"Usa Computadora",76735,48.31
+901,"Quetzaltenango",158834,"No usa Computadora",79660,50.15
+901,"Quetzaltenango",158834,"NA_Computadora",2439,1.54
+901,"Quetzaltenango",158834,"Usa Internet",90090,56.72
+901,"Quetzaltenango",158834,"No usa Internet",65854,41.46
+901,"Quetzaltenango",158834,"NA_Internet",2890,1.82
+902,"Salcajá",17024,"Usa Celular",12828,75.35
+902,"Salcajá",17024,"No Usa Celular",4021,23.62
+902,"Salcajá",17024,"NA_Celular",175,1.03
+902,"Salcajá",17024,"Usa Computadora",6614,38.85
+902,"Salcajá",17024,"No usa Computadora",10242,60.16
+902,"Salcajá",17024,"NA_Computadora",168,0.99
+902,"Salcajá",17024,"Usa Internet",8504,49.95
+902,"Salcajá",17024,"No usa Internet",8310,48.81
+902,"Salcajá",17024,"NA_Internet",210,1.23
+903,"San Juan Olintepeque",29934,"Usa Celular",23246,77.66
+903,"San Juan Olintepeque",29934,"No Usa Celular",6477,21.64
+903,"San Juan Olintepeque",29934,"NA_Celular",211,0.7
+903,"San Juan Olintepeque",29934,"Usa Computadora",10716,35.8
+903,"San Juan Olintepeque",29934,"No usa Computadora",18957,63.33
+903,"San Juan Olintepeque",29934,"NA_Computadora",261,0.87
+903,"San Juan Olintepeque",29934,"Usa Internet",13395,44.75
+903,"San Juan Olintepeque",29934,"No usa Internet",16224,54.2
+903,"San Juan Olintepeque",29934,"NA_Internet",315,1.05
+904,"San Carlos Sija",25812,"Usa Celular",17179,66.55
+904,"San Carlos Sija",25812,"No Usa Celular",8337,32.3
+904,"San Carlos Sija",25812,"NA_Celular",296,1.15
+904,"San Carlos Sija",25812,"Usa Computadora",3173,12.29
+904,"San Carlos Sija",25812,"No usa Computadora",22383,86.72
+904,"San Carlos Sija",25812,"NA_Computadora",256,0.99
+904,"San Carlos Sija",25812,"Usa Internet",5047,19.55
+904,"San Carlos Sija",25812,"No usa Internet",20388,78.99
+904,"San Carlos Sija",25812,"NA_Internet",377,1.46
+905,"Sibilia",7094,"Usa Celular",5361,75.57
+905,"Sibilia",7094,"No Usa Celular",1691,23.84
+905,"Sibilia",7094,"NA_Celular",42,0.59
+905,"Sibilia",7094,"Usa Computadora",913,12.87
+905,"Sibilia",7094,"No usa Computadora",6116,86.21
+905,"Sibilia",7094,"NA_Computadora",65,0.92
+905,"Sibilia",7094,"Usa Internet",1831,25.81
+905,"Sibilia",7094,"No usa Internet",5178,72.99
+905,"Sibilia",7094,"NA_Internet",85,1.2
+906,"Cabricán",19462,"Usa Celular",11042,56.74
+906,"Cabricán",19462,"No Usa Celular",8232,42.3
+906,"Cabricán",19462,"NA_Celular",188,0.97
+906,"Cabricán",19462,"Usa Computadora",2117,10.88
+906,"Cabricán",19462,"No usa Computadora",17221,88.49
+906,"Cabricán",19462,"NA_Computadora",124,0.64
+906,"Cabricán",19462,"Usa Internet",2647,13.6
+906,"Cabricán",19462,"No usa Internet",16593,85.26
+906,"Cabricán",19462,"NA_Internet",222,1.14
+907,"Cajolá",11908,"Usa Celular",7856,65.97
+907,"Cajolá",11908,"No Usa Celular",3899,32.74
+907,"Cajolá",11908,"NA_Celular",153,1.28
+907,"Cajolá",11908,"Usa Computadora",883,7.42
+907,"Cajolá",11908,"No usa Computadora",10846,91.08
+907,"Cajolá",11908,"NA_Computadora",179,1.5
+907,"Cajolá",11908,"Usa Internet",1796,15.08
+907,"Cajolá",11908,"No usa Internet",9833,82.57
+907,"Cajolá",11908,"NA_Internet",279,2.34
+908,"San Miguel Siguilá",6369,"Usa Celular",4747,74.53
+908,"San Miguel Siguilá",6369,"No Usa Celular",1595,25.04
+908,"San Miguel Siguilá",6369,"NA_Celular",27,0.42
+908,"San Miguel Siguilá",6369,"Usa Computadora",1141,17.91
+908,"San Miguel Siguilá",6369,"No usa Computadora",5202,81.68
+908,"San Miguel Siguilá",6369,"NA_Computadora",26,0.41
+908,"San Miguel Siguilá",6369,"Usa Internet",1868,29.33
+908,"San Miguel Siguilá",6369,"No usa Internet",4454,69.93
+908,"San Miguel Siguilá",6369,"NA_Internet",47,0.74
+909,"San Juan Ostuncalco",42771,"Usa Celular",26389,61.7
+909,"San Juan Ostuncalco",42771,"No Usa Celular",14910,34.86
+909,"San Juan Ostuncalco",42771,"NA_Celular",1472,3.44
+909,"San Juan Ostuncalco",42771,"Usa Computadora",5736,13.41
+909,"San Juan Ostuncalco",42771,"No usa Computadora",35976,84.11
+909,"San Juan Ostuncalco",42771,"NA_Computadora",1059,2.48
+909,"San Juan Ostuncalco",42771,"Usa Internet",7392,17.28
+909,"San Juan Ostuncalco",42771,"No usa Internet",33737,78.88
+909,"San Juan Ostuncalco",42771,"NA_Internet",1642,3.84
+910,"San Mateo",6756,"Usa Celular",5085,75.27
+910,"San Mateo",6756,"No Usa Celular",1516,22.44
+910,"San Mateo",6756,"NA_Celular",155,2.29
+910,"San Mateo",6756,"Usa Computadora",2099,31.07
+910,"San Mateo",6756,"No usa Computadora",4514,66.81
+910,"San Mateo",6756,"NA_Computadora",143,2.12
+910,"San Mateo",6756,"Usa Internet",2108,31.2
+910,"San Mateo",6756,"No usa Internet",4442,65.75
+910,"San Mateo",6756,"NA_Internet",206,3.05
+911,"Concepción Chiquirichapa",14424,"Usa Celular",8767,60.78
+911,"Concepción Chiquirichapa",14424,"No Usa Celular",5412,37.52
+911,"Concepción Chiquirichapa",14424,"NA_Celular",245,1.7
+911,"Concepción Chiquirichapa",14424,"Usa Computadora",2737,18.98
+911,"Concepción Chiquirichapa",14424,"No usa Computadora",11468,79.51
+911,"Concepción Chiquirichapa",14424,"NA_Computadora",219,1.52
+911,"Concepción Chiquirichapa",14424,"Usa Internet",3135,21.73
+911,"Concepción Chiquirichapa",14424,"No usa Internet",10992,76.21
+911,"Concepción Chiquirichapa",14424,"NA_Internet",297,2.06
+912,"San Martín Sacatepéquez",24031,"Usa Celular",14250,59.3
+912,"San Martín Sacatepéquez",24031,"No Usa Celular",9594,39.92
+912,"San Martín Sacatepéquez",24031,"NA_Celular",187,0.78
+912,"San Martín Sacatepéquez",24031,"Usa Computadora",2375,9.88
+912,"San Martín Sacatepéquez",24031,"No usa Computadora",21542,89.64
+912,"San Martín Sacatepéquez",24031,"NA_Computadora",114,0.47
+912,"San Martín Sacatepéquez",24031,"Usa Internet",3201,13.32
+912,"San Martín Sacatepéquez",24031,"No usa Internet",20587,85.67
+912,"San Martín Sacatepéquez",24031,"NA_Internet",243,1.01
+913,"Almolonga",13874,"Usa Celular",10236,73.78
+913,"Almolonga",13874,"No Usa Celular",3339,24.07
+913,"Almolonga",13874,"NA_Celular",299,2.16
+913,"Almolonga",13874,"Usa Computadora",1738,12.53
+913,"Almolonga",13874,"No usa Computadora",11769,84.83
+913,"Almolonga",13874,"NA_Computadora",367,2.65
+913,"Almolonga",13874,"Usa Internet",2579,18.59
+913,"Almolonga",13874,"No usa Internet",10804,77.87
+913,"Almolonga",13874,"NA_Internet",491,3.54
+914,"Cantel",36428,"Usa Celular",22942,62.98
+914,"Cantel",36428,"No Usa Celular",13185,36.19
+914,"Cantel",36428,"NA_Celular",301,0.83
+914,"Cantel",36428,"Usa Computadora",8739,23.99
+914,"Cantel",36428,"No usa Computadora",27409,75.24
+914,"Cantel",36428,"NA_Computadora",280,0.77
+914,"Cantel",36428,"Usa Internet",10441,28.66
+914,"Cantel",36428,"No usa Internet",25596,70.26
+914,"Cantel",36428,"NA_Internet",391,1.07
+915,"Huitán",10758,"Usa Celular",6602,61.37
+915,"Huitán",10758,"No Usa Celular",4048,37.63
+915,"Huitán",10758,"NA_Celular",108,1
+915,"Huitán",10758,"Usa Computadora",869,8.08
+915,"Huitán",10758,"No usa Computadora",9745,90.58
+915,"Huitán",10758,"NA_Computadora",144,1.34
+915,"Huitán",10758,"Usa Internet",1037,9.64
+915,"Huitán",10758,"No usa Internet",9500,88.31
+915,"Huitán",10758,"NA_Internet",221,2.05
+916,"Zunil",12341,"Usa Celular",8549,69.27
+916,"Zunil",12341,"No Usa Celular",3687,29.88
+916,"Zunil",12341,"NA_Celular",105,0.85
+916,"Zunil",12341,"Usa Computadora",1297,10.51
+916,"Zunil",12341,"No usa Computadora",10833,87.78
+916,"Zunil",12341,"NA_Computadora",211,1.71
+916,"Zunil",12341,"Usa Internet",2385,19.33
+916,"Zunil",12341,"No usa Internet",9634,78.06
+916,"Zunil",12341,"NA_Internet",322,2.61
+917,"Colomba Costa Cuca",40012,"Usa Celular",23542,58.84
+917,"Colomba Costa Cuca",40012,"No Usa Celular",15960,39.89
+917,"Colomba Costa Cuca",40012,"NA_Celular",510,1.27
+917,"Colomba Costa Cuca",40012,"Usa Computadora",4481,11.2
+917,"Colomba Costa Cuca",40012,"No usa Computadora",35132,87.8
+917,"Colomba Costa Cuca",40012,"NA_Computadora",399,1
+917,"Colomba Costa Cuca",40012,"Usa Internet",6821,17.05
+917,"Colomba Costa Cuca",40012,"No usa Internet",32633,81.56
+917,"Colomba Costa Cuca",40012,"NA_Internet",558,1.39
+918,"San Francisco la Unión",6753,"Usa Celular",4420,65.45
+918,"San Francisco la Unión",6753,"No Usa Celular",2262,33.5
+918,"San Francisco la Unión",6753,"NA_Celular",71,1.05
+918,"San Francisco la Unión",6753,"Usa Computadora",1288,19.07
+918,"San Francisco la Unión",6753,"No usa Computadora",5400,79.96
+918,"San Francisco la Unión",6753,"NA_Computadora",65,0.96
+918,"San Francisco la Unión",6753,"Usa Internet",1882,27.87
+918,"San Francisco la Unión",6753,"No usa Internet",4783,70.83
+918,"San Francisco la Unión",6753,"NA_Internet",88,1.3
+919,"El Palmar",24362,"Usa Celular",15323,62.9
+919,"El Palmar",24362,"No Usa Celular",8830,36.24
+919,"El Palmar",24362,"NA_Celular",209,0.86
+919,"El Palmar",24362,"Usa Computadora",4120,16.91
+919,"El Palmar",24362,"No usa Computadora",19928,81.8
+919,"El Palmar",24362,"NA_Computadora",314,1.29
+919,"El Palmar",24362,"Usa Internet",6941,28.49
+919,"El Palmar",24362,"No usa Internet",17081,70.11
+919,"El Palmar",24362,"NA_Internet",340,1.4
+920,"Coatepeque",89886,"Usa Celular",55943,62.24
+920,"Coatepeque",89886,"No Usa Celular",32276,35.91
+920,"Coatepeque",89886,"NA_Celular",1667,1.85
+920,"Coatepeque",89886,"Usa Computadora",18558,20.65
+920,"Coatepeque",89886,"No usa Computadora",69730,77.58
+920,"Coatepeque",89886,"NA_Computadora",1598,1.78
+920,"Coatepeque",89886,"Usa Internet",25955,28.88
+920,"Coatepeque",89886,"No usa Internet",61401,68.31
+920,"Coatepeque",89886,"NA_Internet",2530,2.81
+921,"Génova",31049,"Usa Celular",17744,57.15
+921,"Génova",31049,"No Usa Celular",13076,42.11
+921,"Génova",31049,"NA_Celular",229,0.74
+921,"Génova",31049,"Usa Computadora",2787,8.98
+921,"Génova",31049,"No usa Computadora",28118,90.56
+921,"Génova",31049,"NA_Computadora",144,0.46
+921,"Génova",31049,"Usa Internet",6210,20
+921,"Génova",31049,"No usa Internet",24600,79.23
+921,"Génova",31049,"NA_Internet",239,0.77
+922,"Flores Costa Cuca",18371,"Usa Celular",10738,58.45
+922,"Flores Costa Cuca",18371,"No Usa Celular",7397,40.26
+922,"Flores Costa Cuca",18371,"NA_Celular",236,1.28
+922,"Flores Costa Cuca",18371,"Usa Computadora",2081,11.33
+922,"Flores Costa Cuca",18371,"No usa Computadora",16134,87.82
+922,"Flores Costa Cuca",18371,"NA_Computadora",156,0.85
+922,"Flores Costa Cuca",18371,"Usa Internet",2718,14.8
+922,"Flores Costa Cuca",18371,"No usa Internet",15408,83.87
+922,"Flores Costa Cuca",18371,"NA_Internet",245,1.33
+923,"La Esperanza",19218,"Usa Celular",14535,75.63
+923,"La Esperanza",19218,"No Usa Celular",4249,22.11
+923,"La Esperanza",19218,"NA_Celular",434,2.26
+923,"La Esperanza",19218,"Usa Computadora",7006,36.46
+923,"La Esperanza",19218,"No usa Computadora",11799,61.4
+923,"La Esperanza",19218,"NA_Computadora",413,2.15
+923,"La Esperanza",19218,"Usa Internet",9028,46.98
+923,"La Esperanza",19218,"No usa Internet",9643,50.18
+923,"La Esperanza",19218,"NA_Internet",547,2.85
+924,"Palestina de los Altos",13087,"Usa Celular",7996,61.1
+924,"Palestina de los Altos",13087,"No Usa Celular",5011,38.29
+924,"Palestina de los Altos",13087,"NA_Celular",80,0.61
+924,"Palestina de los Altos",13087,"Usa Computadora",786,6.01
+924,"Palestina de los Altos",13087,"No usa Computadora",12240,93.53
+924,"Palestina de los Altos",13087,"NA_Computadora",61,0.47
+924,"Palestina de los Altos",13087,"Usa Internet",2101,16.05
+924,"Palestina de los Altos",13087,"No usa Internet",10774,82.33
+924,"Palestina de los Altos",13087,"NA_Internet",212,1.62
+1001,"Mazatenango",66157,"Usa Celular",45683,69.05
+1001,"Mazatenango",66157,"No Usa Celular",19341,29.24
+1001,"Mazatenango",66157,"NA_Celular",1133,1.71
+1001,"Mazatenango",66157,"Usa Computadora",18414,27.83
+1001,"Mazatenango",66157,"No usa Computadora",46614,70.46
+1001,"Mazatenango",66157,"NA_Computadora",1129,1.71
+1001,"Mazatenango",66157,"Usa Internet",24834,37.54
+1001,"Mazatenango",66157,"No usa Internet",39943,60.38
+1001,"Mazatenango",66157,"NA_Internet",1380,2.09
+1002,"Cuyotenango",28025,"Usa Celular",18187,64.9
+1002,"Cuyotenango",28025,"No Usa Celular",9709,34.64
+1002,"Cuyotenango",28025,"NA_Celular",129,0.46
+1002,"Cuyotenango",28025,"Usa Computadora",5409,19.3
+1002,"Cuyotenango",28025,"No usa Computadora",22494,80.26
+1002,"Cuyotenango",28025,"NA_Computadora",122,0.44
+1002,"Cuyotenango",28025,"Usa Internet",7971,28.44
+1002,"Cuyotenango",28025,"No usa Internet",19861,70.87
+1002,"Cuyotenango",28025,"NA_Internet",193,0.69
+1003,"San Francisco Zapotitlán",19113,"Usa Celular",12922,67.61
+1003,"San Francisco Zapotitlán",19113,"No Usa Celular",6104,31.94
+1003,"San Francisco Zapotitlán",19113,"NA_Celular",87,0.46
+1003,"San Francisco Zapotitlán",19113,"Usa Computadora",4522,23.66
+1003,"San Francisco Zapotitlán",19113,"No usa Computadora",14497,75.85
+1003,"San Francisco Zapotitlán",19113,"NA_Computadora",94,0.49
+1003,"San Francisco Zapotitlán",19113,"Usa Internet",6469,33.85
+1003,"San Francisco Zapotitlán",19113,"No usa Internet",12528,65.55
+1003,"San Francisco Zapotitlán",19113,"NA_Internet",116,0.61
+1004,"San Bernardino",13193,"Usa Celular",7348,55.7
+1004,"San Bernardino",13193,"No Usa Celular",5752,43.6
+1004,"San Bernardino",13193,"NA_Celular",93,0.7
+1004,"San Bernardino",13193,"Usa Computadora",2658,20.15
+1004,"San Bernardino",13193,"No usa Computadora",10428,79.04
+1004,"San Bernardino",13193,"NA_Computadora",107,0.81
+1004,"San Bernardino",13193,"Usa Internet",3274,24.82
+1004,"San Bernardino",13193,"No usa Internet",9769,74.05
+1004,"San Bernardino",13193,"NA_Internet",150,1.14
+1005,"San José el Ídolo",8469,"Usa Celular",4998,59.02
+1005,"San José el Ídolo",8469,"No Usa Celular",3301,38.98
+1005,"San José el Ídolo",8469,"NA_Celular",170,2.01
+1005,"San José el Ídolo",8469,"Usa Computadora",900,10.63
+1005,"San José el Ídolo",8469,"No usa Computadora",7414,87.54
+1005,"San José el Ídolo",8469,"NA_Computadora",155,1.83
+1005,"San José el Ídolo",8469,"Usa Internet",2030,23.97
+1005,"San José el Ídolo",8469,"No usa Internet",6256,73.87
+1005,"San José el Ídolo",8469,"NA_Internet",183,2.16
+1006,"Santo Domingo Suchitepéquez",35103,"Usa Celular",20850,59.4
+1006,"Santo Domingo Suchitepéquez",35103,"No Usa Celular",13890,39.57
+1006,"Santo Domingo Suchitepéquez",35103,"NA_Celular",363,1.03
+1006,"Santo Domingo Suchitepéquez",35103,"Usa Computadora",3898,11.1
+1006,"Santo Domingo Suchitepéquez",35103,"No usa Computadora",30933,88.12
+1006,"Santo Domingo Suchitepéquez",35103,"NA_Computadora",272,0.77
+1006,"Santo Domingo Suchitepéquez",35103,"Usa Internet",8199,23.36
+1006,"Santo Domingo Suchitepéquez",35103,"No usa Internet",26501,75.49
+1006,"Santo Domingo Suchitepéquez",35103,"NA_Internet",403,1.15
+1007,"San Lorenzo",11099,"Usa Celular",6078,54.76
+1007,"San Lorenzo",11099,"No Usa Celular",4959,44.68
+1007,"San Lorenzo",11099,"NA_Celular",62,0.56
+1007,"San Lorenzo",11099,"Usa Computadora",1551,13.97
+1007,"San Lorenzo",11099,"No usa Computadora",9505,85.64
+1007,"San Lorenzo",11099,"NA_Computadora",43,0.39
+1007,"San Lorenzo",11099,"Usa Internet",2262,20.38
+1007,"San Lorenzo",11099,"No usa Internet",8754,78.87
+1007,"San Lorenzo",11099,"NA_Internet",83,0.75
+1008,"Samayac",21131,"Usa Celular",14171,67.06
+1008,"Samayac",21131,"No Usa Celular",6644,31.44
+1008,"Samayac",21131,"NA_Celular",316,1.5
+1008,"Samayac",21131,"Usa Computadora",5591,26.46
+1008,"Samayac",21131,"No usa Computadora",15279,72.31
+1008,"Samayac",21131,"NA_Computadora",261,1.24
+1008,"Samayac",21131,"Usa Internet",7111,33.65
+1008,"Samayac",21131,"No usa Internet",13672,64.7
+1008,"Samayac",21131,"NA_Internet",348,1.65
+1009,"San Pablo Jocopilas",17457,"Usa Celular",12223,70.02
+1009,"San Pablo Jocopilas",17457,"No Usa Celular",5084,29.12
+1009,"San Pablo Jocopilas",17457,"NA_Celular",150,0.86
+1009,"San Pablo Jocopilas",17457,"Usa Computadora",3328,19.06
+1009,"San Pablo Jocopilas",17457,"No usa Computadora",13992,80.15
+1009,"San Pablo Jocopilas",17457,"NA_Computadora",137,0.78
+1009,"San Pablo Jocopilas",17457,"Usa Internet",5021,28.76
+1009,"San Pablo Jocopilas",17457,"No usa Internet",12260,70.23
+1009,"San Pablo Jocopilas",17457,"NA_Internet",176,1.01
+1010,"San Antonio Suchitepéquez",48964,"Usa Celular",25903,52.9
+1010,"San Antonio Suchitepéquez",48964,"No Usa Celular",22717,46.4
+1010,"San Antonio Suchitepéquez",48964,"NA_Celular",344,0.7
+1010,"San Antonio Suchitepéquez",48964,"Usa Computadora",6297,12.86
+1010,"San Antonio Suchitepéquez",48964,"No usa Computadora",42352,86.5
+1010,"San Antonio Suchitepéquez",48964,"NA_Computadora",315,0.64
+1010,"San Antonio Suchitepéquez",48964,"Usa Internet",9252,18.9
+1010,"San Antonio Suchitepéquez",48964,"No usa Internet",39263,80.19
+1010,"San Antonio Suchitepéquez",48964,"NA_Internet",449,0.92
+1011,"San Miguel Panán",8400,"Usa Celular",4341,51.68
+1011,"San Miguel Panán",8400,"No Usa Celular",4008,47.71
+1011,"San Miguel Panán",8400,"NA_Celular",51,0.61
+1011,"San Miguel Panán",8400,"Usa Computadora",952,11.33
+1011,"San Miguel Panán",8400,"No usa Computadora",7423,88.37
+1011,"San Miguel Panán",8400,"NA_Computadora",25,0.3
+1011,"San Miguel Panán",8400,"Usa Internet",2194,26.12
+1011,"San Miguel Panán",8400,"No usa Internet",6159,73.32
+1011,"San Miguel Panán",8400,"NA_Internet",47,0.56
+1012,"San Gabriel",6214,"Usa Celular",4427,71.24
+1012,"San Gabriel",6214,"No Usa Celular",1733,27.89
+1012,"San Gabriel",6214,"NA_Celular",54,0.87
+1012,"San Gabriel",6214,"Usa Computadora",1972,31.73
+1012,"San Gabriel",6214,"No usa Computadora",4212,67.78
+1012,"San Gabriel",6214,"NA_Computadora",30,0.48
+1012,"San Gabriel",6214,"Usa Internet",2916,46.93
+1012,"San Gabriel",6214,"No usa Internet",3243,52.19
+1012,"San Gabriel",6214,"NA_Internet",55,0.89
+1013,"Chicacao",49666,"Usa Celular",24039,48.4
+1013,"Chicacao",49666,"No Usa Celular",25231,50.8
+1013,"Chicacao",49666,"NA_Celular",396,0.8
+1013,"Chicacao",49666,"Usa Computadora",4536,9.13
+1013,"Chicacao",49666,"No usa Computadora",44805,90.21
+1013,"Chicacao",49666,"NA_Computadora",325,0.65
+1013,"Chicacao",49666,"Usa Internet",7258,14.61
+1013,"Chicacao",49666,"No usa Internet",41841,84.24
+1013,"Chicacao",49666,"NA_Internet",567,1.14
+1014,"Patulul",34020,"Usa Celular",19399,57.02
+1014,"Patulul",34020,"No Usa Celular",14284,41.99
+1014,"Patulul",34020,"NA_Celular",337,0.99
+1014,"Patulul",34020,"Usa Computadora",5375,15.8
+1014,"Patulul",34020,"No usa Computadora",28365,83.38
+1014,"Patulul",34020,"NA_Computadora",280,0.82
+1014,"Patulul",34020,"Usa Internet",6906,20.3
+1014,"Patulul",34020,"No usa Internet",26620,78.25
+1014,"Patulul",34020,"NA_Internet",494,1.45
+1015,"Santa Bárbara",21612,"Usa Celular",10287,47.6
+1015,"Santa Bárbara",21612,"No Usa Celular",11133,51.51
+1015,"Santa Bárbara",21612,"NA_Celular",192,0.89
+1015,"Santa Bárbara",21612,"Usa Computadora",1734,8.02
+1015,"Santa Bárbara",21612,"No usa Computadora",19771,91.48
+1015,"Santa Bárbara",21612,"NA_Computadora",107,0.5
+1015,"Santa Bárbara",21612,"Usa Internet",2755,12.75
+1015,"Santa Bárbara",21612,"No usa Internet",18649,86.29
+1015,"Santa Bárbara",21612,"NA_Internet",208,0.96
+1016,"San Juan Bautista",6454,"Usa Celular",3163,49.01
+1016,"San Juan Bautista",6454,"No Usa Celular",3268,50.64
+1016,"San Juan Bautista",6454,"NA_Celular",23,0.36
+1016,"San Juan Bautista",6454,"Usa Computadora",735,11.39
+1016,"San Juan Bautista",6454,"No usa Computadora",5709,88.46
+1016,"San Juan Bautista",6454,"NA_Computadora",10,0.15
+1016,"San Juan Bautista",6454,"Usa Internet",1169,18.11
+1016,"San Juan Bautista",6454,"No usa Internet",5264,81.56
+1016,"San Juan Bautista",6454,"NA_Internet",21,0.33
+1017,"Santo Tomas la Unión",10118,"Usa Celular",7554,74.66
+1017,"Santo Tomas la Unión",10118,"No Usa Celular",2514,24.85
+1017,"Santo Tomas la Unión",10118,"NA_Celular",50,0.49
+1017,"Santo Tomas la Unión",10118,"Usa Computadora",3343,33.04
+1017,"Santo Tomas la Unión",10118,"No usa Computadora",6708,66.3
+1017,"Santo Tomas la Unión",10118,"NA_Computadora",67,0.66
+1017,"Santo Tomas la Unión",10118,"Usa Internet",4012,39.65
+1017,"Santo Tomas la Unión",10118,"No usa Internet",6032,59.62
+1017,"Santo Tomas la Unión",10118,"NA_Internet",74,0.73
+1018,"Zunilito",7053,"Usa Celular",4475,63.45
+1018,"Zunilito",7053,"No Usa Celular",2545,36.08
+1018,"Zunilito",7053,"NA_Celular",33,0.47
+1018,"Zunilito",7053,"Usa Computadora",1164,16.5
+1018,"Zunilito",7053,"No usa Computadora",5865,83.16
+1018,"Zunilito",7053,"NA_Computadora",24,0.34
+1018,"Zunilito",7053,"Usa Internet",1344,19.06
+1018,"Zunilito",7053,"No usa Internet",5668,80.36
+1018,"Zunilito",7053,"NA_Internet",41,0.58
+1019,"Pueblo Nuevo",9586,"Usa Celular",6530,68.12
+1019,"Pueblo Nuevo",9586,"No Usa Celular",2971,30.99
+1019,"Pueblo Nuevo",9586,"NA_Celular",85,0.89
+1019,"Pueblo Nuevo",9586,"Usa Computadora",2030,21.18
+1019,"Pueblo Nuevo",9586,"No usa Computadora",7461,77.83
+1019,"Pueblo Nuevo",9586,"NA_Computadora",95,0.99
+1019,"Pueblo Nuevo",9586,"Usa Internet",3120,32.55
+1019,"Pueblo Nuevo",9586,"No usa Internet",6362,66.37
+1019,"Pueblo Nuevo",9586,"NA_Internet",104,1.08
+1020,"Río Bravo",22733,"Usa Celular",11708,51.5
+1020,"Río Bravo",22733,"No Usa Celular",10873,47.83
+1020,"Río Bravo",22733,"NA_Celular",152,0.67
+1020,"Río Bravo",22733,"Usa Computadora",2268,9.98
+1020,"Río Bravo",22733,"No usa Computadora",20349,89.51
+1020,"Río Bravo",22733,"NA_Computadora",116,0.51
+1020,"Río Bravo",22733,"Usa Internet",4843,21.3
+1020,"Río Bravo",22733,"No usa Internet",17732,78
+1020,"Río Bravo",22733,"NA_Internet",158,0.7
+1021,"San José La Máquina",18997,"Usa Celular",12693,66.82
+1021,"San José La Máquina",18997,"No Usa Celular",6228,32.78
+1021,"San José La Máquina",18997,"NA_Celular",76,0.4
+1021,"San José La Máquina",18997,"Usa Computadora",2643,13.91
+1021,"San José La Máquina",18997,"No usa Computadora",16261,85.6
+1021,"San José La Máquina",18997,"NA_Computadora",93,0.49
+1021,"San José La Máquina",18997,"Usa Internet",6350,33.43
+1021,"San José La Máquina",18997,"No usa Internet",12548,66.05
+1021,"San José La Máquina",18997,"NA_Internet",99,0.52
+1101,"Retalhuleu",76688,"Usa Celular",51272,66.86
+1101,"Retalhuleu",76688,"No Usa Celular",24717,32.23
+1101,"Retalhuleu",76688,"NA_Celular",699,0.91
+1101,"Retalhuleu",76688,"Usa Computadora",19082,24.88
+1101,"Retalhuleu",76688,"No usa Computadora",56831,74.11
+1101,"Retalhuleu",76688,"NA_Computadora",775,1.01
+1101,"Retalhuleu",76688,"Usa Internet",26892,35.07
+1101,"Retalhuleu",76688,"No usa Internet",48855,63.71
+1101,"Retalhuleu",76688,"NA_Internet",941,1.23
+1102,"San Sebastián",24897,"Usa Celular",16724,67.17
+1102,"San Sebastián",24897,"No Usa Celular",7678,30.84
+1102,"San Sebastián",24897,"NA_Celular",495,1.99
+1102,"San Sebastián",24897,"Usa Computadora",5101,20.49
+1102,"San Sebastián",24897,"No usa Computadora",19313,77.57
+1102,"San Sebastián",24897,"NA_Computadora",483,1.94
+1102,"San Sebastián",24897,"Usa Internet",8120,32.61
+1102,"San Sebastián",24897,"No usa Internet",16147,64.86
+1102,"San Sebastián",24897,"NA_Internet",630,2.53
+1103,"Santa Cruz Muluá",11360,"Usa Celular",6811,59.96
+1103,"Santa Cruz Muluá",11360,"No Usa Celular",4449,39.16
+1103,"Santa Cruz Muluá",11360,"NA_Celular",100,0.88
+1103,"Santa Cruz Muluá",11360,"Usa Computadora",2086,18.36
+1103,"Santa Cruz Muluá",11360,"No usa Computadora",9195,80.94
+1103,"Santa Cruz Muluá",11360,"NA_Computadora",79,0.7
+1103,"Santa Cruz Muluá",11360,"Usa Internet",3085,27.16
+1103,"Santa Cruz Muluá",11360,"No usa Internet",8184,72.04
+1103,"Santa Cruz Muluá",11360,"NA_Internet",91,0.8
+1104,"San Martín Zapotitlán",10200,"Usa Celular",6751,66.19
+1104,"San Martín Zapotitlán",10200,"No Usa Celular",3425,33.58
+1104,"San Martín Zapotitlán",10200,"NA_Celular",24,0.24
+1104,"San Martín Zapotitlán",10200,"Usa Computadora",2131,20.89
+1104,"San Martín Zapotitlán",10200,"No usa Computadora",8044,78.86
+1104,"San Martín Zapotitlán",10200,"NA_Computadora",25,0.25
+1104,"San Martín Zapotitlán",10200,"Usa Internet",3522,34.53
+1104,"San Martín Zapotitlán",10200,"No usa Internet",6645,65.15
+1104,"San Martín Zapotitlán",10200,"NA_Internet",33,0.32
+1105,"San Felipe",20609,"Usa Celular",13969,67.78
+1105,"San Felipe",20609,"No Usa Celular",6511,31.59
+1105,"San Felipe",20609,"NA_Celular",129,0.63
+1105,"San Felipe",20609,"Usa Computadora",4785,23.22
+1105,"San Felipe",20609,"No usa Computadora",15712,76.24
+1105,"San Felipe",20609,"NA_Computadora",112,0.54
+1105,"San Felipe",20609,"Usa Internet",6962,33.78
+1105,"San Felipe",20609,"No usa Internet",13506,65.53
+1105,"San Felipe",20609,"NA_Internet",141,0.68
+1106,"San Andrés Villa Seca",39034,"Usa Celular",20945,53.66
+1106,"San Andrés Villa Seca",39034,"No Usa Celular",17700,45.35
+1106,"San Andrés Villa Seca",39034,"NA_Celular",389,1
+1106,"San Andrés Villa Seca",39034,"Usa Computadora",2463,6.31
+1106,"San Andrés Villa Seca",39034,"No usa Computadora",36248,92.86
+1106,"San Andrés Villa Seca",39034,"NA_Computadora",323,0.83
+1106,"San Andrés Villa Seca",39034,"Usa Internet",7469,19.13
+1106,"San Andrés Villa Seca",39034,"No usa Internet",31125,79.74
+1106,"San Andrés Villa Seca",39034,"NA_Internet",440,1.13
+1107,"Champerico",27229,"Usa Celular",15291,56.16
+1107,"Champerico",27229,"No Usa Celular",11574,42.51
+1107,"Champerico",27229,"NA_Celular",364,1.34
+1107,"Champerico",27229,"Usa Computadora",2884,10.59
+1107,"Champerico",27229,"No usa Computadora",24109,88.54
+1107,"Champerico",27229,"NA_Computadora",236,0.87
+1107,"Champerico",27229,"Usa Internet",6613,24.29
+1107,"Champerico",27229,"No usa Internet",20241,74.34
+1107,"Champerico",27229,"NA_Internet",375,1.38
+1108,"Nuevo San Carlos",33301,"Usa Celular",20576,61.79
+1108,"Nuevo San Carlos",33301,"No Usa Celular",12519,37.59
+1108,"Nuevo San Carlos",33301,"NA_Celular",206,0.62
+1108,"Nuevo San Carlos",33301,"Usa Computadora",4934,14.82
+1108,"Nuevo San Carlos",33301,"No usa Computadora",28202,84.69
+1108,"Nuevo San Carlos",33301,"NA_Computadora",165,0.5
+1108,"Nuevo San Carlos",33301,"Usa Internet",7895,23.71
+1108,"Nuevo San Carlos",33301,"No usa Internet",25146,75.51
+1108,"Nuevo San Carlos",33301,"NA_Internet",260,0.78
+1109,"El Asintal",31031,"Usa Celular",18719,60.32
+1109,"El Asintal",31031,"No Usa Celular",12085,38.94
+1109,"El Asintal",31031,"NA_Celular",227,0.73
+1109,"El Asintal",31031,"Usa Computadora",4407,14.2
+1109,"El Asintal",31031,"No usa Computadora",26405,85.09
+1109,"El Asintal",31031,"NA_Computadora",219,0.71
+1109,"El Asintal",31031,"Usa Internet",7376,23.77
+1109,"El Asintal",31031,"No usa Internet",23388,75.37
+1109,"El Asintal",31031,"NA_Internet",267,0.86
+1201,"San Marcos",40156,"Usa Celular",29346,73.08
+1201,"San Marcos",40156,"No Usa Celular",10358,25.79
+1201,"San Marcos",40156,"NA_Celular",452,1.13
+1201,"San Marcos",40156,"Usa Computadora",13495,33.61
+1201,"San Marcos",40156,"No usa Computadora",26216,65.29
+1201,"San Marcos",40156,"NA_Computadora",445,1.11
+1201,"San Marcos",40156,"Usa Internet",17424,43.39
+1201,"San Marcos",40156,"No usa Internet",22124,55.1
+1201,"San Marcos",40156,"NA_Internet",608,1.51
+1202,"San Pedro Sacatepéquez",67734,"Usa Celular",48834,72.1
+1202,"San Pedro Sacatepéquez",67734,"No Usa Celular",18304,27.02
+1202,"San Pedro Sacatepéquez",67734,"NA_Celular",596,0.88
+1202,"San Pedro Sacatepéquez",67734,"Usa Computadora",20441,30.18
+1202,"San Pedro Sacatepéquez",67734,"No usa Computadora",46686,68.93
+1202,"San Pedro Sacatepéquez",67734,"NA_Computadora",607,0.9
+1202,"San Pedro Sacatepéquez",67734,"Usa Internet",24654,36.4
+1202,"San Pedro Sacatepéquez",67734,"No usa Internet",41990,61.99
+1202,"San Pedro Sacatepéquez",67734,"NA_Internet",1090,1.61
+1203,"San Antonio Sacatepéquez",15824,"Usa Celular",10641,67.25
+1203,"San Antonio Sacatepéquez",15824,"No Usa Celular",5079,32.1
+1203,"San Antonio Sacatepéquez",15824,"NA_Celular",104,0.66
+1203,"San Antonio Sacatepéquez",15824,"Usa Computadora",2928,18.5
+1203,"San Antonio Sacatepéquez",15824,"No usa Computadora",12802,80.9
+1203,"San Antonio Sacatepéquez",15824,"NA_Computadora",94,0.59
+1203,"San Antonio Sacatepéquez",15824,"Usa Internet",4000,25.28
+1203,"San Antonio Sacatepéquez",15824,"No usa Internet",11637,73.54
+1203,"San Antonio Sacatepéquez",15824,"NA_Internet",187,1.18
+1204,"Comitancillo",47203,"Usa Celular",22792,48.29
+1204,"Comitancillo",47203,"No Usa Celular",23518,49.82
+1204,"Comitancillo",47203,"NA_Celular",893,1.89
+1204,"Comitancillo",47203,"Usa Computadora",6007,12.73
+1204,"Comitancillo",47203,"No usa Computadora",40724,86.27
+1204,"Comitancillo",47203,"NA_Computadora",472,1
+1204,"Comitancillo",47203,"Usa Internet",6035,12.79
+1204,"Comitancillo",47203,"No usa Internet",40140,85.04
+1204,"Comitancillo",47203,"NA_Internet",1028,2.18
+1205,"San Miguel Ixtahuacán",37037,"Usa Celular",20804,56.17
+1205,"San Miguel Ixtahuacán",37037,"No Usa Celular",15788,42.63
+1205,"San Miguel Ixtahuacán",37037,"NA_Celular",445,1.2
+1205,"San Miguel Ixtahuacán",37037,"Usa Computadora",2288,6.18
+1205,"San Miguel Ixtahuacán",37037,"No usa Computadora",34502,93.16
+1205,"San Miguel Ixtahuacán",37037,"NA_Computadora",247,0.67
+1205,"San Miguel Ixtahuacán",37037,"Usa Internet",3553,9.59
+1205,"San Miguel Ixtahuacán",37037,"No usa Internet",32994,89.08
+1205,"San Miguel Ixtahuacán",37037,"NA_Internet",490,1.32
+1206,"Concepción Tutuapa",53114,"Usa Celular",27804,52.35
+1206,"Concepción Tutuapa",53114,"No Usa Celular",23850,44.9
+1206,"Concepción Tutuapa",53114,"NA_Celular",1460,2.75
+1206,"Concepción Tutuapa",53114,"Usa Computadora",3248,6.12
+1206,"Concepción Tutuapa",53114,"No usa Computadora",49117,92.47
+1206,"Concepción Tutuapa",53114,"NA_Computadora",749,1.41
+1206,"Concepción Tutuapa",53114,"Usa Internet",4324,8.14
+1206,"Concepción Tutuapa",53114,"No usa Internet",47037,88.56
+1206,"Concepción Tutuapa",53114,"NA_Internet",1753,3.3
+1207,"Tacaná",62127,"Usa Celular",27653,44.51
+1207,"Tacaná",62127,"No Usa Celular",33650,54.16
+1207,"Tacaná",62127,"NA_Celular",824,1.33
+1207,"Tacaná",62127,"Usa Computadora",3867,6.22
+1207,"Tacaná",62127,"No usa Computadora",57712,92.89
+1207,"Tacaná",62127,"NA_Computadora",548,0.88
+1207,"Tacaná",62127,"Usa Internet",5833,9.39
+1207,"Tacaná",62127,"No usa Internet",55292,89
+1207,"Tacaná",62127,"NA_Internet",1002,1.61
+1208,"Sibinal",12829,"Usa Celular",6329,49.33
+1208,"Sibinal",12829,"No Usa Celular",6401,49.89
+1208,"Sibinal",12829,"NA_Celular",99,0.77
+1208,"Sibinal",12829,"Usa Computadora",1487,11.59
+1208,"Sibinal",12829,"No usa Computadora",11233,87.56
+1208,"Sibinal",12829,"NA_Computadora",109,0.85
+1208,"Sibinal",12829,"Usa Internet",1981,15.44
+1208,"Sibinal",12829,"No usa Internet",10657,83.07
+1208,"Sibinal",12829,"NA_Internet",191,1.49
+1209,"Tajumulco",40307,"Usa Celular",20830,51.68
+1209,"Tajumulco",40307,"No Usa Celular",18091,44.88
+1209,"Tajumulco",40307,"NA_Celular",1386,3.44
+1209,"Tajumulco",40307,"Usa Computadora",1275,3.16
+1209,"Tajumulco",40307,"No usa Computadora",38229,94.84
+1209,"Tajumulco",40307,"NA_Computadora",803,1.99
+1209,"Tajumulco",40307,"Usa Internet",5525,13.71
+1209,"Tajumulco",40307,"No usa Internet",33199,82.37
+1209,"Tajumulco",40307,"NA_Internet",1583,3.93
+1210,"Tejutla",31178,"Usa Celular",19690,63.15
+1210,"Tejutla",31178,"No Usa Celular",11234,36.03
+1210,"Tejutla",31178,"NA_Celular",254,0.81
+1210,"Tejutla",31178,"Usa Computadora",3097,9.93
+1210,"Tejutla",31178,"No usa Computadora",27812,89.2
+1210,"Tejutla",31178,"NA_Computadora",269,0.86
+1210,"Tejutla",31178,"Usa Internet",5495,17.62
+1210,"Tejutla",31178,"No usa Internet",25282,81.09
+1210,"Tejutla",31178,"NA_Internet",401,1.29
+1211,"San Rafael Pie de la Cuesta",14546,"Usa Celular",9490,65.24
+1211,"San Rafael Pie de la Cuesta",14546,"No Usa Celular",4901,33.69
+1211,"San Rafael Pie de la Cuesta",14546,"NA_Celular",155,1.07
+1211,"San Rafael Pie de la Cuesta",14546,"Usa Computadora",2979,20.48
+1211,"San Rafael Pie de la Cuesta",14546,"No usa Computadora",11433,78.6
+1211,"San Rafael Pie de la Cuesta",14546,"NA_Computadora",134,0.92
+1211,"San Rafael Pie de la Cuesta",14546,"Usa Internet",4630,31.83
+1211,"San Rafael Pie de la Cuesta",14546,"No usa Internet",9709,66.75
+1211,"San Rafael Pie de la Cuesta",14546,"NA_Internet",207,1.42
+1212,"Nuevo Progreso",25223,"Usa Celular",14218,56.37
+1212,"Nuevo Progreso",25223,"No Usa Celular",10650,42.22
+1212,"Nuevo Progreso",25223,"NA_Celular",355,1.41
+1212,"Nuevo Progreso",25223,"Usa Computadora",2085,8.27
+1212,"Nuevo Progreso",25223,"No usa Computadora",22884,90.73
+1212,"Nuevo Progreso",25223,"NA_Computadora",254,1.01
+1212,"Nuevo Progreso",25223,"Usa Internet",4168,16.52
+1212,"Nuevo Progreso",25223,"No usa Internet",20617,81.74
+1212,"Nuevo Progreso",25223,"NA_Internet",438,1.74
+1213,"El Tumbador",36986,"Usa Celular",19074,51.57
+1213,"El Tumbador",36986,"No Usa Celular",17461,47.21
+1213,"El Tumbador",36986,"NA_Celular",451,1.22
+1213,"El Tumbador",36986,"Usa Computadora",3037,8.21
+1213,"El Tumbador",36986,"No usa Computadora",33525,90.64
+1213,"El Tumbador",36986,"NA_Computadora",424,1.15
+1213,"El Tumbador",36986,"Usa Internet",5194,14.04
+1213,"El Tumbador",36986,"No usa Internet",31267,84.54
+1213,"El Tumbador",36986,"NA_Internet",525,1.42
+1214,"San José el Rodeo",14994,"Usa Celular",8913,59.44
+1214,"San José el Rodeo",14994,"No Usa Celular",5935,39.58
+1214,"San José el Rodeo",14994,"NA_Celular",146,0.97
+1214,"San José el Rodeo",14994,"Usa Computadora",1547,10.32
+1214,"San José el Rodeo",14994,"No usa Computadora",13334,88.93
+1214,"San José el Rodeo",14994,"NA_Computadora",113,0.75
+1214,"San José el Rodeo",14994,"Usa Internet",4299,28.67
+1214,"San José el Rodeo",14994,"No usa Internet",10539,70.29
+1214,"San José el Rodeo",14994,"NA_Internet",156,1.04
+1215,"Malacatán",77289,"Usa Celular",37548,48.58
+1215,"Malacatán",77289,"No Usa Celular",37538,48.57
+1215,"Malacatán",77289,"NA_Celular",2203,2.85
+1215,"Malacatán",77289,"Usa Computadora",6889,8.91
+1215,"Malacatán",77289,"No usa Computadora",68761,88.97
+1215,"Malacatán",77289,"NA_Computadora",1639,2.12
+1215,"Malacatán",77289,"Usa Internet",12053,15.59
+1215,"Malacatán",77289,"No usa Internet",62688,81.11
+1215,"Malacatán",77289,"NA_Internet",2548,3.3
+1216,"Catarina",25409,"Usa Celular",15922,62.66
+1216,"Catarina",25409,"No Usa Celular",9354,36.81
+1216,"Catarina",25409,"NA_Celular",133,0.52
+1216,"Catarina",25409,"Usa Computadora",3709,14.6
+1216,"Catarina",25409,"No usa Computadora",21572,84.9
+1216,"Catarina",25409,"NA_Computadora",128,0.5
+1216,"Catarina",25409,"Usa Internet",6143,24.18
+1216,"Catarina",25409,"No usa Internet",19091,75.13
+1216,"Catarina",25409,"NA_Internet",175,0.69
+1217,"Ayutla",30949,"Usa Celular",19972,64.53
+1217,"Ayutla",30949,"No Usa Celular",10575,34.17
+1217,"Ayutla",30949,"NA_Celular",402,1.3
+1217,"Ayutla",30949,"Usa Computadora",4938,15.96
+1217,"Ayutla",30949,"No usa Computadora",25598,82.71
+1217,"Ayutla",30949,"NA_Computadora",413,1.33
+1217,"Ayutla",30949,"Usa Internet",9903,32
+1217,"Ayutla",30949,"No usa Internet",20538,66.36
+1217,"Ayutla",30949,"NA_Internet",508,1.64
+1218,"Ocós",9005,"Usa Celular",5216,57.92
+1218,"Ocós",9005,"No Usa Celular",3668,40.73
+1218,"Ocós",9005,"NA_Celular",121,1.34
+1218,"Ocós",9005,"Usa Computadora",707,7.85
+1218,"Ocós",9005,"No usa Computadora",8203,91.09
+1218,"Ocós",9005,"NA_Computadora",95,1.05
+1218,"Ocós",9005,"Usa Internet",1846,20.5
+1218,"Ocós",9005,"No usa Internet",7031,78.08
+1218,"Ocós",9005,"NA_Internet",128,1.42
+1219,"San Pablo",40756,"Usa Celular",24248,59.5
+1219,"San Pablo",40756,"No Usa Celular",16270,39.92
+1219,"San Pablo",40756,"NA_Celular",238,0.58
+1219,"San Pablo",40756,"Usa Computadora",4957,12.16
+1219,"San Pablo",40756,"No usa Computadora",35587,87.32
+1219,"San Pablo",40756,"NA_Computadora",212,0.52
+1219,"San Pablo",40756,"Usa Internet",9012,22.11
+1219,"San Pablo",40756,"No usa Internet",31450,77.17
+1219,"San Pablo",40756,"NA_Internet",294,0.72
+1220,"El Quetzal",19358,"Usa Celular",11138,57.54
+1220,"El Quetzal",19358,"No Usa Celular",8025,41.46
+1220,"El Quetzal",19358,"NA_Celular",195,1.01
+1220,"El Quetzal",19358,"Usa Computadora",1571,8.12
+1220,"El Quetzal",19358,"No usa Computadora",17576,90.79
+1220,"El Quetzal",19358,"NA_Computadora",211,1.09
+1220,"El Quetzal",19358,"Usa Internet",4237,21.89
+1220,"El Quetzal",19358,"No usa Internet",14910,77.02
+1220,"El Quetzal",19358,"NA_Internet",211,1.09
+1221,"La Reforma",14929,"Usa Celular",7595,50.87
+1221,"La Reforma",14929,"No Usa Celular",7278,48.75
+1221,"La Reforma",14929,"NA_Celular",56,0.38
+1221,"La Reforma",14929,"Usa Computadora",1329,8.9
+1221,"La Reforma",14929,"No usa Computadora",13567,90.88
+1221,"La Reforma",14929,"NA_Computadora",33,0.22
+1221,"La Reforma",14929,"Usa Internet",2823,18.91
+1221,"La Reforma",14929,"No usa Internet",12047,80.7
+1221,"La Reforma",14929,"NA_Internet",59,0.4
+1222,"Pajapita",18310,"Usa Celular",10775,58.85
+1222,"Pajapita",18310,"No Usa Celular",7353,40.16
+1222,"Pajapita",18310,"NA_Celular",182,0.99
+1222,"Pajapita",18310,"Usa Computadora",2059,11.25
+1222,"Pajapita",18310,"No usa Computadora",15880,86.73
+1222,"Pajapita",18310,"NA_Computadora",371,2.03
+1222,"Pajapita",18310,"Usa Internet",4751,25.95
+1222,"Pajapita",18310,"No usa Internet",13278,72.52
+1222,"Pajapita",18310,"NA_Internet",281,1.53
+1223,"Ixchiguán",17944,"Usa Celular",9766,54.42
+1223,"Ixchiguán",17944,"No Usa Celular",7633,42.54
+1223,"Ixchiguán",17944,"NA_Celular",545,3.04
+1223,"Ixchiguán",17944,"Usa Computadora",833,4.64
+1223,"Ixchiguán",17944,"No usa Computadora",16792,93.58
+1223,"Ixchiguán",17944,"NA_Computadora",319,1.78
+1223,"Ixchiguán",17944,"Usa Internet",1139,6.35
+1223,"Ixchiguán",17944,"No usa Internet",16195,90.25
+1223,"Ixchiguán",17944,"NA_Internet",610,3.4
+1224,"San José Ojetenam",15559,"Usa Celular",9114,58.58
+1224,"San José Ojetenam",15559,"No Usa Celular",6049,38.88
+1224,"San José Ojetenam",15559,"NA_Celular",396,2.55
+1224,"San José Ojetenam",15559,"Usa Computadora",657,4.22
+1224,"San José Ojetenam",15559,"No usa Computadora",14700,94.48
+1224,"San José Ojetenam",15559,"NA_Computadora",202,1.3
+1224,"San José Ojetenam",15559,"Usa Internet",837,5.38
+1224,"San José Ojetenam",15559,"No usa Internet",14306,91.95
+1224,"San José Ojetenam",15559,"NA_Internet",416,2.67
+1225,"San Cristóbal Cucho",13715,"Usa Celular",8821,64.32
+1225,"San Cristóbal Cucho",13715,"No Usa Celular",4801,35.01
+1225,"San Cristóbal Cucho",13715,"NA_Celular",93,0.68
+1225,"San Cristóbal Cucho",13715,"Usa Computadora",947,6.9
+1225,"San Cristóbal Cucho",13715,"No usa Computadora",12628,92.07
+1225,"San Cristóbal Cucho",13715,"NA_Computadora",140,1.02
+1225,"San Cristóbal Cucho",13715,"Usa Internet",1090,7.95
+1225,"San Cristóbal Cucho",13715,"No usa Internet",12423,90.58
+1225,"San Cristóbal Cucho",13715,"NA_Internet",202,1.47
+1226,"Sipacapa",15951,"Usa Celular",9016,56.52
+1226,"Sipacapa",15951,"No Usa Celular",6507,40.79
+1226,"Sipacapa",15951,"NA_Celular",428,2.68
+1226,"Sipacapa",15951,"Usa Computadora",947,5.94
+1226,"Sipacapa",15951,"No usa Computadora",14669,91.96
+1226,"Sipacapa",15951,"NA_Computadora",335,2.1
+1226,"Sipacapa",15951,"Usa Internet",1167,7.32
+1226,"Sipacapa",15951,"No usa Internet",14241,89.28
+1226,"Sipacapa",15951,"NA_Internet",543,3.4
+1227,"Esquipulas Palo Gordo",10687,"Usa Celular",7210,67.47
+1227,"Esquipulas Palo Gordo",10687,"No Usa Celular",3433,32.12
+1227,"Esquipulas Palo Gordo",10687,"NA_Celular",44,0.41
+1227,"Esquipulas Palo Gordo",10687,"Usa Computadora",1753,16.4
+1227,"Esquipulas Palo Gordo",10687,"No usa Computadora",8891,83.19
+1227,"Esquipulas Palo Gordo",10687,"NA_Computadora",43,0.4
+1227,"Esquipulas Palo Gordo",10687,"Usa Internet",3194,29.89
+1227,"Esquipulas Palo Gordo",10687,"No usa Internet",7429,69.51
+1227,"Esquipulas Palo Gordo",10687,"NA_Internet",64,0.6
+1228,"Río Blanco",4468,"Usa Celular",2843,63.63
+1228,"Río Blanco",4468,"No Usa Celular",1604,35.9
+1228,"Río Blanco",4468,"NA_Celular",21,0.47
+1228,"Río Blanco",4468,"Usa Computadora",463,10.36
+1228,"Río Blanco",4468,"No usa Computadora",3981,89.1
+1228,"Río Blanco",4468,"NA_Computadora",24,0.54
+1228,"Río Blanco",4468,"Usa Internet",1117,25
+1228,"Río Blanco",4468,"No usa Internet",3322,74.35
+1228,"Río Blanco",4468,"NA_Internet",29,0.65
+1229,"San Lorenzo",10792,"Usa Celular",6548,60.67
+1229,"San Lorenzo",10792,"No Usa Celular",4173,38.67
+1229,"San Lorenzo",10792,"NA_Celular",71,0.66
+1229,"San Lorenzo",10792,"Usa Computadora",1606,14.88
+1229,"San Lorenzo",10792,"No usa Computadora",9105,84.37
+1229,"San Lorenzo",10792,"NA_Computadora",81,0.75
+1229,"San Lorenzo",10792,"Usa Internet",1990,18.44
+1229,"San Lorenzo",10792,"No usa Internet",8669,80.33
+1229,"San Lorenzo",10792,"NA_Internet",133,1.23
+1230,"La Blanca",23936,"Usa Celular",13427,56.1
+1230,"La Blanca",23936,"No Usa Celular",10309,43.07
+1230,"La Blanca",23936,"NA_Celular",200,0.84
+1230,"La Blanca",23936,"Usa Computadora",2182,9.12
+1230,"La Blanca",23936,"No usa Computadora",21587,90.19
+1230,"La Blanca",23936,"NA_Computadora",167,0.7
+1230,"La Blanca",23936,"Usa Internet",5041,21.06
+1230,"La Blanca",23936,"No usa Internet",18690,78.08
+1230,"La Blanca",23936,"NA_Internet",205,0.86
+1301,"Huehuetenango",101248,"Usa Celular",78001,77.04
+1301,"Huehuetenango",101248,"No Usa Celular",22493,22.22
+1301,"Huehuetenango",101248,"NA_Celular",754,0.74
+1301,"Huehuetenango",101248,"Usa Computadora",37453,36.99
+1301,"Huehuetenango",101248,"No usa Computadora",63207,62.43
+1301,"Huehuetenango",101248,"NA_Computadora",588,0.58
+1301,"Huehuetenango",101248,"Usa Internet",50680,50.06
+1301,"Huehuetenango",101248,"No usa Internet",49776,49.16
+1301,"Huehuetenango",101248,"NA_Internet",792,0.78
+1302,"Chiantla",71571,"Usa Celular",40236,56.22
+1302,"Chiantla",71571,"No Usa Celular",30658,42.84
+1302,"Chiantla",71571,"NA_Celular",677,0.95
+1302,"Chiantla",71571,"Usa Computadora",7029,9.82
+1302,"Chiantla",71571,"No usa Computadora",64075,89.53
+1302,"Chiantla",71571,"NA_Computadora",467,0.65
+1302,"Chiantla",71571,"Usa Internet",11056,15.45
+1302,"Chiantla",71571,"No usa Internet",59644,83.34
+1302,"Chiantla",71571,"NA_Internet",871,1.22
+1303,"Malacatancito",15959,"Usa Celular",9951,62.35
+1303,"Malacatancito",15959,"No Usa Celular",5910,37.03
+1303,"Malacatancito",15959,"NA_Celular",98,0.61
+1303,"Malacatancito",15959,"Usa Computadora",2001,12.54
+1303,"Malacatancito",15959,"No usa Computadora",13849,86.78
+1303,"Malacatancito",15959,"NA_Computadora",109,0.68
+1303,"Malacatancito",15959,"Usa Internet",2964,18.57
+1303,"Malacatancito",15959,"No usa Internet",12844,80.48
+1303,"Malacatancito",15959,"NA_Internet",151,0.95
+1304,"Cuilco",48184,"Usa Celular",27888,57.88
+1304,"Cuilco",48184,"No Usa Celular",19776,41.04
+1304,"Cuilco",48184,"NA_Celular",520,1.08
+1304,"Cuilco",48184,"Usa Computadora",2268,4.71
+1304,"Cuilco",48184,"No usa Computadora",45596,94.63
+1304,"Cuilco",48184,"NA_Computadora",320,0.66
+1304,"Cuilco",48184,"Usa Internet",7978,16.56
+1304,"Cuilco",48184,"No usa Internet",39618,82.22
+1304,"Cuilco",48184,"NA_Internet",588,1.22
+1305,"Nentón",36210,"Usa Celular",15098,41.7
+1305,"Nentón",36210,"No Usa Celular",20689,57.14
+1305,"Nentón",36210,"NA_Celular",423,1.17
+1305,"Nentón",36210,"Usa Computadora",1795,4.96
+1305,"Nentón",36210,"No usa Computadora",34179,94.39
+1305,"Nentón",36210,"NA_Computadora",236,0.65
+1305,"Nentón",36210,"Usa Internet",4799,13.25
+1305,"Nentón",36210,"No usa Internet",30912,85.37
+1305,"Nentón",36210,"NA_Internet",499,1.38
+1306,"San Pedro Necta",31377,"Usa Celular",18223,58.08
+1306,"San Pedro Necta",31377,"No Usa Celular",12836,40.91
+1306,"San Pedro Necta",31377,"NA_Celular",318,1.01
+1306,"San Pedro Necta",31377,"Usa Computadora",2728,8.69
+1306,"San Pedro Necta",31377,"No usa Computadora",28461,90.71
+1306,"San Pedro Necta",31377,"NA_Computadora",188,0.6
+1306,"San Pedro Necta",31377,"Usa Internet",4656,14.84
+1306,"San Pedro Necta",31377,"No usa Internet",26394,84.12
+1306,"San Pedro Necta",31377,"NA_Internet",327,1.04
+1307,"Jacaltenango",31398,"Usa Celular",20648,65.76
+1307,"Jacaltenango",31398,"No Usa Celular",10545,33.58
+1307,"Jacaltenango",31398,"NA_Celular",205,0.65
+1307,"Jacaltenango",31398,"Usa Computadora",6866,21.87
+1307,"Jacaltenango",31398,"No usa Computadora",24364,77.6
+1307,"Jacaltenango",31398,"NA_Computadora",168,0.54
+1307,"Jacaltenango",31398,"Usa Internet",10557,33.62
+1307,"Jacaltenango",31398,"No usa Internet",20610,65.64
+1307,"Jacaltenango",31398,"NA_Internet",231,0.74
+1308,"San Pedro Soloma",38459,"Usa Celular",21663,56.33
+1308,"San Pedro Soloma",38459,"No Usa Celular",16299,42.38
+1308,"San Pedro Soloma",38459,"NA_Celular",497,1.29
+1308,"San Pedro Soloma",38459,"Usa Computadora",3625,9.43
+1308,"San Pedro Soloma",38459,"No usa Computadora",34460,89.6
+1308,"San Pedro Soloma",38459,"NA_Computadora",374,0.97
+1308,"San Pedro Soloma",38459,"Usa Internet",7450,19.37
+1308,"San Pedro Soloma",38459,"No usa Internet",30412,79.08
+1308,"San Pedro Soloma",38459,"NA_Internet",597,1.55
+1309,"San Ildefonso Ixtahuacán",35055,"Usa Celular",23807,67.91
+1309,"San Ildefonso Ixtahuacán",35055,"No Usa Celular",10971,31.3
+1309,"San Ildefonso Ixtahuacán",35055,"NA_Celular",277,0.79
+1309,"San Ildefonso Ixtahuacán",35055,"Usa Computadora",3396,9.69
+1309,"San Ildefonso Ixtahuacán",35055,"No usa Computadora",31474,89.78
+1309,"San Ildefonso Ixtahuacán",35055,"NA_Computadora",185,0.53
+1309,"San Ildefonso Ixtahuacán",35055,"Usa Internet",5304,15.13
+1309,"San Ildefonso Ixtahuacán",35055,"No usa Internet",29371,83.79
+1309,"San Ildefonso Ixtahuacán",35055,"NA_Internet",380,1.08
+1310,"Santa Bárbara",26634,"Usa Celular",14362,53.92
+1310,"Santa Bárbara",26634,"No Usa Celular",11738,44.07
+1310,"Santa Bárbara",26634,"NA_Celular",534,2
+1310,"Santa Bárbara",26634,"Usa Computadora",424,1.59
+1310,"Santa Bárbara",26634,"No usa Computadora",25947,97.42
+1310,"Santa Bárbara",26634,"NA_Computadora",263,0.99
+1310,"Santa Bárbara",26634,"Usa Internet",2120,7.96
+1310,"Santa Bárbara",26634,"No usa Internet",23906,89.76
+1310,"Santa Bárbara",26634,"NA_Internet",608,2.28
+1311,"La Libertad",30972,"Usa Celular",17415,56.23
+1311,"La Libertad",30972,"No Usa Celular",13091,42.27
+1311,"La Libertad",30972,"NA_Celular",466,1.5
+1311,"La Libertad",30972,"Usa Computadora",1167,3.77
+1311,"La Libertad",30972,"No usa Computadora",29527,95.33
+1311,"La Libertad",30972,"NA_Computadora",278,0.9
+1311,"La Libertad",30972,"Usa Internet",6073,19.61
+1311,"La Libertad",30972,"No usa Internet",24403,78.79
+1311,"La Libertad",30972,"NA_Internet",496,1.6
+1312,"La Democracia",45266,"Usa Celular",26127,57.72
+1312,"La Democracia",45266,"No Usa Celular",18247,40.31
+1312,"La Democracia",45266,"NA_Celular",892,1.97
+1312,"La Democracia",45266,"Usa Computadora",2890,6.38
+1312,"La Democracia",45266,"No usa Computadora",41751,92.23
+1312,"La Democracia",45266,"NA_Computadora",625,1.38
+1312,"La Democracia",45266,"Usa Internet",7954,17.57
+1312,"La Democracia",45266,"No usa Internet",36223,80.02
+1312,"La Democracia",45266,"NA_Internet",1089,2.41
+1313,"San Miguel Acatán",21024,"Usa Celular",8587,40.84
+1313,"San Miguel Acatán",21024,"No Usa Celular",12257,58.3
+1313,"San Miguel Acatán",21024,"NA_Celular",180,0.86
+1313,"San Miguel Acatán",21024,"Usa Computadora",549,2.61
+1313,"San Miguel Acatán",21024,"No usa Computadora",20403,97.05
+1313,"San Miguel Acatán",21024,"NA_Computadora",72,0.34
+1313,"San Miguel Acatán",21024,"Usa Internet",1191,5.66
+1313,"San Miguel Acatán",21024,"No usa Internet",19646,93.45
+1313,"San Miguel Acatán",21024,"NA_Internet",187,0.89
+1314,"San Rafael La Independencia",11050,"Usa Celular",5589,50.58
+1314,"San Rafael La Independencia",11050,"No Usa Celular",5368,48.58
+1314,"San Rafael La Independencia",11050,"NA_Celular",93,0.84
+1314,"San Rafael La Independencia",11050,"Usa Computadora",500,4.52
+1314,"San Rafael La Independencia",11050,"No usa Computadora",10497,95
+1314,"San Rafael La Independencia",11050,"NA_Computadora",53,0.48
+1314,"San Rafael La Independencia",11050,"Usa Internet",1027,9.29
+1314,"San Rafael La Independencia",11050,"No usa Internet",9912,89.7
+1314,"San Rafael La Independencia",11050,"NA_Internet",111,1
+1315,"Todos Santos Cuchumatán",24373,"Usa Celular",16049,65.85
+1315,"Todos Santos Cuchumatán",24373,"No Usa Celular",7981,32.75
+1315,"Todos Santos Cuchumatán",24373,"NA_Celular",343,1.41
+1315,"Todos Santos Cuchumatán",24373,"Usa Computadora",978,4.01
+1315,"Todos Santos Cuchumatán",24373,"No usa Computadora",23216,95.25
+1315,"Todos Santos Cuchumatán",24373,"NA_Computadora",179,0.73
+1315,"Todos Santos Cuchumatán",24373,"Usa Internet",4059,16.65
+1315,"Todos Santos Cuchumatán",24373,"No usa Internet",19882,81.57
+1315,"Todos Santos Cuchumatán",24373,"NA_Internet",432,1.77
+1316,"San Juan Atitán",15907,"Usa Celular",9646,60.64
+1316,"San Juan Atitán",15907,"No Usa Celular",6176,38.83
+1316,"San Juan Atitán",15907,"NA_Celular",85,0.53
+1316,"San Juan Atitán",15907,"Usa Computadora",321,2.02
+1316,"San Juan Atitán",15907,"No usa Computadora",15539,97.69
+1316,"San Juan Atitán",15907,"NA_Computadora",47,0.3
+1316,"San Juan Atitán",15907,"Usa Internet",546,3.43
+1316,"San Juan Atitán",15907,"No usa Internet",15241,95.81
+1316,"San Juan Atitán",15907,"NA_Internet",120,0.75
+1317,"Santa Eulalia",30707,"Usa Celular",15347,49.98
+1317,"Santa Eulalia",30707,"No Usa Celular",14291,46.54
+1317,"Santa Eulalia",30707,"NA_Celular",1069,3.48
+1317,"Santa Eulalia",30707,"Usa Computadora",2841,9.25
+1317,"Santa Eulalia",30707,"No usa Computadora",27314,88.95
+1317,"Santa Eulalia",30707,"NA_Computadora",552,1.8
+1317,"Santa Eulalia",30707,"Usa Internet",3424,11.15
+1317,"Santa Eulalia",30707,"No usa Internet",26113,85.04
+1317,"Santa Eulalia",30707,"NA_Internet",1170,3.81
+1318,"San Mateo Ixtatán",34097,"Usa Celular",12435,36.47
+1318,"San Mateo Ixtatán",34097,"No Usa Celular",20962,61.48
+1318,"San Mateo Ixtatán",34097,"NA_Celular",700,2.05
+1318,"San Mateo Ixtatán",34097,"Usa Computadora",902,2.65
+1318,"San Mateo Ixtatán",34097,"No usa Computadora",32924,96.56
+1318,"San Mateo Ixtatán",34097,"NA_Computadora",271,0.79
+1318,"San Mateo Ixtatán",34097,"Usa Internet",1172,3.44
+1318,"San Mateo Ixtatán",34097,"No usa Internet",32206,94.45
+1318,"San Mateo Ixtatán",34097,"NA_Internet",719,2.11
+1319,"Colotenango",27302,"Usa Celular",12048,44.13
+1319,"Colotenango",27302,"No Usa Celular",14938,54.71
+1319,"Colotenango",27302,"NA_Celular",316,1.16
+1319,"Colotenango",27302,"Usa Computadora",610,2.23
+1319,"Colotenango",27302,"No usa Computadora",26482,97
+1319,"Colotenango",27302,"NA_Computadora",210,0.77
+1319,"Colotenango",27302,"Usa Internet",939,3.44
+1319,"Colotenango",27302,"No usa Internet",25940,95.01
+1319,"Colotenango",27302,"NA_Internet",423,1.55
+1320,"San Sebastián Huehuetenango",26261,"Usa Celular",13190,50.23
+1320,"San Sebastián Huehuetenango",26261,"No Usa Celular",12774,48.64
+1320,"San Sebastián Huehuetenango",26261,"NA_Celular",297,1.13
+1320,"San Sebastián Huehuetenango",26261,"Usa Computadora",1445,5.5
+1320,"San Sebastián Huehuetenango",26261,"No usa Computadora",24622,93.76
+1320,"San Sebastián Huehuetenango",26261,"NA_Computadora",194,0.74
+1320,"San Sebastián Huehuetenango",26261,"Usa Internet",2088,7.95
+1320,"San Sebastián Huehuetenango",26261,"No usa Internet",23770,90.51
+1320,"San Sebastián Huehuetenango",26261,"NA_Internet",403,1.53
+1321,"Tectitán",8708,"Usa Celular",4023,46.2
+1321,"Tectitán",8708,"No Usa Celular",4569,52.47
+1321,"Tectitán",8708,"NA_Celular",116,1.33
+1321,"Tectitán",8708,"Usa Computadora",394,4.52
+1321,"Tectitán",8708,"No usa Computadora",8255,94.8
+1321,"Tectitán",8708,"NA_Computadora",59,0.68
+1321,"Tectitán",8708,"Usa Internet",1346,15.46
+1321,"Tectitán",8708,"No usa Internet",7232,83.05
+1321,"Tectitán",8708,"NA_Internet",130,1.49
+1322,"Concepción Huista",15045,"Usa Celular",7525,50.02
+1322,"Concepción Huista",15045,"No Usa Celular",7387,49.1
+1322,"Concepción Huista",15045,"NA_Celular",133,0.88
+1322,"Concepción Huista",15045,"Usa Computadora",404,2.69
+1322,"Concepción Huista",15045,"No usa Computadora",14564,96.8
+1322,"Concepción Huista",15045,"NA_Computadora",77,0.51
+1322,"Concepción Huista",15045,"Usa Internet",2001,13.3
+1322,"Concepción Huista",15045,"No usa Internet",12840,85.34
+1322,"Concepción Huista",15045,"NA_Internet",204,1.36
+1323,"San Juan Ixcoy",18192,"Usa Celular",9915,54.5
+1323,"San Juan Ixcoy",18192,"No Usa Celular",7967,43.79
+1323,"San Juan Ixcoy",18192,"NA_Celular",310,1.7
+1323,"San Juan Ixcoy",18192,"Usa Computadora",1203,6.61
+1323,"San Juan Ixcoy",18192,"No usa Computadora",16829,92.51
+1323,"San Juan Ixcoy",18192,"NA_Computadora",160,0.88
+1323,"San Juan Ixcoy",18192,"Usa Internet",1985,10.91
+1323,"San Juan Ixcoy",18192,"No usa Internet",15877,87.27
+1323,"San Juan Ixcoy",18192,"NA_Internet",330,1.81
+1324,"San Antonio Huista",13969,"Usa Celular",8465,60.6
+1324,"San Antonio Huista",13969,"No Usa Celular",5409,38.72
+1324,"San Antonio Huista",13969,"NA_Celular",95,0.68
+1324,"San Antonio Huista",13969,"Usa Computadora",1851,13.25
+1324,"San Antonio Huista",13969,"No usa Computadora",12058,86.32
+1324,"San Antonio Huista",13969,"NA_Computadora",60,0.43
+1324,"San Antonio Huista",13969,"Usa Internet",4008,28.69
+1324,"San Antonio Huista",13969,"No usa Internet",9842,70.46
+1324,"San Antonio Huista",13969,"NA_Internet",119,0.85
+1325,"San Sebastián Coatán",16769,"Usa Celular",11179,66.66
+1325,"San Sebastián Coatán",16769,"No Usa Celular",5402,32.21
+1325,"San Sebastián Coatán",16769,"NA_Celular",188,1.12
+1325,"San Sebastián Coatán",16769,"Usa Computadora",1339,7.98
+1325,"San Sebastián Coatán",16769,"No usa Computadora",15335,91.45
+1325,"San Sebastián Coatán",16769,"NA_Computadora",95,0.57
+1325,"San Sebastián Coatán",16769,"Usa Internet",3501,20.88
+1325,"San Sebastián Coatán",16769,"No usa Internet",13022,77.66
+1325,"San Sebastián Coatán",16769,"NA_Internet",246,1.47
+1326,"Santa Cruz Barillas",79492,"Usa Celular",40883,51.43
+1326,"Santa Cruz Barillas",79492,"No Usa Celular",37460,47.12
+1326,"Santa Cruz Barillas",79492,"NA_Celular",1149,1.45
+1326,"Santa Cruz Barillas",79492,"Usa Computadora",6360,8
+1326,"Santa Cruz Barillas",79492,"No usa Computadora",72414,91.1
+1326,"Santa Cruz Barillas",79492,"NA_Computadora",718,0.9
+1326,"Santa Cruz Barillas",79492,"Usa Internet",9308,11.71
+1326,"Santa Cruz Barillas",79492,"No usa Internet",68861,86.63
+1326,"Santa Cruz Barillas",79492,"NA_Internet",1323,1.66
+1327,"Aguacatán",41339,"Usa Celular",24359,58.92
+1327,"Aguacatán",41339,"No Usa Celular",16659,40.3
+1327,"Aguacatán",41339,"NA_Celular",321,0.78
+1327,"Aguacatán",41339,"Usa Computadora",3901,9.44
+1327,"Aguacatán",41339,"No usa Computadora",37239,90.08
+1327,"Aguacatán",41339,"NA_Computadora",199,0.48
+1327,"Aguacatán",41339,"Usa Internet",6547,15.84
+1327,"Aguacatán",41339,"No usa Internet",34420,83.26
+1327,"Aguacatán",41339,"NA_Internet",372,0.9
+1328,"San Rafael Petzal",9198,"Usa Celular",5099,55.44
+1328,"San Rafael Petzal",9198,"No Usa Celular",4037,43.89
+1328,"San Rafael Petzal",9198,"NA_Celular",62,0.67
+1328,"San Rafael Petzal",9198,"Usa Computadora",764,8.31
+1328,"San Rafael Petzal",9198,"No usa Computadora",8382,91.13
+1328,"San Rafael Petzal",9198,"NA_Computadora",52,0.57
+1328,"San Rafael Petzal",9198,"Usa Internet",1416,15.39
+1328,"San Rafael Petzal",9198,"No usa Internet",7708,83.8
+1328,"San Rafael Petzal",9198,"NA_Internet",74,0.8
+1329,"San Gaspar Ixchil",6270,"Usa Celular",3029,48.31
+1329,"San Gaspar Ixchil",6270,"No Usa Celular",3203,51.08
+1329,"San Gaspar Ixchil",6270,"NA_Celular",38,0.61
+1329,"San Gaspar Ixchil",6270,"Usa Computadora",84,1.34
+1329,"San Gaspar Ixchil",6270,"No usa Computadora",6165,98.33
+1329,"San Gaspar Ixchil",6270,"NA_Computadora",21,0.33
+1329,"San Gaspar Ixchil",6270,"Usa Internet",237,3.78
+1329,"San Gaspar Ixchil",6270,"No usa Internet",5968,95.18
+1329,"San Gaspar Ixchil",6270,"NA_Internet",65,1.04
+1330,"Santiago Chimaltenango",8813,"Usa Celular",5468,62.04
+1330,"Santiago Chimaltenango",8813,"No Usa Celular",3283,37.25
+1330,"Santiago Chimaltenango",8813,"NA_Celular",62,0.7
+1330,"Santiago Chimaltenango",8813,"Usa Computadora",234,2.66
+1330,"Santiago Chimaltenango",8813,"No usa Computadora",8532,96.81
+1330,"Santiago Chimaltenango",8813,"NA_Computadora",47,0.53
+1330,"Santiago Chimaltenango",8813,"Usa Internet",450,5.11
+1330,"Santiago Chimaltenango",8813,"No usa Internet",8232,93.41
+1330,"Santiago Chimaltenango",8813,"NA_Internet",131,1.49
+1331,"Santa Ana Huista",7886,"Usa Celular",5399,68.46
+1331,"Santa Ana Huista",7886,"No Usa Celular",2401,30.45
+1331,"Santa Ana Huista",7886,"NA_Celular",86,1.09
+1331,"Santa Ana Huista",7886,"Usa Computadora",1102,13.97
+1331,"Santa Ana Huista",7886,"No usa Computadora",6722,85.24
+1331,"Santa Ana Huista",7886,"NA_Computadora",62,0.79
+1331,"Santa Ana Huista",7886,"Usa Internet",2674,33.91
+1331,"Santa Ana Huista",7886,"No usa Internet",5104,64.72
+1331,"Santa Ana Huista",7886,"NA_Internet",108,1.37
+1332,"Unión Cantinil",12954,"Usa Celular",8381,64.7
+1332,"Unión Cantinil",12954,"No Usa Celular",4399,33.96
+1332,"Unión Cantinil",12954,"NA_Celular",174,1.34
+1332,"Unión Cantinil",12954,"Usa Computadora",845,6.52
+1332,"Unión Cantinil",12954,"No usa Computadora",11985,92.52
+1332,"Unión Cantinil",12954,"NA_Computadora",124,0.96
+1332,"Unión Cantinil",12954,"Usa Internet",4106,31.7
+1332,"Unión Cantinil",12954,"No usa Internet",8613,66.49
+1332,"Unión Cantinil",12954,"NA_Internet",235,1.81
+1333,"Petatán",5027,"Usa Celular",3133,62.32
+1333,"Petatán",5027,"No Usa Celular",1860,37
+1333,"Petatán",5027,"NA_Celular",34,0.68
+1333,"Petatán",5027,"Usa Computadora",548,10.9
+1333,"Petatán",5027,"No usa Computadora",4468,88.88
+1333,"Petatán",5027,"NA_Computadora",11,0.22
+1333,"Petatán",5027,"Usa Internet",1674,33.3
+1333,"Petatán",5027,"No usa Internet",3342,66.48
+1333,"Petatán",5027,"NA_Internet",11,0.22
+1401,"Santa Cruz del Quiché",66028,"Usa Celular",40240,60.94
+1401,"Santa Cruz del Quiché",66028,"No Usa Celular",22978,34.8
+1401,"Santa Cruz del Quiché",66028,"NA_Celular",2810,4.26
+1401,"Santa Cruz del Quiché",66028,"Usa Computadora",14215,21.53
+1401,"Santa Cruz del Quiché",66028,"No usa Computadora",50029,75.77
+1401,"Santa Cruz del Quiché",66028,"NA_Computadora",1784,2.7
+1401,"Santa Cruz del Quiché",66028,"Usa Internet",18500,28.02
+1401,"Santa Cruz del Quiché",66028,"No usa Internet",44477,67.36
+1401,"Santa Cruz del Quiché",66028,"NA_Internet",3051,4.62
+1402,"Chiché",24260,"Usa Celular",14187,58.48
+1402,"Chiché",24260,"No Usa Celular",9828,40.51
+1402,"Chiché",24260,"NA_Celular",245,1.01
+1402,"Chiché",24260,"Usa Computadora",1515,6.24
+1402,"Chiché",24260,"No usa Computadora",22538,92.9
+1402,"Chiché",24260,"NA_Computadora",207,0.85
+1402,"Chiché",24260,"Usa Internet",4016,16.55
+1402,"Chiché",24260,"No usa Internet",19873,81.92
+1402,"Chiché",24260,"NA_Internet",371,1.53
+1403,"Chinique",9486,"Usa Celular",5355,56.45
+1403,"Chinique",9486,"No Usa Celular",3907,41.19
+1403,"Chinique",9486,"NA_Celular",224,2.36
+1403,"Chinique",9486,"Usa Computadora",1189,12.53
+1403,"Chinique",9486,"No usa Computadora",8150,85.92
+1403,"Chinique",9486,"NA_Computadora",147,1.55
+1403,"Chinique",9486,"Usa Internet",1496,15.77
+1403,"Chinique",9486,"No usa Internet",7707,81.25
+1403,"Chinique",9486,"NA_Internet",283,2.98
+1404,"Zacualpa",26816,"Usa Celular",14412,53.74
+1404,"Zacualpa",26816,"No Usa Celular",12030,44.86
+1404,"Zacualpa",26816,"NA_Celular",374,1.39
+1404,"Zacualpa",26816,"Usa Computadora",1697,6.33
+1404,"Zacualpa",26816,"No usa Computadora",24890,92.82
+1404,"Zacualpa",26816,"NA_Computadora",229,0.85
+1404,"Zacualpa",26816,"Usa Internet",4067,15.17
+1404,"Zacualpa",26816,"No usa Internet",22301,83.16
+1404,"Zacualpa",26816,"NA_Internet",448,1.67
+1405,"Chajul",37842,"Usa Celular",17437,46.08
+1405,"Chajul",37842,"No Usa Celular",20098,53.11
+1405,"Chajul",37842,"NA_Celular",307,0.81
+1405,"Chajul",37842,"Usa Computadora",1772,4.68
+1405,"Chajul",37842,"No usa Computadora",35954,95.01
+1405,"Chajul",37842,"NA_Computadora",116,0.31
+1405,"Chajul",37842,"Usa Internet",2621,6.93
+1405,"Chajul",37842,"No usa Internet",34923,92.29
+1405,"Chajul",37842,"NA_Internet",298,0.79
+1406,"Santo Tomás Chichicastenango",118034,"Usa Celular",63138,53.49
+1406,"Santo Tomás Chichicastenango",118034,"No Usa Celular",53300,45.16
+1406,"Santo Tomás Chichicastenango",118034,"NA_Celular",1596,1.35
+1406,"Santo Tomás Chichicastenango",118034,"Usa Computadora",8494,7.2
+1406,"Santo Tomás Chichicastenango",118034,"No usa Computadora",108451,91.88
+1406,"Santo Tomás Chichicastenango",118034,"NA_Computadora",1089,0.92
+1406,"Santo Tomás Chichicastenango",118034,"Usa Internet",9470,8.02
+1406,"Santo Tomás Chichicastenango",118034,"No usa Internet",106435,90.17
+1406,"Santo Tomás Chichicastenango",118034,"NA_Internet",2129,1.8
+1407,"Patzité",4962,"Usa Celular",2733,55.08
+1407,"Patzité",4962,"No Usa Celular",2134,43.01
+1407,"Patzité",4962,"NA_Celular",95,1.91
+1407,"Patzité",4962,"Usa Computadora",390,7.86
+1407,"Patzité",4962,"No usa Computadora",4527,91.23
+1407,"Patzité",4962,"NA_Computadora",45,0.91
+1407,"Patzité",4962,"Usa Internet",650,13.1
+1407,"Patzité",4962,"No usa Internet",4219,85.03
+1407,"Patzité",4962,"NA_Internet",93,1.87
+1408,"San Antonio Ilotenango",20228,"Usa Celular",12293,60.77
+1408,"San Antonio Ilotenango",20228,"No Usa Celular",7575,37.45
+1408,"San Antonio Ilotenango",20228,"NA_Celular",360,1.78
+1408,"San Antonio Ilotenango",20228,"Usa Computadora",1492,7.38
+1408,"San Antonio Ilotenango",20228,"No usa Computadora",18544,91.67
+1408,"San Antonio Ilotenango",20228,"NA_Computadora",192,0.95
+1408,"San Antonio Ilotenango",20228,"Usa Internet",3783,18.7
+1408,"San Antonio Ilotenango",20228,"No usa Internet",16024,79.22
+1408,"San Antonio Ilotenango",20228,"NA_Internet",421,2.08
+1409,"San Pedro Jocopilas",25942,"Usa Celular",15248,58.78
+1409,"San Pedro Jocopilas",25942,"No Usa Celular",9806,37.8
+1409,"San Pedro Jocopilas",25942,"NA_Celular",888,3.42
+1409,"San Pedro Jocopilas",25942,"Usa Computadora",861,3.32
+1409,"San Pedro Jocopilas",25942,"No usa Computadora",24527,94.55
+1409,"San Pedro Jocopilas",25942,"NA_Computadora",554,2.14
+1409,"San Pedro Jocopilas",25942,"Usa Internet",1968,7.59
+1409,"San Pedro Jocopilas",25942,"No usa Internet",22862,88.13
+1409,"San Pedro Jocopilas",25942,"NA_Internet",1112,4.29
+1410,"Cunén",32786,"Usa Celular",17028,51.94
+1410,"Cunén",32786,"No Usa Celular",15383,46.92
+1410,"Cunén",32786,"NA_Celular",375,1.14
+1410,"Cunén",32786,"Usa Computadora",3153,9.62
+1410,"Cunén",32786,"No usa Computadora",29393,89.65
+1410,"Cunén",32786,"NA_Computadora",240,0.73
+1410,"Cunén",32786,"Usa Internet",4257,12.98
+1410,"Cunén",32786,"No usa Internet",28044,85.54
+1410,"Cunén",32786,"NA_Internet",485,1.48
+1411,"San Juan Cotzal",25617,"Usa Celular",11315,44.17
+1411,"San Juan Cotzal",25617,"No Usa Celular",14085,54.98
+1411,"San Juan Cotzal",25617,"NA_Celular",217,0.85
+1411,"San Juan Cotzal",25617,"Usa Computadora",3864,15.08
+1411,"San Juan Cotzal",25617,"No usa Computadora",21651,84.52
+1411,"San Juan Cotzal",25617,"NA_Computadora",102,0.4
+1411,"San Juan Cotzal",25617,"Usa Internet",3961,15.46
+1411,"San Juan Cotzal",25617,"No usa Internet",21202,82.77
+1411,"San Juan Cotzal",25617,"NA_Internet",454,1.77
+1412,"Joyabaj",65399,"Usa Celular",36685,56.09
+1412,"Joyabaj",65399,"No Usa Celular",27361,41.84
+1412,"Joyabaj",65399,"NA_Celular",1353,2.07
+1412,"Joyabaj",65399,"Usa Computadora",3206,4.9
+1412,"Joyabaj",65399,"No usa Computadora",61621,94.22
+1412,"Joyabaj",65399,"NA_Computadora",572,0.87
+1412,"Joyabaj",65399,"Usa Internet",8187,12.52
+1412,"Joyabaj",65399,"No usa Internet",55647,85.09
+1412,"Joyabaj",65399,"NA_Internet",1565,2.39
+1413,"Santa María Nebaj",60822,"Usa Celular",35444,58.27
+1413,"Santa María Nebaj",60822,"No Usa Celular",24602,40.45
+1413,"Santa María Nebaj",60822,"NA_Celular",776,1.28
+1413,"Santa María Nebaj",60822,"Usa Computadora",6353,10.45
+1413,"Santa María Nebaj",60822,"No usa Computadora",53927,88.66
+1413,"Santa María Nebaj",60822,"NA_Computadora",542,0.89
+1413,"Santa María Nebaj",60822,"Usa Internet",7936,13.05
+1413,"Santa María Nebaj",60822,"No usa Internet",51785,85.14
+1413,"Santa María Nebaj",60822,"NA_Internet",1101,1.81
+1414,"San Andrés Sajcabajá",20824,"Usa Celular",10040,48.21
+1414,"San Andrés Sajcabajá",20824,"No Usa Celular",10190,48.93
+1414,"San Andrés Sajcabajá",20824,"NA_Celular",594,2.85
+1414,"San Andrés Sajcabajá",20824,"Usa Computadora",978,4.7
+1414,"San Andrés Sajcabajá",20824,"No usa Computadora",19547,93.87
+1414,"San Andrés Sajcabajá",20824,"NA_Computadora",299,1.44
+1414,"San Andrés Sajcabajá",20824,"Usa Internet",2004,9.62
+1414,"San Andrés Sajcabajá",20824,"No usa Internet",18190,87.35
+1414,"San Andrés Sajcabajá",20824,"NA_Internet",630,3.03
+1415,"San Miguel Uspantán",52438,"Usa Celular",21887,41.74
+1415,"San Miguel Uspantán",52438,"No Usa Celular",29688,56.62
+1415,"San Miguel Uspantán",52438,"NA_Celular",863,1.65
+1415,"San Miguel Uspantán",52438,"Usa Computadora",3645,6.95
+1415,"San Miguel Uspantán",52438,"No usa Computadora",48360,92.22
+1415,"San Miguel Uspantán",52438,"NA_Computadora",433,0.83
+1415,"San Miguel Uspantán",52438,"Usa Internet",5869,11.19
+1415,"San Miguel Uspantán",52438,"No usa Internet",45587,86.94
+1415,"San Miguel Uspantán",52438,"NA_Internet",982,1.87
+1416,"Sacapulas",42951,"Usa Celular",23558,54.85
+1416,"Sacapulas",42951,"No Usa Celular",19022,44.29
+1416,"Sacapulas",42951,"NA_Celular",371,0.86
+1416,"Sacapulas",42951,"Usa Computadora",2329,5.42
+1416,"Sacapulas",42951,"No usa Computadora",40375,94
+1416,"Sacapulas",42951,"NA_Computadora",247,0.58
+1416,"Sacapulas",42951,"Usa Internet",3943,9.18
+1416,"Sacapulas",42951,"No usa Internet",38428,89.47
+1416,"Sacapulas",42951,"NA_Internet",580,1.35
+1417,"San Bartolomé Jocotenango",10860,"Usa Celular",6213,57.21
+1417,"San Bartolomé Jocotenango",10860,"No Usa Celular",4503,41.46
+1417,"San Bartolomé Jocotenango",10860,"NA_Celular",144,1.33
+1417,"San Bartolomé Jocotenango",10860,"Usa Computadora",365,3.36
+1417,"San Bartolomé Jocotenango",10860,"No usa Computadora",10456,96.28
+1417,"San Bartolomé Jocotenango",10860,"NA_Computadora",39,0.36
+1417,"San Bartolomé Jocotenango",10860,"Usa Internet",1108,10.2
+1417,"San Bartolomé Jocotenango",10860,"No usa Internet",9584,88.25
+1417,"San Bartolomé Jocotenango",10860,"NA_Internet",168,1.55
+1418,"Canillá",10011,"Usa Celular",5851,58.45
+1418,"Canillá",10011,"No Usa Celular",3763,37.59
+1418,"Canillá",10011,"NA_Celular",397,3.97
+1418,"Canillá",10011,"Usa Computadora",923,9.22
+1418,"Canillá",10011,"No usa Computadora",8815,88.05
+1418,"Canillá",10011,"NA_Computadora",273,2.73
+1418,"Canillá",10011,"Usa Internet",1686,16.84
+1418,"Canillá",10011,"No usa Internet",7891,78.82
+1418,"Canillá",10011,"NA_Internet",434,4.34
+1419,"Chicamán",31535,"Usa Celular",13552,42.97
+1419,"Chicamán",31535,"No Usa Celular",17550,55.65
+1419,"Chicamán",31535,"NA_Celular",433,1.37
+1419,"Chicamán",31535,"Usa Computadora",2127,6.74
+1419,"Chicamán",31535,"No usa Computadora",29210,92.63
+1419,"Chicamán",31535,"NA_Computadora",198,0.63
+1419,"Chicamán",31535,"Usa Internet",3151,9.99
+1419,"Chicamán",31535,"No usa Internet",27860,88.35
+1419,"Chicamán",31535,"NA_Internet",524,1.66
+1420,"Playa Grande Ixcán",78853,"Usa Celular",41970,53.23
+1420,"Playa Grande Ixcán",78853,"No Usa Celular",36351,46.1
+1420,"Playa Grande Ixcán",78853,"NA_Celular",532,0.67
+1420,"Playa Grande Ixcán",78853,"Usa Computadora",6948,8.81
+1420,"Playa Grande Ixcán",78853,"No usa Computadora",71444,90.6
+1420,"Playa Grande Ixcán",78853,"NA_Computadora",461,0.58
+1420,"Playa Grande Ixcán",78853,"Usa Internet",9711,12.32
+1420,"Playa Grande Ixcán",78853,"No usa Internet",68353,86.68
+1420,"Playa Grande Ixcán",78853,"NA_Internet",789,1
+1421,"Pachalum",7578,"Usa Celular",5374,70.92
+1421,"Pachalum",7578,"No Usa Celular",2172,28.66
+1421,"Pachalum",7578,"NA_Celular",32,0.42
+1421,"Pachalum",7578,"Usa Computadora",1341,17.7
+1421,"Pachalum",7578,"No usa Computadora",6225,82.15
+1421,"Pachalum",7578,"NA_Computadora",12,0.16
+1421,"Pachalum",7578,"Usa Internet",2953,38.97
+1421,"Pachalum",7578,"No usa Internet",4603,60.74
+1421,"Pachalum",7578,"NA_Internet",22,0.29
+1501,"Salamá",55033,"Usa Celular",34795,63.23
+1501,"Salamá",55033,"No Usa Celular",19725,35.84
+1501,"Salamá",55033,"NA_Celular",513,0.93
+1501,"Salamá",55033,"Usa Computadora",10696,19.44
+1501,"Salamá",55033,"No usa Computadora",43916,79.8
+1501,"Salamá",55033,"NA_Computadora",421,0.76
+1501,"Salamá",55033,"Usa Internet",13586,24.69
+1501,"Salamá",55033,"No usa Internet",40782,74.1
+1501,"Salamá",55033,"NA_Internet",665,1.21
+1502,"San Miguel Chicaj",27345,"Usa Celular",15877,58.06
+1502,"San Miguel Chicaj",27345,"No Usa Celular",11252,41.15
+1502,"San Miguel Chicaj",27345,"NA_Celular",216,0.79
+1502,"San Miguel Chicaj",27345,"Usa Computadora",4230,15.47
+1502,"San Miguel Chicaj",27345,"No usa Computadora",22966,83.99
+1502,"San Miguel Chicaj",27345,"NA_Computadora",149,0.54
+1502,"San Miguel Chicaj",27345,"Usa Internet",5774,21.12
+1502,"San Miguel Chicaj",27345,"No usa Internet",21336,78.03
+1502,"San Miguel Chicaj",27345,"NA_Internet",235,0.86
+1503,"Rabinal",34690,"Usa Celular",20498,59.09
+1503,"Rabinal",34690,"No Usa Celular",14003,40.37
+1503,"Rabinal",34690,"NA_Celular",189,0.54
+1503,"Rabinal",34690,"Usa Computadora",7075,20.39
+1503,"Rabinal",34690,"No usa Computadora",27480,79.22
+1503,"Rabinal",34690,"NA_Computadora",135,0.39
+1503,"Rabinal",34690,"Usa Internet",8459,24.38
+1503,"Rabinal",34690,"No usa Internet",26020,75.01
+1503,"Rabinal",34690,"NA_Internet",211,0.61
+1504,"Cubulco",45369,"Usa Celular",26321,58.02
+1504,"Cubulco",45369,"No Usa Celular",18702,41.22
+1504,"Cubulco",45369,"NA_Celular",346,0.76
+1504,"Cubulco",45369,"Usa Computadora",3383,7.46
+1504,"Cubulco",45369,"No usa Computadora",41727,91.97
+1504,"Cubulco",45369,"NA_Computadora",259,0.57
+1504,"Cubulco",45369,"Usa Internet",4785,10.55
+1504,"Cubulco",45369,"No usa Internet",40044,88.26
+1504,"Cubulco",45369,"NA_Internet",540,1.19
+1505,"Granados",11644,"Usa Celular",8329,71.53
+1505,"Granados",11644,"No Usa Celular",3242,27.84
+1505,"Granados",11644,"NA_Celular",73,0.63
+1505,"Granados",11644,"Usa Computadora",1915,16.45
+1505,"Granados",11644,"No usa Computadora",9704,83.34
+1505,"Granados",11644,"NA_Computadora",25,0.21
+1505,"Granados",11644,"Usa Internet",3878,33.3
+1505,"Granados",11644,"No usa Internet",7731,66.39
+1505,"Granados",11644,"NA_Internet",35,0.3
+1506,"Santa Cruz El Chol",8188,"Usa Celular",5932,72.45
+1506,"Santa Cruz El Chol",8188,"No Usa Celular",2249,27.47
+1506,"Santa Cruz El Chol",8188,"NA_Celular",7,0.09
+1506,"Santa Cruz El Chol",8188,"Usa Computadora",977,11.93
+1506,"Santa Cruz El Chol",8188,"No usa Computadora",7191,87.82
+1506,"Santa Cruz El Chol",8188,"NA_Computadora",20,0.24
+1506,"Santa Cruz El Chol",8188,"Usa Internet",1015,12.4
+1506,"Santa Cruz El Chol",8188,"No usa Internet",7148,87.3
+1506,"Santa Cruz El Chol",8188,"NA_Internet",25,0.31
+1507,"San Jerónimo",21412,"Usa Celular",14300,66.78
+1507,"San Jerónimo",21412,"No Usa Celular",6932,32.37
+1507,"San Jerónimo",21412,"NA_Celular",180,0.84
+1507,"San Jerónimo",21412,"Usa Computadora",4331,20.23
+1507,"San Jerónimo",21412,"No usa Computadora",16920,79.02
+1507,"San Jerónimo",21412,"NA_Computadora",161,0.75
+1507,"San Jerónimo",21412,"Usa Internet",7271,33.96
+1507,"San Jerónimo",21412,"No usa Internet",13936,65.08
+1507,"San Jerónimo",21412,"NA_Internet",205,0.96
+1508,"Purulhá",44495,"Usa Celular",18363,41.27
+1508,"Purulhá",44495,"No Usa Celular",25885,58.18
+1508,"Purulhá",44495,"NA_Celular",247,0.56
+1508,"Purulhá",44495,"Usa Computadora",3266,7.34
+1508,"Purulhá",44495,"No usa Computadora",41069,92.3
+1508,"Purulhá",44495,"NA_Computadora",160,0.36
+1508,"Purulhá",44495,"Usa Internet",5720,12.86
+1508,"Purulhá",44495,"No usa Internet",38423,86.35
+1508,"Purulhá",44495,"NA_Internet",352,0.79
+1601,"Cobán",176556,"Usa Celular",93643,53.04
+1601,"Cobán",176556,"No Usa Celular",81336,46.07
+1601,"Cobán",176556,"NA_Celular",1577,0.89
+1601,"Cobán",176556,"Usa Computadora",36692,20.78
+1601,"Cobán",176556,"No usa Computadora",139014,78.74
+1601,"Cobán",176556,"NA_Computadora",850,0.48
+1601,"Cobán",176556,"Usa Internet",46788,26.5
+1601,"Cobán",176556,"No usa Internet",128235,72.63
+1601,"Cobán",176556,"NA_Internet",1533,0.87
+1602,"Santa Cruz Verapaz",26246,"Usa Celular",14299,54.48
+1602,"Santa Cruz Verapaz",26246,"No Usa Celular",11764,44.82
+1602,"Santa Cruz Verapaz",26246,"NA_Celular",183,0.7
+1602,"Santa Cruz Verapaz",26246,"Usa Computadora",4395,16.75
+1602,"Santa Cruz Verapaz",26246,"No usa Computadora",21734,82.81
+1602,"Santa Cruz Verapaz",26246,"NA_Computadora",117,0.45
+1602,"Santa Cruz Verapaz",26246,"Usa Internet",5959,22.7
+1602,"Santa Cruz Verapaz",26246,"No usa Internet",20070,76.47
+1602,"Santa Cruz Verapaz",26246,"NA_Internet",217,0.83
+1603,"San Cristóbal Verapaz",55367,"Usa Celular",26560,47.97
+1603,"San Cristóbal Verapaz",55367,"No Usa Celular",28447,51.38
+1603,"San Cristóbal Verapaz",55367,"NA_Celular",360,0.65
+1603,"San Cristóbal Verapaz",55367,"Usa Computadora",7255,13.1
+1603,"San Cristóbal Verapaz",55367,"No usa Computadora",47923,86.56
+1603,"San Cristóbal Verapaz",55367,"NA_Computadora",189,0.34
+1603,"San Cristóbal Verapaz",55367,"Usa Internet",8086,14.6
+1603,"San Cristóbal Verapaz",55367,"No usa Internet",46915,84.73
+1603,"San Cristóbal Verapaz",55367,"NA_Internet",366,0.66
+1604,"Tactic",31382,"Usa Celular",19496,62.12
+1604,"Tactic",31382,"No Usa Celular",11642,37.1
+1604,"Tactic",31382,"NA_Celular",244,0.78
+1604,"Tactic",31382,"Usa Computadora",6769,21.57
+1604,"Tactic",31382,"No usa Computadora",24473,77.98
+1604,"Tactic",31382,"NA_Computadora",140,0.45
+1604,"Tactic",31382,"Usa Internet",9717,30.96
+1604,"Tactic",31382,"No usa Internet",21430,68.29
+1604,"Tactic",31382,"NA_Internet",235,0.75
+1605,"Tamahú",16174,"Usa Celular",7319,45.25
+1605,"Tamahú",16174,"No Usa Celular",8733,53.99
+1605,"Tamahú",16174,"NA_Celular",122,0.75
+1605,"Tamahú",16174,"Usa Computadora",1147,7.09
+1605,"Tamahú",16174,"No usa Computadora",14970,92.56
+1605,"Tamahú",16174,"NA_Computadora",57,0.35
+1605,"Tamahú",16174,"Usa Internet",1528,9.45
+1605,"Tamahú",16174,"No usa Internet",14520,89.77
+1605,"Tamahú",16174,"NA_Internet",126,0.78
+1606,"San Miguel Tucurú",34450,"Usa Celular",10112,29.35
+1606,"San Miguel Tucurú",34450,"No Usa Celular",23586,68.46
+1606,"San Miguel Tucurú",34450,"NA_Celular",752,2.18
+1606,"San Miguel Tucurú",34450,"Usa Computadora",1686,4.89
+1606,"San Miguel Tucurú",34450,"No usa Computadora",32440,94.17
+1606,"San Miguel Tucurú",34450,"NA_Computadora",324,0.94
+1606,"San Miguel Tucurú",34450,"Usa Internet",1711,4.97
+1606,"San Miguel Tucurú",34450,"No usa Internet",31939,92.71
+1606,"San Miguel Tucurú",34450,"NA_Internet",800,2.32
+1607,"Panzós",56330,"Usa Celular",15718,27.9
+1607,"Panzós",56330,"No Usa Celular",40132,71.24
+1607,"Panzós",56330,"NA_Celular",480,0.85
+1607,"Panzós",56330,"Usa Computadora",2306,4.09
+1607,"Panzós",56330,"No usa Computadora",53790,95.49
+1607,"Panzós",56330,"NA_Computadora",234,0.42
+1607,"Panzós",56330,"Usa Internet",3318,5.89
+1607,"Panzós",56330,"No usa Internet",52502,93.2
+1607,"Panzós",56330,"NA_Internet",510,0.91
+1608,"Senahú",73262,"Usa Celular",19423,26.51
+1608,"Senahú",73262,"No Usa Celular",53010,72.36
+1608,"Senahú",73262,"NA_Celular",829,1.13
+1608,"Senahú",73262,"Usa Computadora",1609,2.2
+1608,"Senahú",73262,"No usa Computadora",71377,97.43
+1608,"Senahú",73262,"NA_Computadora",276,0.38
+1608,"Senahú",73262,"Usa Internet",1874,2.56
+1608,"Senahú",73262,"No usa Internet",70584,96.34
+1608,"Senahú",73262,"NA_Internet",804,1.1
+1609,"San Pedro Carchá",190682,"Usa Celular",77101,40.43
+1609,"San Pedro Carchá",190682,"No Usa Celular",112248,58.87
+1609,"San Pedro Carchá",190682,"NA_Celular",1333,0.7
+1609,"San Pedro Carchá",190682,"Usa Computadora",14456,7.58
+1609,"San Pedro Carchá",190682,"No usa Computadora",175472,92.02
+1609,"San Pedro Carchá",190682,"NA_Computadora",754,0.4
+1609,"San Pedro Carchá",190682,"Usa Internet",18007,9.44
+1609,"San Pedro Carchá",190682,"No usa Internet",171315,89.84
+1609,"San Pedro Carchá",190682,"NA_Internet",1360,0.71
+1610,"San Juan Chamelco",46967,"Usa Celular",22118,47.09
+1610,"San Juan Chamelco",46967,"No Usa Celular",24545,52.26
+1610,"San Juan Chamelco",46967,"NA_Celular",304,0.65
+1610,"San Juan Chamelco",46967,"Usa Computadora",7327,15.6
+1610,"San Juan Chamelco",46967,"No usa Computadora",39511,84.13
+1610,"San Juan Chamelco",46967,"NA_Computadora",129,0.27
+1610,"San Juan Chamelco",46967,"Usa Internet",8199,17.46
+1610,"San Juan Chamelco",46967,"No usa Internet",38506,81.99
+1610,"San Juan Chamelco",46967,"NA_Internet",262,0.56
+1611,"San Agustín Lanquín",19587,"Usa Celular",5741,29.31
+1611,"San Agustín Lanquín",19587,"No Usa Celular",13630,69.59
+1611,"San Agustín Lanquín",19587,"NA_Celular",216,1.1
+1611,"San Agustín Lanquín",19587,"Usa Computadora",540,2.76
+1611,"San Agustín Lanquín",19587,"No usa Computadora",18960,96.8
+1611,"San Agustín Lanquín",19587,"NA_Computadora",87,0.44
+1611,"San Agustín Lanquín",19587,"Usa Internet",518,2.64
+1611,"San Agustín Lanquín",19587,"No usa Internet",18841,96.19
+1611,"San Agustín Lanquín",19587,"NA_Internet",228,1.16
+1612,"Santa María Cahabón",53122,"Usa Celular",14901,28.05
+1612,"Santa María Cahabón",53122,"No Usa Celular",37234,70.09
+1612,"Santa María Cahabón",53122,"NA_Celular",987,1.86
+1612,"Santa María Cahabón",53122,"Usa Computadora",2464,4.64
+1612,"Santa María Cahabón",53122,"No usa Computadora",50224,94.54
+1612,"Santa María Cahabón",53122,"NA_Computadora",434,0.82
+1612,"Santa María Cahabón",53122,"Usa Internet",3715,6.99
+1612,"Santa María Cahabón",53122,"No usa Internet",48388,91.09
+1612,"Santa María Cahabón",53122,"NA_Internet",1019,1.92
+1613,"Chisec",67101,"Usa Celular",22181,33.06
+1613,"Chisec",67101,"No Usa Celular",44260,65.96
+1613,"Chisec",67101,"NA_Celular",660,0.98
+1613,"Chisec",67101,"Usa Computadora",3191,4.76
+1613,"Chisec",67101,"No usa Computadora",63565,94.73
+1613,"Chisec",67101,"NA_Computadora",345,0.51
+1613,"Chisec",67101,"Usa Internet",5466,8.15
+1613,"Chisec",67101,"No usa Internet",60958,90.85
+1613,"Chisec",67101,"NA_Internet",677,1.01
+1614,"Chahal",21430,"Usa Celular",6701,31.27
+1614,"Chahal",21430,"No Usa Celular",14417,67.27
+1614,"Chahal",21430,"NA_Celular",312,1.46
+1614,"Chahal",21430,"Usa Computadora",1546,7.21
+1614,"Chahal",21430,"No usa Computadora",19753,92.17
+1614,"Chahal",21430,"NA_Computadora",131,0.61
+1614,"Chahal",21430,"Usa Internet",1487,6.94
+1614,"Chahal",21430,"No usa Internet",19669,91.78
+1614,"Chahal",21430,"NA_Internet",274,1.28
+1615,"Fray Bartolomé de las Casas",53309,"Usa Celular",21545,40.42
+1615,"Fray Bartolomé de las Casas",53309,"No Usa Celular",31402,58.91
+1615,"Fray Bartolomé de las Casas",53309,"NA_Celular",362,0.68
+1615,"Fray Bartolomé de las Casas",53309,"Usa Computadora",3906,7.33
+1615,"Fray Bartolomé de las Casas",53309,"No usa Computadora",49265,92.41
+1615,"Fray Bartolomé de las Casas",53309,"NA_Computadora",138,0.26
+1615,"Fray Bartolomé de las Casas",53309,"Usa Internet",5617,10.54
+1615,"Fray Bartolomé de las Casas",53309,"No usa Internet",47357,88.83
+1615,"Fray Bartolomé de las Casas",53309,"NA_Internet",335,0.63
+1616,"Santa Catalina La Tinta",32694,"Usa Celular",15386,47.06
+1616,"Santa Catalina La Tinta",32694,"No Usa Celular",17041,52.12
+1616,"Santa Catalina La Tinta",32694,"NA_Celular",267,0.82
+1616,"Santa Catalina La Tinta",32694,"Usa Computadora",3858,11.8
+1616,"Santa Catalina La Tinta",32694,"No usa Computadora",28683,87.73
+1616,"Santa Catalina La Tinta",32694,"NA_Computadora",153,0.47
+1616,"Santa Catalina La Tinta",32694,"Usa Internet",5263,16.1
+1616,"Santa Catalina La Tinta",32694,"No usa Internet",27168,83.1
+1616,"Santa Catalina La Tinta",32694,"NA_Internet",263,0.8
+1617,"Raxruhá",29576,"Usa Celular",11271,38.11
+1617,"Raxruhá",29576,"No Usa Celular",17966,60.75
+1617,"Raxruhá",29576,"NA_Celular",339,1.15
+1617,"Raxruhá",29576,"Usa Computadora",1115,3.77
+1617,"Raxruhá",29576,"No usa Computadora",28284,95.63
+1617,"Raxruhá",29576,"NA_Computadora",177,0.6
+1617,"Raxruhá",29576,"Usa Internet",1817,6.14
+1617,"Raxruhá",29576,"No usa Internet",27457,92.84
+1617,"Raxruhá",29576,"NA_Internet",302,1.02
+1701,"Flores",32869,"Usa Celular",22980,69.91
+1701,"Flores",32869,"No Usa Celular",9441,28.72
+1701,"Flores",32869,"NA_Celular",448,1.36
+1701,"Flores",32869,"Usa Computadora",9251,28.15
+1701,"Flores",32869,"No usa Computadora",23159,70.46
+1701,"Flores",32869,"NA_Computadora",459,1.4
+1701,"Flores",32869,"Usa Internet",15076,45.87
+1701,"Flores",32869,"No usa Internet",17288,52.6
+1701,"Flores",32869,"NA_Internet",505,1.54
+1702,"San José",5840,"Usa Celular",3309,56.66
+1702,"San José",5840,"No Usa Celular",2491,42.65
+1702,"San José",5840,"NA_Celular",40,0.68
+1702,"San José",5840,"Usa Computadora",813,13.92
+1702,"San José",5840,"No usa Computadora",4988,85.41
+1702,"San José",5840,"NA_Computadora",39,0.67
+1702,"San José",5840,"Usa Internet",1735,29.71
+1702,"San José",5840,"No usa Internet",4064,69.59
+1702,"San José",5840,"NA_Internet",41,0.7
+1703,"San Benito",37396,"Usa Celular",25752,68.86
+1703,"San Benito",37396,"No Usa Celular",10835,28.97
+1703,"San Benito",37396,"NA_Celular",809,2.16
+1703,"San Benito",37396,"Usa Computadora",9246,24.72
+1703,"San Benito",37396,"No usa Computadora",27440,73.38
+1703,"San Benito",37396,"NA_Computadora",710,1.9
+1703,"San Benito",37396,"Usa Internet",13324,35.63
+1703,"San Benito",37396,"No usa Internet",23157,61.92
+1703,"San Benito",37396,"NA_Internet",915,2.45
+1704,"San Andrés",26660,"Usa Celular",13047,48.94
+1704,"San Andrés",26660,"No Usa Celular",13391,50.23
+1704,"San Andrés",26660,"NA_Celular",222,0.83
+1704,"San Andrés",26660,"Usa Computadora",2560,9.6
+1704,"San Andrés",26660,"No usa Computadora",23972,89.92
+1704,"San Andrés",26660,"NA_Computadora",128,0.48
+1704,"San Andrés",26660,"Usa Internet",5864,22
+1704,"San Andrés",26660,"No usa Internet",20563,77.13
+1704,"San Andrés",26660,"NA_Internet",233,0.87
+1705,"La Libertad",59014,"Usa Celular",28570,48.41
+1705,"La Libertad",59014,"No Usa Celular",29759,50.43
+1705,"La Libertad",59014,"NA_Celular",685,1.16
+1705,"La Libertad",59014,"Usa Computadora",4193,7.11
+1705,"La Libertad",59014,"No usa Computadora",54308,92.03
+1705,"La Libertad",59014,"NA_Computadora",513,0.87
+1705,"La Libertad",59014,"Usa Internet",12200,20.67
+1705,"La Libertad",59014,"No usa Internet",45958,77.88
+1705,"La Libertad",59014,"NA_Internet",856,1.45
+1706,"San Francisco",12752,"Usa Celular",7468,58.56
+1706,"San Francisco",12752,"No Usa Celular",5163,40.49
+1706,"San Francisco",12752,"NA_Celular",121,0.95
+1706,"San Francisco",12752,"Usa Computadora",1909,14.97
+1706,"San Francisco",12752,"No usa Computadora",10720,84.07
+1706,"San Francisco",12752,"NA_Computadora",123,0.96
+1706,"San Francisco",12752,"Usa Internet",3462,27.15
+1706,"San Francisco",12752,"No usa Internet",9135,71.64
+1706,"San Francisco",12752,"NA_Internet",155,1.22
+1707,"Santa Ana",18226,"Usa Celular",11246,61.7
+1707,"Santa Ana",18226,"No Usa Celular",6451,35.39
+1707,"Santa Ana",18226,"NA_Celular",529,2.9
+1707,"Santa Ana",18226,"Usa Computadora",2057,11.29
+1707,"Santa Ana",18226,"No usa Computadora",15743,86.38
+1707,"Santa Ana",18226,"NA_Computadora",426,2.34
+1707,"Santa Ana",18226,"Usa Internet",4962,27.22
+1707,"Santa Ana",18226,"No usa Internet",12644,69.37
+1707,"Santa Ana",18226,"NA_Internet",620,3.4
+1708,"Dolores",22101,"Usa Celular",11622,52.59
+1708,"Dolores",22101,"No Usa Celular",9933,44.94
+1708,"Dolores",22101,"NA_Celular",546,2.47
+1708,"Dolores",22101,"Usa Computadora",1854,8.39
+1708,"Dolores",22101,"No usa Computadora",19789,89.54
+1708,"Dolores",22101,"NA_Computadora",458,2.07
+1708,"Dolores",22101,"Usa Internet",4079,18.46
+1708,"Dolores",22101,"No usa Internet",17384,78.66
+1708,"Dolores",22101,"NA_Internet",638,2.89
+1709,"San Luis",54895,"Usa Celular",24102,43.91
+1709,"San Luis",54895,"No Usa Celular",30350,55.29
+1709,"San Luis",54895,"NA_Celular",443,0.81
+1709,"San Luis",54895,"Usa Computadora",2722,4.96
+1709,"San Luis",54895,"No usa Computadora",51634,94.06
+1709,"San Luis",54895,"NA_Computadora",539,0.98
+1709,"San Luis",54895,"Usa Internet",7912,14.41
+1709,"San Luis",54895,"No usa Internet",46159,84.09
+1709,"San Luis",54895,"NA_Internet",824,1.5
+1710,"Sayaxché",74570,"Usa Celular",31889,42.76
+1710,"Sayaxché",74570,"No Usa Celular",42008,56.33
+1710,"Sayaxché",74570,"NA_Celular",673,0.9
+1710,"Sayaxché",74570,"Usa Computadora",4617,6.19
+1710,"Sayaxché",74570,"No usa Computadora",69439,93.12
+1710,"Sayaxché",74570,"NA_Computadora",514,0.69
+1710,"Sayaxché",74570,"Usa Internet",9360,12.55
+1710,"Sayaxché",74570,"No usa Internet",64374,86.33
+1710,"Sayaxché",74570,"NA_Internet",836,1.12
+1711,"Melchor de Mencos",23557,"Usa Celular",14772,62.71
+1711,"Melchor de Mencos",23557,"No Usa Celular",8404,35.68
+1711,"Melchor de Mencos",23557,"NA_Celular",381,1.62
+1711,"Melchor de Mencos",23557,"Usa Computadora",3022,12.83
+1711,"Melchor de Mencos",23557,"No usa Computadora",20189,85.7
+1711,"Melchor de Mencos",23557,"NA_Computadora",346,1.47
+1711,"Melchor de Mencos",23557,"Usa Internet",8021,34.05
+1711,"Melchor de Mencos",23557,"No usa Internet",15112,64.15
+1711,"Melchor de Mencos",23557,"NA_Internet",424,1.8
+1712,"Poptún",43517,"Usa Celular",25141,57.77
+1712,"Poptún",43517,"No Usa Celular",17858,41.04
+1712,"Poptún",43517,"NA_Celular",518,1.19
+1712,"Poptún",43517,"Usa Computadora",7340,16.87
+1712,"Poptún",43517,"No usa Computadora",35639,81.9
+1712,"Poptún",43517,"NA_Computadora",538,1.24
+1712,"Poptún",43517,"Usa Internet",11131,25.58
+1712,"Poptún",43517,"No usa Internet",31713,72.87
+1712,"Poptún",43517,"NA_Internet",673,1.55
+1713,"Las Cruces",26491,"Usa Celular",14304,54
+1713,"Las Cruces",26491,"No Usa Celular",11986,45.25
+1713,"Las Cruces",26491,"NA_Celular",201,0.76
+1713,"Las Cruces",26491,"Usa Computadora",1479,5.58
+1713,"Las Cruces",26491,"No usa Computadora",24859,93.84
+1713,"Las Cruces",26491,"NA_Computadora",153,0.58
+1713,"Las Cruces",26491,"Usa Internet",4349,16.42
+1713,"Las Cruces",26491,"No usa Internet",21869,82.55
+1713,"Las Cruces",26491,"NA_Internet",273,1.03
+1714,"El Chal",11443,"Usa Celular",6808,59.49
+1714,"El Chal",11443,"No Usa Celular",4465,39.02
+1714,"El Chal",11443,"NA_Celular",170,1.49
+1714,"El Chal",11443,"Usa Computadora",1121,9.8
+1714,"El Chal",11443,"No usa Computadora",10180,88.96
+1714,"El Chal",11443,"NA_Computadora",142,1.24
+1714,"El Chal",11443,"Usa Internet",2950,25.78
+1714,"El Chal",11443,"No usa Internet",8277,72.33
+1714,"El Chal",11443,"NA_Internet",216,1.89
+1801,"Puerto Barrios",88034,"Usa Celular",62380,70.86
+1801,"Puerto Barrios",88034,"No Usa Celular",24043,27.31
+1801,"Puerto Barrios",88034,"NA_Celular",1611,1.83
+1801,"Puerto Barrios",88034,"Usa Computadora",21765,24.72
+1801,"Puerto Barrios",88034,"No usa Computadora",64423,73.18
+1801,"Puerto Barrios",88034,"NA_Computadora",1846,2.1
+1801,"Puerto Barrios",88034,"Usa Internet",35403,40.22
+1801,"Puerto Barrios",88034,"No usa Internet",50626,57.51
+1801,"Puerto Barrios",88034,"NA_Internet",2005,2.28
+1802,"Livingston",60101,"Usa Celular",27599,45.92
+1802,"Livingston",60101,"No Usa Celular",31623,52.62
+1802,"Livingston",60101,"NA_Celular",879,1.46
+1802,"Livingston",60101,"Usa Computadora",5150,8.57
+1802,"Livingston",60101,"No usa Computadora",54063,89.95
+1802,"Livingston",60101,"NA_Computadora",888,1.48
+1802,"Livingston",60101,"Usa Internet",9472,15.76
+1802,"Livingston",60101,"No usa Internet",49225,81.9
+1802,"Livingston",60101,"NA_Internet",1404,2.34
+1803,"El Estor",57875,"Usa Celular",18848,32.57
+1803,"El Estor",57875,"No Usa Celular",38517,66.55
+1803,"El Estor",57875,"NA_Celular",510,0.88
+1803,"El Estor",57875,"Usa Computadora",5014,8.66
+1803,"El Estor",57875,"No usa Computadora",52523,90.75
+1803,"El Estor",57875,"NA_Computadora",338,0.58
+1803,"El Estor",57875,"Usa Internet",7073,12.22
+1803,"El Estor",57875,"No usa Internet",50114,86.59
+1803,"El Estor",57875,"NA_Internet",688,1.19
+1804,"Morales",85458,"Usa Celular",52979,61.99
+1804,"Morales",85458,"No Usa Celular",31781,37.19
+1804,"Morales",85458,"NA_Celular",698,0.82
+1804,"Morales",85458,"Usa Computadora",10443,12.22
+1804,"Morales",85458,"No usa Computadora",74224,86.85
+1804,"Morales",85458,"NA_Computadora",791,0.93
+1804,"Morales",85458,"Usa Internet",26886,31.46
+1804,"Morales",85458,"No usa Internet",57664,67.48
+1804,"Morales",85458,"NA_Internet",908,1.06
+1805,"Los Amates",51146,"Usa Celular",29392,57.47
+1805,"Los Amates",51146,"No Usa Celular",21090,41.23
+1805,"Los Amates",51146,"NA_Celular",664,1.3
+1805,"Los Amates",51146,"Usa Computadora",3566,6.97
+1805,"Los Amates",51146,"No usa Computadora",47002,91.9
+1805,"Los Amates",51146,"NA_Computadora",578,1.13
+1805,"Los Amates",51146,"Usa Internet",6262,12.24
+1805,"Los Amates",51146,"No usa Internet",44045,86.12
+1805,"Los Amates",51146,"NA_Internet",839,1.64
+1901,"Zacapa",52315,"Usa Celular",34632,66.2
+1901,"Zacapa",52315,"No Usa Celular",17133,32.75
+1901,"Zacapa",52315,"NA_Celular",550,1.05
+1901,"Zacapa",52315,"Usa Computadora",13100,25.04
+1901,"Zacapa",52315,"No usa Computadora",38768,74.1
+1901,"Zacapa",52315,"NA_Computadora",447,0.85
+1901,"Zacapa",52315,"Usa Internet",19775,37.8
+1901,"Zacapa",52315,"No usa Internet",31929,61.03
+1901,"Zacapa",52315,"NA_Internet",611,1.17
+1902,"Estanzuela",8679,"Usa Celular",5731,66.03
+1902,"Estanzuela",8679,"No Usa Celular",2708,31.2
+1902,"Estanzuela",8679,"NA_Celular",240,2.77
+1902,"Estanzuela",8679,"Usa Computadora",1710,19.7
+1902,"Estanzuela",8679,"No usa Computadora",6830,78.7
+1902,"Estanzuela",8679,"NA_Computadora",139,1.6
+1902,"Estanzuela",8679,"Usa Internet",1703,19.62
+1902,"Estanzuela",8679,"No usa Internet",6779,78.11
+1902,"Estanzuela",8679,"NA_Internet",197,2.27
+1903,"Río Hondo",18647,"Usa Celular",13027,69.86
+1903,"Río Hondo",18647,"No Usa Celular",5415,29.04
+1903,"Río Hondo",18647,"NA_Celular",205,1.1
+1903,"Río Hondo",18647,"Usa Computadora",3154,16.91
+1903,"Río Hondo",18647,"No usa Computadora",15246,81.76
+1903,"Río Hondo",18647,"NA_Computadora",247,1.32
+1903,"Río Hondo",18647,"Usa Internet",5857,31.41
+1903,"Río Hondo",18647,"No usa Internet",12497,67.02
+1903,"Río Hondo",18647,"NA_Internet",293,1.57
+1904,"Gualán",38900,"Usa Celular",21987,56.52
+1904,"Gualán",38900,"No Usa Celular",15968,41.05
+1904,"Gualán",38900,"NA_Celular",945,2.43
+1904,"Gualán",38900,"Usa Computadora",3993,10.26
+1904,"Gualán",38900,"No usa Computadora",33579,86.32
+1904,"Gualán",38900,"NA_Computadora",1328,3.41
+1904,"Gualán",38900,"Usa Internet",7905,20.32
+1904,"Gualán",38900,"No usa Internet",29608,76.11
+1904,"Gualán",38900,"NA_Internet",1387,3.57
+1905,"Teculután",15264,"Usa Celular",10226,66.99
+1905,"Teculután",15264,"No Usa Celular",4775,31.28
+1905,"Teculután",15264,"NA_Celular",263,1.72
+1905,"Teculután",15264,"Usa Computadora",2949,19.32
+1905,"Teculután",15264,"No usa Computadora",12113,79.36
+1905,"Teculután",15264,"NA_Computadora",202,1.32
+1905,"Teculután",15264,"Usa Internet",5773,37.82
+1905,"Teculután",15264,"No usa Internet",9245,60.57
+1905,"Teculután",15264,"NA_Internet",246,1.61
+1906,"Usumatlán",10375,"Usa Celular",6805,65.59
+1906,"Usumatlán",10375,"No Usa Celular",3491,33.65
+1906,"Usumatlán",10375,"NA_Celular",79,0.76
+1906,"Usumatlán",10375,"Usa Computadora",1298,12.51
+1906,"Usumatlán",10375,"No usa Computadora",9042,87.15
+1906,"Usumatlán",10375,"NA_Computadora",35,0.34
+1906,"Usumatlán",10375,"Usa Internet",3652,35.2
+1906,"Usumatlán",10375,"No usa Internet",6677,64.36
+1906,"Usumatlán",10375,"NA_Internet",46,0.44
+1907,"Cabañas",11566,"Usa Celular",6522,56.39
+1907,"Cabañas",11566,"No Usa Celular",4912,42.47
+1907,"Cabañas",11566,"NA_Celular",132,1.14
+1907,"Cabañas",11566,"Usa Computadora",1478,12.78
+1907,"Cabañas",11566,"No usa Computadora",10019,86.62
+1907,"Cabañas",11566,"NA_Computadora",69,0.6
+1907,"Cabañas",11566,"Usa Internet",3620,31.3
+1907,"Cabañas",11566,"No usa Internet",7840,67.78
+1907,"Cabañas",11566,"NA_Internet",106,0.92
+1908,"San Diego",6210,"Usa Celular",3986,64.19
+1908,"San Diego",6210,"No Usa Celular",2096,33.75
+1908,"San Diego",6210,"NA_Celular",128,2.06
+1908,"San Diego",6210,"Usa Computadora",1008,16.23
+1908,"San Diego",6210,"No usa Computadora",5109,82.27
+1908,"San Diego",6210,"NA_Computadora",93,1.5
+1908,"San Diego",6210,"Usa Internet",1644,26.47
+1908,"San Diego",6210,"No usa Internet",4427,71.29
+1908,"San Diego",6210,"NA_Internet",139,2.24
+1909,"La Unión",27064,"Usa Celular",9768,36.09
+1909,"La Unión",27064,"No Usa Celular",16969,62.7
+1909,"La Unión",27064,"NA_Celular",327,1.21
+1909,"La Unión",27064,"Usa Computadora",1321,4.88
+1909,"La Unión",27064,"No usa Computadora",25539,94.37
+1909,"La Unión",27064,"NA_Computadora",204,0.75
+1909,"La Unión",27064,"Usa Internet",2786,10.29
+1909,"La Unión",27064,"No usa Internet",23934,88.43
+1909,"La Unión",27064,"NA_Internet",344,1.27
+1910,"Huité",9546,"Usa Celular",4195,43.95
+1910,"Huité",9546,"No Usa Celular",5258,55.08
+1910,"Huité",9546,"NA_Celular",93,0.97
+1910,"Huité",9546,"Usa Computadora",727,7.62
+1910,"Huité",9546,"No usa Computadora",8763,91.8
+1910,"Huité",9546,"NA_Computadora",56,0.59
+1910,"Huité",9546,"Usa Internet",1579,16.54
+1910,"Huité",9546,"No usa Internet",7902,82.78
+1910,"Huité",9546,"NA_Internet",65,0.68
+1911,"San Jorge",10626,"Usa Celular",5948,55.98
+1911,"San Jorge",10626,"No Usa Celular",4572,43.03
+1911,"San Jorge",10626,"NA_Celular",106,1
+1911,"San Jorge",10626,"Usa Computadora",1377,12.96
+1911,"San Jorge",10626,"No usa Computadora",9182,86.41
+1911,"San Jorge",10626,"NA_Computadora",67,0.63
+1911,"San Jorge",10626,"Usa Internet",1690,15.9
+1911,"San Jorge",10626,"No usa Internet",8815,82.96
+1911,"San Jorge",10626,"NA_Internet",121,1.14
+2001,"Chiquimula",94267,"Usa Celular",53755,57.02
+2001,"Chiquimula",94267,"No Usa Celular",39586,41.99
+2001,"Chiquimula",94267,"NA_Celular",926,0.98
+2001,"Chiquimula",94267,"Usa Computadora",19661,20.86
+2001,"Chiquimula",94267,"No usa Computadora",73822,78.31
+2001,"Chiquimula",94267,"NA_Computadora",784,0.83
+2001,"Chiquimula",94267,"Usa Internet",31910,33.85
+2001,"Chiquimula",94267,"No usa Internet",61330,65.06
+2001,"Chiquimula",94267,"NA_Internet",1027,1.09
+2002,"San José la Arada",7538,"Usa Celular",4946,65.61
+2002,"San José la Arada",7538,"No Usa Celular",2519,33.42
+2002,"San José la Arada",7538,"NA_Celular",73,0.97
+2002,"San José la Arada",7538,"Usa Computadora",709,9.41
+2002,"San José la Arada",7538,"No usa Computadora",6770,89.81
+2002,"San José la Arada",7538,"NA_Computadora",59,0.78
+2002,"San José la Arada",7538,"Usa Internet",2432,32.26
+2002,"San José la Arada",7538,"No usa Internet",5025,66.66
+2002,"San José la Arada",7538,"NA_Internet",81,1.07
+2003,"San Juan Ermita",13703,"Usa Celular",7467,54.49
+2003,"San Juan Ermita",13703,"No Usa Celular",6163,44.98
+2003,"San Juan Ermita",13703,"NA_Celular",73,0.53
+2003,"San Juan Ermita",13703,"Usa Computadora",1185,8.65
+2003,"San Juan Ermita",13703,"No usa Computadora",12466,90.97
+2003,"San Juan Ermita",13703,"NA_Computadora",52,0.38
+2003,"San Juan Ermita",13703,"Usa Internet",2914,21.27
+2003,"San Juan Ermita",13703,"No usa Internet",10710,78.16
+2003,"San Juan Ermita",13703,"NA_Internet",79,0.58
+2004,"Jocotán",52224,"Usa Celular",15989,30.62
+2004,"Jocotán",52224,"No Usa Celular",35635,68.23
+2004,"Jocotán",52224,"NA_Celular",600,1.15
+2004,"Jocotán",52224,"Usa Computadora",2714,5.2
+2004,"Jocotán",52224,"No usa Computadora",49220,94.25
+2004,"Jocotán",52224,"NA_Computadora",290,0.56
+2004,"Jocotán",52224,"Usa Internet",4931,9.44
+2004,"Jocotán",52224,"No usa Internet",46680,89.38
+2004,"Jocotán",52224,"NA_Internet",613,1.17
+2005,"Camotán",44574,"Usa Celular",15275,34.27
+2005,"Camotán",44574,"No Usa Celular",28919,64.88
+2005,"Camotán",44574,"NA_Celular",380,0.85
+2005,"Camotán",44574,"Usa Computadora",1833,4.11
+2005,"Camotán",44574,"No usa Computadora",42555,95.47
+2005,"Camotán",44574,"NA_Computadora",186,0.42
+2005,"Camotán",44574,"Usa Internet",5409,12.13
+2005,"Camotán",44574,"No usa Internet",38850,87.16
+2005,"Camotán",44574,"NA_Internet",315,0.71
+2006,"Olopa",21810,"Usa Celular",8368,38.37
+2006,"Olopa",21810,"No Usa Celular",13226,60.64
+2006,"Olopa",21810,"NA_Celular",216,0.99
+2006,"Olopa",21810,"Usa Computadora",1033,4.74
+2006,"Olopa",21810,"No usa Computadora",20640,94.64
+2006,"Olopa",21810,"NA_Computadora",137,0.63
+2006,"Olopa",21810,"Usa Internet",2159,9.9
+2006,"Olopa",21810,"No usa Internet",19442,89.14
+2006,"Olopa",21810,"NA_Internet",209,0.96
+2007,"Esquipulas",45098,"Usa Celular",27025,59.93
+2007,"Esquipulas",45098,"No Usa Celular",17559,38.94
+2007,"Esquipulas",45098,"NA_Celular",514,1.14
+2007,"Esquipulas",45098,"Usa Computadora",6869,15.23
+2007,"Esquipulas",45098,"No usa Computadora",37823,83.87
+2007,"Esquipulas",45098,"NA_Computadora",406,0.9
+2007,"Esquipulas",45098,"Usa Internet",15347,34.03
+2007,"Esquipulas",45098,"No usa Internet",29242,64.84
+2007,"Esquipulas",45098,"NA_Internet",509,1.13
+2008,"Concepción las Minas",10260,"Usa Celular",7011,68.33
+2008,"Concepción las Minas",10260,"No Usa Celular",3146,30.66
+2008,"Concepción las Minas",10260,"NA_Celular",103,1
+2008,"Concepción las Minas",10260,"Usa Computadora",1120,10.92
+2008,"Concepción las Minas",10260,"No usa Computadora",8995,87.67
+2008,"Concepción las Minas",10260,"NA_Computadora",145,1.41
+2008,"Concepción las Minas",10260,"Usa Internet",2902,28.28
+2008,"Concepción las Minas",10260,"No usa Internet",7212,70.29
+2008,"Concepción las Minas",10260,"NA_Internet",146,1.42
+2009,"Quezaltepeque",24071,"Usa Celular",14998,62.31
+2009,"Quezaltepeque",24071,"No Usa Celular",8883,36.9
+2009,"Quezaltepeque",24071,"NA_Celular",190,0.79
+2009,"Quezaltepeque",24071,"Usa Computadora",3346,13.9
+2009,"Quezaltepeque",24071,"No usa Computadora",20546,85.36
+2009,"Quezaltepeque",24071,"NA_Computadora",179,0.74
+2009,"Quezaltepeque",24071,"Usa Internet",6229,25.88
+2009,"Quezaltepeque",24071,"No usa Internet",17605,73.14
+2009,"Quezaltepeque",24071,"NA_Internet",237,0.98
+2010,"San Jacinto",10780,"Usa Celular",5549,51.47
+2010,"San Jacinto",10780,"No Usa Celular",5163,47.89
+2010,"San Jacinto",10780,"NA_Celular",68,0.63
+2010,"San Jacinto",10780,"Usa Computadora",844,7.83
+2010,"San Jacinto",10780,"No usa Computadora",9879,91.64
+2010,"San Jacinto",10780,"NA_Computadora",57,0.53
+2010,"San Jacinto",10780,"Usa Internet",2284,21.19
+2010,"San Jacinto",10780,"No usa Internet",8414,78.05
+2010,"San Jacinto",10780,"NA_Internet",82,0.76
+2011,"Ipala",19509,"Usa Celular",13479,69.09
+2011,"Ipala",19509,"No Usa Celular",5887,30.18
+2011,"Ipala",19509,"NA_Celular",143,0.73
+2011,"Ipala",19509,"Usa Computadora",2999,15.37
+2011,"Ipala",19509,"No usa Computadora",16390,84.01
+2011,"Ipala",19509,"NA_Computadora",120,0.62
+2011,"Ipala",19509,"Usa Internet",7750,39.73
+2011,"Ipala",19509,"No usa Internet",11618,59.55
+2011,"Ipala",19509,"NA_Internet",141,0.72
+2101,"Jalapa",130920,"Usa Celular",71649,54.73
+2101,"Jalapa",130920,"No Usa Celular",58387,44.6
+2101,"Jalapa",130920,"NA_Celular",884,0.68
+2101,"Jalapa",130920,"Usa Computadora",21342,16.3
+2101,"Jalapa",130920,"No usa Computadora",109018,83.27
+2101,"Jalapa",130920,"NA_Computadora",560,0.43
+2101,"Jalapa",130920,"Usa Internet",31656,24.18
+2101,"Jalapa",130920,"No usa Internet",98332,75.11
+2101,"Jalapa",130920,"NA_Internet",932,0.71
+2102,"San Pedro Pinula",50234,"Usa Celular",20310,40.43
+2102,"San Pedro Pinula",50234,"No Usa Celular",29665,59.05
+2102,"San Pedro Pinula",50234,"NA_Celular",259,0.52
+2102,"San Pedro Pinula",50234,"Usa Computadora",2794,5.56
+2102,"San Pedro Pinula",50234,"No usa Computadora",47311,94.18
+2102,"San Pedro Pinula",50234,"NA_Computadora",129,0.26
+2102,"San Pedro Pinula",50234,"Usa Internet",5753,11.45
+2102,"San Pedro Pinula",50234,"No usa Internet",44197,87.98
+2102,"San Pedro Pinula",50234,"NA_Internet",284,0.57
+2103,"San Luis Jilotepeque",21370,"Usa Celular",13426,62.83
+2103,"San Luis Jilotepeque",21370,"No Usa Celular",7847,36.72
+2103,"San Luis Jilotepeque",21370,"NA_Celular",97,0.45
+2103,"San Luis Jilotepeque",21370,"Usa Computadora",3146,14.72
+2103,"San Luis Jilotepeque",21370,"No usa Computadora",18162,84.99
+2103,"San Luis Jilotepeque",21370,"NA_Computadora",62,0.29
+2103,"San Luis Jilotepeque",21370,"Usa Internet",6339,29.66
+2103,"San Luis Jilotepeque",21370,"No usa Internet",14943,69.93
+2103,"San Luis Jilotepeque",21370,"NA_Internet",88,0.41
+2104,"San Manuel Chaparrón",7210,"Usa Celular",4542,63
+2104,"San Manuel Chaparrón",7210,"No Usa Celular",2649,36.74
+2104,"San Manuel Chaparrón",7210,"NA_Celular",19,0.26
+2104,"San Manuel Chaparrón",7210,"Usa Computadora",865,12
+2104,"San Manuel Chaparrón",7210,"No usa Computadora",6331,87.81
+2104,"San Manuel Chaparrón",7210,"NA_Computadora",14,0.19
+2104,"San Manuel Chaparrón",7210,"Usa Internet",1864,25.85
+2104,"San Manuel Chaparrón",7210,"No usa Internet",5323,73.83
+2104,"San Manuel Chaparrón",7210,"NA_Internet",23,0.32
+2105,"San Carlos Alzatate",15344,"Usa Celular",6811,44.39
+2105,"San Carlos Alzatate",15344,"No Usa Celular",8449,55.06
+2105,"San Carlos Alzatate",15344,"NA_Celular",84,0.55
+2105,"San Carlos Alzatate",15344,"Usa Computadora",997,6.5
+2105,"San Carlos Alzatate",15344,"No usa Computadora",14297,93.18
+2105,"San Carlos Alzatate",15344,"NA_Computadora",50,0.33
+2105,"San Carlos Alzatate",15344,"Usa Internet",1714,11.17
+2105,"San Carlos Alzatate",15344,"No usa Internet",13542,88.26
+2105,"San Carlos Alzatate",15344,"NA_Internet",88,0.57
+2106,"Monjas",23363,"Usa Celular",15670,67.07
+2106,"Monjas",23363,"No Usa Celular",7563,32.37
+2106,"Monjas",23363,"NA_Celular",130,0.56
+2106,"Monjas",23363,"Usa Computadora",3146,13.47
+2106,"Monjas",23363,"No usa Computadora",20087,85.98
+2106,"Monjas",23363,"NA_Computadora",130,0.56
+2106,"Monjas",23363,"Usa Internet",8192,35.06
+2106,"Monjas",23363,"No usa Internet",15020,64.29
+2106,"Monjas",23363,"NA_Internet",151,0.65
+2107,"Mataquescuintla",35037,"Usa Celular",21037,60.04
+2107,"Mataquescuintla",35037,"No Usa Celular",13778,39.32
+2107,"Mataquescuintla",35037,"NA_Celular",222,0.63
+2107,"Mataquescuintla",35037,"Usa Computadora",3338,9.53
+2107,"Mataquescuintla",35037,"No usa Computadora",31570,90.1
+2107,"Mataquescuintla",35037,"NA_Computadora",129,0.37
+2107,"Mataquescuintla",35037,"Usa Internet",6835,19.51
+2107,"Mataquescuintla",35037,"No usa Internet",27990,79.89
+2107,"Mataquescuintla",35037,"NA_Internet",212,0.61
+2201,"Jutiapa",123277,"Usa Celular",75493,61.24
+2201,"Jutiapa",123277,"No Usa Celular",46613,37.81
+2201,"Jutiapa",123277,"NA_Celular",1171,0.95
+2201,"Jutiapa",123277,"Usa Computadora",17520,14.21
+2201,"Jutiapa",123277,"No usa Computadora",104643,84.88
+2201,"Jutiapa",123277,"NA_Computadora",1114,0.9
+2201,"Jutiapa",123277,"Usa Internet",32734,26.55
+2201,"Jutiapa",123277,"No usa Internet",89145,72.31
+2201,"Jutiapa",123277,"NA_Internet",1398,1.13
+2202,"El Progreso",19244,"Usa Celular",13919,72.33
+2202,"El Progreso",19244,"No Usa Celular",5054,26.26
+2202,"El Progreso",19244,"NA_Celular",271,1.41
+2202,"El Progreso",19244,"Usa Computadora",4295,22.32
+2202,"El Progreso",19244,"No usa Computadora",14693,76.35
+2202,"El Progreso",19244,"NA_Computadora",256,1.33
+2202,"El Progreso",19244,"Usa Internet",6259,32.52
+2202,"El Progreso",19244,"No usa Internet",12663,65.8
+2202,"El Progreso",19244,"NA_Internet",322,1.67
+2203,"Santa Catarina Mita",24867,"Usa Celular",16897,67.95
+2203,"Santa Catarina Mita",24867,"No Usa Celular",7796,31.35
+2203,"Santa Catarina Mita",24867,"NA_Celular",174,0.7
+2203,"Santa Catarina Mita",24867,"Usa Computadora",3821,15.37
+2203,"Santa Catarina Mita",24867,"No usa Computadora",20872,83.93
+2203,"Santa Catarina Mita",24867,"NA_Computadora",174,0.7
+2203,"Santa Catarina Mita",24867,"Usa Internet",9565,38.46
+2203,"Santa Catarina Mita",24867,"No usa Internet",15127,60.83
+2203,"Santa Catarina Mita",24867,"NA_Internet",175,0.7
+2204,"Agua Blanca",14356,"Usa Celular",10026,69.84
+2204,"Agua Blanca",14356,"No Usa Celular",4166,29.02
+2204,"Agua Blanca",14356,"NA_Celular",164,1.14
+2204,"Agua Blanca",14356,"Usa Computadora",1759,12.25
+2204,"Agua Blanca",14356,"No usa Computadora",12475,86.9
+2204,"Agua Blanca",14356,"NA_Computadora",122,0.85
+2204,"Agua Blanca",14356,"Usa Internet",5323,37.08
+2204,"Agua Blanca",14356,"No usa Internet",8878,61.84
+2204,"Agua Blanca",14356,"NA_Internet",155,1.08
+2205,"Asunción Mita",42018,"Usa Celular",29976,71.34
+2205,"Asunción Mita",42018,"No Usa Celular",11823,28.14
+2205,"Asunción Mita",42018,"NA_Celular",219,0.52
+2205,"Asunción Mita",42018,"Usa Computadora",7177,17.08
+2205,"Asunción Mita",42018,"No usa Computadora",34602,82.35
+2205,"Asunción Mita",42018,"NA_Computadora",239,0.57
+2205,"Asunción Mita",42018,"Usa Internet",18990,45.19
+2205,"Asunción Mita",42018,"No usa Internet",22779,54.21
+2205,"Asunción Mita",42018,"NA_Internet",249,0.59
+2206,"Yupiltepeque",14956,"Usa Celular",8978,60.03
+2206,"Yupiltepeque",14956,"No Usa Celular",5897,39.43
+2206,"Yupiltepeque",14956,"NA_Celular",81,0.54
+2206,"Yupiltepeque",14956,"Usa Computadora",1587,10.61
+2206,"Yupiltepeque",14956,"No usa Computadora",13309,88.99
+2206,"Yupiltepeque",14956,"NA_Computadora",60,0.4
+2206,"Yupiltepeque",14956,"Usa Internet",3321,22.21
+2206,"Yupiltepeque",14956,"No usa Internet",11571,77.37
+2206,"Yupiltepeque",14956,"NA_Internet",64,0.43
+2207,"Atescatempa",16106,"Usa Celular",11253,69.87
+2207,"Atescatempa",16106,"No Usa Celular",4723,29.32
+2207,"Atescatempa",16106,"NA_Celular",130,0.81
+2207,"Atescatempa",16106,"Usa Computadora",2817,17.49
+2207,"Atescatempa",16106,"No usa Computadora",13193,81.91
+2207,"Atescatempa",16106,"NA_Computadora",96,0.6
+2207,"Atescatempa",16106,"Usa Internet",5579,34.64
+2207,"Atescatempa",16106,"No usa Internet",10393,64.53
+2207,"Atescatempa",16106,"NA_Internet",134,0.83
+2208,"Jerez",5568,"Usa Celular",3934,70.65
+2208,"Jerez",5568,"No Usa Celular",1616,29.02
+2208,"Jerez",5568,"NA_Celular",18,0.32
+2208,"Jerez",5568,"Usa Computadora",911,16.36
+2208,"Jerez",5568,"No usa Computadora",4629,83.14
+2208,"Jerez",5568,"NA_Computadora",28,0.5
+2208,"Jerez",5568,"Usa Internet",1813,32.56
+2208,"Jerez",5568,"No usa Internet",3734,67.06
+2208,"Jerez",5568,"NA_Internet",21,0.38
+2209,"El Adelanto",5556,"Usa Celular",3448,62.06
+2209,"El Adelanto",5556,"No Usa Celular",2094,37.69
+2209,"El Adelanto",5556,"NA_Celular",14,0.25
+2209,"El Adelanto",5556,"Usa Computadora",685,12.33
+2209,"El Adelanto",5556,"No usa Computadora",4855,87.38
+2209,"El Adelanto",5556,"NA_Computadora",16,0.29
+2209,"El Adelanto",5556,"Usa Internet",1442,25.95
+2209,"El Adelanto",5556,"No usa Internet",4097,73.74
+2209,"El Adelanto",5556,"NA_Internet",17,0.31
+2210,"Zapotitlán",7827,"Usa Celular",4404,56.27
+2210,"Zapotitlán",7827,"No Usa Celular",3360,42.93
+2210,"Zapotitlán",7827,"NA_Celular",63,0.8
+2210,"Zapotitlán",7827,"Usa Computadora",792,10.12
+2210,"Zapotitlán",7827,"No usa Computadora",6971,89.06
+2210,"Zapotitlán",7827,"NA_Computadora",64,0.82
+2210,"Zapotitlán",7827,"Usa Internet",1651,21.09
+2210,"Zapotitlán",7827,"No usa Internet",6087,77.77
+2210,"Zapotitlán",7827,"NA_Internet",89,1.14
+2211,"Comapa",26734,"Usa Celular",12629,47.24
+2211,"Comapa",26734,"No Usa Celular",13879,51.92
+2211,"Comapa",26734,"NA_Celular",226,0.85
+2211,"Comapa",26734,"Usa Computadora",1755,6.56
+2211,"Comapa",26734,"No usa Computadora",24817,92.83
+2211,"Comapa",26734,"NA_Computadora",162,0.61
+2211,"Comapa",26734,"Usa Internet",3966,14.84
+2211,"Comapa",26734,"No usa Internet",22495,84.14
+2211,"Comapa",26734,"NA_Internet",273,1.02
+2212,"Jalpatagua",24603,"Usa Celular",15576,63.31
+2212,"Jalpatagua",24603,"No Usa Celular",8815,35.83
+2212,"Jalpatagua",24603,"NA_Celular",212,0.86
+2212,"Jalpatagua",24603,"Usa Computadora",3744,15.22
+2212,"Jalpatagua",24603,"No usa Computadora",20577,83.64
+2212,"Jalpatagua",24603,"NA_Computadora",282,1.15
+2212,"Jalpatagua",24603,"Usa Internet",7312,29.72
+2212,"Jalpatagua",24603,"No usa Internet",16986,69.04
+2212,"Jalpatagua",24603,"NA_Internet",305,1.24
+2213,"Conguaco",18830,"Usa Celular",6997,37.16
+2213,"Conguaco",18830,"No Usa Celular",11688,62.07
+2213,"Conguaco",18830,"NA_Celular",145,0.77
+2213,"Conguaco",18830,"Usa Computadora",1029,5.46
+2213,"Conguaco",18830,"No usa Computadora",17729,94.15
+2213,"Conguaco",18830,"NA_Computadora",72,0.38
+2213,"Conguaco",18830,"Usa Internet",1463,7.77
+2213,"Conguaco",18830,"No usa Internet",17242,91.57
+2213,"Conguaco",18830,"NA_Internet",125,0.66
+2214,"Moyuta",33323,"Usa Celular",20026,60.1
+2214,"Moyuta",33323,"No Usa Celular",12938,38.83
+2214,"Moyuta",33323,"NA_Celular",359,1.08
+2214,"Moyuta",33323,"Usa Computadora",3803,11.41
+2214,"Moyuta",33323,"No usa Computadora",29245,87.76
+2214,"Moyuta",33323,"NA_Computadora",275,0.83
+2214,"Moyuta",33323,"Usa Internet",6998,21
+2214,"Moyuta",33323,"No usa Internet",25937,77.84
+2214,"Moyuta",33323,"NA_Internet",388,1.16
+2215,"Pasaco",7496,"Usa Celular",5103,68.08
+2215,"Pasaco",7496,"No Usa Celular",2358,31.46
+2215,"Pasaco",7496,"NA_Celular",35,0.47
+2215,"Pasaco",7496,"Usa Computadora",780,10.41
+2215,"Pasaco",7496,"No usa Computadora",6651,88.73
+2215,"Pasaco",7496,"NA_Computadora",65,0.87
+2215,"Pasaco",7496,"Usa Internet",1173,15.65
+2215,"Pasaco",7496,"No usa Internet",6240,83.24
+2215,"Pasaco",7496,"NA_Internet",83,1.11
+2216,"San José Acatempa",11548,"Usa Celular",7822,67.73
+2216,"San José Acatempa",11548,"No Usa Celular",3645,31.56
+2216,"San José Acatempa",11548,"NA_Celular",81,0.7
+2216,"San José Acatempa",11548,"Usa Computadora",1526,13.21
+2216,"San José Acatempa",11548,"No usa Computadora",9943,86.1
+2216,"San José Acatempa",11548,"NA_Computadora",79,0.68
+2216,"San José Acatempa",11548,"Usa Internet",3100,26.84
+2216,"San José Acatempa",11548,"No usa Internet",8352,72.32
+2216,"San José Acatempa",11548,"NA_Internet",96,0.83
+2217,"Quesada",19418,"Usa Celular",13634,70.21
+2217,"Quesada",19418,"No Usa Celular",5646,29.08
+2217,"Quesada",19418,"NA_Celular",138,0.71
+2217,"Quesada",19418,"Usa Computadora",2886,14.86
+2217,"Quesada",19418,"No usa Computadora",16450,84.72
+2217,"Quesada",19418,"NA_Computadora",82,0.42
+2217,"Quesada",19418,"Usa Internet",7326,37.73
+2217,"Quesada",19418,"No usa Internet",11972,61.65
+2217,"Quesada",19418,"NA_Internet",120,0.62

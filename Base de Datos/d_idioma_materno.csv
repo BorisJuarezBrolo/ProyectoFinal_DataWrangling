@@ -1,0 +1,661 @@
+"Código","Departamento","Total de personas","Idioma Materno","Cantidad","Porcentaje de Total"
+1,"Guatemala",3015081,"Achí",9983,0.33
+1,"Guatemala",3015081,"Akateko",1464,0.05
+1,"Guatemala",3015081,"Awakateko",557,0.02
+1,"Guatemala",3015081,"Ch'orti",77,0
+1,"Guatemala",3015081,"Chalchiteko",2022,0.07
+1,"Guatemala",3015081,"Chu",151,0.01
+1,"Guatemala",3015081,"Itza",48,0
+1,"Guatemala",3015081,"Ixi",1939,0.06
+1,"Guatemala",3015081,"Jakalteko/Popti",98,0
+1,"Guatemala",3015081,"K'iche",24606,0.82
+1,"Guatemala",3015081,"Kaqchique",80157,2.66
+1,"Guatemala",3015081,"Ma",6629,0.22
+1,"Guatemala",3015081,"Mopa",34,0
+1,"Guatemala",3015081,"Poqoma",1663,0.06
+1,"Guatemala",3015081,"Poqomchi",1830,0.06
+1,"Guatemala",3015081,"Q'anjob'a",1103,0.04
+1,"Guatemala",3015081,"Q'eqchi",8839,0.29
+1,"Guatemala",3015081,"Sakapulteko",547,0.02
+1,"Guatemala",3015081,"Sipakapens",147,0
+1,"Guatemala",3015081,"Tektiteko",363,0.01
+1,"Guatemala",3015081,"Tz'utuji",2532,0.08
+1,"Guatemala",3015081,"Uspanteko",537,0.02
+1,"Guatemala",3015081,"Xink",795,0.03
+1,"Guatemala",3015081,"Garífun",576,0.02
+1,"Guatemala",3015081,"Español",2649698,87.88
+1,"Guatemala",3015081,"Inglés",3664,0.12
+1,"Guatemala",3015081,"Señas",445,0.01
+1,"Guatemala",3015081,"Otro idioma",3889,0.13
+1,"Guatemala",3015081,"No habla",2104,0.07
+1,"Guatemala",3015081,"Población de 4 años o más",2806497,93.08
+2,"El Progreso",176632,"Achí",377,0.21
+2,"El Progreso",176632,"Akateko",29,0.02
+2,"El Progreso",176632,"Awakateko",5,0
+2,"El Progreso",176632,"Ch'orti",1,0
+2,"El Progreso",176632,"Chalchiteko",162,0.09
+2,"El Progreso",176632,"Chu",1,0
+2,"El Progreso",176632,"Itza",0,0
+2,"El Progreso",176632,"Ixi",10,0.01
+2,"El Progreso",176632,"Jakalteko/Popti",0,0
+2,"El Progreso",176632,"K'iche",431,0.24
+2,"El Progreso",176632,"Kaqchique",175,0.1
+2,"El Progreso",176632,"Ma",46,0.03
+2,"El Progreso",176632,"Mopa",0,0
+2,"El Progreso",176632,"Poqoma",8,0
+2,"El Progreso",176632,"Poqomchi",78,0.04
+2,"El Progreso",176632,"Q'anjob'a",34,0.02
+2,"El Progreso",176632,"Q'eqchi",248,0.14
+2,"El Progreso",176632,"Sakapulteko",0,0
+2,"El Progreso",176632,"Sipakapens",4,0
+2,"El Progreso",176632,"Tektiteko",11,0.01
+2,"El Progreso",176632,"Tz'utuji",37,0.02
+2,"El Progreso",176632,"Uspanteko",13,0.01
+2,"El Progreso",176632,"Xink",13,0.01
+2,"El Progreso",176632,"Garífun",24,0.01
+2,"El Progreso",176632,"Español",160662,90.96
+2,"El Progreso",176632,"Inglés",44,0.02
+2,"El Progreso",176632,"Señas",10,0.01
+2,"El Progreso",176632,"Otro idioma",21,0.01
+2,"El Progreso",176632,"No habla",150,0.08
+2,"El Progreso",176632,"Población de 4 años o más",162594,92.05
+3,"Sacatepéquez",330469,"Achí",830,0.25
+3,"Sacatepéquez",330469,"Akateko",200,0.06
+3,"Sacatepéquez",330469,"Awakateko",38,0.01
+3,"Sacatepéquez",330469,"Ch'orti",3,0
+3,"Sacatepéquez",330469,"Chalchiteko",150,0.05
+3,"Sacatepéquez",330469,"Chu",2,0
+3,"Sacatepéquez",330469,"Itza",2,0
+3,"Sacatepéquez",330469,"Ixi",272,0.08
+3,"Sacatepéquez",330469,"Jakalteko/Popti",6,0
+3,"Sacatepéquez",330469,"K'iche",1624,0.49
+3,"Sacatepéquez",330469,"Kaqchique",29961,9.07
+3,"Sacatepéquez",330469,"Ma",225,0.07
+3,"Sacatepéquez",330469,"Mopa",4,0
+3,"Sacatepéquez",330469,"Poqoma",32,0.01
+3,"Sacatepéquez",330469,"Poqomchi",139,0.04
+3,"Sacatepéquez",330469,"Q'anjob'a",206,0.06
+3,"Sacatepéquez",330469,"Q'eqchi",281,0.09
+3,"Sacatepéquez",330469,"Sakapulteko",10,0
+3,"Sacatepéquez",330469,"Sipakapens",5,0
+3,"Sacatepéquez",330469,"Tektiteko",40,0.01
+3,"Sacatepéquez",330469,"Tz'utuji",195,0.06
+3,"Sacatepéquez",330469,"Uspanteko",57,0.02
+3,"Sacatepéquez",330469,"Xink",98,0.03
+3,"Sacatepéquez",330469,"Garífun",49,0.01
+3,"Sacatepéquez",330469,"Español",270804,81.95
+3,"Sacatepéquez",330469,"Inglés",679,0.21
+3,"Sacatepéquez",330469,"Señas",48,0.01
+3,"Sacatepéquez",330469,"Otro idioma",338,0.1
+3,"Sacatepéquez",330469,"No habla",243,0.07
+3,"Sacatepéquez",330469,"Población de 4 años o más",306541,92.76
+4,"Chimaltenango",615776,"Achí",1265,0.21
+4,"Chimaltenango",615776,"Akateko",293,0.05
+4,"Chimaltenango",615776,"Awakateko",31,0.01
+4,"Chimaltenango",615776,"Ch'orti",10,0
+4,"Chimaltenango",615776,"Chalchiteko",147,0.02
+4,"Chimaltenango",615776,"Chu",8,0
+4,"Chimaltenango",615776,"Itza",1,0
+4,"Chimaltenango",615776,"Ixi",538,0.09
+4,"Chimaltenango",615776,"Jakalteko/Popti",9,0
+4,"Chimaltenango",615776,"K'iche",9917,1.61
+4,"Chimaltenango",615776,"Kaqchique",171874,27.91
+4,"Chimaltenango",615776,"Ma",690,0.11
+4,"Chimaltenango",615776,"Mopa",6,0
+4,"Chimaltenango",615776,"Poqoma",57,0.01
+4,"Chimaltenango",615776,"Poqomchi",161,0.03
+4,"Chimaltenango",615776,"Q'anjob'a",126,0.02
+4,"Chimaltenango",615776,"Q'eqchi",322,0.05
+4,"Chimaltenango",615776,"Sakapulteko",19,0
+4,"Chimaltenango",615776,"Sipakapens",9,0
+4,"Chimaltenango",615776,"Tektiteko",28,0
+4,"Chimaltenango",615776,"Tz'utuji",317,0.05
+4,"Chimaltenango",615776,"Uspanteko",154,0.03
+4,"Chimaltenango",615776,"Xink",155,0.03
+4,"Chimaltenango",615776,"Garífun",41,0.01
+4,"Chimaltenango",615776,"Español",372625,60.51
+4,"Chimaltenango",615776,"Inglés",227,0.04
+4,"Chimaltenango",615776,"Señas",74,0.01
+4,"Chimaltenango",615776,"Otro idioma",445,0.07
+4,"Chimaltenango",615776,"No habla",731,0.12
+4,"Chimaltenango",615776,"Población de 4 años o más",560280,90.99
+5,"Escuintla",733181,"Achí",1219,0.17
+5,"Escuintla",733181,"Akateko",276,0.04
+5,"Escuintla",733181,"Awakateko",216,0.03
+5,"Escuintla",733181,"Ch'orti",8,0
+5,"Escuintla",733181,"Chalchiteko",570,0.08
+5,"Escuintla",733181,"Chu",11,0
+5,"Escuintla",733181,"Itza",2,0
+5,"Escuintla",733181,"Ixi",221,0.03
+5,"Escuintla",733181,"Jakalteko/Popti",21,0
+5,"Escuintla",733181,"K'iche",5606,0.76
+5,"Escuintla",733181,"Kaqchique",3941,0.54
+5,"Escuintla",733181,"Ma",1516,0.21
+5,"Escuintla",733181,"Mopa",6,0
+5,"Escuintla",733181,"Poqoma",5842,0.8
+5,"Escuintla",733181,"Poqomchi",220,0.03
+5,"Escuintla",733181,"Q'anjob'a",162,0.02
+5,"Escuintla",733181,"Q'eqchi",568,0.08
+5,"Escuintla",733181,"Sakapulteko",14,0
+5,"Escuintla",733181,"Sipakapens",7,0
+5,"Escuintla",733181,"Tektiteko",155,0.02
+5,"Escuintla",733181,"Tz'utuji",430,0.06
+5,"Escuintla",733181,"Uspanteko",150,0.02
+5,"Escuintla",733181,"Xink",174,0.02
+5,"Escuintla",733181,"Garífun",112,0.02
+5,"Escuintla",733181,"Español",648582,88.46
+5,"Escuintla",733181,"Inglés",177,0.02
+5,"Escuintla",733181,"Señas",96,0.01
+5,"Escuintla",733181,"Otro idioma",288,0.04
+5,"Escuintla",733181,"No habla",747,0.1
+5,"Escuintla",733181,"Población de 4 años o más",671337,91.56
+6,"Santa Rosa",396607,"Achí",780,0.2
+6,"Santa Rosa",396607,"Akateko",307,0.08
+6,"Santa Rosa",396607,"Awakateko",26,0.01
+6,"Santa Rosa",396607,"Ch'orti",5,0
+6,"Santa Rosa",396607,"Chalchiteko",163,0.04
+6,"Santa Rosa",396607,"Chu",12,0
+6,"Santa Rosa",396607,"Itza",0,0
+6,"Santa Rosa",396607,"Ixi",81,0.02
+6,"Santa Rosa",396607,"Jakalteko/Popti",2,0
+6,"Santa Rosa",396607,"K'iche",2030,0.51
+6,"Santa Rosa",396607,"Kaqchique",1033,0.26
+6,"Santa Rosa",396607,"Ma",361,0.09
+6,"Santa Rosa",396607,"Mopa",2,0
+6,"Santa Rosa",396607,"Poqoma",22,0.01
+6,"Santa Rosa",396607,"Poqomchi",67,0.02
+6,"Santa Rosa",396607,"Q'anjob'a",100,0.03
+6,"Santa Rosa",396607,"Q'eqchi",148,0.04
+6,"Santa Rosa",396607,"Sakapulteko",10,0
+6,"Santa Rosa",396607,"Sipakapens",5,0
+6,"Santa Rosa",396607,"Tektiteko",34,0.01
+6,"Santa Rosa",396607,"Tz'utuji",91,0.02
+6,"Santa Rosa",396607,"Uspanteko",38,0.01
+6,"Santa Rosa",396607,"Xink",164,0.04
+6,"Santa Rosa",396607,"Garífun",51,0.01
+6,"Santa Rosa",396607,"Español",357102,90.04
+6,"Santa Rosa",396607,"Inglés",191,0.05
+6,"Santa Rosa",396607,"Señas",39,0.01
+6,"Santa Rosa",396607,"Otro idioma",191,0.05
+6,"Santa Rosa",396607,"No habla",383,0.1
+6,"Santa Rosa",396607,"Población de 4 años o más",363438,91.64
+7,"Sololá",421583,"Achí",1180,0.28
+7,"Sololá",421583,"Akateko",213,0.05
+7,"Sololá",421583,"Awakateko",19,0
+7,"Sololá",421583,"Ch'orti",3,0
+7,"Sololá",421583,"Chalchiteko",21,0
+7,"Sololá",421583,"Chu",7,0
+7,"Sololá",421583,"Itza",0,0
+7,"Sololá",421583,"Ixi",38,0.01
+7,"Sololá",421583,"Jakalteko/Popti",8,0
+7,"Sololá",421583,"K'iche",148341,35.19
+7,"Sololá",421583,"Kaqchique",110380,26.18
+7,"Sololá",421583,"Ma",174,0.04
+7,"Sololá",421583,"Mopa",1,0
+7,"Sololá",421583,"Poqoma",66,0.02
+7,"Sololá",421583,"Poqomchi",43,0.01
+7,"Sololá",421583,"Q'anjob'a",131,0.03
+7,"Sololá",421583,"Q'eqchi",122,0.03
+7,"Sololá",421583,"Sakapulteko",8,0
+7,"Sololá",421583,"Sipakapens",9,0
+7,"Sololá",421583,"Tektiteko",46,0.01
+7,"Sololá",421583,"Tz'utuji",54942,13.03
+7,"Sololá",421583,"Uspanteko",44,0.01
+7,"Sololá",421583,"Xink",21,0
+7,"Sololá",421583,"Garífun",20,0
+7,"Sololá",421583,"Español",69788,16.55
+7,"Sololá",421583,"Inglés",245,0.06
+7,"Sololá",421583,"Señas",41,0.01
+7,"Sololá",421583,"Otro idioma",119,0.03
+7,"Sololá",421583,"No habla",447,0.11
+7,"Sololá",421583,"Población de 4 años o más",386477,91.67
+8,"Totonicapán",418569,"Achí",1286,0.31
+8,"Totonicapán",418569,"Akateko",237,0.06
+8,"Totonicapán",418569,"Awakateko",22,0.01
+8,"Totonicapán",418569,"Ch'orti",6,0
+8,"Totonicapán",418569,"Chalchiteko",21,0.01
+8,"Totonicapán",418569,"Chu",3,0
+8,"Totonicapán",418569,"Itza",2,0
+8,"Totonicapán",418569,"Ixi",26,0.01
+8,"Totonicapán",418569,"Jakalteko/Popti",4,0
+8,"Totonicapán",418569,"K'iche",269545,64.4
+8,"Totonicapán",418569,"Kaqchique",420,0.1
+8,"Totonicapán",418569,"Ma",348,0.08
+8,"Totonicapán",418569,"Mopa",7,0
+8,"Totonicapán",418569,"Poqoma",30,0.01
+8,"Totonicapán",418569,"Poqomchi",73,0.02
+8,"Totonicapán",418569,"Q'anjob'a",219,0.05
+8,"Totonicapán",418569,"Q'eqchi",128,0.03
+8,"Totonicapán",418569,"Sakapulteko",23,0.01
+8,"Totonicapán",418569,"Sipakapens",6,0
+8,"Totonicapán",418569,"Tektiteko",398,0.1
+8,"Totonicapán",418569,"Tz'utuji",58,0.01
+8,"Totonicapán",418569,"Uspanteko",31,0.01
+8,"Totonicapán",418569,"Xink",39,0.01
+8,"Totonicapán",418569,"Garífun",11,0
+8,"Totonicapán",418569,"Español",106829,25.52
+8,"Totonicapán",418569,"Inglés",62,0.01
+8,"Totonicapán",418569,"Señas",53,0.01
+8,"Totonicapán",418569,"Otro idioma",69,0.02
+8,"Totonicapán",418569,"No habla",477,0.11
+8,"Totonicapán",418569,"Población de 4 años o más",380433,90.89
+9,"Quetzaltenango",799101,"Achí",1506,0.19
+9,"Quetzaltenango",799101,"Akateko",608,0.08
+9,"Quetzaltenango",799101,"Awakateko",67,0.01
+9,"Quetzaltenango",799101,"Ch'orti",20,0
+9,"Quetzaltenango",799101,"Chalchiteko",317,0.04
+9,"Quetzaltenango",799101,"Chu",25,0
+9,"Quetzaltenango",799101,"Itza",1,0
+9,"Quetzaltenango",799101,"Ixi",105,0.01
+9,"Quetzaltenango",799101,"Jakalteko/Popti",37,0
+9,"Quetzaltenango",799101,"K'iche",62266,7.79
+9,"Quetzaltenango",799101,"Kaqchique",511,0.06
+9,"Quetzaltenango",799101,"Ma",123429,15.45
+9,"Quetzaltenango",799101,"Mopa",16,0
+9,"Quetzaltenango",799101,"Poqoma",26,0
+9,"Quetzaltenango",799101,"Poqomchi",163,0.02
+9,"Quetzaltenango",799101,"Q'anjob'a",461,0.06
+9,"Quetzaltenango",799101,"Q'eqchi",259,0.03
+9,"Quetzaltenango",799101,"Sakapulteko",27,0
+9,"Quetzaltenango",799101,"Sipakapens",27,0
+9,"Quetzaltenango",799101,"Tektiteko",154,0.02
+9,"Quetzaltenango",799101,"Tz'utuji",353,0.04
+9,"Quetzaltenango",799101,"Uspanteko",71,0.01
+9,"Quetzaltenango",799101,"Xink",98,0.01
+9,"Quetzaltenango",799101,"Garífun",81,0.01
+9,"Quetzaltenango",799101,"Español",540086,67.59
+9,"Quetzaltenango",799101,"Inglés",468,0.06
+9,"Quetzaltenango",799101,"Señas",113,0.01
+9,"Quetzaltenango",799101,"Otro idioma",491,0.06
+9,"Quetzaltenango",799101,"No habla",858,0.11
+9,"Quetzaltenango",799101,"Población de 4 años o más",732644,91.68
+10,"Suchitepéquez",554695,"Achí",874,0.16
+10,"Suchitepéquez",554695,"Akateko",291,0.05
+10,"Suchitepéquez",554695,"Awakateko",24,0
+10,"Suchitepéquez",554695,"Ch'orti",4,0
+10,"Suchitepéquez",554695,"Chalchiteko",303,0.05
+10,"Suchitepéquez",554695,"Chu",2,0
+10,"Suchitepéquez",554695,"Itza",0,0
+10,"Suchitepéquez",554695,"Ixi",915,0.16
+10,"Suchitepéquez",554695,"Jakalteko/Popti",11,0
+10,"Suchitepéquez",554695,"K'iche",19826,3.57
+10,"Suchitepéquez",554695,"Kaqchique",4685,0.84
+10,"Suchitepéquez",554695,"Ma",2444,0.44
+10,"Suchitepéquez",554695,"Mopa",3,0
+10,"Suchitepéquez",554695,"Poqoma",20,0
+10,"Suchitepéquez",554695,"Poqomchi",84,0.02
+10,"Suchitepéquez",554695,"Q'anjob'a",150,0.03
+10,"Suchitepéquez",554695,"Q'eqchi",143,0.03
+10,"Suchitepéquez",554695,"Sakapulteko",9,0
+10,"Suchitepéquez",554695,"Sipakapens",4,0
+10,"Suchitepéquez",554695,"Tektiteko",88,0.02
+10,"Suchitepéquez",554695,"Tz'utuji",11792,2.13
+10,"Suchitepéquez",554695,"Uspanteko",81,0.01
+10,"Suchitepéquez",554695,"Xink",102,0.02
+10,"Suchitepéquez",554695,"Garífun",58,0.01
+10,"Suchitepéquez",554695,"Español",460687,83.05
+10,"Suchitepéquez",554695,"Inglés",123,0.02
+10,"Suchitepéquez",554695,"Señas",74,0.01
+10,"Suchitepéquez",554695,"Otro idioma",147,0.03
+10,"Suchitepéquez",554695,"No habla",661,0.12
+10,"Suchitepéquez",554695,"Población de 4 años o más",503605,90.79
+11,"Retalhuleu",326828,"Achí",506,0.15
+11,"Retalhuleu",326828,"Akateko",112,0.03
+11,"Retalhuleu",326828,"Awakateko",12,0
+11,"Retalhuleu",326828,"Ch'orti",1,0
+11,"Retalhuleu",326828,"Chalchiteko",186,0.06
+11,"Retalhuleu",326828,"Chu",29,0.01
+11,"Retalhuleu",326828,"Itza",1,0
+11,"Retalhuleu",326828,"Ixi",738,0.23
+11,"Retalhuleu",326828,"Jakalteko/Popti",1,0
+11,"Retalhuleu",326828,"K'iche",5179,1.58
+11,"Retalhuleu",326828,"Kaqchique",303,0.09
+11,"Retalhuleu",326828,"Ma",7123,2.18
+11,"Retalhuleu",326828,"Mopa",2,0
+11,"Retalhuleu",326828,"Poqoma",19,0.01
+11,"Retalhuleu",326828,"Poqomchi",29,0.01
+11,"Retalhuleu",326828,"Q'anjob'a",64,0.02
+11,"Retalhuleu",326828,"Q'eqchi",46,0.01
+11,"Retalhuleu",326828,"Sakapulteko",2,0
+11,"Retalhuleu",326828,"Sipakapens",6,0
+11,"Retalhuleu",326828,"Tektiteko",37,0.01
+11,"Retalhuleu",326828,"Tz'utuji",130,0.04
+11,"Retalhuleu",326828,"Uspanteko",39,0.01
+11,"Retalhuleu",326828,"Xink",87,0.03
+11,"Retalhuleu",326828,"Garífun",41,0.01
+11,"Retalhuleu",326828,"Español",282052,86.3
+11,"Retalhuleu",326828,"Inglés",95,0.03
+11,"Retalhuleu",326828,"Señas",34,0.01
+11,"Retalhuleu",326828,"Otro idioma",112,0.03
+11,"Retalhuleu",326828,"No habla",350,0.11
+11,"Retalhuleu",326828,"Población de 4 años o más",297336,90.98
+12,"San Marcos",1032277,"Achí",1529,0.15
+12,"San Marcos",1032277,"Akateko",404,0.04
+12,"San Marcos",1032277,"Awakateko",32,0
+12,"San Marcos",1032277,"Ch'orti",8,0
+12,"San Marcos",1032277,"Chalchiteko",557,0.05
+12,"San Marcos",1032277,"Chu",10,0
+12,"San Marcos",1032277,"Itza",1,0
+12,"San Marcos",1032277,"Ixi",15,0
+12,"San Marcos",1032277,"Jakalteko/Popti",16,0
+12,"San Marcos",1032277,"K'iche",1254,0.12
+12,"San Marcos",1032277,"Kaqchique",252,0.02
+12,"San Marcos",1032277,"Ma",173926,16.85
+12,"San Marcos",1032277,"Mopa",21,0
+12,"San Marcos",1032277,"Poqoma",132,0.01
+12,"San Marcos",1032277,"Poqomchi",118,0.01
+12,"San Marcos",1032277,"Q'anjob'a",128,0.01
+12,"San Marcos",1032277,"Q'eqchi",179,0.02
+12,"San Marcos",1032277,"Sakapulteko",9,0
+12,"San Marcos",1032277,"Sipakapens",3823,0.37
+12,"San Marcos",1032277,"Tektiteko",74,0.01
+12,"San Marcos",1032277,"Tz'utuji",292,0.03
+12,"San Marcos",1032277,"Uspanteko",167,0.02
+12,"San Marcos",1032277,"Xink",192,0.02
+12,"San Marcos",1032277,"Garífun",97,0.01
+12,"San Marcos",1032277,"Español",742996,71.98
+12,"San Marcos",1032277,"Inglés",246,0.02
+12,"San Marcos",1032277,"Señas",134,0.01
+12,"San Marcos",1032277,"Otro idioma",364,0.04
+12,"San Marcos",1032277,"No habla",973,0.09
+12,"San Marcos",1032277,"Población de 4 años o más",927949,89.89
+13,"Huehuetenango",1170669,"Achí",2018,0.17
+13,"Huehuetenango",1170669,"Akateko",48220,4.12
+13,"Huehuetenango",1170669,"Awakateko",8640,0.74
+13,"Huehuetenango",1170669,"Ch'orti",37,0
+13,"Huehuetenango",1170669,"Chalchiteko",14534,1.24
+13,"Huehuetenango",1170669,"Chu",57619,4.92
+13,"Huehuetenango",1170669,"Itza",19,0
+13,"Huehuetenango",1170669,"Ixi",92,0.01
+13,"Huehuetenango",1170669,"Jakalteko/Popti",31798,2.72
+13,"Huehuetenango",1170669,"K'iche",21571,1.84
+13,"Huehuetenango",1170669,"Kaqchique",354,0.03
+13,"Huehuetenango",1170669,"Ma",266024,22.72
+13,"Huehuetenango",1170669,"Mopa",125,0.01
+13,"Huehuetenango",1170669,"Poqoma",161,0.01
+13,"Huehuetenango",1170669,"Poqomchi",171,0.01
+13,"Huehuetenango",1170669,"Q'anjob'a",152500,13.03
+13,"Huehuetenango",1170669,"Q'eqchi",177,0.02
+13,"Huehuetenango",1170669,"Sakapulteko",75,0.01
+13,"Huehuetenango",1170669,"Sipakapens",43,0
+13,"Huehuetenango",1170669,"Tektiteko",803,0.07
+13,"Huehuetenango",1170669,"Tz'utuji",141,0.01
+13,"Huehuetenango",1170669,"Uspanteko",287,0.02
+13,"Huehuetenango",1170669,"Xink",116,0.01
+13,"Huehuetenango",1170669,"Garífun",79,0.01
+13,"Huehuetenango",1170669,"Español",416672,35.59
+13,"Huehuetenango",1170669,"Inglés",369,0.03
+13,"Huehuetenango",1170669,"Señas",88,0.01
+13,"Huehuetenango",1170669,"Otro idioma",19062,1.63
+13,"Huehuetenango",1170669,"No habla",1161,0.1
+13,"Huehuetenango",1170669,"Población de 4 años o más",1042956,89.09
+14,"Quiché",949261,"Achí",4070,0.43
+14,"Quiché",949261,"Akateko",598,0.06
+14,"Quiché",949261,"Awakateko",316,0.03
+14,"Quiché",949261,"Ch'orti",42,0
+14,"Quiché",949261,"Chalchiteko",311,0.03
+14,"Quiché",949261,"Chu",378,0.04
+14,"Quiché",949261,"Itza",33,0
+14,"Quiché",949261,"Ixi",109809,11.57
+14,"Quiché",949261,"Jakalteko/Popti",483,0.05
+14,"Quiché",949261,"K'iche",474772,50.01
+14,"Quiché",949261,"Kaqchique",2578,0.27
+14,"Quiché",949261,"Ma",4599,0.48
+14,"Quiché",949261,"Mopa",21,0
+14,"Quiché",949261,"Poqoma",550,0.06
+14,"Quiché",949261,"Poqomchi",17086,1.8
+14,"Quiché",949261,"Q'anjob'a",9527,1
+14,"Quiché",949261,"Q'eqchi",65747,6.93
+14,"Quiché",949261,"Sakapulteko",5634,0.59
+14,"Quiché",949261,"Sipakapens",25,0
+14,"Quiché",949261,"Tektiteko",465,0.05
+14,"Quiché",949261,"Tz'utuji",268,0.03
+14,"Quiché",949261,"Uspanteko",3026,0.32
+14,"Quiché",949261,"Xink",57,0.01
+14,"Quiché",949261,"Garífun",18,0
+14,"Quiché",949261,"Español",148636,15.66
+14,"Quiché",949261,"Inglés",129,0.01
+14,"Quiché",949261,"Señas",191,0.02
+14,"Quiché",949261,"Otro idioma",208,0.02
+14,"Quiché",949261,"No habla",1078,0.11
+14,"Quiché",949261,"Población de 4 años o más",850655,89.61
+15,"Baja Verapaz",299476,"Achí",84593,28.25
+15,"Baja Verapaz",299476,"Akateko",98,0.03
+15,"Baja Verapaz",299476,"Awakateko",8,0
+15,"Baja Verapaz",299476,"Ch'orti",23,0.01
+15,"Baja Verapaz",299476,"Chalchiteko",78,0.03
+15,"Baja Verapaz",299476,"Chu",1,0
+15,"Baja Verapaz",299476,"Itza",6,0
+15,"Baja Verapaz",299476,"Ixi",8,0
+15,"Baja Verapaz",299476,"Jakalteko/Popti",5,0
+15,"Baja Verapaz",299476,"K'iche",665,0.22
+15,"Baja Verapaz",299476,"Kaqchique",401,0.13
+15,"Baja Verapaz",299476,"Ma",50,0.02
+15,"Baja Verapaz",299476,"Mopa",3,0
+15,"Baja Verapaz",299476,"Poqoma",68,0.02
+15,"Baja Verapaz",299476,"Poqomchi",16796,5.61
+15,"Baja Verapaz",299476,"Q'anjob'a",2,0
+15,"Baja Verapaz",299476,"Q'eqchi",23777,7.94
+15,"Baja Verapaz",299476,"Sakapulteko",4,0
+15,"Baja Verapaz",299476,"Sipakapens",3,0
+15,"Baja Verapaz",299476,"Tektiteko",10,0
+15,"Baja Verapaz",299476,"Tz'utuji",35,0.01
+15,"Baja Verapaz",299476,"Uspanteko",15,0.01
+15,"Baja Verapaz",299476,"Xink",23,0.01
+15,"Baja Verapaz",299476,"Garífun",18,0.01
+15,"Baja Verapaz",299476,"Español",142873,47.71
+15,"Baja Verapaz",299476,"Inglés",39,0.01
+15,"Baja Verapaz",299476,"Señas",71,0.02
+15,"Baja Verapaz",299476,"Otro idioma",43,0.01
+15,"Baja Verapaz",299476,"No habla",397,0.13
+15,"Baja Verapaz",299476,"Población de 4 años o más",270113,90.2
+16,"Alta Verapaz",1215038,"Achí",6936,0.57
+16,"Alta Verapaz",1215038,"Akateko",933,0.08
+16,"Alta Verapaz",1215038,"Awakateko",58,0
+16,"Alta Verapaz",1215038,"Ch'orti",11,0
+16,"Alta Verapaz",1215038,"Chalchiteko",126,0.01
+16,"Alta Verapaz",1215038,"Chu",312,0.03
+16,"Alta Verapaz",1215038,"Itza",189,0.02
+16,"Alta Verapaz",1215038,"Ixi",133,0.01
+16,"Alta Verapaz",1215038,"Jakalteko/Popti",25,0
+16,"Alta Verapaz",1215038,"K'iche",1858,0.15
+16,"Alta Verapaz",1215038,"Kaqchique",1534,0.13
+16,"Alta Verapaz",1215038,"Ma",1798,0.15
+16,"Alta Verapaz",1215038,"Mopa",67,0.01
+16,"Alta Verapaz",1215038,"Poqoma",516,0.04
+16,"Alta Verapaz",1215038,"Poqomchi",94478,7.78
+16,"Alta Verapaz",1215038,"Q'anjob'a",1098,0.09
+16,"Alta Verapaz",1215038,"Q'eqchi",809613,66.63
+16,"Alta Verapaz",1215038,"Sakapulteko",77,0.01
+16,"Alta Verapaz",1215038,"Sipakapens",20,0
+16,"Alta Verapaz",1215038,"Tektiteko",25,0
+16,"Alta Verapaz",1215038,"Tz'utuji",92,0.01
+16,"Alta Verapaz",1215038,"Uspanteko",85,0.01
+16,"Alta Verapaz",1215038,"Xink",28,0
+16,"Alta Verapaz",1215038,"Garífun",19,0
+16,"Alta Verapaz",1215038,"Español",161220,13.27
+16,"Alta Verapaz",1215038,"Inglés",122,0.01
+16,"Alta Verapaz",1215038,"Señas",283,0.02
+16,"Alta Verapaz",1215038,"Otro idioma",173,0.01
+16,"Alta Verapaz",1215038,"No habla",956,0.08
+16,"Alta Verapaz",1215038,"Población de 4 años o más",1082785,89.12
+17,"Petén",545600,"Achí",2010,0.37
+17,"Petén",545600,"Akateko",152,0.03
+17,"Petén",545600,"Awakateko",8,0
+17,"Petén",545600,"Ch'orti",132,0.02
+17,"Petén",545600,"Chalchiteko",231,0.04
+17,"Petén",545600,"Chu",12,0
+17,"Petén",545600,"Itza",63,0.01
+17,"Petén",545600,"Ixi",33,0.01
+17,"Petén",545600,"Jakalteko/Popti",24,0
+17,"Petén",545600,"K'iche",2002,0.37
+17,"Petén",545600,"Kaqchique",1449,0.27
+17,"Petén",545600,"Ma",921,0.17
+17,"Petén",545600,"Mopa",1680,0.31
+17,"Petén",545600,"Poqoma",193,0.04
+17,"Petén",545600,"Poqomchi",1124,0.21
+17,"Petén",545600,"Q'anjob'a",212,0.04
+17,"Petén",545600,"Q'eqchi",125067,22.92
+17,"Petén",545600,"Sakapulteko",13,0
+17,"Petén",545600,"Sipakapens",3,0
+17,"Petén",545600,"Tektiteko",53,0.01
+17,"Petén",545600,"Tz'utuji",93,0.02
+17,"Petén",545600,"Uspanteko",26,0
+17,"Petén",545600,"Xink",52,0.01
+17,"Petén",545600,"Garífun",29,0.01
+17,"Petén",545600,"Español",355436,65.15
+17,"Petén",545600,"Inglés",333,0.06
+17,"Petén",545600,"Señas",91,0.02
+17,"Petén",545600,"Otro idioma",122,0.02
+17,"Petén",545600,"No habla",479,0.09
+17,"Petén",545600,"Población de 4 años o más",492043,90.18
+18,"Izabal",408688,"Achí",596,0.15
+18,"Izabal",408688,"Akateko",159,0.04
+18,"Izabal",408688,"Awakateko",8,0
+18,"Izabal",408688,"Ch'orti",126,0.03
+18,"Izabal",408688,"Chalchiteko",156,0.04
+18,"Izabal",408688,"Chu",1,0
+18,"Izabal",408688,"Itza",31,0.01
+18,"Izabal",408688,"Ixi",1,0
+18,"Izabal",408688,"Jakalteko/Popti",1,0
+18,"Izabal",408688,"K'iche",1156,0.28
+18,"Izabal",408688,"Kaqchique",301,0.07
+18,"Izabal",408688,"Ma",104,0.03
+18,"Izabal",408688,"Mopa",7,0
+18,"Izabal",408688,"Poqoma",67,0.02
+18,"Izabal",408688,"Poqomchi",234,0.06
+18,"Izabal",408688,"Q'anjob'a",9,0
+18,"Izabal",408688,"Q'eqchi",91051,22.28
+18,"Izabal",408688,"Sakapulteko",30,0.01
+18,"Izabal",408688,"Sipakapens",1,0
+18,"Izabal",408688,"Tektiteko",24,0.01
+18,"Izabal",408688,"Tz'utuji",90,0.02
+18,"Izabal",408688,"Uspanteko",30,0.01
+18,"Izabal",408688,"Xink",45,0.01
+18,"Izabal",408688,"Garífun",1251,0.31
+18,"Izabal",408688,"Español",275270,67.35
+18,"Izabal",408688,"Inglés",174,0.04
+18,"Izabal",408688,"Señas",85,0.02
+18,"Izabal",408688,"Otro idioma",214,0.05
+18,"Izabal",408688,"No habla",466,0.11
+18,"Izabal",408688,"Población de 4 años o más",371688,90.95
+19,"Zacapa",245374,"Achí",434,0.18
+19,"Zacapa",245374,"Akateko",70,0.03
+19,"Zacapa",245374,"Awakateko",10,0
+19,"Zacapa",245374,"Ch'orti",65,0.03
+19,"Zacapa",245374,"Chalchiteko",358,0.15
+19,"Zacapa",245374,"Chu",1,0
+19,"Zacapa",245374,"Itza",0,0
+19,"Zacapa",245374,"Ixi",2,0
+19,"Zacapa",245374,"Jakalteko/Popti",1,0
+19,"Zacapa",245374,"K'iche",350,0.14
+19,"Zacapa",245374,"Kaqchique",148,0.06
+19,"Zacapa",245374,"Ma",94,0.04
+19,"Zacapa",245374,"Mopa",0,0
+19,"Zacapa",245374,"Poqoma",8,0
+19,"Zacapa",245374,"Poqomchi",51,0.02
+19,"Zacapa",245374,"Q'anjob'a",3,0
+19,"Zacapa",245374,"Q'eqchi",195,0.08
+19,"Zacapa",245374,"Sakapulteko",5,0
+19,"Zacapa",245374,"Sipakapens",7,0
+19,"Zacapa",245374,"Tektiteko",29,0.01
+19,"Zacapa",245374,"Tz'utuji",115,0.05
+19,"Zacapa",245374,"Uspanteko",24,0.01
+19,"Zacapa",245374,"Xink",72,0.03
+19,"Zacapa",245374,"Garífun",48,0.02
+19,"Zacapa",245374,"Español",222822,90.81
+19,"Zacapa",245374,"Inglés",100,0.04
+19,"Zacapa",245374,"Señas",43,0.02
+19,"Zacapa",245374,"Otro idioma",57,0.02
+19,"Zacapa",245374,"No habla",252,0.1
+19,"Zacapa",245374,"Población de 4 años o más",225364,91.85
+20,"Chiquimula",415063,"Achí",804,0.19
+20,"Chiquimula",415063,"Akateko",127,0.03
+20,"Chiquimula",415063,"Awakateko",27,0.01
+20,"Chiquimula",415063,"Ch'orti",16053,3.87
+20,"Chiquimula",415063,"Chalchiteko",734,0.18
+20,"Chiquimula",415063,"Chu",1,0
+20,"Chiquimula",415063,"Itza",4,0
+20,"Chiquimula",415063,"Ixi",7,0
+20,"Chiquimula",415063,"Jakalteko/Popti",1,0
+20,"Chiquimula",415063,"K'iche",337,0.08
+20,"Chiquimula",415063,"Kaqchique",97,0.02
+20,"Chiquimula",415063,"Ma",39,0.01
+20,"Chiquimula",415063,"Mopa",1,0
+20,"Chiquimula",415063,"Poqoma",13,0
+20,"Chiquimula",415063,"Poqomchi",43,0.01
+20,"Chiquimula",415063,"Q'anjob'a",5,0
+20,"Chiquimula",415063,"Q'eqchi",228,0.05
+20,"Chiquimula",415063,"Sakapulteko",0,0
+20,"Chiquimula",415063,"Sipakapens",1,0
+20,"Chiquimula",415063,"Tektiteko",121,0.03
+20,"Chiquimula",415063,"Tz'utuji",77,0.02
+20,"Chiquimula",415063,"Uspanteko",21,0.01
+20,"Chiquimula",415063,"Xink",43,0.01
+20,"Chiquimula",415063,"Garífun",109,0.03
+20,"Chiquimula",415063,"Español",355106,85.55
+20,"Chiquimula",415063,"Inglés",103,0.02
+20,"Chiquimula",415063,"Señas",79,0.02
+20,"Chiquimula",415063,"Otro idioma",62,0.01
+20,"Chiquimula",415063,"No habla",393,0.09
+20,"Chiquimula",415063,"Población de 4 años o más",374636,90.26
+21,"Jalapa",342923,"Achí",652,0.19
+21,"Jalapa",342923,"Akateko",254,0.07
+21,"Jalapa",342923,"Awakateko",6,0
+21,"Jalapa",342923,"Ch'orti",5,0
+21,"Jalapa",342923,"Chalchiteko",211,0.06
+21,"Jalapa",342923,"Chu",4,0
+21,"Jalapa",342923,"Itza",1,0
+21,"Jalapa",342923,"Ixi",7,0
+21,"Jalapa",342923,"Jakalteko/Popti",0,0
+21,"Jalapa",342923,"K'iche",531,0.15
+21,"Jalapa",342923,"Kaqchique",159,0.05
+21,"Jalapa",342923,"Ma",33,0.01
+21,"Jalapa",342923,"Mopa",3,0
+21,"Jalapa",342923,"Poqoma",1264,0.37
+21,"Jalapa",342923,"Poqomchi",32,0.01
+21,"Jalapa",342923,"Q'anjob'a",17,0
+21,"Jalapa",342923,"Q'eqchi",107,0.03
+21,"Jalapa",342923,"Sakapulteko",10,0
+21,"Jalapa",342923,"Sipakapens",0,0
+21,"Jalapa",342923,"Tektiteko",23,0.01
+21,"Jalapa",342923,"Tz'utuji",249,0.07
+21,"Jalapa",342923,"Uspanteko",46,0.01
+21,"Jalapa",342923,"Xink",52,0.02
+21,"Jalapa",342923,"Garífun",54,0.02
+21,"Jalapa",342923,"Español",305255,89.02
+21,"Jalapa",342923,"Inglés",103,0.03
+21,"Jalapa",342923,"Señas",47,0.01
+21,"Jalapa",342923,"Otro idioma",48,0.01
+21,"Jalapa",342923,"No habla",287,0.08
+21,"Jalapa",342923,"Población de 4 años o más",309460,90.24
+22,"Jutiapa",488395,"Achí",890,0.18
+22,"Jutiapa",488395,"Akateko",245,0.05
+22,"Jutiapa",488395,"Awakateko",15,0
+22,"Jutiapa",488395,"Ch'orti",23,0
+22,"Jutiapa",488395,"Chalchiteko",192,0.04
+22,"Jutiapa",488395,"Chu",2,0
+22,"Jutiapa",488395,"Itza",2,0
+22,"Jutiapa",488395,"Ixi",7,0
+22,"Jutiapa",488395,"Jakalteko/Popti",17,0
+22,"Jutiapa",488395,"K'iche",951,0.19
+22,"Jutiapa",488395,"Kaqchique",376,0.08
+22,"Jutiapa",488395,"Ma",68,0.01
+22,"Jutiapa",488395,"Mopa",2,0
+22,"Jutiapa",488395,"Poqoma",30,0.01
+22,"Jutiapa",488395,"Poqomchi",54,0.01
+22,"Jutiapa",488395,"Q'anjob'a",4,0
+22,"Jutiapa",488395,"Q'eqchi",142,0.03
+22,"Jutiapa",488395,"Sakapulteko",2,0
+22,"Jutiapa",488395,"Sipakapens",0,0
+22,"Jutiapa",488395,"Tektiteko",28,0.01
+22,"Jutiapa",488395,"Tz'utuji",107,0.02
+22,"Jutiapa",488395,"Uspanteko",183,0.04
+22,"Jutiapa",488395,"Xink",329,0.07
+22,"Jutiapa",488395,"Garífun",70,0.01
+22,"Jutiapa",488395,"Español",443637,90.84
+22,"Jutiapa",488395,"Inglés",131,0.03
+22,"Jutiapa",488395,"Señas",77,0.02
+22,"Jutiapa",488395,"Otro idioma",79,0.02
+22,"Jutiapa",488395,"No habla",403,0.08
+22,"Jutiapa",488395,"Población de 4 años o más",448066,91.74

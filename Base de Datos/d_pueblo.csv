@@ -1,0 +1,133 @@
+"Código","Departamento","Total de personas","Pueblo de Pertenencia","Cantidad","Porcentaje de Total"
+1,"Guatemala",3015081,"Maya",402376,13.35
+1,"Guatemala",3015081,"Garífuna",4583,0.15
+1,"Guatemala",3015081,"Xinka",3382,0.11
+1,"Guatemala",3015081,"Afrodescendiente/Creole/Afromestizo",6222,0.21
+1,"Guatemala",3015081,"Ladina(o)",2578135,85.51
+1,"Guatemala",3015081,"Extranjera(o)",20383,0.68
+2,"El Progreso",176632,"Maya",2627,1.49
+2,"El Progreso",176632,"Garífuna",184,0.1
+2,"El Progreso",176632,"Xinka",46,0.03
+2,"El Progreso",176632,"Afrodescendiente/Creole/Afromestizo",86,0.05
+2,"El Progreso",176632,"Ladina(o)",173441,98.19
+2,"El Progreso",176632,"Extranjera(o)",248,0.14
+3,"Sacatepéquez",330469,"Maya",132762,40.17
+3,"Sacatepéquez",330469,"Garífuna",428,0.13
+3,"Sacatepéquez",330469,"Xinka",206,0.06
+3,"Sacatepéquez",330469,"Afrodescendiente/Creole/Afromestizo",486,0.15
+3,"Sacatepéquez",330469,"Ladina(o)",195101,59.04
+3,"Sacatepéquez",330469,"Extranjera(o)",1486,0.45
+4,"Chimaltenango",615776,"Maya",481335,78.17
+4,"Chimaltenango",615776,"Garífuna",563,0.09
+4,"Chimaltenango",615776,"Xinka",237,0.04
+4,"Chimaltenango",615776,"Afrodescendiente/Creole/Afromestizo",1255,0.2
+4,"Chimaltenango",615776,"Ladina(o)",131674,21.38
+4,"Chimaltenango",615776,"Extranjera(o)",712,0.12
+5,"Escuintla",733181,"Maya",37100,5.06
+5,"Escuintla",733181,"Garífuna",933,0.13
+5,"Escuintla",733181,"Xinka",259,0.04
+5,"Escuintla",733181,"Afrodescendiente/Creole/Afromestizo",1466,0.2
+5,"Escuintla",733181,"Ladina(o)",691936,94.37
+5,"Escuintla",733181,"Extranjera(o)",1487,0.2
+6,"Santa Rosa",396607,"Maya",7863,1.98
+6,"Santa Rosa",396607,"Garífuna",646,0.16
+6,"Santa Rosa",396607,"Xinka",55855,14.08
+6,"Santa Rosa",396607,"Afrodescendiente/Creole/Afromestizo",885,0.22
+6,"Santa Rosa",396607,"Ladina(o)",330149,83.24
+6,"Santa Rosa",396607,"Extranjera(o)",1209,0.3
+7,"Sololá",421583,"Maya",406295,96.37
+7,"Sololá",421583,"Garífuna",387,0.09
+7,"Sololá",421583,"Xinka",35,0.01
+7,"Sololá",421583,"Afrodescendiente/Creole/Afromestizo",366,0.09
+7,"Sololá",421583,"Ladina(o)",14025,3.33
+7,"Sololá",421583,"Extranjera(o)",475,0.11
+8,"Totonicapán",418569,"Maya",410195,98
+8,"Totonicapán",418569,"Garífuna",274,0.07
+8,"Totonicapán",418569,"Xinka",49,0.01
+8,"Totonicapán",418569,"Afrodescendiente/Creole/Afromestizo",381,0.09
+8,"Totonicapán",418569,"Ladina(o)",7528,1.8
+8,"Totonicapán",418569,"Extranjera(o)",142,0.03
+9,"Quetzaltenango",799101,"Maya",406491,50.87
+9,"Quetzaltenango",799101,"Garífuna",675,0.08
+9,"Quetzaltenango",799101,"Xinka",206,0.03
+9,"Quetzaltenango",799101,"Afrodescendiente/Creole/Afromestizo",1197,0.15
+9,"Quetzaltenango",799101,"Ladina(o)",388850,48.66
+9,"Quetzaltenango",799101,"Extranjera(o)",1682,0.21
+10,"Suchitepéquez",554695,"Maya",211103,38.06
+10,"Suchitepéquez",554695,"Garífuna",639,0.12
+10,"Suchitepéquez",554695,"Xinka",210,0.04
+10,"Suchitepéquez",554695,"Afrodescendiente/Creole/Afromestizo",3531,0.64
+10,"Suchitepéquez",554695,"Ladina(o)",338471,61.02
+10,"Suchitepéquez",554695,"Extranjera(o)",741,0.13
+11,"Retalhuleu",326828,"Maya",48871,14.95
+11,"Retalhuleu",326828,"Garífuna",258,0.08
+11,"Retalhuleu",326828,"Xinka",58,0.02
+11,"Retalhuleu",326828,"Afrodescendiente/Creole/Afromestizo",684,0.21
+11,"Retalhuleu",326828,"Ladina(o)",276576,84.62
+11,"Retalhuleu",326828,"Extranjera(o)",381,0.12
+12,"San Marcos",1032277,"Maya",318093,30.81
+12,"San Marcos",1032277,"Garífuna",757,0.07
+12,"San Marcos",1032277,"Xinka",76,0.01
+12,"San Marcos",1032277,"Afrodescendiente/Creole/Afromestizo",495,0.05
+12,"San Marcos",1032277,"Ladina(o)",711812,68.96
+12,"San Marcos",1032277,"Extranjera(o)",1044,0.1
+13,"Huehuetenango",1170669,"Maya",760871,64.99
+13,"Huehuetenango",1170669,"Garífuna",884,0.08
+13,"Huehuetenango",1170669,"Xinka",44,0
+13,"Huehuetenango",1170669,"Afrodescendiente/Creole/Afromestizo",1305,0.11
+13,"Huehuetenango",1170669,"Ladina(o)",406836,34.75
+13,"Huehuetenango",1170669,"Extranjera(o)",729,0.06
+14,"Quiché",949261,"Maya",846500,89.17
+14,"Quiché",949261,"Garífuna",556,0.06
+14,"Quiché",949261,"Xinka",59,0.01
+14,"Quiché",949261,"Afrodescendiente/Creole/Afromestizo",1690,0.18
+14,"Quiché",949261,"Ladina(o)",100150,10.55
+14,"Quiché",949261,"Extranjera(o)",306,0.03
+15,"Baja Verapaz",299476,"Maya",179746,60.02
+15,"Baja Verapaz",299476,"Garífuna",244,0.08
+15,"Baja Verapaz",299476,"Xinka",63,0.02
+15,"Baja Verapaz",299476,"Afrodescendiente/Creole/Afromestizo",542,0.18
+15,"Baja Verapaz",299476,"Ladina(o)",118660,39.62
+15,"Baja Verapaz",299476,"Extranjera(o)",221,0.07
+16,"Alta Verapaz",1215038,"Maya",1129369,92.95
+16,"Alta Verapaz",1215038,"Garífuna",1136,0.09
+16,"Alta Verapaz",1215038,"Xinka",147,0.01
+16,"Alta Verapaz",1215038,"Afrodescendiente/Creole/Afromestizo",1288,0.11
+16,"Alta Verapaz",1215038,"Ladina(o)",82505,6.79
+16,"Alta Verapaz",1215038,"Extranjera(o)",593,0.05
+17,"Petén",545600,"Maya",164814,30.21
+17,"Petén",545600,"Garífuna",462,0.08
+17,"Petén",545600,"Xinka",200,0.04
+17,"Petén",545600,"Afrodescendiente/Creole/Afromestizo",1097,0.2
+17,"Petén",545600,"Ladina(o)",378129,69.31
+17,"Petén",545600,"Extranjera(o)",898,0.16
+18,"Izabal",408688,"Maya",115296,28.21
+18,"Izabal",408688,"Garífuna",3002,0.73
+18,"Izabal",408688,"Xinka",105,0.03
+18,"Izabal",408688,"Afrodescendiente/Creole/Afromestizo",1529,0.37
+18,"Izabal",408688,"Ladina(o)",287869,70.44
+18,"Izabal",408688,"Extranjera(o)",887,0.22
+19,"Zacapa",245374,"Maya",4769,1.94
+19,"Zacapa",245374,"Garífuna",349,0.14
+19,"Zacapa",245374,"Xinka",46,0.02
+19,"Zacapa",245374,"Afrodescendiente/Creole/Afromestizo",791,0.32
+19,"Zacapa",245374,"Ladina(o)",238987,97.4
+19,"Zacapa",245374,"Extranjera(o)",432,0.18
+20,"Chiquimula",415063,"Maya",111368,26.83
+20,"Chiquimula",415063,"Garífuna",797,0.19
+20,"Chiquimula",415063,"Xinka",49,0.01
+20,"Chiquimula",415063,"Afrodescendiente/Creole/Afromestizo",771,0.19
+20,"Chiquimula",415063,"Ladina(o)",301454,72.63
+20,"Chiquimula",415063,"Extranjera(o)",624,0.15
+21,"Jalapa",342923,"Maya",24891,7.26
+21,"Jalapa",342923,"Garífuna",832,0.24
+21,"Jalapa",342923,"Xinka",108529,31.65
+21,"Jalapa",342923,"Afrodescendiente/Creole/Afromestizo",690,0.2
+21,"Jalapa",342923,"Ladina(o)",207497,60.51
+21,"Jalapa",342923,"Extranjera(o)",484,0.14
+22,"Jutiapa",488395,"Maya",4768,0.98
+22,"Jutiapa",488395,"Garífuna",940,0.19
+22,"Jutiapa",488395,"Xinka",94306,19.31
+22,"Jutiapa",488395,"Afrodescendiente/Creole/Afromestizo",890,0.18
+22,"Jutiapa",488395,"Ladina(o)",386335,79.1
+22,"Jutiapa",488395,"Extranjera(o)",1156,0.24

@@ -1,0 +1,177 @@
+"Código","Departamento","Total de viviendas particulares","Material Predominante del Techo","Cantidad de Viviendas","Porcentaje de Viviendas Particulares"
+1,"Guatemala",873704,"Concreto",450912,51.61
+1,"Guatemala",873704,"Lámina metálica",386082,44.19
+1,"Guatemala",873704,"Asbesto cemento",12122,1.39
+1,"Guatemala",873704,"Teja",4707,0.54
+1,"Guatemala",873704,"Paja, palma o similar",216,0.02
+1,"Guatemala",873704,"Material de desecho",161,0.02
+1,"Guatemala",873704,"Otro",2518,0.29
+1,"Guatemala",873704,"No especificado",16986,1.94
+2,"El Progreso",54109,"Concreto",8226,15.2
+2,"El Progreso",54109,"Lámina metálica",42589,78.71
+2,"El Progreso",54109,"Asbesto cemento",460,0.85
+2,"El Progreso",54109,"Teja",1380,2.55
+2,"El Progreso",54109,"Paja, palma o similar",1168,2.16
+2,"El Progreso",54109,"Material de desecho",10,0.02
+2,"El Progreso",54109,"Otro",127,0.23
+2,"El Progreso",54109,"No especificado",149,0.28
+3,"Sacatepéquez",88373,"Concreto",25456,28.81
+3,"Sacatepéquez",88373,"Lámina metálica",56542,63.98
+3,"Sacatepéquez",88373,"Asbesto cemento",830,0.94
+3,"Sacatepéquez",88373,"Teja",3217,3.64
+3,"Sacatepéquez",88373,"Paja, palma o similar",35,0.04
+3,"Sacatepéquez",88373,"Material de desecho",8,0.01
+3,"Sacatepéquez",88373,"Otro",652,0.74
+3,"Sacatepéquez",88373,"No especificado",1633,1.85
+4,"Chimaltenango",144844,"Concreto",32182,22.22
+4,"Chimaltenango",144844,"Lámina metálica",110472,76.27
+4,"Chimaltenango",144844,"Asbesto cemento",725,0.5
+4,"Chimaltenango",144844,"Teja",547,0.38
+4,"Chimaltenango",144844,"Paja, palma o similar",57,0.04
+4,"Chimaltenango",144844,"Material de desecho",16,0.01
+4,"Chimaltenango",144844,"Otro",369,0.25
+4,"Chimaltenango",144844,"No especificado",476,0.33
+5,"Escuintla",209451,"Concreto",27090,12.93
+5,"Escuintla",209451,"Lámina metálica",172967,82.58
+5,"Escuintla",209451,"Asbesto cemento",1391,0.66
+5,"Escuintla",209451,"Teja",1608,0.77
+5,"Escuintla",209451,"Paja, palma o similar",4860,2.32
+5,"Escuintla",209451,"Material de desecho",130,0.06
+5,"Escuintla",209451,"Otro",563,0.27
+5,"Escuintla",209451,"No especificado",842,0.4
+6,"Santa Rosa",116653,"Concreto",11063,9.48
+6,"Santa Rosa",116653,"Lámina metálica",98589,84.51
+6,"Santa Rosa",116653,"Asbesto cemento",670,0.57
+6,"Santa Rosa",116653,"Teja",1924,1.65
+6,"Santa Rosa",116653,"Paja, palma o similar",3966,3.4
+6,"Santa Rosa",116653,"Material de desecho",37,0.03
+6,"Santa Rosa",116653,"Otro",176,0.15
+6,"Santa Rosa",116653,"No especificado",228,0.2
+7,"Sololá",101919,"Concreto",22002,21.59
+7,"Sololá",101919,"Lámina metálica",78036,76.57
+7,"Sololá",101919,"Asbesto cemento",818,0.8
+7,"Sololá",101919,"Teja",695,0.68
+7,"Sololá",101919,"Paja, palma o similar",66,0.06
+7,"Sololá",101919,"Material de desecho",7,0.01
+7,"Sololá",101919,"Otro",130,0.13
+7,"Sololá",101919,"No especificado",165,0.16
+8,"Totonicapán",107602,"Concreto",25892,24.06
+8,"Totonicapán",107602,"Lámina metálica",42238,39.25
+8,"Totonicapán",107602,"Asbesto cemento",1919,1.78
+8,"Totonicapán",107602,"Teja",37084,34.46
+8,"Totonicapán",107602,"Paja, palma o similar",141,0.13
+8,"Totonicapán",107602,"Material de desecho",14,0.01
+8,"Totonicapán",107602,"Otro",71,0.07
+8,"Totonicapán",107602,"No especificado",243,0.23
+9,"Quetzaltenango",213979,"Concreto",80780,37.75
+9,"Quetzaltenango",213979,"Lámina metálica",120218,56.18
+9,"Quetzaltenango",213979,"Asbesto cemento",1324,0.62
+9,"Quetzaltenango",213979,"Teja",10843,5.07
+9,"Quetzaltenango",213979,"Paja, palma o similar",137,0.06
+9,"Quetzaltenango",213979,"Material de desecho",22,0.01
+9,"Quetzaltenango",213979,"Otro",188,0.09
+9,"Quetzaltenango",213979,"No especificado",467,0.22
+10,"Suchitepéquez",140126,"Concreto",16963,12.11
+10,"Suchitepéquez",140126,"Lámina metálica",118767,84.76
+10,"Suchitepéquez",140126,"Asbesto cemento",1036,0.74
+10,"Suchitepéquez",140126,"Teja",1051,0.75
+10,"Suchitepéquez",140126,"Paja, palma o similar",1865,1.33
+10,"Suchitepéquez",140126,"Material de desecho",65,0.05
+10,"Suchitepéquez",140126,"Otro",204,0.15
+10,"Suchitepéquez",140126,"No especificado",175,0.12
+11,"Retalhuleu",87869,"Concreto",8041,9.15
+11,"Retalhuleu",87869,"Lámina metálica",75185,85.56
+11,"Retalhuleu",87869,"Asbesto cemento",527,0.6
+11,"Retalhuleu",87869,"Teja",1313,1.49
+11,"Retalhuleu",87869,"Paja, palma o similar",2440,2.78
+11,"Retalhuleu",87869,"Material de desecho",27,0.03
+11,"Retalhuleu",87869,"Otro",180,0.2
+11,"Retalhuleu",87869,"No especificado",156,0.18
+12,"San Marcos",270142,"Concreto",47886,17.73
+12,"San Marcos",270142,"Lámina metálica",206729,76.53
+12,"San Marcos",270142,"Asbesto cemento",1496,0.55
+12,"San Marcos",270142,"Teja",10937,4.05
+12,"San Marcos",270142,"Paja, palma o similar",2176,0.81
+12,"San Marcos",270142,"Material de desecho",49,0.02
+12,"San Marcos",270142,"Otro",263,0.1
+12,"San Marcos",270142,"No especificado",606,0.22
+13,"Huehuetenango",304317,"Concreto",58397,19.19
+13,"Huehuetenango",304317,"Lámina metálica",215932,70.96
+13,"Huehuetenango",304317,"Asbesto cemento",2271,0.75
+13,"Huehuetenango",304317,"Teja",26135,8.59
+13,"Huehuetenango",304317,"Paja, palma o similar",474,0.16
+13,"Huehuetenango",304317,"Material de desecho",29,0.01
+13,"Huehuetenango",304317,"Otro",418,0.14
+13,"Huehuetenango",304317,"No especificado",661,0.22
+14,"Quiché",217720,"Concreto",25276,11.61
+14,"Quiché",217720,"Lámina metálica",133927,61.51
+14,"Quiché",217720,"Asbesto cemento",1712,0.79
+14,"Quiché",217720,"Teja",54022,24.81
+14,"Quiché",217720,"Paja, palma o similar",1901,0.87
+14,"Quiché",217720,"Material de desecho",31,0.01
+14,"Quiché",217720,"Otro",285,0.13
+14,"Quiché",217720,"No especificado",566,0.26
+15,"Baja Verapaz",83771,"Concreto",5118,6.11
+15,"Baja Verapaz",83771,"Lámina metálica",47872,57.15
+15,"Baja Verapaz",83771,"Asbesto cemento",677,0.81
+15,"Baja Verapaz",83771,"Teja",29474,35.18
+15,"Baja Verapaz",83771,"Paja, palma o similar",474,0.57
+15,"Baja Verapaz",83771,"Material de desecho",26,0.03
+15,"Baja Verapaz",83771,"Otro",90,0.11
+15,"Baja Verapaz",83771,"No especificado",40,0.05
+16,"Alta Verapaz",254205,"Concreto",5708,2.25
+16,"Alta Verapaz",254205,"Lámina metálica",233458,91.84
+16,"Alta Verapaz",254205,"Asbesto cemento",682,0.27
+16,"Alta Verapaz",254205,"Teja",394,0.15
+16,"Alta Verapaz",254205,"Paja, palma o similar",13310,5.24
+16,"Alta Verapaz",254205,"Material de desecho",118,0.05
+16,"Alta Verapaz",254205,"Otro",170,0.07
+16,"Alta Verapaz",254205,"No especificado",365,0.14
+17,"Petén",146624,"Concreto",5056,3.45
+17,"Petén",146624,"Lámina metálica",122795,83.75
+17,"Petén",146624,"Asbesto cemento",461,0.31
+17,"Petén",146624,"Teja",322,0.22
+17,"Petén",146624,"Paja, palma o similar",17608,12.01
+17,"Petén",146624,"Material de desecho",92,0.06
+17,"Petén",146624,"Otro",78,0.05
+17,"Petén",146624,"No especificado",212,0.14
+18,"Izabal",113333,"Concreto",3759,3.32
+18,"Izabal",113333,"Lámina metálica",98192,86.64
+18,"Izabal",113333,"Asbesto cemento",1009,0.89
+18,"Izabal",113333,"Teja",936,0.83
+18,"Izabal",113333,"Paja, palma o similar",8193,7.23
+18,"Izabal",113333,"Material de desecho",59,0.05
+18,"Izabal",113333,"Otro",770,0.68
+18,"Izabal",113333,"No especificado",415,0.37
+19,"Zacapa",75643,"Concreto",6764,8.94
+19,"Zacapa",75643,"Lámina metálica",64322,85.03
+19,"Zacapa",75643,"Asbesto cemento",1220,1.61
+19,"Zacapa",75643,"Teja",2419,3.2
+19,"Zacapa",75643,"Paja, palma o similar",421,0.56
+19,"Zacapa",75643,"Material de desecho",38,0.05
+19,"Zacapa",75643,"Otro",260,0.34
+19,"Zacapa",75643,"No especificado",199,0.26
+20,"Chiquimula",108033,"Concreto",14129,13.08
+20,"Chiquimula",108033,"Lámina metálica",79773,73.84
+20,"Chiquimula",108033,"Asbesto cemento",922,0.85
+20,"Chiquimula",108033,"Teja",5787,5.36
+20,"Chiquimula",108033,"Paja, palma o similar",6975,6.46
+20,"Chiquimula",108033,"Material de desecho",73,0.07
+20,"Chiquimula",108033,"Otro",205,0.19
+20,"Chiquimula",108033,"No especificado",169,0.16
+21,"Jalapa",88118,"Concreto",8917,10.12
+21,"Jalapa",88118,"Lámina metálica",68768,78.04
+21,"Jalapa",88118,"Asbesto cemento",475,0.54
+21,"Jalapa",88118,"Teja",9405,10.67
+21,"Jalapa",88118,"Paja, palma o similar",200,0.23
+21,"Jalapa",88118,"Material de desecho",57,0.06
+21,"Jalapa",88118,"Otro",124,0.14
+21,"Jalapa",88118,"No especificado",172,0.2
+22,"Jutiapa",141507,"Concreto",15525,10.97
+22,"Jutiapa",141507,"Lámina metálica",110235,77.9
+22,"Jutiapa",141507,"Asbesto cemento",1256,0.89
+22,"Jutiapa",141507,"Teja",13082,9.24
+22,"Jutiapa",141507,"Paja, palma o similar",741,0.52
+22,"Jutiapa",141507,"Material de desecho",24,0.02
+22,"Jutiapa",141507,"Otro",154,0.11
+22,"Jutiapa",141507,"No especificado",490,0.35

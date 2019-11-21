@@ -1,0 +1,681 @@
+"Código","Municipio","Población de 7 años o más","Situacion","Personas","Porcentaje Alfabetizacion"
+101,"Guatemala",823541,"Alfabeta",793168,96.31
+101,"Guatemala",823541,"Analfabeta",30373,3.69
+102,"Santa Catarina Pinula",70958,"Alfabeta",68013,95.85
+102,"Santa Catarina Pinula",70958,"Analfabeta",2945,4.15
+103,"San José Pinula",68509,"Alfabeta",63944,93.34
+103,"San José Pinula",68509,"Analfabeta",4565,6.66
+104,"San José del Golfo",6206,"Alfabeta",5558,89.56
+104,"San José del Golfo",6206,"Analfabeta",648,10.44
+105,"Palencia",59630,"Alfabeta",50091,84
+105,"Palencia",59630,"Analfabeta",9539,16
+106,"Chinautla",98780,"Alfabeta",92106,93.24
+106,"Chinautla",98780,"Analfabeta",6674,6.76
+107,"San Pedro Ayampuc",50043,"Alfabeta",44171,88.27
+107,"San Pedro Ayampuc",50043,"Analfabeta",5872,11.73
+108,"Mixco",413084,"Alfabeta",396895,96.08
+108,"Mixco",413084,"Analfabeta",16189,3.92
+109,"San Pedro Sacatepéquez",43666,"Alfabeta",38371,87.87
+109,"San Pedro Sacatepéquez",43666,"Analfabeta",5295,12.13
+110,"San Juan Sacatepéquez",184474,"Alfabeta",155002,84.02
+110,"San Juan Sacatepéquez",184474,"Analfabeta",29472,15.98
+111,"San Raymundo",26643,"Alfabeta",21751,81.64
+111,"San Raymundo",26643,"Analfabeta",4892,18.36
+112,"Chuarrancho",10555,"Alfabeta",7364,69.77
+112,"Chuarrancho",10555,"Analfabeta",3191,30.23
+113,"Fraijanes",52138,"Alfabeta",48436,92.9
+113,"Fraijanes",52138,"Analfabeta",3702,7.1
+114,"Amatitlán",100917,"Alfabeta",93584,92.73
+114,"Amatitlán",100917,"Analfabeta",7333,7.27
+115,"Villa Nueva",378827,"Alfabeta",361399,95.4
+115,"Villa Nueva",378827,"Analfabeta",17428,4.6
+116,"Villa Canales",133606,"Alfabeta",120945,90.52
+116,"Villa Canales",133606,"Analfabeta",12661,9.48
+117,"San Miguel Petapa",119532,"Alfabeta",114564,95.84
+117,"San Miguel Petapa",119532,"Analfabeta",4968,4.16
+201,"Guastatoya",21686,"Alfabeta",19833,91.46
+201,"Guastatoya",21686,"Analfabeta",1853,8.54
+202,"Morazán",10512,"Alfabeta",8859,84.28
+202,"Morazán",10512,"Analfabeta",1653,15.72
+203,"San Agustín Acasaguastlán",38035,"Alfabeta",31749,83.47
+203,"San Agustín Acasaguastlán",38035,"Analfabeta",6286,16.53
+204,"San Cristóbal Acasaguastlán",6227,"Alfabeta",5427,87.15
+204,"San Cristóbal Acasaguastlán",6227,"Analfabeta",800,12.85
+205,"El Jícaro",11426,"Alfabeta",9974,87.29
+205,"El Jícaro",11426,"Analfabeta",1452,12.71
+206,"Sansare",11416,"Alfabeta",9816,85.98
+206,"Sansare",11416,"Analfabeta",1600,14.02
+207,"Sanarate",34148,"Alfabeta",30731,89.99
+207,"Sanarate",34148,"Analfabeta",3417,10.01
+208,"San Antonio la Paz",17751,"Alfabeta",15650,88.16
+208,"San Antonio la Paz",17751,"Analfabeta",2101,11.84
+301,"Antigua Guatemala",40973,"Alfabeta",38168,93.15
+301,"Antigua Guatemala",40973,"Analfabeta",2805,6.85
+302,"Jocotenango",19292,"Alfabeta",18547,96.14
+302,"Jocotenango",19292,"Analfabeta",745,3.86
+303,"Pastores",15433,"Alfabeta",14226,92.18
+303,"Pastores",15433,"Analfabeta",1207,7.82
+304,"Sumpango",31813,"Alfabeta",27154,85.36
+304,"Sumpango",31813,"Analfabeta",4659,14.64
+305,"Santo Domingo Xenacoj",10585,"Alfabeta",9227,87.17
+305,"Santo Domingo Xenacoj",10585,"Analfabeta",1358,12.83
+306,"Santiago Sacatepéquez",25291,"Alfabeta",21885,86.53
+306,"Santiago Sacatepéquez",25291,"Analfabeta",3406,13.47
+307,"San Bartolomé Milpas Altas",6831,"Alfabeta",6514,95.36
+307,"San Bartolomé Milpas Altas",6831,"Analfabeta",317,4.64
+308,"San Lucas Sacatepéquez",20577,"Alfabeta",19716,95.82
+308,"San Lucas Sacatepéquez",20577,"Analfabeta",861,4.18
+309,"Santa Lucía Milpas Altas",13662,"Alfabeta",13070,95.67
+309,"Santa Lucía Milpas Altas",13662,"Analfabeta",592,4.33
+310,"Magdalena Milpas Altas",10365,"Alfabeta",9636,92.97
+310,"Magdalena Milpas Altas",10365,"Analfabeta",729,7.03
+311,"Santa María de Jesús",18454,"Alfabeta",14059,76.18
+311,"Santa María de Jesús",18454,"Analfabeta",4395,23.82
+312,"Ciudad Vieja",29121,"Alfabeta",26870,92.27
+312,"Ciudad Vieja",29121,"Analfabeta",2251,7.73
+313,"San Miguel Dueñas",10985,"Alfabeta",9834,89.52
+313,"San Miguel Dueñas",10985,"Analfabeta",1151,10.48
+314,"San Juan Alotenango",20473,"Alfabeta",17722,86.56
+314,"San Juan Alotenango",20473,"Analfabeta",2751,13.44
+315,"San Antonio Aguas Calientes",9900,"Alfabeta",9225,93.18
+315,"San Antonio Aguas Calientes",9900,"Analfabeta",675,6.82
+316,"Santa Catarina Barahona",3546,"Alfabeta",3322,93.68
+316,"Santa Catarina Barahona",3546,"Analfabeta",224,6.32
+401,"Chimaltenango",83554,"Alfabeta",76504,91.56
+401,"Chimaltenango",83554,"Analfabeta",7050,8.44
+402,"San José Poaquil",22856,"Alfabeta",18580,81.29
+402,"San José Poaquil",22856,"Analfabeta",4276,18.71
+403,"San Martín Jilotepeque",61676,"Alfabeta",50371,81.67
+403,"San Martín Jilotepeque",61676,"Analfabeta",11305,18.33
+404,"San Juan Comalapa",41229,"Alfabeta",36418,88.33
+404,"San Juan Comalapa",41229,"Analfabeta",4811,11.67
+405,"Santa Apolonia",15016,"Alfabeta",11896,79.22
+405,"Santa Apolonia",15016,"Analfabeta",3120,20.78
+406,"Tecpán Guatemala",75219,"Alfabeta",62089,82.54
+406,"Tecpán Guatemala",75219,"Analfabeta",13130,17.46
+407,"Patzún",49017,"Alfabeta",41551,84.77
+407,"Patzún",49017,"Analfabeta",7466,15.23
+408,"San Miguel Pochuta",7463,"Alfabeta",5970,79.99
+408,"San Miguel Pochuta",7463,"Analfabeta",1493,20.01
+409,"Patzicía",28069,"Alfabeta",23487,83.68
+409,"Patzicía",28069,"Analfabeta",4582,16.32
+410,"Santa Cruz Balanyá",7931,"Alfabeta",7216,90.98
+410,"Santa Cruz Balanyá",7931,"Analfabeta",715,9.02
+411,"Acatenango",19335,"Alfabeta",15451,79.91
+411,"Acatenango",19335,"Analfabeta",3884,20.09
+412,"San Pedro Yepocapa",28758,"Alfabeta",23943,83.26
+412,"San Pedro Yepocapa",28758,"Analfabeta",4815,16.74
+413,"San Andrés Itzapa",26742,"Alfabeta",22209,83.05
+413,"San Andrés Itzapa",26742,"Analfabeta",4533,16.95
+414,"Parramos",13554,"Alfabeta",11748,86.68
+414,"Parramos",13554,"Analfabeta",1806,13.32
+415,"Zaragoza",20166,"Alfabeta",18165,90.08
+415,"Zaragoza",20166,"Analfabeta",2001,9.92
+416,"El Tejar",16775,"Alfabeta",15661,93.36
+416,"El Tejar",16775,"Analfabeta",1114,6.64
+501,"Escuintla",135581,"Alfabeta",122523,90.37
+501,"Escuintla",135581,"Analfabeta",13058,9.63
+502,"Santa Lucía Cotzumalguapa",95804,"Alfabeta",83512,87.17
+502,"Santa Lucía Cotzumalguapa",95804,"Analfabeta",12292,12.83
+503,"La Democracia",19293,"Alfabeta",16282,84.39
+503,"La Democracia",19293,"Analfabeta",3011,15.61
+504,"Siquinalá",19307,"Alfabeta",16690,86.45
+504,"Siquinalá",19307,"Analfabeta",2617,13.55
+505,"Masagua",38004,"Alfabeta",32253,84.87
+505,"Masagua",38004,"Analfabeta",5751,15.13
+506,"Tiquisate",48081,"Alfabeta",40913,85.09
+506,"Tiquisate",48081,"Analfabeta",7168,14.91
+507,"La Gomera",39179,"Alfabeta",32729,83.54
+507,"La Gomera",39179,"Analfabeta",6450,16.46
+508,"Guanagazapa",13346,"Alfabeta",10812,81.01
+508,"Guanagazapa",13346,"Analfabeta",2534,18.99
+509,"San José",53388,"Alfabeta",46788,87.64
+509,"San José",53388,"Analfabeta",6600,12.36
+510,"Iztapa",15581,"Alfabeta",13467,86.43
+510,"Iztapa",15581,"Analfabeta",2114,13.57
+511,"Palín",56334,"Alfabeta",51019,90.57
+511,"Palín",56334,"Analfabeta",5315,9.43
+512,"San Vicente Pacaya",14221,"Alfabeta",12425,87.37
+512,"San Vicente Pacaya",14221,"Analfabeta",1796,12.63
+513,"Nueva Concepción",61150,"Alfabeta",51111,83.58
+513,"Nueva Concepción",61150,"Analfabeta",10039,16.42
+514,"Sipacate",13740,"Alfabeta",11056,80.47
+514,"Sipacate",13740,"Analfabeta",2684,19.53
+601,"Cuilapa",35176,"Alfabeta",30700,87.28
+601,"Cuilapa",35176,"Analfabeta",4476,12.72
+602,"Barberena",49388,"Alfabeta",42782,86.62
+602,"Barberena",49388,"Analfabeta",6606,13.38
+603,"Santa Rosa de Lima",16734,"Alfabeta",14249,85.15
+603,"Santa Rosa de Lima",16734,"Analfabeta",2485,14.85
+604,"Casillas",21176,"Alfabeta",17129,80.89
+604,"Casillas",21176,"Analfabeta",4047,19.11
+605,"San Rafael las Flores",10535,"Alfabeta",8729,82.86
+605,"San Rafael las Flores",10535,"Analfabeta",1806,17.14
+606,"Oratorio",21058,"Alfabeta",17782,84.44
+606,"Oratorio",21058,"Analfabeta",3276,15.56
+607,"San Juan Tecuaco",8476,"Alfabeta",7448,87.87
+607,"San Juan Tecuaco",8476,"Analfabeta",1028,12.13
+608,"Chiquimulilla",45898,"Alfabeta",39998,87.15
+608,"Chiquimulilla",45898,"Analfabeta",5900,12.85
+609,"Taxisco",25394,"Alfabeta",22304,87.83
+609,"Taxisco",25394,"Analfabeta",3090,12.17
+610,"Santa María Ixhuatán",20106,"Alfabeta",17168,85.39
+610,"Santa María Ixhuatán",20106,"Analfabeta",2938,14.61
+611,"Guazacapán",15935,"Alfabeta",14037,88.09
+611,"Guazacapán",15935,"Analfabeta",1898,11.91
+612,"Santa Cruz Naranjo",13984,"Alfabeta",12598,90.09
+612,"Santa Cruz Naranjo",13984,"Analfabeta",1386,9.91
+613,"Pueblo Nuevo Viñas",21419,"Alfabeta",18054,84.29
+613,"Pueblo Nuevo Viñas",21419,"Analfabeta",3365,15.71
+614,"Nueva Santa Rosa",31041,"Alfabeta",26967,86.88
+614,"Nueva Santa Rosa",31041,"Analfabeta",4074,13.12
+701,"Sololá",75102,"Alfabeta",58277,77.6
+701,"Sololá",75102,"Analfabeta",16825,22.4
+702,"San José Chacayá",3387,"Alfabeta",2700,79.72
+702,"San José Chacayá",3387,"Analfabeta",687,20.28
+703,"Santa María Visitación",2059,"Alfabeta",1877,91.16
+703,"Santa María Visitación",2059,"Analfabeta",182,8.84
+704,"Santa Lucía Utatlán",18358,"Alfabeta",14739,80.29
+704,"Santa Lucía Utatlán",18358,"Analfabeta",3619,19.71
+705,"Nahualá",63409,"Alfabeta",43282,68.26
+705,"Nahualá",63409,"Analfabeta",20127,31.74
+706,"Santa Catarina Ixtahuacán",47679,"Alfabeta",33185,69.6
+706,"Santa Catarina Ixtahuacán",47679,"Analfabeta",14494,30.4
+707,"Santa Clara la Laguna",8071,"Alfabeta",6612,81.92
+707,"Santa Clara la Laguna",8071,"Analfabeta",1459,18.08
+708,"Concepción",5437,"Alfabeta",3502,64.41
+708,"Concepción",5437,"Analfabeta",1935,35.59
+709,"San Andrés Semetabaj",11114,"Alfabeta",9351,84.14
+709,"San Andrés Semetabaj",11114,"Analfabeta",1763,15.86
+710,"Panajachel",13068,"Alfabeta",11848,90.66
+710,"Panajachel",13068,"Analfabeta",1220,9.34
+711,"Santa Catarina Palopó",3323,"Alfabeta",2306,69.4
+711,"Santa Catarina Palopó",3323,"Analfabeta",1017,30.6
+712,"San Antonio Palopó",12242,"Alfabeta",9244,75.51
+712,"San Antonio Palopó",12242,"Analfabeta",2998,24.49
+713,"San Lucas Tolimán",25377,"Alfabeta",20439,80.54
+713,"San Lucas Tolimán",25377,"Analfabeta",4938,19.46
+714,"Santa Cruz la Laguna",4846,"Alfabeta",3034,62.61
+714,"Santa Cruz la Laguna",4846,"Analfabeta",1812,37.39
+715,"San Pablo la Laguna",6329,"Alfabeta",4456,70.41
+715,"San Pablo la Laguna",6329,"Analfabeta",1873,29.59
+716,"San Marcos la Laguna",2298,"Alfabeta",1860,80.94
+716,"San Marcos la Laguna",2298,"Analfabeta",438,19.06
+717,"San Juan la Laguna",10300,"Alfabeta",8512,82.64
+717,"San Juan la Laguna",10300,"Analfabeta",1788,17.36
+718,"San Pedro la Laguna",9447,"Alfabeta",8064,85.36
+718,"San Pedro la Laguna",9447,"Analfabeta",1383,14.64
+719,"Santiago Atitlán",36611,"Alfabeta",24284,66.33
+719,"Santiago Atitlán",36611,"Analfabeta",12327,33.67
+801,"Totonicapán",90604,"Alfabeta",72527,80.05
+801,"Totonicapán",90604,"Analfabeta",18077,19.95
+802,"San Cristóbal Totonicapán",31310,"Alfabeta",24012,76.69
+802,"San Cristóbal Totonicapán",31310,"Analfabeta",7298,23.31
+803,"San Francisco el Alto",49012,"Alfabeta",36946,75.38
+803,"San Francisco el Alto",49012,"Analfabeta",12066,24.62
+804,"San Andrés Xecul",22806,"Alfabeta",18010,78.97
+804,"San Andrés Xecul",22806,"Analfabeta",4796,21.03
+805,"Momostenango",86389,"Alfabeta",64848,75.07
+805,"Momostenango",86389,"Analfabeta",21541,24.93
+806,"Santa María Chiquimula",44425,"Alfabeta",27419,61.72
+806,"Santa María Chiquimula",44425,"Analfabeta",17006,38.28
+807,"Santa Lucía la Reforma",17677,"Alfabeta",10329,58.43
+807,"Santa Lucía la Reforma",17677,"Analfabeta",7348,41.57
+808,"San Bartolo Aguas Calientes",8596,"Alfabeta",7034,81.83
+808,"San Bartolo Aguas Calientes",8596,"Analfabeta",1562,18.17
+901,"Quetzaltenango",158834,"Alfabeta",148875,93.73
+901,"Quetzaltenango",158834,"Analfabeta",9959,6.27
+902,"Salcajá",17024,"Alfabeta",15679,92.1
+902,"Salcajá",17024,"Analfabeta",1345,7.9
+903,"San Juan Olintepeque",29934,"Alfabeta",26849,89.69
+903,"San Juan Olintepeque",29934,"Analfabeta",3085,10.31
+904,"San Carlos Sija",25812,"Alfabeta",21321,82.6
+904,"San Carlos Sija",25812,"Analfabeta",4491,17.4
+905,"Sibilia",7094,"Alfabeta",6082,85.73
+905,"Sibilia",7094,"Analfabeta",1012,14.27
+906,"Cabricán",19462,"Alfabeta",15332,78.78
+906,"Cabricán",19462,"Analfabeta",4130,21.22
+907,"Cajolá",11908,"Alfabeta",7310,61.39
+907,"Cajolá",11908,"Analfabeta",4598,38.61
+908,"San Miguel Siguilá",6369,"Alfabeta",5122,80.42
+908,"San Miguel Siguilá",6369,"Analfabeta",1247,19.58
+909,"San Juan Ostuncalco",42771,"Alfabeta",33381,78.05
+909,"San Juan Ostuncalco",42771,"Analfabeta",9390,21.95
+910,"San Mateo",6756,"Alfabeta",6289,93.09
+910,"San Mateo",6756,"Analfabeta",467,6.91
+911,"Concepción Chiquirichapa",14424,"Alfabeta",11427,79.22
+911,"Concepción Chiquirichapa",14424,"Analfabeta",2997,20.78
+912,"San Martín Sacatepéquez",24031,"Alfabeta",17727,73.77
+912,"San Martín Sacatepéquez",24031,"Analfabeta",6304,26.23
+913,"Almolonga",13874,"Alfabeta",10221,73.67
+913,"Almolonga",13874,"Analfabeta",3653,26.33
+914,"Cantel",36428,"Alfabeta",33250,91.28
+914,"Cantel",36428,"Analfabeta",3178,8.72
+915,"Huitán",10758,"Alfabeta",8187,76.1
+915,"Huitán",10758,"Analfabeta",2571,23.9
+916,"Zunil",12341,"Alfabeta",8849,71.7
+916,"Zunil",12341,"Analfabeta",3492,28.3
+917,"Colomba Costa Cuca",40012,"Alfabeta",33421,83.53
+917,"Colomba Costa Cuca",40012,"Analfabeta",6591,16.47
+918,"San Francisco la Unión",6753,"Alfabeta",5685,84.18
+918,"San Francisco la Unión",6753,"Analfabeta",1068,15.82
+919,"El Palmar",24362,"Alfabeta",20280,83.24
+919,"El Palmar",24362,"Analfabeta",4082,16.76
+920,"Coatepeque",89886,"Alfabeta",77517,86.24
+920,"Coatepeque",89886,"Analfabeta",12369,13.76
+921,"Génova",31049,"Alfabeta",23155,74.58
+921,"Génova",31049,"Analfabeta",7894,25.42
+922,"Flores Costa Cuca",18371,"Alfabeta",14945,81.35
+922,"Flores Costa Cuca",18371,"Analfabeta",3426,18.65
+923,"La Esperanza",19218,"Alfabeta",17799,92.62
+923,"La Esperanza",19218,"Analfabeta",1419,7.38
+924,"Palestina de los Altos",13087,"Alfabeta",8123,62.07
+924,"Palestina de los Altos",13087,"Analfabeta",4964,37.93
+1001,"Mazatenango",66157,"Alfabeta",58299,88.12
+1001,"Mazatenango",66157,"Analfabeta",7858,11.88
+1002,"Cuyotenango",28025,"Alfabeta",23840,85.07
+1002,"Cuyotenango",28025,"Analfabeta",4185,14.93
+1003,"San Francisco Zapotitlán",19113,"Alfabeta",16812,87.96
+1003,"San Francisco Zapotitlán",19113,"Analfabeta",2301,12.04
+1004,"San Bernardino",13193,"Alfabeta",10405,78.87
+1004,"San Bernardino",13193,"Analfabeta",2788,21.13
+1005,"San José el Ídolo",8469,"Alfabeta",7265,85.78
+1005,"San José el Ídolo",8469,"Analfabeta",1204,14.22
+1006,"Santo Domingo Suchitepéquez",35103,"Alfabeta",27785,79.15
+1006,"Santo Domingo Suchitepéquez",35103,"Analfabeta",7318,20.85
+1007,"San Lorenzo",11099,"Alfabeta",8818,79.45
+1007,"San Lorenzo",11099,"Analfabeta",2281,20.55
+1008,"Samayac",21131,"Alfabeta",17892,84.67
+1008,"Samayac",21131,"Analfabeta",3239,15.33
+1009,"San Pablo Jocopilas",17457,"Alfabeta",14536,83.27
+1009,"San Pablo Jocopilas",17457,"Analfabeta",2921,16.73
+1010,"San Antonio Suchitepéquez",48964,"Alfabeta",38935,79.52
+1010,"San Antonio Suchitepéquez",48964,"Analfabeta",10029,20.48
+1011,"San Miguel Panán",8400,"Alfabeta",6581,78.35
+1011,"San Miguel Panán",8400,"Analfabeta",1819,21.65
+1012,"San Gabriel",6214,"Alfabeta",5370,86.42
+1012,"San Gabriel",6214,"Analfabeta",844,13.58
+1013,"Chicacao",49666,"Alfabeta",37059,74.62
+1013,"Chicacao",49666,"Analfabeta",12607,25.38
+1014,"Patulul",34020,"Alfabeta",27446,80.68
+1014,"Patulul",34020,"Analfabeta",6574,19.32
+1015,"Santa Bárbara",21612,"Alfabeta",15778,73.01
+1015,"Santa Bárbara",21612,"Analfabeta",5834,26.99
+1016,"San Juan Bautista",6454,"Alfabeta",4916,76.17
+1016,"San Juan Bautista",6454,"Analfabeta",1538,23.83
+1017,"Santo Tomas la Unión",10118,"Alfabeta",8622,85.21
+1017,"Santo Tomas la Unión",10118,"Analfabeta",1496,14.79
+1018,"Zunilito",7053,"Alfabeta",6182,87.65
+1018,"Zunilito",7053,"Analfabeta",871,12.35
+1019,"Pueblo Nuevo",9586,"Alfabeta",7896,82.37
+1019,"Pueblo Nuevo",9586,"Analfabeta",1690,17.63
+1020,"Río Bravo",22733,"Alfabeta",17762,78.13
+1020,"Río Bravo",22733,"Analfabeta",4971,21.87
+1021,"San José La Máquina",18997,"Alfabeta",15269,80.38
+1021,"San José La Máquina",18997,"Analfabeta",3728,19.62
+1101,"Retalhuleu",76688,"Alfabeta",66372,86.55
+1101,"Retalhuleu",76688,"Analfabeta",10316,13.45
+1102,"San Sebastián",24897,"Alfabeta",21145,84.93
+1102,"San Sebastián",24897,"Analfabeta",3752,15.07
+1103,"Santa Cruz Muluá",11360,"Alfabeta",10086,88.79
+1103,"Santa Cruz Muluá",11360,"Analfabeta",1274,11.21
+1104,"San Martín Zapotitlán",10200,"Alfabeta",8970,87.94
+1104,"San Martín Zapotitlán",10200,"Analfabeta",1230,12.06
+1105,"San Felipe",20609,"Alfabeta",18260,88.6
+1105,"San Felipe",20609,"Analfabeta",2349,11.4
+1106,"San Andrés Villa Seca",39034,"Alfabeta",30973,79.35
+1106,"San Andrés Villa Seca",39034,"Analfabeta",8061,20.65
+1107,"Champerico",27229,"Alfabeta",22015,80.85
+1107,"Champerico",27229,"Analfabeta",5214,19.15
+1108,"Nuevo San Carlos",33301,"Alfabeta",27403,82.29
+1108,"Nuevo San Carlos",33301,"Analfabeta",5898,17.71
+1109,"El Asintal",31031,"Alfabeta",25737,82.94
+1109,"El Asintal",31031,"Analfabeta",5294,17.06
+1201,"San Marcos",40156,"Alfabeta",36076,89.84
+1201,"San Marcos",40156,"Analfabeta",4080,10.16
+1202,"San Pedro Sacatepéquez",67734,"Alfabeta",59613,88.01
+1202,"San Pedro Sacatepéquez",67734,"Analfabeta",8121,11.99
+1203,"San Antonio Sacatepéquez",15824,"Alfabeta",13254,83.76
+1203,"San Antonio Sacatepéquez",15824,"Analfabeta",2570,16.24
+1204,"Comitancillo",47203,"Alfabeta",34524,73.14
+1204,"Comitancillo",47203,"Analfabeta",12679,26.86
+1205,"San Miguel Ixtahuacán",37037,"Alfabeta",29126,78.64
+1205,"San Miguel Ixtahuacán",37037,"Analfabeta",7911,21.36
+1206,"Concepción Tutuapa",53114,"Alfabeta",36480,68.68
+1206,"Concepción Tutuapa",53114,"Analfabeta",16634,31.32
+1207,"Tacaná",62127,"Alfabeta",45833,73.77
+1207,"Tacaná",62127,"Analfabeta",16294,26.23
+1208,"Sibinal",12829,"Alfabeta",10192,79.45
+1208,"Sibinal",12829,"Analfabeta",2637,20.55
+1209,"Tajumulco",40307,"Alfabeta",26550,65.87
+1209,"Tajumulco",40307,"Analfabeta",13757,34.13
+1210,"Tejutla",31178,"Alfabeta",28019,89.87
+1210,"Tejutla",31178,"Analfabeta",3159,10.13
+1211,"San Rafael Pie de la Cuesta",14546,"Alfabeta",12905,88.72
+1211,"San Rafael Pie de la Cuesta",14546,"Analfabeta",1641,11.28
+1212,"Nuevo Progreso",25223,"Alfabeta",20591,81.64
+1212,"Nuevo Progreso",25223,"Analfabeta",4632,18.36
+1213,"El Tumbador",36986,"Alfabeta",30594,82.72
+1213,"El Tumbador",36986,"Analfabeta",6392,17.28
+1214,"San José el Rodeo",14994,"Alfabeta",12424,82.86
+1214,"San José el Rodeo",14994,"Analfabeta",2570,17.14
+1215,"Malacatán",77289,"Alfabeta",60166,77.85
+1215,"Malacatán",77289,"Analfabeta",17123,22.15
+1216,"Catarina",25409,"Alfabeta",21552,84.82
+1216,"Catarina",25409,"Analfabeta",3857,15.18
+1217,"Ayutla",30949,"Alfabeta",26780,86.53
+1217,"Ayutla",30949,"Analfabeta",4169,13.47
+1218,"Ocós",9005,"Alfabeta",7726,85.8
+1218,"Ocós",9005,"Analfabeta",1279,14.2
+1219,"San Pablo",40756,"Alfabeta",32823,80.54
+1219,"San Pablo",40756,"Analfabeta",7933,19.46
+1220,"El Quetzal",19358,"Alfabeta",15574,80.45
+1220,"El Quetzal",19358,"Analfabeta",3784,19.55
+1221,"La Reforma",14929,"Alfabeta",11739,78.63
+1221,"La Reforma",14929,"Analfabeta",3190,21.37
+1222,"Pajapita",18310,"Alfabeta",15958,87.15
+1222,"Pajapita",18310,"Analfabeta",2352,12.85
+1223,"Ixchiguán",17944,"Alfabeta",13796,76.88
+1223,"Ixchiguán",17944,"Analfabeta",4148,23.12
+1224,"San José Ojetenam",15559,"Alfabeta",11230,72.18
+1224,"San José Ojetenam",15559,"Analfabeta",4329,27.82
+1225,"San Cristóbal Cucho",13715,"Alfabeta",11283,82.27
+1225,"San Cristóbal Cucho",13715,"Analfabeta",2432,17.73
+1226,"Sipacapa",15951,"Alfabeta",12342,77.37
+1226,"Sipacapa",15951,"Analfabeta",3609,22.63
+1227,"Esquipulas Palo Gordo",10687,"Alfabeta",9272,86.76
+1227,"Esquipulas Palo Gordo",10687,"Analfabeta",1415,13.24
+1228,"Río Blanco",4468,"Alfabeta",3834,85.81
+1228,"Río Blanco",4468,"Analfabeta",634,14.19
+1229,"San Lorenzo",10792,"Alfabeta",9194,85.19
+1229,"San Lorenzo",10792,"Analfabeta",1598,14.81
+1230,"La Blanca",23936,"Alfabeta",19118,79.87
+1230,"La Blanca",23936,"Analfabeta",4818,20.13
+1301,"Huehuetenango",101248,"Alfabeta",92524,91.38
+1301,"Huehuetenango",101248,"Analfabeta",8724,8.62
+1302,"Chiantla",71571,"Alfabeta",53933,75.36
+1302,"Chiantla",71571,"Analfabeta",17638,24.64
+1303,"Malacatancito",15959,"Alfabeta",13358,83.7
+1303,"Malacatancito",15959,"Analfabeta",2601,16.3
+1304,"Cuilco",48184,"Alfabeta",35739,74.17
+1304,"Cuilco",48184,"Analfabeta",12445,25.83
+1305,"Nentón",36210,"Alfabeta",24762,68.38
+1305,"Nentón",36210,"Analfabeta",11448,31.62
+1306,"San Pedro Necta",31377,"Alfabeta",23314,74.3
+1306,"San Pedro Necta",31377,"Analfabeta",8063,25.7
+1307,"Jacaltenango",31398,"Alfabeta",26208,83.47
+1307,"Jacaltenango",31398,"Analfabeta",5190,16.53
+1308,"San Pedro Soloma",38459,"Alfabeta",26353,68.52
+1308,"San Pedro Soloma",38459,"Analfabeta",12106,31.48
+1309,"San Ildefonso Ixtahuacán",35055,"Alfabeta",25125,71.67
+1309,"San Ildefonso Ixtahuacán",35055,"Analfabeta",9930,28.33
+1310,"Santa Bárbara",26634,"Alfabeta",15922,59.78
+1310,"Santa Bárbara",26634,"Analfabeta",10712,40.22
+1311,"La Libertad",30972,"Alfabeta",21780,70.32
+1311,"La Libertad",30972,"Analfabeta",9192,29.68
+1312,"La Democracia",45266,"Alfabeta",34556,76.34
+1312,"La Democracia",45266,"Analfabeta",10710,23.66
+1313,"San Miguel Acatán",21024,"Alfabeta",11061,52.61
+1313,"San Miguel Acatán",21024,"Analfabeta",9963,47.39
+1314,"San Rafael La Independencia",11050,"Alfabeta",6758,61.16
+1314,"San Rafael La Independencia",11050,"Analfabeta",4292,38.84
+1315,"Todos Santos Cuchumatán",24373,"Alfabeta",15121,62.04
+1315,"Todos Santos Cuchumatán",24373,"Analfabeta",9252,37.96
+1316,"San Juan Atitán",15907,"Alfabeta",8526,53.6
+1316,"San Juan Atitán",15907,"Analfabeta",7381,46.4
+1317,"Santa Eulalia",30707,"Alfabeta",19887,64.76
+1317,"Santa Eulalia",30707,"Analfabeta",10820,35.24
+1318,"San Mateo Ixtatán",34097,"Alfabeta",17713,51.95
+1318,"San Mateo Ixtatán",34097,"Analfabeta",16384,48.05
+1319,"Colotenango",27302,"Alfabeta",17855,65.4
+1319,"Colotenango",27302,"Analfabeta",9447,34.6
+1320,"San Sebastián Huehuetenango",26261,"Alfabeta",18886,71.92
+1320,"San Sebastián Huehuetenango",26261,"Analfabeta",7375,28.08
+1321,"Tectitán",8708,"Alfabeta",6488,74.51
+1321,"Tectitán",8708,"Analfabeta",2220,25.49
+1322,"Concepción Huista",15045,"Alfabeta",9555,63.51
+1322,"Concepción Huista",15045,"Analfabeta",5490,36.49
+1323,"San Juan Ixcoy",18192,"Alfabeta",12105,66.54
+1323,"San Juan Ixcoy",18192,"Analfabeta",6087,33.46
+1324,"San Antonio Huista",13969,"Alfabeta",11046,79.08
+1324,"San Antonio Huista",13969,"Analfabeta",2923,20.92
+1325,"San Sebastián Coatán",16769,"Alfabeta",10710,63.87
+1325,"San Sebastián Coatán",16769,"Analfabeta",6059,36.13
+1326,"Santa Cruz Barillas",79492,"Alfabeta",55312,69.58
+1326,"Santa Cruz Barillas",79492,"Analfabeta",24180,30.42
+1327,"Aguacatán",41339,"Alfabeta",27854,67.38
+1327,"Aguacatán",41339,"Analfabeta",13485,32.62
+1328,"San Rafael Petzal",9198,"Alfabeta",6688,72.71
+1328,"San Rafael Petzal",9198,"Analfabeta",2510,27.29
+1329,"San Gaspar Ixchil",6270,"Alfabeta",4303,68.63
+1329,"San Gaspar Ixchil",6270,"Analfabeta",1967,31.37
+1330,"Santiago Chimaltenango",8813,"Alfabeta",6270,71.14
+1330,"Santiago Chimaltenango",8813,"Analfabeta",2543,28.86
+1331,"Santa Ana Huista",7886,"Alfabeta",6235,79.06
+1331,"Santa Ana Huista",7886,"Analfabeta",1651,20.94
+1332,"Unión Cantinil",12954,"Alfabeta",8814,68.04
+1332,"Unión Cantinil",12954,"Analfabeta",4140,31.96
+1333,"Petatán",5027,"Alfabeta",3759,74.78
+1333,"Petatán",5027,"Analfabeta",1268,25.22
+1401,"Santa Cruz del Quiché",66028,"Alfabeta",51128,77.43
+1401,"Santa Cruz del Quiché",66028,"Analfabeta",14900,22.57
+1402,"Chiché",24260,"Alfabeta",16707,68.87
+1402,"Chiché",24260,"Analfabeta",7553,31.13
+1403,"Chinique",9486,"Alfabeta",7285,76.8
+1403,"Chinique",9486,"Analfabeta",2201,23.2
+1404,"Zacualpa",26816,"Alfabeta",16133,60.16
+1404,"Zacualpa",26816,"Analfabeta",10683,39.84
+1405,"Chajul",37842,"Alfabeta",22549,59.59
+1405,"Chajul",37842,"Analfabeta",15293,40.41
+1406,"Santo Tomás Chichicastenango",118034,"Alfabeta",80636,68.32
+1406,"Santo Tomás Chichicastenango",118034,"Analfabeta",37398,31.68
+1407,"Patzité",4962,"Alfabeta",3670,73.96
+1407,"Patzité",4962,"Analfabeta",1292,26.04
+1408,"San Antonio Ilotenango",20228,"Alfabeta",12522,61.9
+1408,"San Antonio Ilotenango",20228,"Analfabeta",7706,38.1
+1409,"San Pedro Jocopilas",25942,"Alfabeta",17089,65.87
+1409,"San Pedro Jocopilas",25942,"Analfabeta",8853,34.13
+1410,"Cunén",32786,"Alfabeta",23611,72.02
+1410,"Cunén",32786,"Analfabeta",9175,27.98
+1411,"San Juan Cotzal",25617,"Alfabeta",16887,65.92
+1411,"San Juan Cotzal",25617,"Analfabeta",8730,34.08
+1412,"Joyabaj",65399,"Alfabeta",35586,54.41
+1412,"Joyabaj",65399,"Analfabeta",29813,45.59
+1413,"Santa María Nebaj",60822,"Alfabeta",42501,69.88
+1413,"Santa María Nebaj",60822,"Analfabeta",18321,30.12
+1414,"San Andrés Sajcabajá",20824,"Alfabeta",11293,54.23
+1414,"San Andrés Sajcabajá",20824,"Analfabeta",9531,45.77
+1415,"San Miguel Uspantán",52438,"Alfabeta",34124,65.07
+1415,"San Miguel Uspantán",52438,"Analfabeta",18314,34.93
+1416,"Sacapulas",42951,"Alfabeta",27692,64.47
+1416,"Sacapulas",42951,"Analfabeta",15259,35.53
+1417,"San Bartolomé Jocotenango",10860,"Alfabeta",6509,59.94
+1417,"San Bartolomé Jocotenango",10860,"Analfabeta",4351,40.06
+1418,"Canillá",10011,"Alfabeta",6782,67.75
+1418,"Canillá",10011,"Analfabeta",3229,32.25
+1419,"Chicamán",31535,"Alfabeta",20695,65.63
+1419,"Chicamán",31535,"Analfabeta",10840,34.37
+1420,"Playa Grande Ixcán",78853,"Alfabeta",61225,77.64
+1420,"Playa Grande Ixcán",78853,"Analfabeta",17628,22.36
+1421,"Pachalum",7578,"Alfabeta",6243,82.38
+1421,"Pachalum",7578,"Analfabeta",1335,17.62
+1501,"Salamá",55033,"Alfabeta",45095,81.94
+1501,"Salamá",55033,"Analfabeta",9938,18.06
+1502,"San Miguel Chicaj",27345,"Alfabeta",22122,80.9
+1502,"San Miguel Chicaj",27345,"Analfabeta",5223,19.1
+1503,"Rabinal",34690,"Alfabeta",27948,80.57
+1503,"Rabinal",34690,"Analfabeta",6742,19.43
+1504,"Cubulco",45369,"Alfabeta",29674,65.41
+1504,"Cubulco",45369,"Analfabeta",15695,34.59
+1505,"Granados",11644,"Alfabeta",9440,81.07
+1505,"Granados",11644,"Analfabeta",2204,18.93
+1506,"Santa Cruz El Chol",8188,"Alfabeta",7039,85.97
+1506,"Santa Cruz El Chol",8188,"Analfabeta",1149,14.03
+1507,"San Jerónimo",21412,"Alfabeta",18392,85.9
+1507,"San Jerónimo",21412,"Analfabeta",3020,14.1
+1508,"Purulhá",44495,"Alfabeta",26999,60.68
+1508,"Purulhá",44495,"Analfabeta",17496,39.32
+1601,"Cobán",176556,"Alfabeta",132738,75.18
+1601,"Cobán",176556,"Analfabeta",43818,24.82
+1602,"Santa Cruz Verapaz",26246,"Alfabeta",19673,74.96
+1602,"Santa Cruz Verapaz",26246,"Analfabeta",6573,25.04
+1603,"San Cristóbal Verapaz",55367,"Alfabeta",38246,69.08
+1603,"San Cristóbal Verapaz",55367,"Analfabeta",17121,30.92
+1604,"Tactic",31382,"Alfabeta",23654,75.37
+1604,"Tactic",31382,"Analfabeta",7728,24.63
+1605,"Tamahú",16174,"Alfabeta",10885,67.3
+1605,"Tamahú",16174,"Analfabeta",5289,32.7
+1606,"San Miguel Tucurú",34450,"Alfabeta",20430,59.3
+1606,"San Miguel Tucurú",34450,"Analfabeta",14020,40.7
+1607,"Panzós",56330,"Alfabeta",32235,57.23
+1607,"Panzós",56330,"Analfabeta",24095,42.77
+1608,"Senahú",73262,"Alfabeta",43050,58.76
+1608,"Senahú",73262,"Analfabeta",30212,41.24
+1609,"San Pedro Carchá",190682,"Alfabeta",131766,69.1
+1609,"San Pedro Carchá",190682,"Analfabeta",58916,30.9
+1610,"San Juan Chamelco",46967,"Alfabeta",33150,70.58
+1610,"San Juan Chamelco",46967,"Analfabeta",13817,29.42
+1611,"San Agustín Lanquín",19587,"Alfabeta",12836,65.53
+1611,"San Agustín Lanquín",19587,"Analfabeta",6751,34.47
+1612,"Santa María Cahabón",53122,"Alfabeta",34707,65.33
+1612,"Santa María Cahabón",53122,"Analfabeta",18415,34.67
+1613,"Chisec",67101,"Alfabeta",44496,66.31
+1613,"Chisec",67101,"Analfabeta",22605,33.69
+1614,"Chahal",21430,"Alfabeta",14827,69.19
+1614,"Chahal",21430,"Analfabeta",6603,30.81
+1615,"Fray Bartolomé de las Casas",53309,"Alfabeta",35102,65.85
+1615,"Fray Bartolomé de las Casas",53309,"Analfabeta",18207,34.15
+1616,"Santa Catalina La Tinta",32694,"Alfabeta",21764,66.57
+1616,"Santa Catalina La Tinta",32694,"Analfabeta",10930,33.43
+1617,"Raxruhá",29576,"Alfabeta",20187,68.25
+1617,"Raxruhá",29576,"Analfabeta",9389,31.75
+1701,"Flores",32869,"Alfabeta",29362,89.33
+1701,"Flores",32869,"Analfabeta",3507,10.67
+1702,"San José",5840,"Alfabeta",4936,84.52
+1702,"San José",5840,"Analfabeta",904,15.48
+1703,"San Benito",37396,"Alfabeta",33202,88.78
+1703,"San Benito",37396,"Analfabeta",4194,11.22
+1704,"San Andrés",26660,"Alfabeta",19906,74.67
+1704,"San Andrés",26660,"Analfabeta",6754,25.33
+1705,"La Libertad",59014,"Alfabeta",44038,74.62
+1705,"La Libertad",59014,"Analfabeta",14976,25.38
+1706,"San Francisco",12752,"Alfabeta",10572,82.9
+1706,"San Francisco",12752,"Analfabeta",2180,17.1
+1707,"Santa Ana",18226,"Alfabeta",14836,81.4
+1707,"Santa Ana",18226,"Analfabeta",3390,18.6
+1708,"Dolores",22101,"Alfabeta",17667,79.94
+1708,"Dolores",22101,"Analfabeta",4434,20.06
+1709,"San Luis",54895,"Alfabeta",39788,72.48
+1709,"San Luis",54895,"Analfabeta",15107,27.52
+1710,"Sayaxché",74570,"Alfabeta",55795,74.82
+1710,"Sayaxché",74570,"Analfabeta",18775,25.18
+1711,"Melchor de Mencos",23557,"Alfabeta",19613,83.26
+1711,"Melchor de Mencos",23557,"Analfabeta",3944,16.74
+1712,"Poptún",43517,"Alfabeta",35447,81.46
+1712,"Poptún",43517,"Analfabeta",8070,18.54
+1713,"Las Cruces",26491,"Alfabeta",20828,78.62
+1713,"Las Cruces",26491,"Analfabeta",5663,21.38
+1714,"El Chal",11443,"Alfabeta",9398,82.13
+1714,"El Chal",11443,"Analfabeta",2045,17.87
+1801,"Puerto Barrios",88034,"Alfabeta",80032,90.91
+1801,"Puerto Barrios",88034,"Analfabeta",8002,9.09
+1802,"Livingston",60101,"Alfabeta",45776,76.17
+1802,"Livingston",60101,"Analfabeta",14325,23.83
+1803,"El Estor",57875,"Alfabeta",40972,70.79
+1803,"El Estor",57875,"Analfabeta",16903,29.21
+1804,"Morales",85458,"Alfabeta",71240,83.36
+1804,"Morales",85458,"Analfabeta",14218,16.64
+1805,"Los Amates",51146,"Alfabeta",40667,79.51
+1805,"Los Amates",51146,"Analfabeta",10479,20.49
+1901,"Zacapa",52315,"Alfabeta",44112,84.32
+1901,"Zacapa",52315,"Analfabeta",8203,15.68
+1902,"Estanzuela",8679,"Alfabeta",7645,88.09
+1902,"Estanzuela",8679,"Analfabeta",1034,11.91
+1903,"Río Hondo",18647,"Alfabeta",16046,86.05
+1903,"Río Hondo",18647,"Analfabeta",2601,13.95
+1904,"Gualán",38900,"Alfabeta",29799,76.6
+1904,"Gualán",38900,"Analfabeta",9101,23.4
+1905,"Teculután",15264,"Alfabeta",13346,87.43
+1905,"Teculután",15264,"Analfabeta",1918,12.57
+1906,"Usumatlán",10375,"Alfabeta",9069,87.41
+1906,"Usumatlán",10375,"Analfabeta",1306,12.59
+1907,"Cabañas",11566,"Alfabeta",9597,82.98
+1907,"Cabañas",11566,"Analfabeta",1969,17.02
+1908,"San Diego",6210,"Alfabeta",5199,83.72
+1908,"San Diego",6210,"Analfabeta",1011,16.28
+1909,"La Unión",27064,"Alfabeta",20535,75.88
+1909,"La Unión",27064,"Analfabeta",6529,24.12
+1910,"Huité",9546,"Alfabeta",7555,79.14
+1910,"Huité",9546,"Analfabeta",1991,20.86
+1911,"San Jorge",10626,"Alfabeta",8870,83.47
+1911,"San Jorge",10626,"Analfabeta",1756,16.53
+2001,"Chiquimula",94267,"Alfabeta",73525,78
+2001,"Chiquimula",94267,"Analfabeta",20742,22
+2002,"San José la Arada",7538,"Alfabeta",5975,79.27
+2002,"San José la Arada",7538,"Analfabeta",1563,20.73
+2003,"San Juan Ermita",13703,"Alfabeta",9990,72.9
+2003,"San Juan Ermita",13703,"Analfabeta",3713,27.1
+2004,"Jocotán",52224,"Alfabeta",30762,58.9
+2004,"Jocotán",52224,"Analfabeta",21462,41.1
+2005,"Camotán",44574,"Alfabeta",31023,69.6
+2005,"Camotán",44574,"Analfabeta",13551,30.4
+2006,"Olopa",21810,"Alfabeta",14426,66.14
+2006,"Olopa",21810,"Analfabeta",7384,33.86
+2007,"Esquipulas",45098,"Alfabeta",36094,80.03
+2007,"Esquipulas",45098,"Analfabeta",9004,19.97
+2008,"Concepción las Minas",10260,"Alfabeta",8530,83.14
+2008,"Concepción las Minas",10260,"Analfabeta",1730,16.86
+2009,"Quezaltepeque",24071,"Alfabeta",19731,81.97
+2009,"Quezaltepeque",24071,"Analfabeta",4340,18.03
+2010,"San Jacinto",10780,"Alfabeta",8099,75.13
+2010,"San Jacinto",10780,"Analfabeta",2681,24.87
+2011,"Ipala",19509,"Alfabeta",16073,82.39
+2011,"Ipala",19509,"Analfabeta",3436,17.61
+2101,"Jalapa",130920,"Alfabeta",106572,81.4
+2101,"Jalapa",130920,"Analfabeta",24348,18.6
+2102,"San Pedro Pinula",50234,"Alfabeta",34530,68.74
+2102,"San Pedro Pinula",50234,"Analfabeta",15704,31.26
+2103,"San Luis Jilotepeque",21370,"Alfabeta",16609,77.72
+2103,"San Luis Jilotepeque",21370,"Analfabeta",4761,22.28
+2104,"San Manuel Chaparrón",7210,"Alfabeta",5846,81.08
+2104,"San Manuel Chaparrón",7210,"Analfabeta",1364,18.92
+2105,"San Carlos Alzatate",15344,"Alfabeta",12380,80.68
+2105,"San Carlos Alzatate",15344,"Analfabeta",2964,19.32
+2106,"Monjas",23363,"Alfabeta",19177,82.08
+2106,"Monjas",23363,"Analfabeta",4186,17.92
+2107,"Mataquescuintla",35037,"Alfabeta",29033,82.86
+2107,"Mataquescuintla",35037,"Analfabeta",6004,17.14
+2201,"Jutiapa",123277,"Alfabeta",100412,81.45
+2201,"Jutiapa",123277,"Analfabeta",22865,18.55
+2202,"El Progreso",19244,"Alfabeta",17114,88.93
+2202,"El Progreso",19244,"Analfabeta",2130,11.07
+2203,"Santa Catarina Mita",24867,"Alfabeta",20911,84.09
+2203,"Santa Catarina Mita",24867,"Analfabeta",3956,15.91
+2204,"Agua Blanca",14356,"Alfabeta",11434,79.65
+2204,"Agua Blanca",14356,"Analfabeta",2922,20.35
+2205,"Asunción Mita",42018,"Alfabeta",36050,85.8
+2205,"Asunción Mita",42018,"Analfabeta",5968,14.2
+2206,"Yupiltepeque",14956,"Alfabeta",12424,83.07
+2206,"Yupiltepeque",14956,"Analfabeta",2532,16.93
+2207,"Atescatempa",16106,"Alfabeta",13577,84.3
+2207,"Atescatempa",16106,"Analfabeta",2529,15.7
+2208,"Jerez",5568,"Alfabeta",4766,85.6
+2208,"Jerez",5568,"Analfabeta",802,14.4
+2209,"El Adelanto",5556,"Alfabeta",4396,79.12
+2209,"El Adelanto",5556,"Analfabeta",1160,20.88
+2210,"Zapotitlán",7827,"Alfabeta",6557,83.77
+2210,"Zapotitlán",7827,"Analfabeta",1270,16.23
+2211,"Comapa",26734,"Alfabeta",20446,76.48
+2211,"Comapa",26734,"Analfabeta",6288,23.52
+2212,"Jalpatagua",24603,"Alfabeta",21052,85.57
+2212,"Jalpatagua",24603,"Analfabeta",3551,14.43
+2213,"Conguaco",18830,"Alfabeta",14534,77.19
+2213,"Conguaco",18830,"Analfabeta",4296,22.81
+2214,"Moyuta",33323,"Alfabeta",27200,81.63
+2214,"Moyuta",33323,"Analfabeta",6123,18.37
+2215,"Pasaco",7496,"Alfabeta",6169,82.3
+2215,"Pasaco",7496,"Analfabeta",1327,17.7
+2216,"San José Acatempa",11548,"Alfabeta",9286,80.41
+2216,"San José Acatempa",11548,"Analfabeta",2262,19.59
+2217,"Quesada",19418,"Alfabeta",16744,86.23
+2217,"Quesada",19418,"Analfabeta",2674,13.77

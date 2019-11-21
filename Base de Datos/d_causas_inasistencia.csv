@@ -1,0 +1,199 @@
+"Código","Departamento","Causa de Inasistencia 4-29 años","Cantidad de Personas"
+1,"Guatemala","Falta de dinero",93995
+1,"Guatemala","Tiene que trabajar",188908
+1,"Guatemala","No hay escuela, instituto o universidad",1060
+1,"Guatemala","Los padres / pareja no quieren",3598
+1,"Guatemala","Quehaceres del hogar",22112
+1,"Guatemala","No le gusta / no quiere ir",49340
+1,"Guatemala","Ya termino sus estudios",15158
+1,"Guatemala","Otra causa",116101
+1,"Guatemala","No especificado",132377
+2,"El Progreso","Falta de dinero",7458
+2,"El Progreso","Tiene que trabajar",8418
+2,"El Progreso","No hay escuela, instituto o universidad",475
+2,"El Progreso","Los padres / pareja no quieren",415
+2,"El Progreso","Quehaceres del hogar",1871
+2,"El Progreso","No le gusta / no quiere ir",5203
+2,"El Progreso","Ya termino sus estudios",1258
+2,"El Progreso","Otra causa",8089
+2,"El Progreso","No especificado",9214
+3,"Sacatepéquez","Falta de dinero",15569
+3,"Sacatepéquez","Tiene que trabajar",20061
+3,"Sacatepéquez","No hay escuela, instituto o universidad",75
+3,"Sacatepéquez","Los padres / pareja no quieren",661
+3,"Sacatepéquez","Quehaceres del hogar",2497
+3,"Sacatepéquez","No le gusta / no quiere ir",9697
+3,"Sacatepéquez","Ya termino sus estudios",2242
+3,"Sacatepéquez","Otra causa",14285
+3,"Sacatepéquez","No especificado",16078
+4,"Chimaltenango","Falta de dinero",52555
+4,"Chimaltenango","Tiene que trabajar",23847
+4,"Chimaltenango","No hay escuela, instituto o universidad",483
+4,"Chimaltenango","Los padres / pareja no quieren",1706
+4,"Chimaltenango","Quehaceres del hogar",3044
+4,"Chimaltenango","No le gusta / no quiere ir",36384
+4,"Chimaltenango","Ya termino sus estudios",4379
+4,"Chimaltenango","Otra causa",39939
+4,"Chimaltenango","No especificado",23170
+5,"Escuintla","Falta de dinero",43871
+5,"Escuintla","Tiene que trabajar",40100
+5,"Escuintla","No hay escuela, instituto o universidad",395
+5,"Escuintla","Los padres / pareja no quieren",1984
+5,"Escuintla","Quehaceres del hogar",7414
+5,"Escuintla","No le gusta / no quiere ir",21721
+5,"Escuintla","Ya termino sus estudios",5312
+5,"Escuintla","Otra causa",42430
+5,"Escuintla","No especificado",36665
+6,"Santa Rosa","Falta de dinero",22569
+6,"Santa Rosa","Tiene que trabajar",20342
+6,"Santa Rosa","No hay escuela, instituto o universidad",538
+6,"Santa Rosa","Los padres / pareja no quieren",963
+6,"Santa Rosa","Quehaceres del hogar",3668
+6,"Santa Rosa","No le gusta / no quiere ir",14346
+6,"Santa Rosa","Ya termino sus estudios",2236
+6,"Santa Rosa","Otra causa",22309
+6,"Santa Rosa","No especificado",14065
+7,"Sololá","Falta de dinero",38241
+7,"Sololá","Tiene que trabajar",9962
+7,"Sololá","No hay escuela, instituto o universidad",185
+7,"Sololá","Los padres / pareja no quieren",1277
+7,"Sololá","Quehaceres del hogar",1576
+7,"Sololá","No le gusta / no quiere ir",24154
+7,"Sololá","Ya termino sus estudios",4137
+7,"Sololá","Otra causa",25504
+7,"Sololá","No especificado",19869
+8,"Totonicapán","Falta de dinero",43442
+8,"Totonicapán","Tiene que trabajar",16381
+8,"Totonicapán","No hay escuela, instituto o universidad",231
+8,"Totonicapán","Los padres / pareja no quieren",1328
+8,"Totonicapán","Quehaceres del hogar",1506
+8,"Totonicapán","No le gusta / no quiere ir",17202
+8,"Totonicapán","Ya termino sus estudios",2531
+8,"Totonicapán","Otra causa",28842
+8,"Totonicapán","No especificado",23117
+9,"Quetzaltenango","Falta de dinero",49151
+9,"Quetzaltenango","Tiene que trabajar",31156
+9,"Quetzaltenango","No hay escuela, instituto o universidad",345
+9,"Quetzaltenango","Los padres / pareja no quieren",1665
+9,"Quetzaltenango","Quehaceres del hogar",3966
+9,"Quetzaltenango","No le gusta / no quiere ir",32225
+9,"Quetzaltenango","Ya termino sus estudios",6009
+9,"Quetzaltenango","Otra causa",49212
+9,"Quetzaltenango","No especificado",35700
+10,"Suchitepéquez","Falta de dinero",43545
+10,"Suchitepéquez","Tiene que trabajar",24566
+10,"Suchitepéquez","No hay escuela, instituto o universidad",395
+10,"Suchitepéquez","Los padres / pareja no quieren",1756
+10,"Suchitepéquez","Quehaceres del hogar",4229
+10,"Suchitepéquez","No le gusta / no quiere ir",24372
+10,"Suchitepéquez","Ya termino sus estudios",3661
+10,"Suchitepéquez","Otra causa",33655
+10,"Suchitepéquez","No especificado",22108
+11,"Retalhuleu","Falta de dinero",25453
+11,"Retalhuleu","Tiene que trabajar",13310
+11,"Retalhuleu","No hay escuela, instituto o universidad",195
+11,"Retalhuleu","Los padres / pareja no quieren",896
+11,"Retalhuleu","Quehaceres del hogar",2170
+11,"Retalhuleu","No le gusta / no quiere ir",10661
+11,"Retalhuleu","Ya termino sus estudios",2903
+11,"Retalhuleu","Otra causa",18002
+11,"Retalhuleu","No especificado",13448
+12,"San Marcos","Falta de dinero",85904
+12,"San Marcos","Tiene que trabajar",29219
+12,"San Marcos","No hay escuela, instituto o universidad",637
+12,"San Marcos","Los padres / pareja no quieren",2676
+12,"San Marcos","Quehaceres del hogar",5613
+12,"San Marcos","No le gusta / no quiere ir",46175
+12,"San Marcos","Ya termino sus estudios",7486
+12,"San Marcos","Otra causa",75203
+12,"San Marcos","No especificado",46625
+13,"Huehuetenango","Falta de dinero",114913
+13,"Huehuetenango","Tiene que trabajar",38443
+13,"Huehuetenango","No hay escuela, instituto o universidad",3162
+13,"Huehuetenango","Los padres / pareja no quieren",6088
+13,"Huehuetenango","Quehaceres del hogar",10925
+13,"Huehuetenango","No le gusta / no quiere ir",66733
+13,"Huehuetenango","Ya termino sus estudios",7643
+13,"Huehuetenango","Otra causa",106994
+13,"Huehuetenango","No especificado",46118
+14,"Quiché","Falta de dinero",93670
+14,"Quiché","Tiene que trabajar",31317
+14,"Quiché","No hay escuela, instituto o universidad",1788
+14,"Quiché","Los padres / pareja no quieren",4989
+14,"Quiché","Quehaceres del hogar",6637
+14,"Quiché","No le gusta / no quiere ir",54931
+14,"Quiché","Ya termino sus estudios",5074
+14,"Quiché","Otra causa",80643
+14,"Quiché","No especificado",44945
+15,"Baja Verapaz","Falta de dinero",22062
+15,"Baja Verapaz","Tiene que trabajar",12801
+15,"Baja Verapaz","No hay escuela, instituto o universidad",819
+15,"Baja Verapaz","Los padres / pareja no quieren",1473
+15,"Baja Verapaz","Quehaceres del hogar",2779
+15,"Baja Verapaz","No le gusta / no quiere ir",14257
+15,"Baja Verapaz","Ya termino sus estudios",1818
+15,"Baja Verapaz","Otra causa",19751
+15,"Baja Verapaz","No especificado",9266
+16,"Alta Verapaz","Falta de dinero",97029
+16,"Alta Verapaz","Tiene que trabajar",39147
+16,"Alta Verapaz","No hay escuela, instituto o universidad",3351
+16,"Alta Verapaz","Los padres / pareja no quieren",7931
+16,"Alta Verapaz","Quehaceres del hogar",8579
+16,"Alta Verapaz","No le gusta / no quiere ir",62836
+16,"Alta Verapaz","Ya termino sus estudios",5201
+16,"Alta Verapaz","Otra causa",108602
+16,"Alta Verapaz","No especificado",48150
+17,"Petén","Falta de dinero",37474
+17,"Petén","Tiene que trabajar",24874
+17,"Petén","No hay escuela, instituto o universidad",2307
+17,"Petén","Los padres / pareja no quieren",2037
+17,"Petén","Quehaceres del hogar",4663
+17,"Petén","No le gusta / no quiere ir",24839
+17,"Petén","Ya termino sus estudios",3831
+17,"Petén","Otra causa",38015
+17,"Petén","No especificado",26683
+18,"Izabal","Falta de dinero",24755
+18,"Izabal","Tiene que trabajar",19519
+18,"Izabal","No hay escuela, instituto o universidad",1305
+18,"Izabal","Los padres / pareja no quieren",1691
+18,"Izabal","Quehaceres del hogar",2979
+18,"Izabal","No le gusta / no quiere ir",15657
+18,"Izabal","Ya termino sus estudios",3754
+18,"Izabal","Otra causa",28999
+18,"Izabal","No especificado",17896
+19,"Zacapa","Falta de dinero",14780
+19,"Zacapa","Tiene que trabajar",10649
+19,"Zacapa","No hay escuela, instituto o universidad",551
+19,"Zacapa","Los padres / pareja no quieren",829
+19,"Zacapa","Quehaceres del hogar",1776
+19,"Zacapa","No le gusta / no quiere ir",9156
+19,"Zacapa","Ya termino sus estudios",1706
+19,"Zacapa","Otra causa",12636
+19,"Zacapa","No especificado",13789
+20,"Chiquimula","Falta de dinero",31099
+20,"Chiquimula","Tiene que trabajar",18153
+20,"Chiquimula","No hay escuela, instituto o universidad",940
+20,"Chiquimula","Los padres / pareja no quieren",1895
+20,"Chiquimula","Quehaceres del hogar",4772
+20,"Chiquimula","No le gusta / no quiere ir",19017
+20,"Chiquimula","Ya termino sus estudios",2005
+20,"Chiquimula","Otra causa",29103
+20,"Chiquimula","No especificado",18006
+21,"Jalapa","Falta de dinero",25366
+21,"Jalapa","Tiene que trabajar",16521
+21,"Jalapa","No hay escuela, instituto o universidad",739
+21,"Jalapa","Los padres / pareja no quieren",1718
+21,"Jalapa","Quehaceres del hogar",3229
+21,"Jalapa","No le gusta / no quiere ir",19582
+21,"Jalapa","Ya termino sus estudios",1829
+21,"Jalapa","Otra causa",23279
+21,"Jalapa","No especificado",10104
+22,"Jutiapa","Falta de dinero",30279
+22,"Jutiapa","Tiene que trabajar",20906
+22,"Jutiapa","No hay escuela, instituto o universidad",918
+22,"Jutiapa","Los padres / pareja no quieren",1985
+22,"Jutiapa","Quehaceres del hogar",3630
+22,"Jutiapa","No le gusta / no quiere ir",17768
+22,"Jutiapa","Ya termino sus estudios",3422
+22,"Jutiapa","Otra causa",24501
+22,"Jutiapa","No especificado",19838

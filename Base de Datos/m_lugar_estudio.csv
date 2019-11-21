@@ -1,0 +1,1361 @@
+"Código","Municipio","Población de 7 años o más","Lugar de Estudio","Cantidad de Personas x Lugar","Porcentaje por Lugar de Estudio"
+101,"Guatemala",823541,"En el mismo municipio",245259,29.78
+101,"Guatemala",823541,"En otro municipio",1688,0.2
+101,"Guatemala",823541,"En otro país",355,0.04
+101,"Guatemala",823541,"NA_Lugar_Estudio",11019,1.34
+102,"Santa Catarina Pinula",70958,"En el mismo municipio",15503,21.85
+102,"Santa Catarina Pinula",70958,"En otro municipio",6009,8.47
+102,"Santa Catarina Pinula",70958,"En otro país",111,0.16
+102,"Santa Catarina Pinula",70958,"NA_Lugar_Estudio",1023,1.44
+103,"San José Pinula",68509,"En el mismo municipio",17113,24.98
+103,"San José Pinula",68509,"En otro municipio",4194,6.12
+103,"San José Pinula",68509,"En otro país",39,0.06
+103,"San José Pinula",68509,"NA_Lugar_Estudio",910,1.33
+104,"San José del Golfo",6206,"En el mismo municipio",1466,23.62
+104,"San José del Golfo",6206,"En otro municipio",198,3.19
+104,"San José del Golfo",6206,"En otro país",0,0
+104,"San José del Golfo",6206,"NA_Lugar_Estudio",25,0.4
+105,"Palencia",59630,"En el mismo municipio",13192,22.12
+105,"Palencia",59630,"En otro municipio",2274,3.81
+105,"Palencia",59630,"En otro país",2,0
+105,"Palencia",59630,"NA_Lugar_Estudio",423,0.71
+106,"Chinautla",98780,"En el mismo municipio",22807,23.09
+106,"Chinautla",98780,"En otro municipio",8238,8.34
+106,"Chinautla",98780,"En otro país",6,0.01
+106,"Chinautla",98780,"NA_Lugar_Estudio",776,0.79
+107,"San Pedro Ayampuc",50043,"En el mismo municipio",11940,23.86
+107,"San Pedro Ayampuc",50043,"En otro municipio",2321,4.64
+107,"San Pedro Ayampuc",50043,"En otro país",1,0
+107,"San Pedro Ayampuc",50043,"NA_Lugar_Estudio",496,0.99
+108,"Mixco",413084,"En el mismo municipio",93186,22.56
+108,"Mixco",413084,"En otro municipio",33602,8.13
+108,"Mixco",413084,"En otro país",195,0.05
+108,"Mixco",413084,"NA_Lugar_Estudio",5377,1.3
+109,"San Pedro Sacatepéquez",43666,"En el mismo municipio",9195,21.06
+109,"San Pedro Sacatepéquez",43666,"En otro municipio",3408,7.8
+109,"San Pedro Sacatepéquez",43666,"En otro país",3,0.01
+109,"San Pedro Sacatepéquez",43666,"NA_Lugar_Estudio",237,0.54
+110,"San Juan Sacatepéquez",184474,"En el mismo municipio",46541,25.23
+110,"San Juan Sacatepéquez",184474,"En otro municipio",5836,3.16
+110,"San Juan Sacatepéquez",184474,"En otro país",5,0
+110,"San Juan Sacatepéquez",184474,"NA_Lugar_Estudio",1849,1
+111,"San Raymundo",26643,"En el mismo municipio",6226,23.37
+111,"San Raymundo",26643,"En otro municipio",797,2.99
+111,"San Raymundo",26643,"En otro país",0,0
+111,"San Raymundo",26643,"NA_Lugar_Estudio",155,0.58
+112,"Chuarrancho",10555,"En el mismo municipio",2382,22.57
+112,"Chuarrancho",10555,"En otro municipio",321,3.04
+112,"Chuarrancho",10555,"En otro país",0,0
+112,"Chuarrancho",10555,"NA_Lugar_Estudio",70,0.66
+113,"Fraijanes",52138,"En el mismo municipio",12076,23.16
+113,"Fraijanes",52138,"En otro municipio",3056,5.86
+113,"Fraijanes",52138,"En otro país",67,0.13
+113,"Fraijanes",52138,"NA_Lugar_Estudio",642,1.23
+114,"Amatitlán",100917,"En el mismo municipio",27414,27.16
+114,"Amatitlán",100917,"En otro municipio",3031,3
+114,"Amatitlán",100917,"En otro país",11,0.01
+114,"Amatitlán",100917,"NA_Lugar_Estudio",894,0.89
+115,"Villa Nueva",378827,"En el mismo municipio",99552,26.28
+115,"Villa Nueva",378827,"En otro municipio",20525,5.42
+115,"Villa Nueva",378827,"En otro país",58,0.02
+115,"Villa Nueva",378827,"NA_Lugar_Estudio",5093,1.34
+116,"Villa Canales",133606,"En el mismo municipio",32370,24.23
+116,"Villa Canales",133606,"En otro municipio",6099,4.56
+116,"Villa Canales",133606,"En otro país",16,0.01
+116,"Villa Canales",133606,"NA_Lugar_Estudio",1483,1.11
+117,"San Miguel Petapa",119532,"En el mismo municipio",27477,22.99
+117,"San Miguel Petapa",119532,"En otro municipio",11076,9.27
+117,"San Miguel Petapa",119532,"En otro país",26,0.02
+117,"San Miguel Petapa",119532,"NA_Lugar_Estudio",1878,1.57
+201,"Guastatoya",21686,"En el mismo municipio",5934,27.36
+201,"Guastatoya",21686,"En otro municipio",282,1.3
+201,"Guastatoya",21686,"En otro país",5,0.02
+201,"Guastatoya",21686,"NA_Lugar_Estudio",225,1.04
+202,"Morazán",10512,"En el mismo municipio",2260,21.5
+202,"Morazán",10512,"En otro municipio",157,1.49
+202,"Morazán",10512,"En otro país",0,0
+202,"Morazán",10512,"NA_Lugar_Estudio",104,0.99
+203,"San Agustín Acasaguastlán",38035,"En el mismo municipio",10102,26.56
+203,"San Agustín Acasaguastlán",38035,"En otro municipio",816,2.15
+203,"San Agustín Acasaguastlán",38035,"En otro país",1,0
+203,"San Agustín Acasaguastlán",38035,"NA_Lugar_Estudio",526,1.38
+204,"San Cristóbal Acasaguastlán",6227,"En el mismo municipio",1496,24.02
+204,"San Cristóbal Acasaguastlán",6227,"En otro municipio",262,4.21
+204,"San Cristóbal Acasaguastlán",6227,"En otro país",0,0
+204,"San Cristóbal Acasaguastlán",6227,"NA_Lugar_Estudio",79,1.27
+205,"El Jícaro",11426,"En el mismo municipio",2611,22.85
+205,"El Jícaro",11426,"En otro municipio",249,2.18
+205,"El Jícaro",11426,"En otro país",0,0
+205,"El Jícaro",11426,"NA_Lugar_Estudio",99,0.87
+206,"Sansare",11416,"En el mismo municipio",2646,23.18
+206,"Sansare",11416,"En otro municipio",332,2.91
+206,"Sansare",11416,"En otro país",1,0.01
+206,"Sansare",11416,"NA_Lugar_Estudio",145,1.27
+207,"Sanarate",34148,"En el mismo municipio",8435,24.7
+207,"Sanarate",34148,"En otro municipio",758,2.22
+207,"Sanarate",34148,"En otro país",3,0.01
+207,"Sanarate",34148,"NA_Lugar_Estudio",460,1.35
+208,"San Antonio la Paz",17751,"En el mismo municipio",3767,21.22
+208,"San Antonio la Paz",17751,"En otro municipio",782,4.41
+208,"San Antonio la Paz",17751,"En otro país",2,0.01
+208,"San Antonio la Paz",17751,"NA_Lugar_Estudio",179,1.01
+301,"Antigua Guatemala",40973,"En el mismo municipio",10310,25.16
+301,"Antigua Guatemala",40973,"En otro municipio",1102,2.69
+301,"Antigua Guatemala",40973,"En otro país",22,0.05
+301,"Antigua Guatemala",40973,"NA_Lugar_Estudio",781,1.91
+302,"Jocotenango",19292,"En el mismo municipio",2973,15.41
+302,"Jocotenango",19292,"En otro municipio",2982,15.46
+302,"Jocotenango",19292,"En otro país",12,0.06
+302,"Jocotenango",19292,"NA_Lugar_Estudio",208,1.08
+303,"Pastores",15433,"En el mismo municipio",3233,20.95
+303,"Pastores",15433,"En otro municipio",1243,8.05
+303,"Pastores",15433,"En otro país",1,0.01
+303,"Pastores",15433,"NA_Lugar_Estudio",111,0.72
+304,"Sumpango",31813,"En el mismo municipio",6672,20.97
+304,"Sumpango",31813,"En otro municipio",1413,4.44
+304,"Sumpango",31813,"En otro país",2,0.01
+304,"Sumpango",31813,"NA_Lugar_Estudio",524,1.65
+305,"Santo Domingo Xenacoj",10585,"En el mismo municipio",2328,21.99
+305,"Santo Domingo Xenacoj",10585,"En otro municipio",691,6.53
+305,"Santo Domingo Xenacoj",10585,"En otro país",1,0.01
+305,"Santo Domingo Xenacoj",10585,"NA_Lugar_Estudio",135,1.28
+306,"Santiago Sacatepéquez",25291,"En el mismo municipio",4960,19.61
+306,"Santiago Sacatepéquez",25291,"En otro municipio",2033,8.04
+306,"Santiago Sacatepéquez",25291,"En otro país",4,0.02
+306,"Santiago Sacatepéquez",25291,"NA_Lugar_Estudio",268,1.06
+307,"San Bartolomé Milpas Altas",6831,"En el mismo municipio",1412,20.67
+307,"San Bartolomé Milpas Altas",6831,"En otro municipio",1001,14.65
+307,"San Bartolomé Milpas Altas",6831,"En otro país",2,0.03
+307,"San Bartolomé Milpas Altas",6831,"NA_Lugar_Estudio",60,0.88
+308,"San Lucas Sacatepéquez",20577,"En el mismo municipio",4302,20.91
+308,"San Lucas Sacatepéquez",20577,"En otro municipio",2156,10.48
+308,"San Lucas Sacatepéquez",20577,"En otro país",14,0.07
+308,"San Lucas Sacatepéquez",20577,"NA_Lugar_Estudio",421,2.05
+309,"Santa Lucía Milpas Altas",13662,"En el mismo municipio",2666,19.51
+309,"Santa Lucía Milpas Altas",13662,"En otro municipio",1224,8.96
+309,"Santa Lucía Milpas Altas",13662,"En otro país",6,0.04
+309,"Santa Lucía Milpas Altas",13662,"NA_Lugar_Estudio",441,3.23
+310,"Magdalena Milpas Altas",10365,"En el mismo municipio",2316,22.34
+310,"Magdalena Milpas Altas",10365,"En otro municipio",748,7.22
+310,"Magdalena Milpas Altas",10365,"En otro país",2,0.02
+310,"Magdalena Milpas Altas",10365,"NA_Lugar_Estudio",93,0.9
+311,"Santa María de Jesús",18454,"En el mismo municipio",3596,19.49
+311,"Santa María de Jesús",18454,"En otro municipio",724,3.92
+311,"Santa María de Jesús",18454,"En otro país",0,0
+311,"Santa María de Jesús",18454,"NA_Lugar_Estudio",124,0.67
+312,"Ciudad Vieja",29121,"En el mismo municipio",5719,19.64
+312,"Ciudad Vieja",29121,"En otro municipio",2065,7.09
+312,"Ciudad Vieja",29121,"En otro país",4,0.01
+312,"Ciudad Vieja",29121,"NA_Lugar_Estudio",449,1.54
+313,"San Miguel Dueñas",10985,"En el mismo municipio",2056,18.72
+313,"San Miguel Dueñas",10985,"En otro municipio",845,7.69
+313,"San Miguel Dueñas",10985,"En otro país",0,0
+313,"San Miguel Dueñas",10985,"NA_Lugar_Estudio",173,1.57
+314,"San Juan Alotenango",20473,"En el mismo municipio",4515,22.05
+314,"San Juan Alotenango",20473,"En otro municipio",1060,5.18
+314,"San Juan Alotenango",20473,"En otro país",2,0.01
+314,"San Juan Alotenango",20473,"NA_Lugar_Estudio",208,1.02
+315,"San Antonio Aguas Calientes",9900,"En el mismo municipio",1761,17.79
+315,"San Antonio Aguas Calientes",9900,"En otro municipio",1095,11.06
+315,"San Antonio Aguas Calientes",9900,"En otro país",2,0.02
+315,"San Antonio Aguas Calientes",9900,"NA_Lugar_Estudio",86,0.87
+316,"Santa Catarina Barahona",3546,"En el mismo municipio",538,15.17
+316,"Santa Catarina Barahona",3546,"En otro municipio",430,12.13
+316,"Santa Catarina Barahona",3546,"En otro país",0,0
+316,"Santa Catarina Barahona",3546,"NA_Lugar_Estudio",27,0.76
+401,"Chimaltenango",83554,"En el mismo municipio",23433,28.05
+401,"Chimaltenango",83554,"En otro municipio",2223,2.66
+401,"Chimaltenango",83554,"En otro país",6,0.01
+401,"Chimaltenango",83554,"NA_Lugar_Estudio",1167,1.4
+402,"San José Poaquil",22856,"En el mismo municipio",5166,22.6
+402,"San José Poaquil",22856,"En otro municipio",738,3.23
+402,"San José Poaquil",22856,"En otro país",0,0
+402,"San José Poaquil",22856,"NA_Lugar_Estudio",145,0.63
+403,"San Martín Jilotepeque",61676,"En el mismo municipio",14892,24.15
+403,"San Martín Jilotepeque",61676,"En otro municipio",831,1.35
+403,"San Martín Jilotepeque",61676,"En otro país",2,0
+403,"San Martín Jilotepeque",61676,"NA_Lugar_Estudio",522,0.85
+404,"San Juan Comalapa",41229,"En el mismo municipio",9645,23.39
+404,"San Juan Comalapa",41229,"En otro municipio",2155,5.23
+404,"San Juan Comalapa",41229,"En otro país",4,0.01
+404,"San Juan Comalapa",41229,"NA_Lugar_Estudio",446,1.08
+405,"Santa Apolonia",15016,"En el mismo municipio",3312,22.06
+405,"Santa Apolonia",15016,"En otro municipio",454,3.02
+405,"Santa Apolonia",15016,"En otro país",0,0
+405,"Santa Apolonia",15016,"NA_Lugar_Estudio",88,0.59
+406,"Tecpán Guatemala",75219,"En el mismo municipio",18212,24.21
+406,"Tecpán Guatemala",75219,"En otro municipio",1868,2.48
+406,"Tecpán Guatemala",75219,"En otro país",4,0.01
+406,"Tecpán Guatemala",75219,"NA_Lugar_Estudio",407,0.54
+407,"Patzún",49017,"En el mismo municipio",10220,20.85
+407,"Patzún",49017,"En otro municipio",1766,3.6
+407,"Patzún",49017,"En otro país",3,0.01
+407,"Patzún",49017,"NA_Lugar_Estudio",497,1.01
+408,"San Miguel Pochuta",7463,"En el mismo municipio",1993,26.71
+408,"San Miguel Pochuta",7463,"En otro municipio",283,3.79
+408,"San Miguel Pochuta",7463,"En otro país",0,0
+408,"San Miguel Pochuta",7463,"NA_Lugar_Estudio",59,0.79
+409,"Patzicía",28069,"En el mismo municipio",5290,18.85
+409,"Patzicía",28069,"En otro municipio",1334,4.75
+409,"Patzicía",28069,"En otro país",2,0.01
+409,"Patzicía",28069,"NA_Lugar_Estudio",276,0.98
+410,"Santa Cruz Balanyá",7931,"En el mismo municipio",1782,22.47
+410,"Santa Cruz Balanyá",7931,"En otro municipio",547,6.9
+410,"Santa Cruz Balanyá",7931,"En otro país",0,0
+410,"Santa Cruz Balanyá",7931,"NA_Lugar_Estudio",51,0.64
+411,"Acatenango",19335,"En el mismo municipio",4304,22.26
+411,"Acatenango",19335,"En otro municipio",681,3.52
+411,"Acatenango",19335,"En otro país",1,0.01
+411,"Acatenango",19335,"NA_Lugar_Estudio",135,0.7
+412,"San Pedro Yepocapa",28758,"En el mismo municipio",7672,26.68
+412,"San Pedro Yepocapa",28758,"En otro municipio",809,2.81
+412,"San Pedro Yepocapa",28758,"En otro país",0,0
+412,"San Pedro Yepocapa",28758,"NA_Lugar_Estudio",203,0.71
+413,"San Andrés Itzapa",26742,"En el mismo municipio",5485,20.51
+413,"San Andrés Itzapa",26742,"En otro municipio",1584,5.92
+413,"San Andrés Itzapa",26742,"En otro país",1,0
+413,"San Andrés Itzapa",26742,"NA_Lugar_Estudio",149,0.56
+414,"Parramos",13554,"En el mismo municipio",3245,23.94
+414,"Parramos",13554,"En otro municipio",705,5.2
+414,"Parramos",13554,"En otro país",1,0.01
+414,"Parramos",13554,"NA_Lugar_Estudio",155,1.14
+415,"Zaragoza",20166,"En el mismo municipio",4475,22.19
+415,"Zaragoza",20166,"En otro municipio",1202,5.96
+415,"Zaragoza",20166,"En otro país",2,0.01
+415,"Zaragoza",20166,"NA_Lugar_Estudio",212,1.05
+416,"El Tejar",16775,"En el mismo municipio",3328,19.84
+416,"El Tejar",16775,"En otro municipio",1674,9.98
+416,"El Tejar",16775,"En otro país",3,0.02
+416,"El Tejar",16775,"NA_Lugar_Estudio",206,1.23
+501,"Escuintla",135581,"En el mismo municipio",36273,26.75
+501,"Escuintla",135581,"En otro municipio",731,0.54
+501,"Escuintla",135581,"En otro país",6,0
+501,"Escuintla",135581,"NA_Lugar_Estudio",1996,1.47
+502,"Santa Lucía Cotzumalguapa",95804,"En el mismo municipio",24094,25.15
+502,"Santa Lucía Cotzumalguapa",95804,"En otro municipio",1091,1.14
+502,"Santa Lucía Cotzumalguapa",95804,"En otro país",3,0
+502,"Santa Lucía Cotzumalguapa",95804,"NA_Lugar_Estudio",1209,1.26
+503,"La Democracia",19293,"En el mismo municipio",4505,23.35
+503,"La Democracia",19293,"En otro municipio",734,3.8
+503,"La Democracia",19293,"En otro país",2,0.01
+503,"La Democracia",19293,"NA_Lugar_Estudio",157,0.81
+504,"Siquinalá",19307,"En el mismo municipio",4492,23.27
+504,"Siquinalá",19307,"En otro municipio",863,4.47
+504,"Siquinalá",19307,"En otro país",0,0
+504,"Siquinalá",19307,"NA_Lugar_Estudio",284,1.47
+505,"Masagua",38004,"En el mismo municipio",9553,25.14
+505,"Masagua",38004,"En otro municipio",851,2.24
+505,"Masagua",38004,"En otro país",1,0
+505,"Masagua",38004,"NA_Lugar_Estudio",555,1.46
+506,"Tiquisate",48081,"En el mismo municipio",10803,22.47
+506,"Tiquisate",48081,"En otro municipio",716,1.49
+506,"Tiquisate",48081,"En otro país",3,0.01
+506,"Tiquisate",48081,"NA_Lugar_Estudio",520,1.08
+507,"La Gomera",39179,"En el mismo municipio",8656,22.09
+507,"La Gomera",39179,"En otro municipio",1010,2.58
+507,"La Gomera",39179,"En otro país",0,0
+507,"La Gomera",39179,"NA_Lugar_Estudio",340,0.87
+508,"Guanagazapa",13346,"En el mismo municipio",3629,27.19
+508,"Guanagazapa",13346,"En otro municipio",441,3.3
+508,"Guanagazapa",13346,"En otro país",1,0.01
+508,"Guanagazapa",13346,"NA_Lugar_Estudio",81,0.61
+509,"San José",53388,"En el mismo municipio",12855,24.08
+509,"San José",53388,"En otro municipio",553,1.04
+509,"San José",53388,"En otro país",0,0
+509,"San José",53388,"NA_Lugar_Estudio",818,1.53
+510,"Iztapa",15581,"En el mismo municipio",3421,21.96
+510,"Iztapa",15581,"En otro municipio",310,1.99
+510,"Iztapa",15581,"En otro país",2,0.01
+510,"Iztapa",15581,"NA_Lugar_Estudio",111,0.71
+511,"Palín",56334,"En el mismo municipio",13833,24.56
+511,"Palín",56334,"En otro municipio",3011,5.34
+511,"Palín",56334,"En otro país",6,0.01
+511,"Palín",56334,"NA_Lugar_Estudio",695,1.23
+512,"San Vicente Pacaya",14221,"En el mismo municipio",3300,23.21
+512,"San Vicente Pacaya",14221,"En otro municipio",607,4.27
+512,"San Vicente Pacaya",14221,"En otro país",0,0
+512,"San Vicente Pacaya",14221,"NA_Lugar_Estudio",109,0.77
+513,"Nueva Concepción",61150,"En el mismo municipio",13941,22.8
+513,"Nueva Concepción",61150,"En otro municipio",398,0.65
+513,"Nueva Concepción",61150,"En otro país",4,0.01
+513,"Nueva Concepción",61150,"NA_Lugar_Estudio",483,0.79
+514,"Sipacate",13740,"En el mismo municipio",2808,20.44
+514,"Sipacate",13740,"En otro municipio",343,2.5
+514,"Sipacate",13740,"En otro país",3,0.02
+514,"Sipacate",13740,"NA_Lugar_Estudio",134,0.98
+601,"Cuilapa",35176,"En el mismo municipio",9518,27.06
+601,"Cuilapa",35176,"En otro municipio",754,2.14
+601,"Cuilapa",35176,"En otro país",1,0
+601,"Cuilapa",35176,"NA_Lugar_Estudio",401,1.14
+602,"Barberena",49388,"En el mismo municipio",12862,26.04
+602,"Barberena",49388,"En otro municipio",1328,2.69
+602,"Barberena",49388,"En otro país",3,0.01
+602,"Barberena",49388,"NA_Lugar_Estudio",329,0.67
+603,"Santa Rosa de Lima",16734,"En el mismo municipio",3517,21.02
+603,"Santa Rosa de Lima",16734,"En otro municipio",1172,7
+603,"Santa Rosa de Lima",16734,"En otro país",6,0.04
+603,"Santa Rosa de Lima",16734,"NA_Lugar_Estudio",153,0.91
+604,"Casillas",21176,"En el mismo municipio",4698,22.19
+604,"Casillas",21176,"En otro municipio",521,2.46
+604,"Casillas",21176,"En otro país",1,0
+604,"Casillas",21176,"NA_Lugar_Estudio",136,0.64
+605,"San Rafael las Flores",10535,"En el mismo municipio",2327,22.09
+605,"San Rafael las Flores",10535,"En otro municipio",409,3.88
+605,"San Rafael las Flores",10535,"En otro país",2,0.02
+605,"San Rafael las Flores",10535,"NA_Lugar_Estudio",62,0.59
+606,"Oratorio",21058,"En el mismo municipio",5164,24.52
+606,"Oratorio",21058,"En otro municipio",955,4.54
+606,"Oratorio",21058,"En otro país",0,0
+606,"Oratorio",21058,"NA_Lugar_Estudio",99,0.47
+607,"San Juan Tecuaco",8476,"En el mismo municipio",2578,30.42
+607,"San Juan Tecuaco",8476,"En otro municipio",350,4.13
+607,"San Juan Tecuaco",8476,"En otro país",0,0
+607,"San Juan Tecuaco",8476,"NA_Lugar_Estudio",44,0.52
+608,"Chiquimulilla",45898,"En el mismo municipio",12339,26.88
+608,"Chiquimulilla",45898,"En otro municipio",422,0.92
+608,"Chiquimulilla",45898,"En otro país",2,0
+608,"Chiquimulilla",45898,"NA_Lugar_Estudio",400,0.87
+609,"Taxisco",25394,"En el mismo municipio",6302,24.82
+609,"Taxisco",25394,"En otro municipio",726,2.86
+609,"Taxisco",25394,"En otro país",0,0
+609,"Taxisco",25394,"NA_Lugar_Estudio",216,0.85
+610,"Santa María Ixhuatán",20106,"En el mismo municipio",4996,24.85
+610,"Santa María Ixhuatán",20106,"En otro municipio",559,2.78
+610,"Santa María Ixhuatán",20106,"En otro país",0,0
+610,"Santa María Ixhuatán",20106,"NA_Lugar_Estudio",143,0.71
+611,"Guazacapán",15935,"En el mismo municipio",3850,24.16
+611,"Guazacapán",15935,"En otro municipio",894,5.61
+611,"Guazacapán",15935,"En otro país",0,0
+611,"Guazacapán",15935,"NA_Lugar_Estudio",84,0.53
+612,"Santa Cruz Naranjo",13984,"En el mismo municipio",2926,20.92
+612,"Santa Cruz Naranjo",13984,"En otro municipio",967,6.92
+612,"Santa Cruz Naranjo",13984,"En otro país",1,0.01
+612,"Santa Cruz Naranjo",13984,"NA_Lugar_Estudio",99,0.71
+613,"Pueblo Nuevo Viñas",21419,"En el mismo municipio",4907,22.91
+613,"Pueblo Nuevo Viñas",21419,"En otro municipio",775,3.62
+613,"Pueblo Nuevo Viñas",21419,"En otro país",1,0
+613,"Pueblo Nuevo Viñas",21419,"NA_Lugar_Estudio",142,0.66
+614,"Nueva Santa Rosa",31041,"En el mismo municipio",7514,24.21
+614,"Nueva Santa Rosa",31041,"En otro municipio",980,3.16
+614,"Nueva Santa Rosa",31041,"En otro país",2,0.01
+614,"Nueva Santa Rosa",31041,"NA_Lugar_Estudio",191,0.62
+701,"Sololá",75102,"En el mismo municipio",19714,26.25
+701,"Sololá",75102,"En otro municipio",889,1.18
+701,"Sololá",75102,"En otro país",0,0
+701,"Sololá",75102,"NA_Lugar_Estudio",662,0.88
+702,"San José Chacayá",3387,"En el mismo municipio",832,24.56
+702,"San José Chacayá",3387,"En otro municipio",231,6.82
+702,"San José Chacayá",3387,"En otro país",0,0
+702,"San José Chacayá",3387,"NA_Lugar_Estudio",40,1.18
+703,"Santa María Visitación",2059,"En el mismo municipio",420,20.4
+703,"Santa María Visitación",2059,"En otro municipio",249,12.09
+703,"Santa María Visitación",2059,"En otro país",0,0
+703,"Santa María Visitación",2059,"NA_Lugar_Estudio",17,0.83
+704,"Santa Lucía Utatlán",18358,"En el mismo municipio",4212,22.94
+704,"Santa Lucía Utatlán",18358,"En otro municipio",585,3.19
+704,"Santa Lucía Utatlán",18358,"En otro país",0,0
+704,"Santa Lucía Utatlán",18358,"NA_Lugar_Estudio",113,0.62
+705,"Nahualá",63409,"En el mismo municipio",14290,22.54
+705,"Nahualá",63409,"En otro municipio",1889,2.98
+705,"Nahualá",63409,"En otro país",0,0
+705,"Nahualá",63409,"NA_Lugar_Estudio",469,0.74
+706,"Santa Catarina Ixtahuacán",47679,"En el mismo municipio",10641,22.32
+706,"Santa Catarina Ixtahuacán",47679,"En otro municipio",2042,4.28
+706,"Santa Catarina Ixtahuacán",47679,"En otro país",0,0
+706,"Santa Catarina Ixtahuacán",47679,"NA_Lugar_Estudio",696,1.46
+707,"Santa Clara la Laguna",8071,"En el mismo municipio",1920,23.79
+707,"Santa Clara la Laguna",8071,"En otro municipio",354,4.39
+707,"Santa Clara la Laguna",8071,"En otro país",0,0
+707,"Santa Clara la Laguna",8071,"NA_Lugar_Estudio",68,0.84
+708,"Concepción",5437,"En el mismo municipio",1240,22.81
+708,"Concepción",5437,"En otro municipio",140,2.57
+708,"Concepción",5437,"En otro país",0,0
+708,"Concepción",5437,"NA_Lugar_Estudio",37,0.68
+709,"San Andrés Semetabaj",11114,"En el mismo municipio",2686,24.17
+709,"San Andrés Semetabaj",11114,"En otro municipio",538,4.84
+709,"San Andrés Semetabaj",11114,"En otro país",5,0.04
+709,"San Andrés Semetabaj",11114,"NA_Lugar_Estudio",107,0.96
+710,"Panajachel",13068,"En el mismo municipio",3374,25.82
+710,"Panajachel",13068,"En otro municipio",841,6.44
+710,"Panajachel",13068,"En otro país",5,0.04
+710,"Panajachel",13068,"NA_Lugar_Estudio",70,0.54
+711,"Santa Catarina Palopó",3323,"En el mismo municipio",789,23.74
+711,"Santa Catarina Palopó",3323,"En otro municipio",173,5.21
+711,"Santa Catarina Palopó",3323,"En otro país",0,0
+711,"Santa Catarina Palopó",3323,"NA_Lugar_Estudio",64,1.93
+712,"San Antonio Palopó",12242,"En el mismo municipio",2377,19.42
+712,"San Antonio Palopó",12242,"En otro municipio",559,4.57
+712,"San Antonio Palopó",12242,"En otro país",3,0.02
+712,"San Antonio Palopó",12242,"NA_Lugar_Estudio",74,0.6
+713,"San Lucas Tolimán",25377,"En el mismo municipio",6806,26.82
+713,"San Lucas Tolimán",25377,"En otro municipio",646,2.55
+713,"San Lucas Tolimán",25377,"En otro país",1,0
+713,"San Lucas Tolimán",25377,"NA_Lugar_Estudio",199,0.78
+714,"Santa Cruz la Laguna",4846,"En el mismo municipio",1168,24.1
+714,"Santa Cruz la Laguna",4846,"En otro municipio",154,3.18
+714,"Santa Cruz la Laguna",4846,"En otro país",0,0
+714,"Santa Cruz la Laguna",4846,"NA_Lugar_Estudio",17,0.35
+715,"San Pablo la Laguna",6329,"En el mismo municipio",1376,21.74
+715,"San Pablo la Laguna",6329,"En otro municipio",229,3.62
+715,"San Pablo la Laguna",6329,"En otro país",2,0.03
+715,"San Pablo la Laguna",6329,"NA_Lugar_Estudio",97,1.53
+716,"San Marcos la Laguna",2298,"En el mismo municipio",480,20.89
+716,"San Marcos la Laguna",2298,"En otro municipio",149,6.48
+716,"San Marcos la Laguna",2298,"En otro país",1,0.04
+716,"San Marcos la Laguna",2298,"NA_Lugar_Estudio",13,0.57
+717,"San Juan la Laguna",10300,"En el mismo municipio",2497,24.24
+717,"San Juan la Laguna",10300,"En otro municipio",586,5.69
+717,"San Juan la Laguna",10300,"En otro país",0,0
+717,"San Juan la Laguna",10300,"NA_Lugar_Estudio",86,0.83
+718,"San Pedro la Laguna",9447,"En el mismo municipio",1901,20.12
+718,"San Pedro la Laguna",9447,"En otro municipio",591,6.26
+718,"San Pedro la Laguna",9447,"En otro país",3,0.03
+718,"San Pedro la Laguna",9447,"NA_Lugar_Estudio",75,0.79
+719,"Santiago Atitlán",36611,"En el mismo municipio",6412,17.51
+719,"Santiago Atitlán",36611,"En otro municipio",740,2.02
+719,"Santiago Atitlán",36611,"En otro país",4,0.01
+719,"Santiago Atitlán",36611,"NA_Lugar_Estudio",446,1.22
+801,"Totonicapán",90604,"En el mismo municipio",20261,22.36
+801,"Totonicapán",90604,"En otro municipio",3054,3.37
+801,"Totonicapán",90604,"En otro país",4,0
+801,"Totonicapán",90604,"NA_Lugar_Estudio",783,0.86
+802,"San Cristóbal Totonicapán",31310,"En el mismo municipio",4984,15.92
+802,"San Cristóbal Totonicapán",31310,"En otro municipio",1887,6.03
+802,"San Cristóbal Totonicapán",31310,"En otro país",6,0.02
+802,"San Cristóbal Totonicapán",31310,"NA_Lugar_Estudio",472,1.51
+803,"San Francisco el Alto",49012,"En el mismo municipio",8600,17.55
+803,"San Francisco el Alto",49012,"En otro municipio",1643,3.35
+803,"San Francisco el Alto",49012,"En otro país",2,0
+803,"San Francisco el Alto",49012,"NA_Lugar_Estudio",840,1.71
+804,"San Andrés Xecul",22806,"En el mismo municipio",4078,17.88
+804,"San Andrés Xecul",22806,"En otro municipio",1332,5.84
+804,"San Andrés Xecul",22806,"En otro país",0,0
+804,"San Andrés Xecul",22806,"NA_Lugar_Estudio",211,0.93
+805,"Momostenango",86389,"En el mismo municipio",20676,23.93
+805,"Momostenango",86389,"En otro municipio",2008,2.32
+805,"Momostenango",86389,"En otro país",13,0.02
+805,"Momostenango",86389,"NA_Lugar_Estudio",1071,1.24
+806,"Santa María Chiquimula",44425,"En el mismo municipio",9459,21.29
+806,"Santa María Chiquimula",44425,"En otro municipio",840,1.89
+806,"Santa María Chiquimula",44425,"En otro país",0,0
+806,"Santa María Chiquimula",44425,"NA_Lugar_Estudio",457,1.03
+807,"Santa Lucía la Reforma",17677,"En el mismo municipio",4070,23.02
+807,"Santa Lucía la Reforma",17677,"En otro municipio",215,1.22
+807,"Santa Lucía la Reforma",17677,"En otro país",0,0
+807,"Santa Lucía la Reforma",17677,"NA_Lugar_Estudio",158,0.89
+808,"San Bartolo Aguas Calientes",8596,"En el mismo municipio",2139,24.88
+808,"San Bartolo Aguas Calientes",8596,"En otro municipio",310,3.61
+808,"San Bartolo Aguas Calientes",8596,"En otro país",3,0.03
+808,"San Bartolo Aguas Calientes",8596,"NA_Lugar_Estudio",64,0.74
+901,"Quetzaltenango",158834,"En el mismo municipio",49587,31.22
+901,"Quetzaltenango",158834,"En otro municipio",555,0.35
+901,"Quetzaltenango",158834,"En otro país",46,0.03
+901,"Quetzaltenango",158834,"NA_Lugar_Estudio",2080,1.31
+902,"Salcajá",17024,"En el mismo municipio",3509,20.61
+902,"Salcajá",17024,"En otro municipio",1650,9.69
+902,"Salcajá",17024,"En otro país",2,0.01
+902,"Salcajá",17024,"NA_Lugar_Estudio",90,0.53
+903,"San Juan Olintepeque",29934,"En el mismo municipio",4867,16.26
+903,"San Juan Olintepeque",29934,"En otro municipio",4247,14.19
+903,"San Juan Olintepeque",29934,"En otro país",9,0.03
+903,"San Juan Olintepeque",29934,"NA_Lugar_Estudio",265,0.89
+904,"San Carlos Sija",25812,"En el mismo municipio",5663,21.94
+904,"San Carlos Sija",25812,"En otro municipio",1115,4.32
+904,"San Carlos Sija",25812,"En otro país",3,0.01
+904,"San Carlos Sija",25812,"NA_Lugar_Estudio",180,0.7
+905,"Sibilia",7094,"En el mismo municipio",1522,21.45
+905,"Sibilia",7094,"En otro municipio",185,2.61
+905,"Sibilia",7094,"En otro país",0,0
+905,"Sibilia",7094,"NA_Lugar_Estudio",50,0.7
+906,"Cabricán",19462,"En el mismo municipio",5485,28.18
+906,"Cabricán",19462,"En otro municipio",320,1.64
+906,"Cabricán",19462,"En otro país",0,0
+906,"Cabricán",19462,"NA_Lugar_Estudio",167,0.86
+907,"Cajolá",11908,"En el mismo municipio",2787,23.4
+907,"Cajolá",11908,"En otro municipio",276,2.32
+907,"Cajolá",11908,"En otro país",0,0
+907,"Cajolá",11908,"NA_Lugar_Estudio",86,0.72
+908,"San Miguel Siguilá",6369,"En el mismo municipio",1590,24.96
+908,"San Miguel Siguilá",6369,"En otro municipio",301,4.73
+908,"San Miguel Siguilá",6369,"En otro país",0,0
+908,"San Miguel Siguilá",6369,"NA_Lugar_Estudio",21,0.33
+909,"San Juan Ostuncalco",42771,"En el mismo municipio",9683,22.64
+909,"San Juan Ostuncalco",42771,"En otro municipio",1529,3.57
+909,"San Juan Ostuncalco",42771,"En otro país",3,0.01
+909,"San Juan Ostuncalco",42771,"NA_Lugar_Estudio",663,1.55
+910,"San Mateo",6756,"En el mismo municipio",1383,20.47
+910,"San Mateo",6756,"En otro municipio",718,10.63
+910,"San Mateo",6756,"En otro país",0,0
+910,"San Mateo",6756,"NA_Lugar_Estudio",97,1.44
+911,"Concepción Chiquirichapa",14424,"En el mismo municipio",2903,20.13
+911,"Concepción Chiquirichapa",14424,"En otro municipio",941,6.52
+911,"Concepción Chiquirichapa",14424,"En otro país",1,0.01
+911,"Concepción Chiquirichapa",14424,"NA_Lugar_Estudio",158,1.1
+912,"San Martín Sacatepéquez",24031,"En el mismo municipio",5210,21.68
+912,"San Martín Sacatepéquez",24031,"En otro municipio",685,2.85
+912,"San Martín Sacatepéquez",24031,"En otro país",0,0
+912,"San Martín Sacatepéquez",24031,"NA_Lugar_Estudio",273,1.14
+913,"Almolonga",13874,"En el mismo municipio",1682,12.12
+913,"Almolonga",13874,"En otro municipio",493,3.55
+913,"Almolonga",13874,"En otro país",0,0
+913,"Almolonga",13874,"NA_Lugar_Estudio",181,1.3
+914,"Cantel",36428,"En el mismo municipio",6809,18.69
+914,"Cantel",36428,"En otro municipio",3495,9.59
+914,"Cantel",36428,"En otro país",1,0
+914,"Cantel",36428,"NA_Lugar_Estudio",296,0.81
+915,"Huitán",10758,"En el mismo municipio",2635,24.49
+915,"Huitán",10758,"En otro municipio",363,3.37
+915,"Huitán",10758,"En otro país",0,0
+915,"Huitán",10758,"NA_Lugar_Estudio",57,0.53
+916,"Zunil",12341,"En el mismo municipio",1864,15.1
+916,"Zunil",12341,"En otro municipio",524,4.25
+916,"Zunil",12341,"En otro país",1,0.01
+916,"Zunil",12341,"NA_Lugar_Estudio",78,0.63
+917,"Colomba Costa Cuca",40012,"En el mismo municipio",8937,22.34
+917,"Colomba Costa Cuca",40012,"En otro municipio",1712,4.28
+917,"Colomba Costa Cuca",40012,"En otro país",2,0
+917,"Colomba Costa Cuca",40012,"NA_Lugar_Estudio",409,1.02
+918,"San Francisco la Unión",6753,"En el mismo municipio",1468,21.74
+918,"San Francisco la Unión",6753,"En otro municipio",239,3.54
+918,"San Francisco la Unión",6753,"En otro país",0,0
+918,"San Francisco la Unión",6753,"NA_Lugar_Estudio",57,0.84
+919,"El Palmar",24362,"En el mismo municipio",5777,23.71
+919,"El Palmar",24362,"En otro municipio",1370,5.62
+919,"El Palmar",24362,"En otro país",1,0
+919,"El Palmar",24362,"NA_Lugar_Estudio",195,0.8
+920,"Coatepeque",89886,"En el mismo municipio",23234,25.85
+920,"Coatepeque",89886,"En otro municipio",707,0.79
+920,"Coatepeque",89886,"En otro país",7,0.01
+920,"Coatepeque",89886,"NA_Lugar_Estudio",1288,1.43
+921,"Génova",31049,"En el mismo municipio",7060,22.74
+921,"Génova",31049,"En otro municipio",623,2.01
+921,"Génova",31049,"En otro país",1,0
+921,"Génova",31049,"NA_Lugar_Estudio",276,0.89
+922,"Flores Costa Cuca",18371,"En el mismo municipio",3704,20.16
+922,"Flores Costa Cuca",18371,"En otro municipio",1074,5.85
+922,"Flores Costa Cuca",18371,"En otro país",5,0.03
+922,"Flores Costa Cuca",18371,"NA_Lugar_Estudio",153,0.83
+923,"La Esperanza",19218,"En el mismo municipio",4260,22.17
+923,"La Esperanza",19218,"En otro municipio",1723,8.97
+923,"La Esperanza",19218,"En otro país",5,0.03
+923,"La Esperanza",19218,"NA_Lugar_Estudio",251,1.31
+924,"Palestina de los Altos",13087,"En el mismo municipio",2860,21.85
+924,"Palestina de los Altos",13087,"En otro municipio",308,2.35
+924,"Palestina de los Altos",13087,"En otro país",0,0
+924,"Palestina de los Altos",13087,"NA_Lugar_Estudio",68,0.52
+1001,"Mazatenango",66157,"En el mismo municipio",17829,26.95
+1001,"Mazatenango",66157,"En otro municipio",621,0.94
+1001,"Mazatenango",66157,"En otro país",5,0.01
+1001,"Mazatenango",66157,"NA_Lugar_Estudio",716,1.08
+1002,"Cuyotenango",28025,"En el mismo municipio",5718,20.4
+1002,"Cuyotenango",28025,"En otro municipio",2268,8.09
+1002,"Cuyotenango",28025,"En otro país",0,0
+1002,"Cuyotenango",28025,"NA_Lugar_Estudio",146,0.52
+1003,"San Francisco Zapotitlán",19113,"En el mismo municipio",3863,20.21
+1003,"San Francisco Zapotitlán",19113,"En otro municipio",1390,7.27
+1003,"San Francisco Zapotitlán",19113,"En otro país",1,0.01
+1003,"San Francisco Zapotitlán",19113,"NA_Lugar_Estudio",110,0.58
+1004,"San Bernardino",13193,"En el mismo municipio",2812,21.31
+1004,"San Bernardino",13193,"En otro municipio",933,7.07
+1004,"San Bernardino",13193,"En otro país",2,0.02
+1004,"San Bernardino",13193,"NA_Lugar_Estudio",117,0.89
+1005,"San José el Ídolo",8469,"En el mismo municipio",1895,22.38
+1005,"San José el Ídolo",8469,"En otro municipio",251,2.96
+1005,"San José el Ídolo",8469,"En otro país",0,0
+1005,"San José el Ídolo",8469,"NA_Lugar_Estudio",226,2.67
+1006,"Santo Domingo Suchitepéquez",35103,"En el mismo municipio",8435,24.03
+1006,"Santo Domingo Suchitepéquez",35103,"En otro municipio",1094,3.12
+1006,"Santo Domingo Suchitepéquez",35103,"En otro país",0,0
+1006,"Santo Domingo Suchitepéquez",35103,"NA_Lugar_Estudio",267,0.76
+1007,"San Lorenzo",11099,"En el mismo municipio",2417,21.78
+1007,"San Lorenzo",11099,"En otro municipio",747,6.73
+1007,"San Lorenzo",11099,"En otro país",0,0
+1007,"San Lorenzo",11099,"NA_Lugar_Estudio",48,0.43
+1008,"Samayac",21131,"En el mismo municipio",3702,17.52
+1008,"Samayac",21131,"En otro municipio",2088,9.88
+1008,"Samayac",21131,"En otro país",0,0
+1008,"Samayac",21131,"NA_Lugar_Estudio",264,1.25
+1009,"San Pablo Jocopilas",17457,"En el mismo municipio",3209,18.38
+1009,"San Pablo Jocopilas",17457,"En otro municipio",1033,5.92
+1009,"San Pablo Jocopilas",17457,"En otro país",0,0
+1009,"San Pablo Jocopilas",17457,"NA_Lugar_Estudio",113,0.65
+1010,"San Antonio Suchitepéquez",48964,"En el mismo municipio",12118,24.75
+1010,"San Antonio Suchitepéquez",48964,"En otro municipio",1219,2.49
+1010,"San Antonio Suchitepéquez",48964,"En otro país",1,0
+1010,"San Antonio Suchitepéquez",48964,"NA_Lugar_Estudio",402,0.82
+1011,"San Miguel Panán",8400,"En el mismo municipio",1774,21.12
+1011,"San Miguel Panán",8400,"En otro municipio",459,5.46
+1011,"San Miguel Panán",8400,"En otro país",0,0
+1011,"San Miguel Panán",8400,"NA_Lugar_Estudio",40,0.48
+1012,"San Gabriel",6214,"En el mismo municipio",1123,18.07
+1012,"San Gabriel",6214,"En otro municipio",780,12.55
+1012,"San Gabriel",6214,"En otro país",0,0
+1012,"San Gabriel",6214,"NA_Lugar_Estudio",69,1.11
+1013,"Chicacao",49666,"En el mismo municipio",12397,24.96
+1013,"Chicacao",49666,"En otro municipio",1135,2.29
+1013,"Chicacao",49666,"En otro país",0,0
+1013,"Chicacao",49666,"NA_Lugar_Estudio",435,0.88
+1014,"Patulul",34020,"En el mismo municipio",8209,24.13
+1014,"Patulul",34020,"En otro municipio",814,2.39
+1014,"Patulul",34020,"En otro país",0,0
+1014,"Patulul",34020,"NA_Lugar_Estudio",339,1
+1015,"Santa Bárbara",21612,"En el mismo municipio",4865,22.51
+1015,"Santa Bárbara",21612,"En otro municipio",614,2.84
+1015,"Santa Bárbara",21612,"En otro país",0,0
+1015,"Santa Bárbara",21612,"NA_Lugar_Estudio",149,0.69
+1016,"San Juan Bautista",6454,"En el mismo municipio",1352,20.95
+1016,"San Juan Bautista",6454,"En otro municipio",472,7.31
+1016,"San Juan Bautista",6454,"En otro país",0,0
+1016,"San Juan Bautista",6454,"NA_Lugar_Estudio",17,0.26
+1017,"Santo Tomas la Unión",10118,"En el mismo municipio",2372,23.44
+1017,"Santo Tomas la Unión",10118,"En otro municipio",407,4.02
+1017,"Santo Tomas la Unión",10118,"En otro país",0,0
+1017,"Santo Tomas la Unión",10118,"NA_Lugar_Estudio",68,0.67
+1018,"Zunilito",7053,"En el mismo municipio",1612,22.86
+1018,"Zunilito",7053,"En otro municipio",457,6.48
+1018,"Zunilito",7053,"En otro país",4,0.06
+1018,"Zunilito",7053,"NA_Lugar_Estudio",29,0.41
+1019,"Pueblo Nuevo",9586,"En el mismo municipio",2044,21.32
+1019,"Pueblo Nuevo",9586,"En otro municipio",519,5.41
+1019,"Pueblo Nuevo",9586,"En otro país",0,0
+1019,"Pueblo Nuevo",9586,"NA_Lugar_Estudio",75,0.78
+1020,"Río Bravo",22733,"En el mismo municipio",5300,23.31
+1020,"Río Bravo",22733,"En otro municipio",756,3.33
+1020,"Río Bravo",22733,"En otro país",1,0
+1020,"Río Bravo",22733,"NA_Lugar_Estudio",137,0.6
+1021,"San José La Máquina",18997,"En el mismo municipio",4537,23.88
+1021,"San José La Máquina",18997,"En otro municipio",397,2.09
+1021,"San José La Máquina",18997,"En otro país",0,0
+1021,"San José La Máquina",18997,"NA_Lugar_Estudio",80,0.42
+1101,"Retalhuleu",76688,"En el mismo municipio",20639,26.91
+1101,"Retalhuleu",76688,"En otro municipio",654,0.85
+1101,"Retalhuleu",76688,"En otro país",4,0.01
+1101,"Retalhuleu",76688,"NA_Lugar_Estudio",749,0.98
+1102,"San Sebastián",24897,"En el mismo municipio",5573,22.38
+1102,"San Sebastián",24897,"En otro municipio",1327,5.33
+1102,"San Sebastián",24897,"En otro país",1,0
+1102,"San Sebastián",24897,"NA_Lugar_Estudio",520,2.09
+1103,"Santa Cruz Muluá",11360,"En el mismo municipio",2587,22.77
+1103,"Santa Cruz Muluá",11360,"En otro municipio",699,6.15
+1103,"Santa Cruz Muluá",11360,"En otro país",0,0
+1103,"Santa Cruz Muluá",11360,"NA_Lugar_Estudio",97,0.85
+1104,"San Martín Zapotitlán",10200,"En el mismo municipio",2641,25.89
+1104,"San Martín Zapotitlán",10200,"En otro municipio",583,5.72
+1104,"San Martín Zapotitlán",10200,"En otro país",1,0.01
+1104,"San Martín Zapotitlán",10200,"NA_Lugar_Estudio",52,0.51
+1105,"San Felipe",20609,"En el mismo municipio",4803,23.31
+1105,"San Felipe",20609,"En otro municipio",1167,5.66
+1105,"San Felipe",20609,"En otro país",3,0.01
+1105,"San Felipe",20609,"NA_Lugar_Estudio",143,0.69
+1106,"San Andrés Villa Seca",39034,"En el mismo municipio",10108,25.9
+1106,"San Andrés Villa Seca",39034,"En otro municipio",752,1.93
+1106,"San Andrés Villa Seca",39034,"En otro país",1,0
+1106,"San Andrés Villa Seca",39034,"NA_Lugar_Estudio",265,0.68
+1107,"Champerico",27229,"En el mismo municipio",6609,24.27
+1107,"Champerico",27229,"En otro municipio",453,1.66
+1107,"Champerico",27229,"En otro país",0,0
+1107,"Champerico",27229,"NA_Lugar_Estudio",167,0.61
+1108,"Nuevo San Carlos",33301,"En el mismo municipio",8708,26.15
+1108,"Nuevo San Carlos",33301,"En otro municipio",1192,3.58
+1108,"Nuevo San Carlos",33301,"En otro país",0,0
+1108,"Nuevo San Carlos",33301,"NA_Lugar_Estudio",205,0.62
+1109,"El Asintal",31031,"En el mismo municipio",7159,23.07
+1109,"El Asintal",31031,"En otro municipio",1476,4.76
+1109,"El Asintal",31031,"En otro país",2,0.01
+1109,"El Asintal",31031,"NA_Lugar_Estudio",335,1.08
+1201,"San Marcos",40156,"En el mismo municipio",12069,30.06
+1201,"San Marcos",40156,"En otro municipio",1228,3.06
+1201,"San Marcos",40156,"En otro país",9,0.02
+1201,"San Marcos",40156,"NA_Lugar_Estudio",393,0.98
+1202,"San Pedro Sacatepéquez",67734,"En el mismo municipio",16948,25.02
+1202,"San Pedro Sacatepéquez",67734,"En otro municipio",3341,4.93
+1202,"San Pedro Sacatepéquez",67734,"En otro país",13,0.02
+1202,"San Pedro Sacatepéquez",67734,"NA_Lugar_Estudio",788,1.16
+1203,"San Antonio Sacatepéquez",15824,"En el mismo municipio",3586,22.66
+1203,"San Antonio Sacatepéquez",15824,"En otro municipio",1229,7.77
+1203,"San Antonio Sacatepéquez",15824,"En otro país",1,0.01
+1203,"San Antonio Sacatepéquez",15824,"NA_Lugar_Estudio",94,0.59
+1204,"Comitancillo",47203,"En el mismo municipio",15327,32.47
+1204,"Comitancillo",47203,"En otro municipio",706,1.5
+1204,"Comitancillo",47203,"En otro país",2,0
+1204,"Comitancillo",47203,"NA_Lugar_Estudio",560,1.19
+1205,"San Miguel Ixtahuacán",37037,"En el mismo municipio",11268,30.42
+1205,"San Miguel Ixtahuacán",37037,"En otro municipio",547,1.48
+1205,"San Miguel Ixtahuacán",37037,"En otro país",3,0.01
+1205,"San Miguel Ixtahuacán",37037,"NA_Lugar_Estudio",337,0.91
+1206,"Concepción Tutuapa",53114,"En el mismo municipio",14205,26.74
+1206,"Concepción Tutuapa",53114,"En otro municipio",539,1.01
+1206,"Concepción Tutuapa",53114,"En otro país",3,0.01
+1206,"Concepción Tutuapa",53114,"NA_Lugar_Estudio",900,1.69
+1207,"Tacaná",62127,"En el mismo municipio",16095,25.91
+1207,"Tacaná",62127,"En otro municipio",314,0.51
+1207,"Tacaná",62127,"En otro país",56,0.09
+1207,"Tacaná",62127,"NA_Lugar_Estudio",730,1.18
+1208,"Sibinal",12829,"En el mismo municipio",4035,31.45
+1208,"Sibinal",12829,"En otro municipio",221,1.72
+1208,"Sibinal",12829,"En otro país",10,0.08
+1208,"Sibinal",12829,"NA_Lugar_Estudio",88,0.69
+1209,"Tajumulco",40307,"En el mismo municipio",9539,23.67
+1209,"Tajumulco",40307,"En otro municipio",222,0.55
+1209,"Tajumulco",40307,"En otro país",4,0.01
+1209,"Tajumulco",40307,"NA_Lugar_Estudio",642,1.59
+1210,"Tejutla",31178,"En el mismo municipio",8005,25.68
+1210,"Tejutla",31178,"En otro municipio",592,1.9
+1210,"Tejutla",31178,"En otro país",2,0.01
+1210,"Tejutla",31178,"NA_Lugar_Estudio",181,0.58
+1211,"San Rafael Pie de la Cuesta",14546,"En el mismo municipio",3846,26.44
+1211,"San Rafael Pie de la Cuesta",14546,"En otro municipio",485,3.33
+1211,"San Rafael Pie de la Cuesta",14546,"En otro país",0,0
+1211,"San Rafael Pie de la Cuesta",14546,"NA_Lugar_Estudio",260,1.79
+1212,"Nuevo Progreso",25223,"En el mismo municipio",6244,24.76
+1212,"Nuevo Progreso",25223,"En otro municipio",625,2.48
+1212,"Nuevo Progreso",25223,"En otro país",1,0
+1212,"Nuevo Progreso",25223,"NA_Lugar_Estudio",308,1.22
+1213,"El Tumbador",36986,"En el mismo municipio",8525,23.05
+1213,"El Tumbador",36986,"En otro municipio",1121,3.03
+1213,"El Tumbador",36986,"En otro país",1,0
+1213,"El Tumbador",36986,"NA_Lugar_Estudio",313,0.85
+1214,"San José el Rodeo",14994,"En el mismo municipio",3175,21.18
+1214,"San José el Rodeo",14994,"En otro municipio",799,5.33
+1214,"San José el Rodeo",14994,"En otro país",4,0.03
+1214,"San José el Rodeo",14994,"NA_Lugar_Estudio",120,0.8
+1215,"Malacatán",77289,"En el mismo municipio",19255,24.91
+1215,"Malacatán",77289,"En otro municipio",343,0.44
+1215,"Malacatán",77289,"En otro país",43,0.06
+1215,"Malacatán",77289,"NA_Lugar_Estudio",901,1.17
+1216,"Catarina",25409,"En el mismo municipio",5801,22.83
+1216,"Catarina",25409,"En otro municipio",1121,4.41
+1216,"Catarina",25409,"En otro país",4,0.02
+1216,"Catarina",25409,"NA_Lugar_Estudio",139,0.55
+1217,"Ayutla",30949,"En el mismo municipio",6802,21.98
+1217,"Ayutla",30949,"En otro municipio",788,2.55
+1217,"Ayutla",30949,"En otro país",26,0.08
+1217,"Ayutla",30949,"NA_Lugar_Estudio",252,0.81
+1218,"Ocós",9005,"En el mismo municipio",1640,18.21
+1218,"Ocós",9005,"En otro municipio",371,4.12
+1218,"Ocós",9005,"En otro país",0,0
+1218,"Ocós",9005,"NA_Lugar_Estudio",47,0.52
+1219,"San Pablo",40756,"En el mismo municipio",9589,23.53
+1219,"San Pablo",40756,"En otro municipio",1420,3.48
+1219,"San Pablo",40756,"En otro país",5,0.01
+1219,"San Pablo",40756,"NA_Lugar_Estudio",263,0.65
+1220,"El Quetzal",19358,"En el mismo municipio",4225,21.83
+1220,"El Quetzal",19358,"En otro municipio",606,3.13
+1220,"El Quetzal",19358,"En otro país",0,0
+1220,"El Quetzal",19358,"NA_Lugar_Estudio",138,0.71
+1221,"La Reforma",14929,"En el mismo municipio",3613,24.2
+1221,"La Reforma",14929,"En otro municipio",462,3.09
+1221,"La Reforma",14929,"En otro país",0,0
+1221,"La Reforma",14929,"NA_Lugar_Estudio",49,0.33
+1222,"Pajapita",18310,"En el mismo municipio",4488,24.51
+1222,"Pajapita",18310,"En otro municipio",575,3.14
+1222,"Pajapita",18310,"En otro país",1,0.01
+1222,"Pajapita",18310,"NA_Lugar_Estudio",100,0.55
+1223,"Ixchiguán",17944,"En el mismo municipio",4633,25.82
+1223,"Ixchiguán",17944,"En otro municipio",258,1.44
+1223,"Ixchiguán",17944,"En otro país",3,0.02
+1223,"Ixchiguán",17944,"NA_Lugar_Estudio",219,1.22
+1224,"San José Ojetenam",15559,"En el mismo municipio",3746,24.08
+1224,"San José Ojetenam",15559,"En otro municipio",161,1.03
+1224,"San José Ojetenam",15559,"En otro país",8,0.05
+1224,"San José Ojetenam",15559,"NA_Lugar_Estudio",152,0.98
+1225,"San Cristóbal Cucho",13715,"En el mismo municipio",2990,21.8
+1225,"San Cristóbal Cucho",13715,"En otro municipio",340,2.48
+1225,"San Cristóbal Cucho",13715,"En otro país",0,0
+1225,"San Cristóbal Cucho",13715,"NA_Lugar_Estudio",69,0.5
+1226,"Sipacapa",15951,"En el mismo municipio",5097,31.95
+1226,"Sipacapa",15951,"En otro municipio",228,1.43
+1226,"Sipacapa",15951,"En otro país",1,0.01
+1226,"Sipacapa",15951,"NA_Lugar_Estudio",195,1.22
+1227,"Esquipulas Palo Gordo",10687,"En el mismo municipio",2635,24.66
+1227,"Esquipulas Palo Gordo",10687,"En otro municipio",655,6.13
+1227,"Esquipulas Palo Gordo",10687,"En otro país",0,0
+1227,"Esquipulas Palo Gordo",10687,"NA_Lugar_Estudio",91,0.85
+1228,"Río Blanco",4468,"En el mismo municipio",1235,27.64
+1228,"Río Blanco",4468,"En otro municipio",135,3.02
+1228,"Río Blanco",4468,"En otro país",0,0
+1228,"Río Blanco",4468,"NA_Lugar_Estudio",33,0.74
+1229,"San Lorenzo",10792,"En el mismo municipio",3119,28.9
+1229,"San Lorenzo",10792,"En otro municipio",401,3.72
+1229,"San Lorenzo",10792,"En otro país",0,0
+1229,"San Lorenzo",10792,"NA_Lugar_Estudio",106,0.98
+1230,"La Blanca",23936,"En el mismo municipio",5462,22.82
+1230,"La Blanca",23936,"En otro municipio",420,1.75
+1230,"La Blanca",23936,"En otro país",1,0
+1230,"La Blanca",23936,"NA_Lugar_Estudio",157,0.66
+1301,"Huehuetenango",101248,"En el mismo municipio",31404,31.02
+1301,"Huehuetenango",101248,"En otro municipio",896,0.88
+1301,"Huehuetenango",101248,"En otro país",20,0.02
+1301,"Huehuetenango",101248,"NA_Lugar_Estudio",834,0.82
+1302,"Chiantla",71571,"En el mismo municipio",15427,21.55
+1302,"Chiantla",71571,"En otro municipio",1589,2.22
+1302,"Chiantla",71571,"En otro país",1,0
+1302,"Chiantla",71571,"NA_Lugar_Estudio",551,0.77
+1303,"Malacatancito",15959,"En el mismo municipio",3832,24.01
+1303,"Malacatancito",15959,"En otro municipio",637,3.99
+1303,"Malacatancito",15959,"En otro país",3,0.02
+1303,"Malacatancito",15959,"NA_Lugar_Estudio",103,0.65
+1304,"Cuilco",48184,"En el mismo municipio",9499,19.71
+1304,"Cuilco",48184,"En otro municipio",350,0.73
+1304,"Cuilco",48184,"En otro país",19,0.04
+1304,"Cuilco",48184,"NA_Lugar_Estudio",299,0.62
+1305,"Nentón",36210,"En el mismo municipio",7718,21.31
+1305,"Nentón",36210,"En otro municipio",220,0.61
+1305,"Nentón",36210,"En otro país",32,0.09
+1305,"Nentón",36210,"NA_Lugar_Estudio",279,0.77
+1306,"San Pedro Necta",31377,"En el mismo municipio",7242,23.08
+1306,"San Pedro Necta",31377,"En otro municipio",391,1.25
+1306,"San Pedro Necta",31377,"En otro país",2,0.01
+1306,"San Pedro Necta",31377,"NA_Lugar_Estudio",209,0.67
+1307,"Jacaltenango",31398,"En el mismo municipio",7220,23
+1307,"Jacaltenango",31398,"En otro municipio",622,1.98
+1307,"Jacaltenango",31398,"En otro país",13,0.04
+1307,"Jacaltenango",31398,"NA_Lugar_Estudio",202,0.64
+1308,"San Pedro Soloma",38459,"En el mismo municipio",10029,26.08
+1308,"San Pedro Soloma",38459,"En otro municipio",340,0.88
+1308,"San Pedro Soloma",38459,"En otro país",8,0.02
+1308,"San Pedro Soloma",38459,"NA_Lugar_Estudio",465,1.21
+1309,"San Ildefonso Ixtahuacán",35055,"En el mismo municipio",8505,24.26
+1309,"San Ildefonso Ixtahuacán",35055,"En otro municipio",398,1.14
+1309,"San Ildefonso Ixtahuacán",35055,"En otro país",3,0.01
+1309,"San Ildefonso Ixtahuacán",35055,"NA_Lugar_Estudio",238,0.68
+1310,"Santa Bárbara",26634,"En el mismo municipio",6046,22.7
+1310,"Santa Bárbara",26634,"En otro municipio",157,0.59
+1310,"Santa Bárbara",26634,"En otro país",0,0
+1310,"Santa Bárbara",26634,"NA_Lugar_Estudio",159,0.6
+1311,"La Libertad",30972,"En el mismo municipio",6092,19.67
+1311,"La Libertad",30972,"En otro municipio",317,1.02
+1311,"La Libertad",30972,"En otro país",1,0
+1311,"La Libertad",30972,"NA_Lugar_Estudio",242,0.78
+1312,"La Democracia",45266,"En el mismo municipio",9711,21.45
+1312,"La Democracia",45266,"En otro municipio",261,0.58
+1312,"La Democracia",45266,"En otro país",25,0.06
+1312,"La Democracia",45266,"NA_Lugar_Estudio",361,0.8
+1313,"San Miguel Acatán",21024,"En el mismo municipio",4949,23.54
+1313,"San Miguel Acatán",21024,"En otro municipio",174,0.83
+1313,"San Miguel Acatán",21024,"En otro país",1,0
+1313,"San Miguel Acatán",21024,"NA_Lugar_Estudio",159,0.76
+1314,"San Rafael La Independencia",11050,"En el mismo municipio",2647,23.95
+1314,"San Rafael La Independencia",11050,"En otro municipio",123,1.11
+1314,"San Rafael La Independencia",11050,"En otro país",0,0
+1314,"San Rafael La Independencia",11050,"NA_Lugar_Estudio",95,0.86
+1315,"Todos Santos Cuchumatán",24373,"En el mismo municipio",4854,19.92
+1315,"Todos Santos Cuchumatán",24373,"En otro municipio",227,0.93
+1315,"Todos Santos Cuchumatán",24373,"En otro país",2,0.01
+1315,"Todos Santos Cuchumatán",24373,"NA_Lugar_Estudio",209,0.86
+1316,"San Juan Atitán",15907,"En el mismo municipio",2985,18.77
+1316,"San Juan Atitán",15907,"En otro municipio",95,0.6
+1316,"San Juan Atitán",15907,"En otro país",0,0
+1316,"San Juan Atitán",15907,"NA_Lugar_Estudio",67,0.42
+1317,"Santa Eulalia",30707,"En el mismo municipio",7832,25.51
+1317,"Santa Eulalia",30707,"En otro municipio",175,0.57
+1317,"Santa Eulalia",30707,"En otro país",2,0.01
+1317,"Santa Eulalia",30707,"NA_Lugar_Estudio",587,1.91
+1318,"San Mateo Ixtatán",34097,"En el mismo municipio",8385,24.59
+1318,"San Mateo Ixtatán",34097,"En otro municipio",101,0.3
+1318,"San Mateo Ixtatán",34097,"En otro país",1,0
+1318,"San Mateo Ixtatán",34097,"NA_Lugar_Estudio",509,1.49
+1319,"Colotenango",27302,"En el mismo municipio",6297,23.06
+1319,"Colotenango",27302,"En otro municipio",229,0.84
+1319,"Colotenango",27302,"En otro país",0,0
+1319,"Colotenango",27302,"NA_Lugar_Estudio",189,0.69
+1320,"San Sebastián Huehuetenango",26261,"En el mismo municipio",6216,23.67
+1320,"San Sebastián Huehuetenango",26261,"En otro municipio",314,1.2
+1320,"San Sebastián Huehuetenango",26261,"En otro país",1,0
+1320,"San Sebastián Huehuetenango",26261,"NA_Lugar_Estudio",162,0.62
+1321,"Tectitán",8708,"En el mismo municipio",2141,24.59
+1321,"Tectitán",8708,"En otro municipio",165,1.89
+1321,"Tectitán",8708,"En otro país",3,0.03
+1321,"Tectitán",8708,"NA_Lugar_Estudio",65,0.75
+1322,"Concepción Huista",15045,"En el mismo municipio",3175,21.1
+1322,"Concepción Huista",15045,"En otro municipio",162,1.08
+1322,"Concepción Huista",15045,"En otro país",4,0.03
+1322,"Concepción Huista",15045,"NA_Lugar_Estudio",110,0.73
+1323,"San Juan Ixcoy",18192,"En el mismo municipio",4759,26.16
+1323,"San Juan Ixcoy",18192,"En otro municipio",210,1.15
+1323,"San Juan Ixcoy",18192,"En otro país",1,0.01
+1323,"San Juan Ixcoy",18192,"NA_Lugar_Estudio",175,0.96
+1324,"San Antonio Huista",13969,"En el mismo municipio",2948,21.1
+1324,"San Antonio Huista",13969,"En otro municipio",366,2.62
+1324,"San Antonio Huista",13969,"En otro país",2,0.01
+1324,"San Antonio Huista",13969,"NA_Lugar_Estudio",94,0.67
+1325,"San Sebastián Coatán",16769,"En el mismo municipio",3858,23.01
+1325,"San Sebastián Coatán",16769,"En otro municipio",220,1.31
+1325,"San Sebastián Coatán",16769,"En otro país",0,0
+1325,"San Sebastián Coatán",16769,"NA_Lugar_Estudio",184,1.1
+1326,"Santa Cruz Barillas",79492,"En el mismo municipio",20298,25.53
+1326,"Santa Cruz Barillas",79492,"En otro municipio",153,0.19
+1326,"Santa Cruz Barillas",79492,"En otro país",9,0.01
+1326,"Santa Cruz Barillas",79492,"NA_Lugar_Estudio",718,0.9
+1327,"Aguacatán",41339,"En el mismo municipio",8756,21.18
+1327,"Aguacatán",41339,"En otro municipio",817,1.98
+1327,"Aguacatán",41339,"En otro país",3,0.01
+1327,"Aguacatán",41339,"NA_Lugar_Estudio",257,0.62
+1328,"San Rafael Petzal",9198,"En el mismo municipio",2188,23.79
+1328,"San Rafael Petzal",9198,"En otro municipio",247,2.69
+1328,"San Rafael Petzal",9198,"En otro país",0,0
+1328,"San Rafael Petzal",9198,"NA_Lugar_Estudio",70,0.76
+1329,"San Gaspar Ixchil",6270,"En el mismo municipio",1401,22.34
+1329,"San Gaspar Ixchil",6270,"En otro municipio",92,1.47
+1329,"San Gaspar Ixchil",6270,"En otro país",0,0
+1329,"San Gaspar Ixchil",6270,"NA_Lugar_Estudio",26,0.41
+1330,"Santiago Chimaltenango",8813,"En el mismo municipio",1567,17.78
+1330,"Santiago Chimaltenango",8813,"En otro municipio",102,1.16
+1330,"Santiago Chimaltenango",8813,"En otro país",1,0.01
+1330,"Santiago Chimaltenango",8813,"NA_Lugar_Estudio",32,0.36
+1331,"Santa Ana Huista",7886,"En el mismo municipio",1578,20.01
+1331,"Santa Ana Huista",7886,"En otro municipio",233,2.95
+1331,"Santa Ana Huista",7886,"En otro país",3,0.04
+1331,"Santa Ana Huista",7886,"NA_Lugar_Estudio",43,0.55
+1332,"Unión Cantinil",12954,"En el mismo municipio",2318,17.89
+1332,"Unión Cantinil",12954,"En otro municipio",206,1.59
+1332,"Unión Cantinil",12954,"En otro país",1,0.01
+1332,"Unión Cantinil",12954,"NA_Lugar_Estudio",145,1.12
+1333,"Petatán",5027,"En el mismo municipio",1071,21.3
+1333,"Petatán",5027,"En otro municipio",131,2.61
+1333,"Petatán",5027,"En otro país",0,0
+1333,"Petatán",5027,"NA_Lugar_Estudio",15,0.3
+1401,"Santa Cruz del Quiché",66028,"En el mismo municipio",18434,27.92
+1401,"Santa Cruz del Quiché",66028,"En otro municipio",343,0.52
+1401,"Santa Cruz del Quiché",66028,"En otro país",4,0.01
+1401,"Santa Cruz del Quiché",66028,"NA_Lugar_Estudio",1096,1.66
+1402,"Chiché",24260,"En el mismo municipio",5005,20.63
+1402,"Chiché",24260,"En otro municipio",510,2.1
+1402,"Chiché",24260,"En otro país",0,0
+1402,"Chiché",24260,"NA_Lugar_Estudio",157,0.65
+1403,"Chinique",9486,"En el mismo municipio",2274,23.97
+1403,"Chinique",9486,"En otro municipio",407,4.29
+1403,"Chinique",9486,"En otro país",1,0.01
+1403,"Chinique",9486,"NA_Lugar_Estudio",107,1.13
+1404,"Zacualpa",26816,"En el mismo municipio",5801,21.63
+1404,"Zacualpa",26816,"En otro municipio",325,1.21
+1404,"Zacualpa",26816,"En otro país",3,0.01
+1404,"Zacualpa",26816,"NA_Lugar_Estudio",252,0.94
+1405,"Chajul",37842,"En el mismo municipio",9784,25.85
+1405,"Chajul",37842,"En otro municipio",505,1.33
+1405,"Chajul",37842,"En otro país",0,0
+1405,"Chajul",37842,"NA_Lugar_Estudio",363,0.96
+1406,"Santo Tomás Chichicastenango",118034,"En el mismo municipio",25436,21.55
+1406,"Santo Tomás Chichicastenango",118034,"En otro municipio",1675,1.42
+1406,"Santo Tomás Chichicastenango",118034,"En otro país",3,0
+1406,"Santo Tomás Chichicastenango",118034,"NA_Lugar_Estudio",1143,0.97
+1407,"Patzité",4962,"En el mismo municipio",1103,22.23
+1407,"Patzité",4962,"En otro municipio",164,3.31
+1407,"Patzité",4962,"En otro país",1,0.02
+1407,"Patzité",4962,"NA_Lugar_Estudio",63,1.27
+1408,"San Antonio Ilotenango",20228,"En el mismo municipio",4616,22.82
+1408,"San Antonio Ilotenango",20228,"En otro municipio",533,2.63
+1408,"San Antonio Ilotenango",20228,"En otro país",0,0
+1408,"San Antonio Ilotenango",20228,"NA_Lugar_Estudio",140,0.69
+1409,"San Pedro Jocopilas",25942,"En el mismo municipio",5221,20.13
+1409,"San Pedro Jocopilas",25942,"En otro municipio",354,1.36
+1409,"San Pedro Jocopilas",25942,"En otro país",1,0
+1409,"San Pedro Jocopilas",25942,"NA_Lugar_Estudio",359,1.38
+1410,"Cunén",32786,"En el mismo municipio",9345,28.5
+1410,"Cunén",32786,"En otro municipio",468,1.43
+1410,"Cunén",32786,"En otro país",0,0
+1410,"Cunén",32786,"NA_Lugar_Estudio",353,1.08
+1411,"San Juan Cotzal",25617,"En el mismo municipio",7824,30.54
+1411,"San Juan Cotzal",25617,"En otro municipio",620,2.42
+1411,"San Juan Cotzal",25617,"En otro país",0,0
+1411,"San Juan Cotzal",25617,"NA_Lugar_Estudio",195,0.76
+1412,"Joyabaj",65399,"En el mismo municipio",14156,21.65
+1412,"Joyabaj",65399,"En otro municipio",469,0.72
+1412,"Joyabaj",65399,"En otro país",2,0
+1412,"Joyabaj",65399,"NA_Lugar_Estudio",727,1.11
+1413,"Santa María Nebaj",60822,"En el mismo municipio",17281,28.41
+1413,"Santa María Nebaj",60822,"En otro municipio",443,0.73
+1413,"Santa María Nebaj",60822,"En otro país",0,0
+1413,"Santa María Nebaj",60822,"NA_Lugar_Estudio",736,1.21
+1414,"San Andrés Sajcabajá",20824,"En el mismo municipio",4376,21.01
+1414,"San Andrés Sajcabajá",20824,"En otro municipio",163,0.78
+1414,"San Andrés Sajcabajá",20824,"En otro país",1,0
+1414,"San Andrés Sajcabajá",20824,"NA_Lugar_Estudio",260,1.25
+1415,"San Miguel Uspantán",52438,"En el mismo municipio",14901,28.42
+1415,"San Miguel Uspantán",52438,"En otro municipio",430,0.82
+1415,"San Miguel Uspantán",52438,"En otro país",2,0
+1415,"San Miguel Uspantán",52438,"NA_Lugar_Estudio",455,0.87
+1416,"Sacapulas",42951,"En el mismo municipio",10080,23.47
+1416,"Sacapulas",42951,"En otro municipio",498,1.16
+1416,"Sacapulas",42951,"En otro país",2,0
+1416,"Sacapulas",42951,"NA_Lugar_Estudio",398,0.93
+1417,"San Bartolomé Jocotenango",10860,"En el mismo municipio",2504,23.06
+1417,"San Bartolomé Jocotenango",10860,"En otro municipio",83,0.76
+1417,"San Bartolomé Jocotenango",10860,"En otro país",0,0
+1417,"San Bartolomé Jocotenango",10860,"NA_Lugar_Estudio",74,0.68
+1418,"Canillá",10011,"En el mismo municipio",2174,21.72
+1418,"Canillá",10011,"En otro municipio",99,0.99
+1418,"Canillá",10011,"En otro país",0,0
+1418,"Canillá",10011,"NA_Lugar_Estudio",134,1.34
+1419,"Chicamán",31535,"En el mismo municipio",9456,29.99
+1419,"Chicamán",31535,"En otro municipio",433,1.37
+1419,"Chicamán",31535,"En otro país",0,0
+1419,"Chicamán",31535,"NA_Lugar_Estudio",381,1.21
+1420,"Playa Grande Ixcán",78853,"En el mismo municipio",22631,28.7
+1420,"Playa Grande Ixcán",78853,"En otro municipio",491,0.62
+1420,"Playa Grande Ixcán",78853,"En otro país",46,0.06
+1420,"Playa Grande Ixcán",78853,"NA_Lugar_Estudio",508,0.64
+1421,"Pachalum",7578,"En el mismo municipio",1948,25.71
+1421,"Pachalum",7578,"En otro municipio",168,2.22
+1421,"Pachalum",7578,"En otro país",1,0.01
+1421,"Pachalum",7578,"NA_Lugar_Estudio",53,0.7
+1501,"Salamá",55033,"En el mismo municipio",14464,26.28
+1501,"Salamá",55033,"En otro municipio",795,1.44
+1501,"Salamá",55033,"En otro país",4,0.01
+1501,"Salamá",55033,"NA_Lugar_Estudio",436,0.79
+1502,"San Miguel Chicaj",27345,"En el mismo municipio",7742,28.31
+1502,"San Miguel Chicaj",27345,"En otro municipio",1010,3.69
+1502,"San Miguel Chicaj",27345,"En otro país",1,0
+1502,"San Miguel Chicaj",27345,"NA_Lugar_Estudio",168,0.61
+1503,"Rabinal",34690,"En el mismo municipio",10012,28.86
+1503,"Rabinal",34690,"En otro municipio",1090,3.14
+1503,"Rabinal",34690,"En otro país",1,0
+1503,"Rabinal",34690,"NA_Lugar_Estudio",177,0.51
+1504,"Cubulco",45369,"En el mismo municipio",10100,22.26
+1504,"Cubulco",45369,"En otro municipio",596,1.31
+1504,"Cubulco",45369,"En otro país",0,0
+1504,"Cubulco",45369,"NA_Lugar_Estudio",295,0.65
+1505,"Granados",11644,"En el mismo municipio",2458,21.11
+1505,"Granados",11644,"En otro municipio",473,4.06
+1505,"Granados",11644,"En otro país",2,0.02
+1505,"Granados",11644,"NA_Lugar_Estudio",60,0.52
+1506,"Santa Cruz El Chol",8188,"En el mismo municipio",1786,21.81
+1506,"Santa Cruz El Chol",8188,"En otro municipio",391,4.78
+1506,"Santa Cruz El Chol",8188,"En otro país",0,0
+1506,"Santa Cruz El Chol",8188,"NA_Lugar_Estudio",15,0.18
+1507,"San Jerónimo",21412,"En el mismo municipio",4442,20.75
+1507,"San Jerónimo",21412,"En otro municipio",1563,7.3
+1507,"San Jerónimo",21412,"En otro país",1,0
+1507,"San Jerónimo",21412,"NA_Lugar_Estudio",131,0.61
+1508,"Purulhá",44495,"En el mismo municipio",12015,27
+1508,"Purulhá",44495,"En otro municipio",761,1.71
+1508,"Purulhá",44495,"En otro país",1,0
+1508,"Purulhá",44495,"NA_Lugar_Estudio",244,0.55
+1601,"Cobán",176556,"En el mismo municipio",51179,28.99
+1601,"Cobán",176556,"En otro municipio",1947,1.1
+1601,"Cobán",176556,"En otro país",26,0.01
+1601,"Cobán",176556,"NA_Lugar_Estudio",1571,0.89
+1602,"Santa Cruz Verapaz",26246,"En el mismo municipio",6354,24.21
+1602,"Santa Cruz Verapaz",26246,"En otro municipio",1826,6.96
+1602,"Santa Cruz Verapaz",26246,"En otro país",3,0.01
+1602,"Santa Cruz Verapaz",26246,"NA_Lugar_Estudio",94,0.36
+1603,"San Cristóbal Verapaz",55367,"En el mismo municipio",16033,28.96
+1603,"San Cristóbal Verapaz",55367,"En otro municipio",1492,2.69
+1603,"San Cristóbal Verapaz",55367,"En otro país",3,0.01
+1603,"San Cristóbal Verapaz",55367,"NA_Lugar_Estudio",339,0.61
+1604,"Tactic",31382,"En el mismo municipio",8056,25.67
+1604,"Tactic",31382,"En otro municipio",1020,3.25
+1604,"Tactic",31382,"En otro país",3,0.01
+1604,"Tactic",31382,"NA_Lugar_Estudio",161,0.51
+1605,"Tamahú",16174,"En el mismo municipio",4471,27.64
+1605,"Tamahú",16174,"En otro municipio",337,2.08
+1605,"Tamahú",16174,"En otro país",0,0
+1605,"Tamahú",16174,"NA_Lugar_Estudio",114,0.7
+1606,"San Miguel Tucurú",34450,"En el mismo municipio",9839,28.56
+1606,"San Miguel Tucurú",34450,"En otro municipio",193,0.56
+1606,"San Miguel Tucurú",34450,"En otro país",0,0
+1606,"San Miguel Tucurú",34450,"NA_Lugar_Estudio",343,1
+1607,"Panzós",56330,"En el mismo municipio",15516,27.54
+1607,"Panzós",56330,"En otro municipio",575,1.02
+1607,"Panzós",56330,"En otro país",0,0
+1607,"Panzós",56330,"NA_Lugar_Estudio",408,0.72
+1608,"Senahú",73262,"En el mismo municipio",18731,25.57
+1608,"Senahú",73262,"En otro municipio",550,0.75
+1608,"Senahú",73262,"En otro país",1,0
+1608,"Senahú",73262,"NA_Lugar_Estudio",552,0.75
+1609,"San Pedro Carchá",190682,"En el mismo municipio",49633,26.03
+1609,"San Pedro Carchá",190682,"En otro municipio",3019,1.58
+1609,"San Pedro Carchá",190682,"En otro país",3,0
+1609,"San Pedro Carchá",190682,"NA_Lugar_Estudio",1103,0.58
+1610,"San Juan Chamelco",46967,"En el mismo municipio",12110,25.78
+1610,"San Juan Chamelco",46967,"En otro municipio",1702,3.62
+1610,"San Juan Chamelco",46967,"En otro país",2,0
+1610,"San Juan Chamelco",46967,"NA_Lugar_Estudio",303,0.65
+1611,"San Agustín Lanquín",19587,"En el mismo municipio",4836,24.69
+1611,"San Agustín Lanquín",19587,"En otro municipio",119,0.61
+1611,"San Agustín Lanquín",19587,"En otro país",0,0
+1611,"San Agustín Lanquín",19587,"NA_Lugar_Estudio",198,1.01
+1612,"Santa María Cahabón",53122,"En el mismo municipio",13836,26.05
+1612,"Santa María Cahabón",53122,"En otro municipio",286,0.54
+1612,"Santa María Cahabón",53122,"En otro país",0,0
+1612,"Santa María Cahabón",53122,"NA_Lugar_Estudio",860,1.62
+1613,"Chisec",67101,"En el mismo municipio",18834,28.07
+1613,"Chisec",67101,"En otro municipio",799,1.19
+1613,"Chisec",67101,"En otro país",3,0
+1613,"Chisec",67101,"NA_Lugar_Estudio",548,0.82
+1614,"Chahal",21430,"En el mismo municipio",5511,25.72
+1614,"Chahal",21430,"En otro municipio",332,1.55
+1614,"Chahal",21430,"En otro país",4,0.02
+1614,"Chahal",21430,"NA_Lugar_Estudio",196,0.91
+1615,"Fray Bartolomé de las Casas",53309,"En el mismo municipio",14614,27.41
+1615,"Fray Bartolomé de las Casas",53309,"En otro municipio",479,0.9
+1615,"Fray Bartolomé de las Casas",53309,"En otro país",1,0
+1615,"Fray Bartolomé de las Casas",53309,"NA_Lugar_Estudio",292,0.55
+1616,"Santa Catalina La Tinta",32694,"En el mismo municipio",9622,29.43
+1616,"Santa Catalina La Tinta",32694,"En otro municipio",224,0.69
+1616,"Santa Catalina La Tinta",32694,"En otro país",1,0
+1616,"Santa Catalina La Tinta",32694,"NA_Lugar_Estudio",205,0.63
+1617,"Raxruhá",29576,"En el mismo municipio",8255,27.91
+1617,"Raxruhá",29576,"En otro municipio",247,0.84
+1617,"Raxruhá",29576,"En otro país",0,0
+1617,"Raxruhá",29576,"NA_Lugar_Estudio",216,0.73
+1701,"Flores",32869,"En el mismo municipio",9675,29.44
+1701,"Flores",32869,"En otro municipio",405,1.23
+1701,"Flores",32869,"En otro país",12,0.04
+1701,"Flores",32869,"NA_Lugar_Estudio",318,0.97
+1702,"San José",5840,"En el mismo municipio",1280,21.92
+1702,"San José",5840,"En otro municipio",491,8.41
+1702,"San José",5840,"En otro país",3,0.05
+1702,"San José",5840,"NA_Lugar_Estudio",52,0.89
+1703,"San Benito",37396,"En el mismo municipio",10103,27.02
+1703,"San Benito",37396,"En otro municipio",1760,4.71
+1703,"San Benito",37396,"En otro país",4,0.01
+1703,"San Benito",37396,"NA_Lugar_Estudio",629,1.68
+1704,"San Andrés",26660,"En el mismo municipio",6592,24.73
+1704,"San Andrés",26660,"En otro municipio",563,2.11
+1704,"San Andrés",26660,"En otro país",25,0.09
+1704,"San Andrés",26660,"NA_Lugar_Estudio",163,0.61
+1705,"La Libertad",59014,"En el mismo municipio",16047,27.19
+1705,"La Libertad",59014,"En otro municipio",289,0.49
+1705,"La Libertad",59014,"En otro país",8,0.01
+1705,"La Libertad",59014,"NA_Lugar_Estudio",514,0.87
+1706,"San Francisco",12752,"En el mismo municipio",3442,26.99
+1706,"San Francisco",12752,"En otro municipio",398,3.12
+1706,"San Francisco",12752,"En otro país",5,0.04
+1706,"San Francisco",12752,"NA_Lugar_Estudio",133,1.04
+1707,"Santa Ana",18226,"En el mismo municipio",4549,24.96
+1707,"Santa Ana",18226,"En otro municipio",613,3.36
+1707,"Santa Ana",18226,"En otro país",2,0.01
+1707,"Santa Ana",18226,"NA_Lugar_Estudio",250,1.37
+1708,"Dolores",22101,"En el mismo municipio",6145,27.8
+1708,"Dolores",22101,"En otro municipio",355,1.61
+1708,"Dolores",22101,"En otro país",0,0
+1708,"Dolores",22101,"NA_Lugar_Estudio",220,1
+1709,"San Luis",54895,"En el mismo municipio",13857,25.24
+1709,"San Luis",54895,"En otro municipio",437,0.8
+1709,"San Luis",54895,"En otro país",5,0.01
+1709,"San Luis",54895,"NA_Lugar_Estudio",343,0.62
+1710,"Sayaxché",74570,"En el mismo municipio",21265,28.52
+1710,"Sayaxché",74570,"En otro municipio",475,0.64
+1710,"Sayaxché",74570,"En otro país",12,0.02
+1710,"Sayaxché",74570,"NA_Lugar_Estudio",569,0.76
+1711,"Melchor de Mencos",23557,"En el mismo municipio",5552,23.57
+1711,"Melchor de Mencos",23557,"En otro municipio",243,1.03
+1711,"Melchor de Mencos",23557,"En otro país",486,2.06
+1711,"Melchor de Mencos",23557,"NA_Lugar_Estudio",233,0.99
+1712,"Poptún",43517,"En el mismo municipio",12927,29.71
+1712,"Poptún",43517,"En otro municipio",209,0.48
+1712,"Poptún",43517,"En otro país",7,0.02
+1712,"Poptún",43517,"NA_Lugar_Estudio",496,1.14
+1713,"Las Cruces",26491,"En el mismo municipio",6399,24.16
+1713,"Las Cruces",26491,"En otro municipio",238,0.9
+1713,"Las Cruces",26491,"En otro país",20,0.08
+1713,"Las Cruces",26491,"NA_Lugar_Estudio",183,0.69
+1714,"El Chal",11443,"En el mismo municipio",2968,25.94
+1714,"El Chal",11443,"En otro municipio",140,1.22
+1714,"El Chal",11443,"En otro país",2,0.02
+1714,"El Chal",11443,"NA_Lugar_Estudio",105,0.92
+1801,"Puerto Barrios",88034,"En el mismo municipio",23604,26.81
+1801,"Puerto Barrios",88034,"En otro municipio",193,0.22
+1801,"Puerto Barrios",88034,"En otro país",7,0.01
+1801,"Puerto Barrios",88034,"NA_Lugar_Estudio",1334,1.52
+1802,"Livingston",60101,"En el mismo municipio",15992,26.61
+1802,"Livingston",60101,"En otro municipio",592,0.99
+1802,"Livingston",60101,"En otro país",5,0.01
+1802,"Livingston",60101,"NA_Lugar_Estudio",648,1.08
+1803,"El Estor",57875,"En el mismo municipio",17355,29.99
+1803,"El Estor",57875,"En otro municipio",330,0.57
+1803,"El Estor",57875,"En otro país",1,0
+1803,"El Estor",57875,"NA_Lugar_Estudio",605,1.05
+1804,"Morales",85458,"En el mismo municipio",21715,25.41
+1804,"Morales",85458,"En otro municipio",694,0.81
+1804,"Morales",85458,"En otro país",27,0.03
+1804,"Morales",85458,"NA_Lugar_Estudio",662,0.77
+1805,"Los Amates",51146,"En el mismo municipio",12418,24.28
+1805,"Los Amates",51146,"En otro municipio",673,1.32
+1805,"Los Amates",51146,"En otro país",2,0
+1805,"Los Amates",51146,"NA_Lugar_Estudio",575,1.12
+1901,"Zacapa",52315,"En el mismo municipio",13454,25.72
+1901,"Zacapa",52315,"En otro municipio",402,0.77
+1901,"Zacapa",52315,"En otro país",3,0.01
+1901,"Zacapa",52315,"NA_Lugar_Estudio",761,1.45
+1902,"Estanzuela",8679,"En el mismo municipio",1785,20.57
+1902,"Estanzuela",8679,"En otro municipio",331,3.81
+1902,"Estanzuela",8679,"En otro país",0,0
+1902,"Estanzuela",8679,"NA_Lugar_Estudio",92,1.06
+1903,"Río Hondo",18647,"En el mismo municipio",3960,21.24
+1903,"Río Hondo",18647,"En otro municipio",607,3.26
+1903,"Río Hondo",18647,"En otro país",2,0.01
+1903,"Río Hondo",18647,"NA_Lugar_Estudio",188,1.01
+1904,"Gualán",38900,"En el mismo municipio",7984,20.52
+1904,"Gualán",38900,"En otro municipio",455,1.17
+1904,"Gualán",38900,"En otro país",6,0.02
+1904,"Gualán",38900,"NA_Lugar_Estudio",725,1.86
+1905,"Teculután",15264,"En el mismo municipio",3662,23.99
+1905,"Teculután",15264,"En otro municipio",336,2.2
+1905,"Teculután",15264,"En otro país",0,0
+1905,"Teculután",15264,"NA_Lugar_Estudio",309,2.02
+1906,"Usumatlán",10375,"En el mismo municipio",2272,21.9
+1906,"Usumatlán",10375,"En otro municipio",524,5.05
+1906,"Usumatlán",10375,"En otro país",0,0
+1906,"Usumatlán",10375,"NA_Lugar_Estudio",72,0.69
+1907,"Cabañas",11566,"En el mismo municipio",2680,23.17
+1907,"Cabañas",11566,"En otro municipio",348,3.01
+1907,"Cabañas",11566,"En otro país",0,0
+1907,"Cabañas",11566,"NA_Lugar_Estudio",78,0.67
+1908,"San Diego",6210,"En el mismo municipio",1698,27.34
+1908,"San Diego",6210,"En otro municipio",125,2.01
+1908,"San Diego",6210,"En otro país",0,0
+1908,"San Diego",6210,"NA_Lugar_Estudio",106,1.71
+1909,"La Unión",27064,"En el mismo municipio",6141,22.69
+1909,"La Unión",27064,"En otro municipio",315,1.16
+1909,"La Unión",27064,"En otro país",0,0
+1909,"La Unión",27064,"NA_Lugar_Estudio",397,1.47
+1910,"Huité",9546,"En el mismo municipio",2345,24.57
+1910,"Huité",9546,"En otro municipio",290,3.04
+1910,"Huité",9546,"En otro país",0,0
+1910,"Huité",9546,"NA_Lugar_Estudio",70,0.73
+1911,"San Jorge",10626,"En el mismo municipio",2646,24.9
+1911,"San Jorge",10626,"En otro municipio",287,2.7
+1911,"San Jorge",10626,"En otro país",0,0
+1911,"San Jorge",10626,"NA_Lugar_Estudio",164,1.54
+2001,"Chiquimula",94267,"En el mismo municipio",24771,26.28
+2001,"Chiquimula",94267,"En otro municipio",269,0.29
+2001,"Chiquimula",94267,"En otro país",9,0.01
+2001,"Chiquimula",94267,"NA_Lugar_Estudio",1169,1.24
+2002,"San José la Arada",7538,"En el mismo municipio",1331,17.66
+2002,"San José la Arada",7538,"En otro municipio",328,4.35
+2002,"San José la Arada",7538,"En otro país",0,0
+2002,"San José la Arada",7538,"NA_Lugar_Estudio",60,0.8
+2003,"San Juan Ermita",13703,"En el mismo municipio",2912,21.25
+2003,"San Juan Ermita",13703,"En otro municipio",486,3.55
+2003,"San Juan Ermita",13703,"En otro país",0,0
+2003,"San Juan Ermita",13703,"NA_Lugar_Estudio",114,0.83
+2004,"Jocotán",52224,"En el mismo municipio",13147,25.17
+2004,"Jocotán",52224,"En otro municipio",465,0.89
+2004,"Jocotán",52224,"En otro país",0,0
+2004,"Jocotán",52224,"NA_Lugar_Estudio",519,0.99
+2005,"Camotán",44574,"En el mismo municipio",11009,24.7
+2005,"Camotán",44574,"En otro municipio",832,1.87
+2005,"Camotán",44574,"En otro país",6,0.01
+2005,"Camotán",44574,"NA_Lugar_Estudio",374,0.84
+2006,"Olopa",21810,"En el mismo municipio",5386,24.7
+2006,"Olopa",21810,"En otro municipio",391,1.79
+2006,"Olopa",21810,"En otro país",1,0
+2006,"Olopa",21810,"NA_Lugar_Estudio",134,0.61
+2007,"Esquipulas",45098,"En el mismo municipio",10327,22.9
+2007,"Esquipulas",45098,"En otro municipio",543,1.2
+2007,"Esquipulas",45098,"En otro país",30,0.07
+2007,"Esquipulas",45098,"NA_Lugar_Estudio",483,1.07
+2008,"Concepción las Minas",10260,"En el mismo municipio",2094,20.41
+2008,"Concepción las Minas",10260,"En otro municipio",243,2.37
+2008,"Concepción las Minas",10260,"En otro país",1,0.01
+2008,"Concepción las Minas",10260,"NA_Lugar_Estudio",145,1.41
+2009,"Quezaltepeque",24071,"En el mismo municipio",5099,21.18
+2009,"Quezaltepeque",24071,"En otro municipio",567,2.36
+2009,"Quezaltepeque",24071,"En otro país",2,0.01
+2009,"Quezaltepeque",24071,"NA_Lugar_Estudio",330,1.37
+2010,"San Jacinto",10780,"En el mismo municipio",2227,20.66
+2010,"San Jacinto",10780,"En otro municipio",324,3.01
+2010,"San Jacinto",10780,"En otro país",0,0
+2010,"San Jacinto",10780,"NA_Lugar_Estudio",81,0.75
+2011,"Ipala",19509,"En el mismo municipio",4100,21.02
+2011,"Ipala",19509,"En otro municipio",367,1.88
+2011,"Ipala",19509,"En otro país",1,0.01
+2011,"Ipala",19509,"NA_Lugar_Estudio",197,1.01
+2101,"Jalapa",130920,"En el mismo municipio",39384,30.08
+2101,"Jalapa",130920,"En otro municipio",815,0.62
+2101,"Jalapa",130920,"En otro país",13,0.01
+2101,"Jalapa",130920,"NA_Lugar_Estudio",988,0.75
+2102,"San Pedro Pinula",50234,"En el mismo municipio",12389,24.66
+2102,"San Pedro Pinula",50234,"En otro municipio",772,1.54
+2102,"San Pedro Pinula",50234,"En otro país",1,0
+2102,"San Pedro Pinula",50234,"NA_Lugar_Estudio",342,0.68
+2103,"San Luis Jilotepeque",21370,"En el mismo municipio",4188,19.6
+2103,"San Luis Jilotepeque",21370,"En otro municipio",805,3.77
+2103,"San Luis Jilotepeque",21370,"En otro país",1,0
+2103,"San Luis Jilotepeque",21370,"NA_Lugar_Estudio",91,0.43
+2104,"San Manuel Chaparrón",7210,"En el mismo municipio",1420,19.69
+2104,"San Manuel Chaparrón",7210,"En otro municipio",223,3.09
+2104,"San Manuel Chaparrón",7210,"En otro país",1,0.01
+2104,"San Manuel Chaparrón",7210,"NA_Lugar_Estudio",43,0.6
+2105,"San Carlos Alzatate",15344,"En el mismo municipio",3872,25.23
+2105,"San Carlos Alzatate",15344,"En otro municipio",272,1.77
+2105,"San Carlos Alzatate",15344,"En otro país",0,0
+2105,"San Carlos Alzatate",15344,"NA_Lugar_Estudio",129,0.84
+2106,"Monjas",23363,"En el mismo municipio",5435,23.26
+2106,"Monjas",23363,"En otro municipio",482,2.06
+2106,"Monjas",23363,"En otro país",1,0
+2106,"Monjas",23363,"NA_Lugar_Estudio",206,0.88
+2107,"Mataquescuintla",35037,"En el mismo municipio",8350,23.83
+2107,"Mataquescuintla",35037,"En otro municipio",413,1.18
+2107,"Mataquescuintla",35037,"En otro país",0,0
+2107,"Mataquescuintla",35037,"NA_Lugar_Estudio",244,0.7
+2201,"Jutiapa",123277,"En el mismo municipio",34538,28.02
+2201,"Jutiapa",123277,"En otro municipio",903,0.73
+2201,"Jutiapa",123277,"En otro país",3,0
+2201,"Jutiapa",123277,"NA_Lugar_Estudio",1256,1.02
+2202,"El Progreso",19244,"En el mismo municipio",4107,21.34
+2202,"El Progreso",19244,"En otro municipio",722,3.75
+2202,"El Progreso",19244,"En otro país",3,0.02
+2202,"El Progreso",19244,"NA_Lugar_Estudio",203,1.05
+2203,"Santa Catarina Mita",24867,"En el mismo municipio",5235,21.05
+2203,"Santa Catarina Mita",24867,"En otro municipio",759,3.05
+2203,"Santa Catarina Mita",24867,"En otro país",2,0.01
+2203,"Santa Catarina Mita",24867,"NA_Lugar_Estudio",203,0.82
+2204,"Agua Blanca",14356,"En el mismo municipio",2854,19.88
+2204,"Agua Blanca",14356,"En otro municipio",268,1.87
+2204,"Agua Blanca",14356,"En otro país",17,0.12
+2204,"Agua Blanca",14356,"NA_Lugar_Estudio",137,0.95
+2205,"Asunción Mita",42018,"En el mismo municipio",8557,20.37
+2205,"Asunción Mita",42018,"En otro municipio",905,2.15
+2205,"Asunción Mita",42018,"En otro país",21,0.05
+2205,"Asunción Mita",42018,"NA_Lugar_Estudio",445,1.06
+2206,"Yupiltepeque",14956,"En el mismo municipio",3798,25.39
+2206,"Yupiltepeque",14956,"En otro municipio",750,5.01
+2206,"Yupiltepeque",14956,"En otro país",1,0.01
+2206,"Yupiltepeque",14956,"NA_Lugar_Estudio",163,1.09
+2207,"Atescatempa",16106,"En el mismo municipio",3558,22.09
+2207,"Atescatempa",16106,"En otro municipio",387,2.4
+2207,"Atescatempa",16106,"En otro país",48,0.3
+2207,"Atescatempa",16106,"NA_Lugar_Estudio",160,0.99
+2208,"Jerez",5568,"En el mismo municipio",1195,21.46
+2208,"Jerez",5568,"En otro municipio",236,4.24
+2208,"Jerez",5568,"En otro país",46,0.83
+2208,"Jerez",5568,"NA_Lugar_Estudio",16,0.29
+2209,"El Adelanto",5556,"En el mismo municipio",1407,25.32
+2209,"El Adelanto",5556,"En otro municipio",209,3.76
+2209,"El Adelanto",5556,"En otro país",0,0
+2209,"El Adelanto",5556,"NA_Lugar_Estudio",32,0.58
+2210,"Zapotitlán",7827,"En el mismo municipio",1875,23.96
+2210,"Zapotitlán",7827,"En otro municipio",490,6.26
+2210,"Zapotitlán",7827,"En otro país",9,0.11
+2210,"Zapotitlán",7827,"NA_Lugar_Estudio",102,1.3
+2211,"Comapa",26734,"En el mismo municipio",7589,28.39
+2211,"Comapa",26734,"En otro municipio",478,1.79
+2211,"Comapa",26734,"En otro país",1,0
+2211,"Comapa",26734,"NA_Lugar_Estudio",272,1.02
+2212,"Jalpatagua",24603,"En el mismo municipio",6543,26.59
+2212,"Jalpatagua",24603,"En otro municipio",573,2.33
+2212,"Jalpatagua",24603,"En otro país",5,0.02
+2212,"Jalpatagua",24603,"NA_Lugar_Estudio",238,0.97
+2213,"Conguaco",18830,"En el mismo municipio",5421,28.79
+2213,"Conguaco",18830,"En otro municipio",441,2.34
+2213,"Conguaco",18830,"En otro país",1,0.01
+2213,"Conguaco",18830,"NA_Lugar_Estudio",188,1
+2214,"Moyuta",33323,"En el mismo municipio",8687,26.07
+2214,"Moyuta",33323,"En otro municipio",511,1.53
+2214,"Moyuta",33323,"En otro país",7,0.02
+2214,"Moyuta",33323,"NA_Lugar_Estudio",347,1.04
+2215,"Pasaco",7496,"En el mismo municipio",1880,25.08
+2215,"Pasaco",7496,"En otro municipio",279,3.72
+2215,"Pasaco",7496,"En otro país",0,0
+2215,"Pasaco",7496,"NA_Lugar_Estudio",59,0.79
+2216,"San José Acatempa",11548,"En el mismo municipio",2201,19.06
+2216,"San José Acatempa",11548,"En otro municipio",770,6.67
+2216,"San José Acatempa",11548,"En otro país",0,0
+2216,"San José Acatempa",11548,"NA_Lugar_Estudio",149,1.29
+2217,"Quesada",19418,"En el mismo municipio",4438,22.86
+2217,"Quesada",19418,"En otro municipio",814,4.19
+2217,"Quesada",19418,"En otro país",0,0
+2217,"Quesada",19418,"NA_Lugar_Estudio",99,0.51
