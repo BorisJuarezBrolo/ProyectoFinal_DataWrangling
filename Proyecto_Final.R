@@ -4,7 +4,8 @@ library(lubridate)
 library(stringr)
 library(tidyverse)
 library(DataExplorer)
-
+library(ggplot2)
+library(plotly)
 
 rm(list = ls())
 
@@ -23,6 +24,10 @@ for (nombre in archivos) {
 }
 
 rm(nombre, pre, archivos, temp_df)
+
+#EDA
+
+
 
 ## Formatear tablas de Caracteristicas
 
@@ -197,7 +202,7 @@ m_educacion<- m_educacion %>% gather(key = 'Nivel Educativo', value = 'Cantidad 
 # Depertamental
 d_empleo <- d_empleo %>% gather(key = 'Situación Laboral', value = 'Personas', 5:7) %>% arrange(`Código`) %>% 
   select(1:2, 4, `Situación Laboral`, `Personas`) %>% 
-  mutate(`Porcentaje de Economicamente Activa`=round(`Población Económicamente Activa`/`Personas`*100, 2))
+  mutate(`Porcentaje de Economicamente Activa`=round(`Personas`/`Población Económicamente Activa`*100, 2))
   
 # Municipal
 m_empleo <- d_empleo %>% gather(key = 'Situación Laboral', value = 'Personas', 5:7) %>% arrange(`Código`) %>% 
@@ -229,11 +234,11 @@ m_hogares <- m_hogares %>% select(1,2,5,6)
 d_genero <- d_poblacion %>% gather(key = 'Genero' , value= 'Cantidad', 4:5) %>% arrange(`Código`) %>% 
   select(1:3, `Genero`, `Cantidad`)
 
-d_edad_15 <- d_poblacion %>% gather(key = 'Grupo de Edades 15 años', value='Cantidad', 6:10) %>% arrange(`Código`) %>%
+d_edad_15 <- d_poblacion %>% gather(key = 'Grupo de Edades 15 años', value='Cantidad', 6:10, factor_key = TRUE) %>% arrange(`Código`) %>%
   select(1:3, `Grupo de Edades 15 años`, `Cantidad`) %>% 
   mutate(`Porcentaje de Poblacion`= round(`Cantidad`/ `Total de personas`*100, 2))
 
-d_edad_5 <- d_poblacion %>% gather(key = 'Grupo de Edades 5 años', value='Cantidad', 11:31) %>% arrange(`Código`) %>%
+d_edad_5 <- d_poblacion %>% gather(key = 'Grupo de Edades 5 años', value='Cantidad', 11:31, factor_key = TRUE) %>% arrange(`Código`) %>%
   select(1:3, `Grupo de Edades 5 años`, `Cantidad`) %>% 
   mutate(`Porcentaje de Poblacion`= round(`Cantidad`/ `Total de personas`*100, 2))
 
@@ -258,11 +263,11 @@ rm(d_poblacion)
 m_genero <- m_poblacion %>% gather(key = 'Genero' , value= 'Cantidad', 4:5) %>% arrange(`Código`) %>% 
   select(1:3, `Genero`, `Cantidad`)
 
-m_edad_15 <- m_poblacion %>% gather(key = 'Grupo de Edades 15 años', value='Cantidad', 6:10) %>% arrange(`Código`) %>%
+m_edad_15 <- m_poblacion %>% gather(key = 'Grupo de Edades 15 años', value='Cantidad', 6:10, factor_key = TRUE) %>% arrange(`Código`) %>%
   select(1:3, `Grupo de Edades 15 años`, `Cantidad`) %>% 
   mutate(`Porcentaje de Poblacion`= round(`Cantidad`/ `Total de personas`*100, 2))
 
-m_edad_5 <- m_poblacion %>% gather(key = 'Grupo de Edades 5 años', value='Cantidad', 11:31) %>% arrange(`Código`) %>%
+m_edad_5 <- m_poblacion %>% gather(key = 'Grupo de Edades 5 años', value='Cantidad', 11:31, factor_key = TRUE) %>% arrange(`Código`) %>%
   select(1:3, `Grupo de Edades 5 años`, `Cantidad`) %>% 
   mutate(`Porcentaje de Poblacion`= round(`Cantidad`/ `Total de personas`*100, 2))
 
@@ -372,4 +377,16 @@ m_vivienda <- m_vivienda %>% gather(key = 'Tipo de Vivienda', value = 'Cantidad 
   select(1:3, `Tipo de Vivienda`, `Cantidad de Viviendas`) %>% 
   mutate(`Porcentaje de Viviendas`= round(`Cantidad de Viviendas`/ `Total de viviendas`*100, 2))
 
+
+
+write.csv(d_alfabetizacion, file = 'Base de Datos/d_alfabetizacion.csv', row.names = FALSE)
+write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
+
+
+
+
+d_edad_5 %>% plot_ly(x =~`Grupo de Edades 5 años`, y = ~`Porcentaje de Poblacion`, color= ~Departamento,colors = "Accent", barmode = 'group', type = 'bar')%>%
+  layout(title = 'Grupos de Edades') 
+
+d_lugar_estudio %>% filter(`Lugar de Estudio`== 'En otro país') %>% full_join(d_empleo, by = c('Departamento', 'Código')) %>% 
 

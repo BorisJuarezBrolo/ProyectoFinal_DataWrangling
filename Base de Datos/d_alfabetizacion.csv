@@ -1,0 +1,45 @@
+"Código","Departamento","Población de 7 años o más","Situacion","Personas","Porcentaje Alfabetizacion"
+1,"Guatemala",2641109,"Alfabeta",2475362,93.72
+1,"Guatemala",2641109,"Analfabeta",165747,6.28
+2,"El Progreso",151201,"Alfabeta",132039,87.33
+2,"El Progreso",151201,"Analfabeta",19162,12.67
+3,"Sacatepéquez",287301,"Alfabeta",259175,90.21
+3,"Sacatepéquez",287301,"Analfabeta",28126,9.79
+4,"Chimaltenango",517360,"Alfabeta",441259,85.29
+4,"Chimaltenango",517360,"Analfabeta",76101,14.71
+5,"Escuintla",623009,"Alfabeta",541580,86.93
+5,"Escuintla",623009,"Analfabeta",81429,13.07
+6,"Santa Rosa",336320,"Alfabeta",289945,86.21
+6,"Santa Rosa",336320,"Analfabeta",46375,13.79
+7,"Sololá",358457,"Alfabeta",267572,74.65
+7,"Sololá",358457,"Analfabeta",90885,25.35
+8,"Totonicapán",350819,"Alfabeta",261125,74.43
+8,"Totonicapán",350819,"Analfabeta",89694,25.57
+9,"Quetzaltenango",680558,"Alfabeta",576826,84.76
+9,"Quetzaltenango",680558,"Analfabeta",103732,15.24
+10,"Suchitepéquez",463564,"Alfabeta",377468,81.43
+10,"Suchitepéquez",463564,"Analfabeta",86096,18.57
+11,"Retalhuleu",274349,"Alfabeta",230961,84.19
+11,"Retalhuleu",274349,"Analfabeta",43388,15.81
+12,"San Marcos",848315,"Alfabeta",678568,79.99
+12,"San Marcos",848315,"Analfabeta",169747,20.01
+13,"Huehuetenango",946716,"Alfabeta",678520,71.67
+13,"Huehuetenango",946716,"Analfabeta",268196,28.33
+14,"Quiché",773272,"Alfabeta",520867,67.36
+14,"Quiché",773272,"Analfabeta",252405,32.64
+15,"Baja Verapaz",248176,"Alfabeta",186709,75.23
+15,"Baja Verapaz",248176,"Analfabeta",61467,24.77
+16,"Alta Verapaz",984235,"Alfabeta",669746,68.05
+16,"Alta Verapaz",984235,"Analfabeta",314489,31.95
+17,"Petén",449331,"Alfabeta",355388,79.09
+17,"Petén",449331,"Analfabeta",93943,20.91
+18,"Izabal",342614,"Alfabeta",278687,81.34
+18,"Izabal",342614,"Analfabeta",63927,18.66
+19,"Zacapa",209192,"Alfabeta",171773,82.11
+19,"Zacapa",209192,"Analfabeta",37419,17.89
+20,"Chiquimula",343834,"Alfabeta",254228,73.94
+20,"Chiquimula",343834,"Analfabeta",89606,26.06
+21,"Jalapa",283478,"Alfabeta",224147,79.07
+21,"Jalapa",283478,"Analfabeta",59331,20.93
+22,"Jutiapa",415727,"Alfabeta",343072,82.52
+22,"Jutiapa",415727,"Analfabeta",72655,17.48
