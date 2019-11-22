@@ -28,6 +28,8 @@ rm(nombre, pre, archivos, temp_df)
 
 #EDA
 
+introduce(d_poblacion)
+introduce(m_poblacion)
 
 
 ## Formatear tablas de Caracteristicas
@@ -298,10 +300,11 @@ d_comunidad_linguistica <- d_pueblo %>% gather(key = 'Comunidad Linguistica', va
   select(1:3, `Comunidad Linguistica`, `Cantidad`) %>% 
   mutate(`Porcentaje de Total`= round(`Cantidad`/ `Total de personas`*100, 2))
 
-d_idioma_materno <- d_pueblo %>% gather(key = 'Idioma Materno', value = 'Cantidad', 32:61) %>% arrange(`Código`) %>%
-  select(1:2,62, `Idioma Materno`, `Cantidad`) %>% 
-  mutate(`Porcentaje de Total`= round(`Cantidad`/`Población de 4 años o más`*100, 2)) %>%
-  mutate(`Idioma Materno` = str_remove(`Idioma Materno`, "__1"))
+d_idioma_materno <- d_pueblo %>% 
+  gather(key = 'Idioma Materno', value = 'Cantidad', 32:61) %>% arrange(`Código`) %>%
+  select(1:3, `Idioma Materno`, `Cantidad`) %>% 
+  mutate(`Porcentaje de Total`= round(`Cantidad`/`Total de personas`*100, 2)) %>%
+  mutate(`Idioma Materno` = str_remove(`Idioma Materno`, "...1"))
 
 d_pueblo <- d_pueblo %>% gather(key = 'Pueblo de Pertenencia', value='Cantidad', 4:9) %>% arrange(`Código`) %>%
   select(1:3, `Pueblo de Pertenencia`, `Cantidad`) %>% 
@@ -383,55 +386,79 @@ m_vivienda <- m_vivienda %>% gather(key = 'Tipo de Vivienda', value = 'Cantidad 
 write.csv(d_alfabetizacion, file = 'Base de Datos/d_alfabetizacion.csv', row.names = FALSE)
 write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
 write.csv(d_causas_inasistencia, file = 'Base de Datos/d_causas_inasistencia.csv', row.names = FALSE)
-write.csv(d_comunidad_linguistica, file = 'Base de Datos/d_comunidad_linguistica.csv', row.names = FALSE)
 write.csv(d_dificultades, file = 'Base de Datos/d_dificultades.csv', row.names = FALSE)
+write.csv(d_distribucion_hogares, file = 'Base de Datos/d_distribucion_hogares.csv', row.names = FALSE)
 write.csv(d_edad_15, file = 'Base de Datos/d_edad_15.csv', row.names = FALSE)
 write.csv(d_edad_5, file = 'Base de Datos/d_edad_5.csv', row.names = FALSE)
+write.csv(d_educacion, file = 'Base de Datos/d_educacion.csv', row.names = FALSE)
 write.csv(d_empleo, file = 'Base de Datos/d_empleo.csv', row.names = FALSE)
 write.csv(d_estado_civil, file = 'Base de Datos/d_estado_civil.csv', row.names = FALSE)
 write.csv(d_genero, file = 'Base de Datos/d_genero.csv', row.names = FALSE)
 write.csv(d_hijos_x_mujeres, file = 'Base de Datos/d_hijos_x_mujeres.csv', row.names = FALSE)
 write.csv(d_hogares, file = 'Base de Datos/d_hogares.csv', row.names = FALSE)
 write.csv(d_lugar_estudio, file = 'Base de Datos/d_lugar_estudio.csv', row.names = FALSE)
-write.csv(d_lugar, file = 'Base de Datos/d_lugar.csv', row.names = FALSE)
+write.csv(d_lugar_nacimiento, file = 'Base de Datos/d_lugar_nacimiento.csv', row.names = FALSE)
+write.csv(d_material_pared, file = 'Base de Datos/d_material_pared.csv', row.names = FALSE)
+write.csv(d_material_piso, file = 'Base de Datos/d_material_piso.csv', row.names = FALSE)
+write.csv(d_material_techo, file = 'Base de Datos/d_material_techo.csv', row.names = FALSE)
+write.csv(d_recidencia_2013, file = 'Base de Datos/d_recidencia_2013.csv', row.names = FALSE)
+write.csv(d_relacion_jefe, file = 'Base de Datos/d_relacion_jefe.csv', row.names = FALSE)
+write.csv(d_situacion_calle, file = 'Base de Datos/d_situacion_calle.csv', row.names = FALSE)
+write.csv(d_tecnologia, file = 'Base de Datos/d_tecnologia.csv', row.names = FALSE)
+write.csv(d_tecnologia_agrupado, file = 'Base de Datos/d_tecnologia_agrupado', row.names = FALSE)
+write.csv(d_tipo_ocupacion, file = 'Base de Datos/d_tipo_ocupacion.csv', row.names = FALSE)
+write.csv(d_vivienda, file = 'Base de Datos/d_vivienda.csv', row.names = FALSE)
+write.csv(d_zona, file = 'Base de Datos/d_zona.csv', row.names = FALSE)
 
-write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
-write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
-write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
-write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
-write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
-write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
-write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
-write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
+write.csv(d_comunidad_linguistica, file = 'Base de Datos/d_comunidad_linguistica.csv', row.names = FALSE)
+write.csv(d_pueblo, file = 'Base de Datos/d_pueblo.csv', row.names = FALSE)
+write.csv(d_idioma_materno, file = 'Base de Datos/d_idioma_materno.csv', row.names = FALSE)
+
+write.csv(m_alfabetizacion, file = 'Base de Datos/m_alfabetizacion.csv', row.names = FALSE)
+write.csv(m_asistencia, file = 'Base de Datos/m_asistencia.csv', row.names = FALSE)
+write.csv(m_causas_inasistencia, file = 'Base de Datos/m_causas_inasistencia.csv', row.names = FALSE)
+write.csv(m_dificultades, file = 'Base de Datos/m_dificultades.csv', row.names = FALSE)
+write.csv(m_distribucion_hogares, file = 'Base de Datos/m_distribucion_hogares.csv', row.names = FALSE)
+write.csv(m_edad_15, file = 'Base de Datos/m_edad_15.csv', row.names = FALSE)
+write.csv(m_edad_5, file = 'Base de Datos/m_edad_5.csv', row.names = FALSE)
+write.csv(m_educacion, file = 'Base de Datos/m_educacion.csv', row.names = FALSE)
+write.csv(m_empleo, file = 'Base de Datos/m_empleo.csv', row.names = FALSE)
+write.csv(m_estado_civil, file = 'Base de Datos/m_estado_civil.csv', row.names = FALSE)
+write.csv(m_genero, file = 'Base de Datos/m_genero.csv', row.names = FALSE)
+write.csv(m_hijos_x_mujeres, file = 'Base de Datos/m_hijos_x_mujeres.csv', row.names = FALSE)
+write.csv(m_hogares, file = 'Base de Datos/m_hogares.csv', row.names = FALSE)
+write.csv(m_lugar_estudio, file = 'Base de Datos/m_lugar_estudio.csv', row.names = FALSE)
+write.csv(m_lugar_nacimiento, file = 'Base de Datos/m_lugar_nacimiento.csv', row.names = FALSE)
+write.csv(m_material_pared, file = 'Base de Datos/m_material_pared.csv', row.names = FALSE)
+write.csv(m_material_piso, file = 'Base de Datos/m_material_piso.csv', row.names = FALSE)
+write.csv(m_material_techo, file = 'Base de Datos/m_material_techo.csv', row.names = FALSE)
+write.csv(m_recidencia_2013, file = 'Base de Datos/m_recidencia_2013.csv', row.names = FALSE)
+write.csv(m_relacion_jefe, file = 'Base de Datos/m_relacion_jefe.csv', row.names = FALSE)
+write.csv(m_situacion_calle, file = 'Base de Datos/m_situacion_calle.csv', row.names = FALSE)
+write.csv(m_tecnologia, file = 'Base de Datos/m_tecnologia.csv', row.names = FALSE)
+write.csv(m_tecnologia_agrupado, file = 'Base de Datos/m_tecnologia_agrupado', row.names = FALSE)
+write.csv(m_tipo_ocupacion, file = 'Base de Datos/m_tipo_ocupacion.csv', row.names = FALSE)
+write.csv(m_vivienda, file = 'Base de Datos/m_vivienda.csv', row.names = FALSE)
+write.csv(m_zona, file = 'Base de Datos/m_zona.csv', row.names = FALSE)
 
 
 
 d_edad_5 %>% plot_ly(x =~`Grupo de Edades 5 años`, y = ~`Porcentaje de Poblacion`, color= ~Departamento,colors = "Accent", barmode = 'group', type = 'bar')%>%
-  layout(title = 'Grupos de Edades') 
+  layout(title = 'Grupos de Edades')
 
 d_estado_civil %>% plot_ly(x =~`Estado Civil`, y = ~`Porcentaje de Poblacion`, color= ~Departamento,colors = "Accent", barmode = 'group', type = 'bar')%>%
-  layout(title = 'Estado Civil') 
+  layout(title = 'Estado Civil')
 
 d_estado_civil %>% plot_ly(labels =~`Estado Civil`, values = ~`Porcentaje de Poblacion` ,colors = "Accent", type = 'pie')%>%
-  layout(title = 'Estado Civil Pie') 
+  layout(title = 'Estado Civil Pie')
 
-d_educacion %>% plot_ly(labels = ~`Nivel Educativo`, values = ~`Cantidad de Personas`, type = 'pie') %>% 
+d_educacion %>% plot_ly(labels = ~`Nivel Educativo`, values = ~`Cantidad de Personas`, type = 'pie') %>%
   layout(title = 'Personas por Nivel Educativo')
 
-d_empleo %>% plot_ly(labels = ~`Situación Laboral`, values = ~`Personas`, type = 'pie') %>% 
+d_empleo %>% plot_ly(labels = ~`Situación Laboral`, values = ~`Personas`, type = 'pie') %>%
   layout(title = 'Situación Laboral')
 m_empleo %>% plot_ly(x = ~`Situación Laboral`, y = ~`Porcentaje de Economicamente Activa`, color= ~Municipio,colors = "Accent", barmode = 'group', type = 'bar')%>%
-  layout(title = 'Situación Laboral por Municipio') 
-
-
-
-d_lugar_estudio %>% filter(`Lugar de Estudio`== 'En otro país') %>% full_join(d_empleo, by = c('Departamento', 'Código')) %>% 
-  plot_correlation()
-
-m_lugar_nacimiento %>%
-plot_ly(x =~`Lugar de Nacimiento`, y = ~`Porcentaje de la Poblacion`, color= ~Municipio,colors = "Accent", barmode = 'group', type = 'bar')%>%
-  layout(title = 'Lugar de Nac') 
-
+  layout(title = 'Situación Laboral por Municipio')
 
 
 m_lugar_nacimiento %>% arrange(`Porcentaje de la Poblacion`) %>% head(3)
@@ -439,9 +466,7 @@ m_lugar_nacimiento %>% arrange(`Porcentaje de la Poblacion`) %>% head(3)
 d_lugar_nacimiento %>% filter(`Lugar de Nacimiento`=="En otro paÍs")%>% arrange(desc(`Porcentaje de la Poblacion`)) %>% head(3)
 
 m_lugar_nacimiento %>% filter(`Lugar de Nacimiento`=="En otro paÍs")%>% 
-  arrange(desc(`Porcentaje de la Poblacion`)) %>% head(10)
-
-
+  arrange(desc(`Porcentaje de la Poblacion`)) %>% head(5)
 
 d_educacion %>% filter(`Lugar de Nacimiento`=="Nive")%>% arrange(desc(`Porcentaje de la Poblacion`)) %>% head(3)
 
@@ -470,4 +495,3 @@ d_empleo %>% full_join(d_tecnologia) %>%
 
 # Estas correlaciones no son muy utiles pues ademas de ser una falacia en la interpretacion
 # resulta que en datos demograficos Guatemala es muy parecida en forma general
-

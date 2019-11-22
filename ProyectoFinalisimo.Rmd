@@ -382,17 +382,6 @@ m_tecnologia <-m_tecnologia %>% select(-(13:16)) %>%
   mutate(`Porcentaje de Poblacion`= round(`Cantidad de Personas`/ `Población de 7 años o más`*100, 2))
 ```
 
-```{r,cache=TRUE,echo = FALSE}
-#### Municipal
-m_tecnologia <- m_tecnologia %>% rename('NA_Celular'=`No Declarado`, 'NA_Computadora'=`No Declarado__1`, 'NA_Internet'=`No Declarado__2`)
-m_tecnologia_agrupado <- m_tecnologia %>% select(1:3, 13:16) 
-
-
-m_tecnologia <-m_tecnologia %>% select(-(13:16)) %>%  
-  gather(key= 'Uso de Tecnologias', value= 'Cantidad de Personas', `Usa Celular`:`NA_Internet`) %>% arrange(`Código`) %>% 
-  mutate(`Porcentaje de Poblacion`= round(`Cantidad de Personas`/ `Población de 7 años o más`*100, 2))
-```
-
 ## Formatear tablas de Vivienda
 
 ```{r,cache=TRUE,echo = TRUE}
