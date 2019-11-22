@@ -1,3 +1,11 @@
+---
+title: "Proyecto Final Censo"
+author: "Rodolfo Rojas y Boris Juarez"
+date: "11/21/2019"
+output: rmarkdown::github_document
+---
+Cargar Librerias
+```{r}
 library(readxl)
 library(dplyr)
 library(lubridate)
@@ -7,10 +15,15 @@ library(DataExplorer)
 library(ggplot2)
 library(plotly)
 library(corrplot)
-
+# Se borra el enviorement completo para que no haya problemas
 rm(list = ls())
+```
 
-# Abrir todos los archivos que existen en la carpeta data
+
+Para hacer este proyecto nos dimos cuenta con el EDA que la data era la misma entre las tablas de departamento y las municipales. En este markdown se mostrara unicamente como se formatearon las tablas departamentales y se asume que las municipales se hicieron igual.
+
+Abrir todos los archivos que existen en la carpeta data
+```{r,cache= TRUE, echo=TRUE}
 archivos <- list.files("Data")
 for (nombre in archivos) {
   temp_df <- read_excel(path =  paste("Data", nombre, sep = "/"), skip = 9) %>% select(-X__1)
@@ -24,19 +37,24 @@ for (nombre in archivos) {
   assign(nombre, temp_df)
 }
 
+##Se eliminan para que no interrumpan
 rm(nombre, pre, archivos, temp_df)
+```
 
-#EDA
+# EDA
 
+Como EDA, desde el inicio se coloca el departamento o el municipio como factores pues es mas facil despues trabajarlos asi y se cambia el tipo de datos de los codigos.
+
+Con este codigo podemos ver como la estructura general de las tablas son la misma excepto por la cantidad de filas entre municipales y departamentales.
+```{r, cache=TRUE, echo=TRUE}
 introduce(d_poblacion)
 introduce(m_poblacion)
-
+```
 
 ## Formatear tablas de Caracteristicas
 
-# Las tablas de caracteristicas se convirtieron en cuatro tablas: la de lugar de nacimiento, 
-#    residencia en 2013, dificultades y por ultimo tambien la de hijos por mujeres fertiles
-
+Las tablas de caracteristicas se convirtieron en cuatro tablas: la de lugar de nacimiento, residencia en 2013, dificultades y por ultimo tambien la de hijos por mujeres fertiles.
+```{r, cache=TRUE, echo=TRUE}
 ##### Departamental
 d_lugar_nacimiento <- d_caracteristicas %>% select(1:7) %>% 
   gather(`Lugar de Nacimiento`, `Personas`, 4:7) %>% 
@@ -46,11 +64,15 @@ d_recidencia_2013 <- d_caracteristicas %>% select(1:3, 8:12) %>%
 gather(key=`Lugar de Residencia en 2013`, value = `Personas`, 4:8) %>%  
   mutate(`Porcentaje de la Poblacion`= round(`Personas`/`Total de personas`*100, 2)) %>% 
   mutate(`Lugar de Residencia en 2013`= str_remove(`Lugar de Residencia en 2013`, '__1$'))
-
 # Cambiar Nombres de Columnas
 names(d_caracteristicas)[14] <- "Sin dificultad para Ver"
 names(d_caracteristicas)[15] <- "Con dificultad para Ver"
 names(d_caracteristicas)[16] <- "NA_Ver"
+```
+hay mas pero no se muestran para no saturar.
+
+
+```{r, cache=TRUE, echo=FALSE}
 names(d_caracteristicas)[17] <- "Sin dificultad para Oir"
 names(d_caracteristicas)[18] <- "Con dificultad para Oir"
 names(d_caracteristicas)[19] <- "NA_Oir"
@@ -81,7 +103,10 @@ names(d_caracteristicas)[42] <- "Con  2 hijos sobrevivientes"
 names(d_caracteristicas)[43] <- "Con  3 hijos sobrevivientes"
 names(d_caracteristicas)[44] <- "Con  4 hijos sobrevivientes"
 names(d_caracteristicas)[45] <- "Con  5 o más hijos sobrevivientes"
+```
 
+
+```{r, cache=TRUE, echo=TRUE}
 d_dificultades <- d_caracteristicas %>% gather(key = "Dificultades", value = "Cantidad de Personas", 14:31) %>% 
   select(1:2,13, Dificultades, `Cantidad de Personas`) %>% 
   mutate(`Porcentaje con Dificultad`= round(`Cantidad de Personas`/ `Población de 4 años o más` * 100 ,2))
@@ -91,7 +116,9 @@ d_hijos_x_mujeres <- d_caracteristicas %>% gather(key = 'Situación', value = 'C
   mutate(`Porcentaje de Mujeres`= round(`Cantidad de Mujeres`/`Total de mujeres en edad fértil` ,2))
 
 rm(d_caracteristicas)
+```
 
+```{r, cache=TRUE, echo=FALSE}
 #### Municipal
 m_lugar_nacimiento <- m_caracteristicas %>% select(1:7) %>% 
   gather(`Lugar de Nacimiento`, `Personas`, 4:7) %>% 
@@ -146,11 +173,12 @@ m_hijos_x_mujeres <- m_caracteristicas %>% gather(key = 'Situación', value = 'C
   mutate(`Porcentaje de Mujeres`= round(`Cantidad de Mujeres`/`Total de mujeres en edad fértil` ,2))
 
 rm(m_caracteristicas)
-
+```
 ## Formatear tablas de Educacion
-# La tabla de educacion se combirtio en cinco tablas, la de 1. educacion que contiene el nivel de educacion, 
-# 2. causa de inasistencias, 3. alfabetizacion, 4. asistencia y por ultimo 5. lugar de estudio
+La tabla de educacion se combirtio en cinco tablas, la de 1. educacion que contiene el nivel de educacion, 2. causa de inasistencias, 3. alfabetizacion, 4. asistencia y por ultimo 5. lugar de estudio
 
+
+```{r, cache=TRUE, echo=TRUE}
 ### Departamental
 d_causas_inasistencia <- d_educacion %>% 
   gather(key = 'Causa de Inasistencia 4-29 años', value = 'Cantidad de Personas', 12:20) %>% 
@@ -174,7 +202,9 @@ d_lugar_estudio <- d_educacion %>%
 
 d_educacion<- d_educacion %>% gather(key = 'Nivel Educativo', value = 'Cantidad de Personas', 3:11) %>% 
   select(1:2, `Nivel Educativo`,`Cantidad de Personas`) %>% arrange(Código)
+```
 
+```{r, cache=TRUE, echo=FALSE}
 ### Municipal
 m_causas_inasistencia <- m_educacion %>% 
   gather(key = 'Causa de Inasistencia 4-29 años', value = 'Cantidad de Personas', 12:20) %>% 
@@ -198,41 +228,51 @@ m_lugar_estudio <- m_educacion %>%
 
 m_educacion<- m_educacion %>% gather(key = 'Nivel Educativo', value = 'Cantidad de Personas', 3:11) %>% 
   select(1:2, `Nivel Educativo`,`Cantidad de Personas`) %>% arrange(Código)
+```
 
-## Formatear tablas de Empleo
-# Se genera una sola tabla quye basicamente es la misma pero cambiada de forma.
 
-# Depertamental
+##Formatear tablas de Empleo
+Se genera una sola tabla quye basicamente es la misma pero cambiada de forma
+```{r,cache=TRUE, echo = TRUE}
+
+# Departamental
 d_empleo <- d_empleo %>% gather(key = 'Situación Laboral', value = 'Personas', 5:7) %>% arrange(`Código`) %>% 
   select(1:2, 4, `Situación Laboral`, `Personas`) %>% 
   mutate(`Porcentaje de Economicamente Activa`=round(`Personas`/`Población Económicamente Activa`*100, 2))
-  
+```
+
+```{r, cache=TRUE, echo = FALSE}
 # Municipal
 m_empleo <- m_empleo %>% gather(key = 'Situación Laboral', value = 'Personas', 5:7) %>% arrange(`Código`) %>% 
   select(1:2, 4, `Situación Laboral`, `Personas`) %>% 
-  mutate(`Porcentaje de Economicamente Activa`=round(`Personas`/`Población Económicamente Activa`*100, 2))
+  mutate(`Porcentaje de Economicamente Activa`=round(`Población Económicamente Activa`/`Personas`*100, 2))
+```
 
 ## Formatear tablas de Hogares
-
+```{r,cache=TRUE,echo = TRUE}
 # Departamental
 d_distribucion_hogares <- d_hogares %>% gather(key = 'Area', value = 'Distribución de Hogares', 3:4) %>% arrange(`Código`) %>% 
   select(1:2, `Area`, `Distribución de Hogares`) %>% 
   mutate(Area= str_remove(`Area`, "Distribución de hogares por área"))
 
 d_hogares <- d_hogares %>% select(1,2,5,6)
+```
 
+```{r,cache=TRUE,echo = FALSE}
 # Municipal
 m_distribucion_hogares <- m_hogares %>% gather(key = 'Area', value = 'Distribución de Hogares', 3:4) %>% arrange(`Código`) %>% 
   select(1:2, `Area`, `Distribución de Hogares`) %>% 
   mutate(Area= str_remove(`Area`, "Distribución de hogares por área"))
 
 m_hogares <- m_hogares %>% select(1,2,5,6)
+```
 
 ## Formatear tablas de Poblacion
-# De la tabla de poblacion se generaron siete tablas nuevas siendo estas: 1. genero 2.Edad grupos de 15 años 
-# 3. Edad grupo de 5 años 4. Zona demografica 5. relación con el Jefe del Hogar 6.Personas en Situación de Calle y
-# finalmente 7. Estado Civil
+ De la tabla de poblacion se generaron siete tablas nuevas siendo estas: 1. genero 2.Edad grupos de 15 años 
+3. Edad grupo de 5 años 4. Zona demografica 5. relación con el Jefe del Hogar 6.Personas en Situación de Calle y finalmente 7. Estado Civil
 
+
+```{r,cache=TRUE,echo = TRUE}
 # Departamental
 d_genero <- d_poblacion %>% gather(key = 'Genero' , value= 'Cantidad', 4:5) %>% arrange(`Código`) %>% 
   select(1:3, `Genero`, `Cantidad`)
@@ -261,7 +301,10 @@ d_estado_civil <- d_poblacion %>% gather(key = 'Estado Civil', value = 'Cantidad
   mutate(`Porcentaje de Poblacion`= round(`Cantidad`/`Población de 10 años o más`*100, 2))
 
 rm(d_poblacion)
+```
 
+
+```{r,cache=TRUE,echo = FALSE}
 # Municipal
 m_genero <- m_poblacion %>% gather(key = 'Genero' , value= 'Cantidad', 4:5) %>% arrange(`Código`) %>% 
   select(1:3, `Genero`, `Cantidad`)
@@ -290,13 +333,17 @@ m_estado_civil <- m_poblacion %>% gather(key = 'Estado Civil', value = 'Cantidad
   mutate(`Porcentaje de Poblacion`= round(`Cantidad`/`Población de 10 años o más`*100, 2))
 
 rm(m_poblacion)
+```
 
 ## Formatear tablas de pueblo
-# La tabla de pueblo se formatea y se generan dos nuevas tablas, una de comunidad linguistica y la otra con el 
-# idioma materno, y la de pueblo queda unicamente con los pueblos de pertenencia
+La tabla de pueblo se formatea y se generan dos nuevas tablas, una de comunidad linguistica y la otra con el 
+idioma materno, y la de pueblo queda unicamente con los pueblos de pertenencia
 
+```{r,cache=TRUE,echo = TRUE}
 # Departamental
-d_comunidad_linguistica <- d_pueblo %>% gather(key = 'Comunidad Linguistica', value = 'Cantidad', 10:31) %>% arrange(`Código`) %>%
+d_comunidad_linguistica <- d_pueblo %>% 
+  gather(key = 'Comunidad Linguistica', value = 'Cantidad', 10:31) %>% 
+  arrange(`Código`) %>%
   select(1:3, `Comunidad Linguistica`, `Cantidad`) %>% 
   mutate(`Porcentaje de Total`= round(`Cantidad`/ `Total de personas`*100, 2))
 
@@ -304,34 +351,40 @@ d_idioma_materno <- d_pueblo %>%
   gather(key = 'Idioma Materno', value = 'Cantidad', 32:61) %>% arrange(`Código`) %>%
   select(1:3, `Idioma Materno`, `Cantidad`) %>% 
   mutate(`Porcentaje de Total`= round(`Cantidad`/`Total de personas`*100, 2)) %>%
-  mutate(`Idioma Materno` = str_remove(`Idioma Materno`, "...1"))
+  mutate(`Idioma Materno` = str_remove(`Idioma Materno`, "__1"))
 
 d_pueblo <- d_pueblo %>% gather(key = 'Pueblo de Pertenencia', value='Cantidad', 4:9) %>% arrange(`Código`) %>%
   select(1:3, `Pueblo de Pertenencia`, `Cantidad`) %>% 
   mutate(`Porcentaje de Total`= round(`Cantidad`/ `Total de personas`*100, 2))
+```
 
 ## Formatear tablas de tecnologia
-# Esta tabla se formatea y se separa en dos tablas, una con información individual y la otra con conglomerado
+Esta tabla se formatea y se separa en dos tablas, una con información individual y la otra con conglomerado
 
+```{r,cache=TRUE,echo = TRUE}
 #### Departamental
 d_tecnologia <- d_tecnologia %>% rename('NA_Celular'=`No Declarado`, 'NA_Computadora'=`No Declarado__1`, 'NA_Internet'=`No Declarado__2`)
 d_tecnologia_agrupado <- d_tecnologia %>% select(1:3, 13:16) 
 
-
 d_tecnologia <-d_tecnologia %>% select(-(13:16)) %>%  
   gather(key= 'Uso de Tecnologias', value= 'Cantidad de Personas', `Usa Celular`:`NA_Internet`) %>% arrange(`Código`) %>% 
   mutate(`Porcentaje de Poblacion`= round(`Cantidad de Personas`/ `Población de 7 años o más`*100, 2))
+```
+
+
+```{r,cache=TRUE,echo = TRUE}
 #### Municipal
 m_tecnologia <- m_tecnologia %>% rename('NA_Celular'=`No Declarado`, 'NA_Computadora'=`No Declarado__1`, 'NA_Internet'=`No Declarado__2`)
 m_tecnologia_agrupado <- m_tecnologia %>% select(1:3, 13:16) 
 
-
 m_tecnologia <-m_tecnologia %>% select(-(13:16)) %>%  
   gather(key= 'Uso de Tecnologias', value= 'Cantidad de Personas', `Usa Celular`:`NA_Internet`) %>% arrange(`Código`) %>% 
   mutate(`Porcentaje de Poblacion`= round(`Cantidad de Personas`/ `Población de 7 años o más`*100, 2))
+```
 
 ## Formatear tablas de Vivienda
 
+```{r,cache=TRUE,echo = TRUE}
 #### Departamental
 d_tipo_ocupacion <- d_vivienda %>% gather(key = 'Tipo de Ocupacion', value = 'Cantidad de Viviendas', 13:16) %>% arrange(`Código`) %>% 
   select(1:2,4, `Tipo de Ocupacion`, `Cantidad de Viviendas`) %>% 
@@ -352,11 +405,13 @@ d_material_piso <- d_vivienda %>% gather(key = 'Material Predominante del Piso',
   mutate(`Porcentaje de Viviendas Particulares`= round(`Cantidad de Viviendas`/ `Total de viviendas particulares`*100, 2)) %>% 
   mutate(`Material Predominante del Piso` = str_remove(`Material Predominante del Piso`, "__\\d"))
 
-
 d_vivienda <- d_vivienda %>% gather(key = 'Tipo de Vivienda', value = 'Cantidad de Viviendas', 5:12) %>% arrange(`Código`) %>% 
   select(1:3, `Tipo de Vivienda`, `Cantidad de Viviendas`) %>% 
   mutate(`Porcentaje de Viviendas`= round(`Cantidad de Viviendas`/ `Total de viviendas`*100, 2))
+```
 
+
+```{r,cache=TRUE,echo = FALSE}
 #### Municipal
 m_tipo_ocupacion <- m_vivienda %>% gather(key = 'Tipo de Ocupacion', value = 'Cantidad de Viviendas', 13:16) %>% arrange(`Código`) %>% 
   select(1:2,4, `Tipo de Ocupacion`, `Cantidad de Viviendas`) %>% 
@@ -380,9 +435,9 @@ m_material_piso <- m_vivienda %>% gather(key = 'Material Predominante del Piso',
 m_vivienda <- m_vivienda %>% gather(key = 'Tipo de Vivienda', value = 'Cantidad de Viviendas', 5:12) %>% arrange(`Código`) %>% 
   select(1:3, `Tipo de Vivienda`, `Cantidad de Viviendas`) %>% 
   mutate(`Porcentaje de Viviendas`= round(`Cantidad de Viviendas`/ `Total de viviendas`*100, 2))
+```
 
-
-
+```{r, cache=TRUE, echo=TRUE}
 write.csv(d_alfabetizacion, file = 'Base de Datos/d_alfabetizacion.csv', row.names = FALSE)
 write.csv(d_asistencia, file = 'Base de Datos/d_asistencia.csv', row.names = FALSE)
 write.csv(d_causas_inasistencia, file = 'Base de Datos/d_causas_inasistencia.csv', row.names = FALSE)
@@ -412,7 +467,6 @@ write.csv(d_zona, file = 'Base de Datos/d_zona.csv', row.names = FALSE)
 
 write.csv(d_comunidad_linguistica, file = 'Base de Datos/d_comunidad_linguistica.csv', row.names = FALSE)
 write.csv(d_pueblo, file = 'Base de Datos/d_pueblo.csv', row.names = FALSE)
-write.csv(d_idioma_materno, file = 'Base de Datos/d_idioma_materno.csv', row.names = FALSE)
 
 write.csv(m_alfabetizacion, file = 'Base de Datos/m_alfabetizacion.csv', row.names = FALSE)
 write.csv(m_asistencia, file = 'Base de Datos/m_asistencia.csv', row.names = FALSE)
@@ -440,58 +494,72 @@ write.csv(m_tecnologia_agrupado, file = 'Base de Datos/m_tecnologia_agrupado', r
 write.csv(m_tipo_ocupacion, file = 'Base de Datos/m_tipo_ocupacion.csv', row.names = FALSE)
 write.csv(m_vivienda, file = 'Base de Datos/m_vivienda.csv', row.names = FALSE)
 write.csv(m_zona, file = 'Base de Datos/m_zona.csv', row.names = FALSE)
+```
 
+# Codigo Generador de Graficas
+```{r, cache=TRUE, echo=TRUE}
+# d_edad_5 %>% plot_ly(x =~`Grupo de Edades 5 años`, y = ~`Porcentaje de Poblacion`, color= ~Departamento,colors = "Accent", barmode = 'group', type = 'bar')%>%
+#   layout(title = 'Grupos de Edades') 
+# 
+# d_estado_civil %>% plot_ly(x =~`Estado Civil`, y = ~`Porcentaje de Poblacion`, color= ~Departamento,colors = "Accent", barmode = 'group', type = 'bar')%>%
+#   layout(title = 'Estado Civil') 
+# 
+# d_estado_civil %>% plot_ly(labels =~`Estado Civil`, values = ~`Porcentaje de Poblacion` ,colors = "Accent", type = 'pie')%>%
+#   layout(title = 'Estado Civil Pie') 
+# 
+# d_educacion %>% plot_ly(labels = ~`Nivel Educativo`, values = ~`Cantidad de Personas`, type = 'pie') %>% 
+#   layout(title = 'Personas por Nivel Educativo')
+# 
+# d_empleo %>% plot_ly(labels = ~`Situación Laboral`, values = ~`Personas`, type = 'pie') %>% 
+#   layout(title = 'Situación Laboral')
+# m_empleo %>% plot_ly(x = ~`Situación Laboral`, y = ~`Porcentaje de Economicamente Activa`, color= ~Municipio,colors = "Accent", barmode = 'group', type = 'bar')%>%
+#   layout(title = 'Situación Laboral por Municipio') 
 
+# m_lugar_nacimiento %>%
+# plot_ly(x =~`Lugar de Nacimiento`, y = ~`Porcentaje de la Poblacion`, color= ~Municipio,colors = "Accent", barmode = 'group', type = 'bar')%>%
+  # layout(title = 'Lugar de Nac') 
+```
 
-d_edad_5 %>% plot_ly(x =~`Grupo de Edades 5 años`, y = ~`Porcentaje de Poblacion`, color= ~Departamento,colors = "Accent", barmode = 'group', type = 'bar')%>%
-  layout(title = 'Grupos de Edades')
-
-d_estado_civil %>% plot_ly(x =~`Estado Civil`, y = ~`Porcentaje de Poblacion`, color= ~Departamento,colors = "Accent", barmode = 'group', type = 'bar')%>%
-  layout(title = 'Estado Civil')
-
-d_estado_civil %>% plot_ly(labels =~`Estado Civil`, values = ~`Porcentaje de Poblacion` ,colors = "Accent", type = 'pie')%>%
-  layout(title = 'Estado Civil Pie')
-
-d_educacion %>% plot_ly(labels = ~`Nivel Educativo`, values = ~`Cantidad de Personas`, type = 'pie') %>%
-  layout(title = 'Personas por Nivel Educativo')
-
-d_empleo %>% plot_ly(labels = ~`Situación Laboral`, values = ~`Personas`, type = 'pie') %>%
-  layout(title = 'Situación Laboral')
-m_empleo %>% plot_ly(x = ~`Situación Laboral`, y = ~`Porcentaje de Economicamente Activa`, color= ~Municipio,colors = "Accent", barmode = 'group', type = 'bar')%>%
-  layout(title = 'Situación Laboral por Municipio')
-
-
+# Rankings utiles
+```{r, cache=TRUE, echo=TRUE}
 m_lugar_nacimiento %>% arrange(`Porcentaje de la Poblacion`) %>% head(3)
 
 d_lugar_nacimiento %>% filter(`Lugar de Nacimiento`=="En otro paÍs")%>% arrange(desc(`Porcentaje de la Poblacion`)) %>% head(3)
 
 m_lugar_nacimiento %>% filter(`Lugar de Nacimiento`=="En otro paÍs")%>% 
   arrange(desc(`Porcentaje de la Poblacion`)) %>% head(5)
-
-d_educacion %>% filter(`Lugar de Nacimiento`=="Nive")%>% arrange(desc(`Porcentaje de la Poblacion`)) %>% head(3)
-
+```
 
 
-rm(list = ls())
+Intento de crrelacion
+```{r, cache=TRUE, echo=TRUE}
+# rm(list = ls())
 
-# Abrir todos los archivos que existen en la carpeta data
-archivos <- list.files("Data")
-for (nombre in archivos) {
-  temp_df <- read_excel(path =  paste("Data", nombre, sep = "/"), skip = 9) %>% select(-X__1)
-  temp_df <- temp_df %>% filter(complete.cases(temp_df))
-  temp_df[1] <- as.integer(pull(temp_df, 1))
-  temp_df[2] <- factor(pull(temp_df,2), ordered= TRUE)
-  
-  pre<- ifelse(str_detect(nombre, "municipal"), "m_", "d_") 
-  nombre <- str_remove(nombre, "(_municipal|_departamental)\\.xlsx$")
-  nombre <- paste(pre,nombre, sep = "")
-  assign(nombre, temp_df)
-}
+# archivos <- list.files("Data")
+# for (nombre in archivos) {
+#   temp_df <- read_excel(path =  paste("Data", nombre, sep = "/"), skip = 9) %>% select(-X__1)
+#   temp_df <- temp_df %>% filter(complete.cases(temp_df))
+#   temp_df[1] <- as.integer(pull(temp_df, 1))
+#   temp_df[2] <- factor(pull(temp_df,2), ordered= TRUE)
+#   
+#   pre<- ifelse(str_detect(nombre, "municipal"), "m_", "d_") 
+#   nombre <- str_remove(nombre, "(_municipal|_departamental)\\.xlsx$")
+#   nombre <- paste(pre,nombre, sep = "")
+#   assign(nombre, temp_df)
+# }
 
 
-d_empleo %>% full_join(d_tecnologia) %>%
-  select(`Población ocupada`,Cesante, Aspirante, `No declarado`, `Usa Celular`, `Usa Computadora`, `Usa Internet`) %>% 
-  cor %>% corrplot()
+# d_empleo %>% full_join(d_tecnologia) %>%
+#   select(`Población ocupada`,Cesante, Aspirante, `No declarado`, `Usa Celular`, `Usa Computadora`, `Usa Internet`) %>% 
+#   cor %>% corrplot()
 
-# Estas correlaciones no son muy utiles pues ademas de ser una falacia en la interpretacion
-# resulta que en datos demograficos Guatemala es muy parecida en forma general
+
+```
+
+Estas correlaciones no son muy utiles pues ademas de ser una falacia en la interpretacion resulta que en datos demograficos Guatemala es muy parecida en forma general
+
+
+
+
+
+

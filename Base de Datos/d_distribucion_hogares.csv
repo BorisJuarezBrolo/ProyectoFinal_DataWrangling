@@ -1,0 +1,45 @@
+"Código","Departamento","Area","Distribución de Hogares"
+1,"Guatemala"," urbana",92.22
+1,"Guatemala"," rural",7.78
+2,"El Progreso"," urbana",53.39
+2,"El Progreso"," rural",46.61
+3,"Sacatepéquez"," urbana",88.88
+3,"Sacatepéquez"," rural",11.12
+4,"Chimaltenango"," urbana",56.75
+4,"Chimaltenango"," rural",43.25
+5,"Escuintla"," urbana",61.62
+5,"Escuintla"," rural",38.38
+6,"Santa Rosa"," urbana",46.91
+6,"Santa Rosa"," rural",53.09
+7,"Sololá"," urbana",61.78
+7,"Sololá"," rural",38.22
+8,"Totonicapán"," urbana",54.07
+8,"Totonicapán"," rural",45.93
+9,"Quetzaltenango"," urbana",63.57
+9,"Quetzaltenango"," rural",36.43
+10,"Suchitepéquez"," urbana",49.84
+10,"Suchitepéquez"," rural",50.16
+11,"Retalhuleu"," urbana",58.54
+11,"Retalhuleu"," rural",41.46
+12,"San Marcos"," urbana",28
+12,"San Marcos"," rural",72
+13,"Huehuetenango"," urbana",31.16
+13,"Huehuetenango"," rural",68.84
+14,"Quiché"," urbana",34.09
+14,"Quiché"," rural",65.91
+15,"Baja Verapaz"," urbana",42.87
+15,"Baja Verapaz"," rural",57.13
+16,"Alta Verapaz"," urbana",33.64
+16,"Alta Verapaz"," rural",66.36
+17,"Petén"," urbana",43.78
+17,"Petén"," rural",56.22
+18,"Izabal"," urbana",45.09
+18,"Izabal"," rural",54.91
+19,"Zacapa"," urbana",47.04
+19,"Zacapa"," rural",52.96
+20,"Chiquimula"," urbana",39.32
+20,"Chiquimula"," rural",60.68
+21,"Jalapa"," urbana",63.11
+21,"Jalapa"," rural",36.89
+22,"Jutiapa"," urbana",51.29
+22,"Jutiapa"," rural",48.71

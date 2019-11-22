@@ -1,0 +1,89 @@
+"Código","Departamento","Total de personas","Lugar de Nacimiento","Personas","Porcentaje de la Poblacion"
+1,"Guatemala",3015081,"En el mismo municipio",1937354,64.26
+2,"El Progreso",176632,"En el mismo municipio",144038,81.55
+3,"Sacatepéquez",330469,"En el mismo municipio",219980,66.57
+4,"Chimaltenango",615776,"En el mismo municipio",525014,85.26
+5,"Escuintla",733181,"En el mismo municipio",549732,74.98
+6,"Santa Rosa",396607,"En el mismo municipio",322205,81.24
+7,"Sololá",421583,"En el mismo municipio",392942,93.21
+8,"Totonicapán",418569,"En el mismo municipio",392511,93.77
+9,"Quetzaltenango",799101,"En el mismo municipio",671611,84.05
+10,"Suchitepéquez",554695,"En el mismo municipio",441945,79.67
+11,"Retalhuleu",326828,"En el mismo municipio",268073,82.02
+12,"San Marcos",1032277,"En el mismo municipio",927999,89.9
+13,"Huehuetenango",1170669,"En el mismo municipio",1068843,91.3
+14,"Quiché",949261,"En el mismo municipio",873692,92.04
+15,"Baja Verapaz",299476,"En el mismo municipio",267780,89.42
+16,"Alta Verapaz",1215038,"En el mismo municipio",1074486,88.43
+17,"Petén",545600,"En el mismo municipio",365340,66.96
+18,"Izabal",408688,"En el mismo municipio",317130,77.6
+19,"Zacapa",245374,"En el mismo municipio",206627,84.21
+20,"Chiquimula",415063,"En el mismo municipio",368239,88.72
+21,"Jalapa",342923,"En el mismo municipio",308441,89.94
+22,"Jutiapa",488395,"En el mismo municipio",428231,87.68
+1,"Guatemala",3015081,"En otro municipio",988903,32.8
+2,"El Progreso",176632,"En otro municipio",26376,14.93
+3,"Sacatepéquez",330469,"En otro municipio",101830,30.81
+4,"Chimaltenango",615776,"En otro municipio",82673,13.43
+5,"Escuintla",733181,"En otro municipio",165361,22.55
+6,"Santa Rosa",396607,"En otro municipio",68190,17.19
+7,"Sololá",421583,"En otro municipio",23266,5.52
+8,"Totonicapán",418569,"En otro municipio",14549,3.48
+9,"Quetzaltenango",799101,"En otro municipio",111304,13.93
+10,"Suchitepéquez",554695,"En otro municipio",104773,18.89
+11,"Retalhuleu",326828,"En otro municipio",53780,16.46
+12,"San Marcos",1032277,"En otro municipio",85160,8.25
+13,"Huehuetenango",1170669,"En otro municipio",81093,6.93
+14,"Quiché",949261,"En otro municipio",58529,6.17
+15,"Baja Verapaz",299476,"En otro municipio",28262,9.44
+16,"Alta Verapaz",1215038,"En otro municipio",126403,10.4
+17,"Petén",545600,"En otro municipio",169678,31.1
+18,"Izabal",408688,"En otro municipio",82189,20.11
+19,"Zacapa",245374,"En otro municipio",30193,12.3
+20,"Chiquimula",415063,"En otro municipio",34967,8.42
+21,"Jalapa",342923,"En otro municipio",29795,8.69
+22,"Jutiapa",488395,"En otro municipio",49148,10.06
+1,"Guatemala",3015081,"En otro paÍs",34216,1.13
+2,"El Progreso",176632,"En otro paÍs",628,0.36
+3,"Sacatepéquez",330469,"En otro paÍs",2049,0.62
+4,"Chimaltenango",615776,"En otro paÍs",1228,0.2
+5,"Escuintla",733181,"En otro paÍs",4451,0.61
+6,"Santa Rosa",396607,"En otro paÍs",1980,0.5
+7,"Sololá",421583,"En otro paÍs",652,0.15
+8,"Totonicapán",418569,"En otro paÍs",379,0.09
+9,"Quetzaltenango",799101,"En otro paÍs",3568,0.45
+10,"Suchitepéquez",554695,"En otro paÍs",1641,0.3
+11,"Retalhuleu",326828,"En otro paÍs",930,0.28
+12,"San Marcos",1032277,"En otro paÍs",3561,0.34
+13,"Huehuetenango",1170669,"En otro paÍs",4627,0.4
+14,"Quiché",949261,"En otro paÍs",2264,0.24
+15,"Baja Verapaz",299476,"En otro paÍs",579,0.19
+16,"Alta Verapaz",1215038,"En otro paÍs",1789,0.15
+17,"Petén",545600,"En otro paÍs",3849,0.71
+18,"Izabal",408688,"En otro paÍs",3536,0.87
+19,"Zacapa",245374,"En otro paÍs",1058,0.43
+20,"Chiquimula",415063,"En otro paÍs",3798,0.92
+21,"Jalapa",342923,"En otro paÍs",991,0.29
+22,"Jutiapa",488395,"En otro paÍs",4386,0.9
+1,"Guatemala",3015081,"No especificado",54608,1.81
+2,"El Progreso",176632,"No especificado",5590,3.16
+3,"Sacatepéquez",330469,"No especificado",6610,2
+4,"Chimaltenango",615776,"No especificado",6861,1.11
+5,"Escuintla",733181,"No especificado",13637,1.86
+6,"Santa Rosa",396607,"No especificado",4232,1.07
+7,"Sololá",421583,"No especificado",4723,1.12
+8,"Totonicapán",418569,"No especificado",11130,2.66
+9,"Quetzaltenango",799101,"No especificado",12618,1.58
+10,"Suchitepéquez",554695,"No especificado",6336,1.14
+11,"Retalhuleu",326828,"No especificado",4045,1.24
+12,"San Marcos",1032277,"No especificado",15557,1.51
+13,"Huehuetenango",1170669,"No especificado",16106,1.38
+14,"Quiché",949261,"No especificado",14776,1.56
+15,"Baja Verapaz",299476,"No especificado",2855,0.95
+16,"Alta Verapaz",1215038,"No especificado",12360,1.02
+17,"Petén",545600,"No especificado",6733,1.23
+18,"Izabal",408688,"No especificado",5833,1.43
+19,"Zacapa",245374,"No especificado",7496,3.05
+20,"Chiquimula",415063,"No especificado",8059,1.94
+21,"Jalapa",342923,"No especificado",3696,1.08
+22,"Jutiapa",488395,"No especificado",6630,1.36

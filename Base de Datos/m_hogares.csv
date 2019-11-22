@@ -1,0 +1,341 @@
+"Código","Municipio","Promedio de personas por hogar","Promedio de personas por dormitorio"
+101,"Guatemala",3.75,1.65
+102,"Santa Catarina Pinula",4.01,1.74
+103,"San José Pinula",4.06,1.89
+104,"San José del Golfo",3.78,1.86
+105,"Palencia",4.07,2.21
+106,"Chinautla",4.09,2.07
+107,"San Pedro Ayampuc",4.15,2.21
+108,"Mixco",3.92,1.67
+109,"San Pedro Sacatepéquez",4.65,2.45
+110,"San Juan Sacatepéquez",4.8,2.28
+111,"San Raymundo",4.47,2.21
+112,"Chuarrancho",4.81,2.49
+113,"Fraijanes",3.91,1.68
+114,"Amatitlán",4.03,2
+115,"Villa Nueva",3.97,1.78
+116,"Villa Canales",4.11,2.1
+117,"San Miguel Petapa",3.92,1.67
+201,"Guastatoya",3.75,1.82
+202,"Morazán",3.77,2
+203,"San Agustín Acasaguastlán",4.32,2.52
+204,"San Cristóbal Acasaguastlán",3.81,2.03
+205,"El Jícaro",3.8,2.11
+206,"Sansare",4.07,1.9
+207,"Sanarate",3.96,1.93
+208,"San Antonio la Paz",3.97,2.12
+301,"Antigua Guatemala",4.06,1.7
+302,"Jocotenango",4.06,1.6
+303,"Pastores",4.11,2.07
+304,"Sumpango",4.53,2.06
+305,"Santo Domingo Xenacoj",4.46,2.1
+306,"Santiago Sacatepéquez",4.44,1.88
+307,"San Bartolomé Milpas Altas",4.07,1.87
+308,"San Lucas Sacatepéquez",3.87,1.63
+309,"Santa Lucía Milpas Altas",4.01,1.87
+310,"Magdalena Milpas Altas",4.57,2.06
+311,"Santa María de Jesús",5.08,2.24
+312,"Ciudad Vieja",4.16,1.98
+313,"San Miguel Dueñas",4.2,1.91
+314,"San Juan Alotenango",4.35,2.39
+315,"San Antonio Aguas Calientes",4.23,1.9
+316,"Santa Catarina Barahona",4.11,1.94
+401,"Chimaltenango",4.58,1.96
+402,"San José Poaquil",5.13,2.56
+403,"San Martín Jilotepeque",4.97,2.38
+404,"San Juan Comalapa",4.86,2.27
+405,"Santa Apolonia",5.54,2.87
+406,"Tecpán Guatemala",5.53,2.7
+407,"Patzún",4.75,2.38
+408,"San Miguel Pochuta",4.61,2.72
+409,"Patzicía",4.53,2.33
+410,"Santa Cruz Balanyá",4.69,2.3
+411,"Acatenango",4.66,2.47
+412,"San Pedro Yepocapa",4.84,2.76
+413,"San Andrés Itzapa",4.79,2.16
+414,"Parramos",4.48,2.13
+415,"Zaragoza",4.28,2.14
+416,"El Tejar",4.39,2.02
+501,"Escuintla",3.83,2.19
+502,"Santa Lucía Cotzumalguapa",4.2,2.51
+503,"La Democracia",3.87,2.53
+504,"Siquinalá",4.17,2.62
+505,"Masagua",3.88,2.54
+506,"Tiquisate",3.91,2.28
+507,"La Gomera",3.95,2.39
+508,"Guanagazapa",4.44,2.93
+509,"San José",3.66,2.21
+510,"Iztapa",3.75,2.21
+511,"Palín",4.1,2.17
+512,"San Vicente Pacaya",3.9,2.15
+513,"Nueva Concepción",3.97,2.31
+514,"Sipacate",3.87,2.55
+601,"Cuilapa",4.04,2.1
+602,"Barberena",4.09,2.28
+603,"Santa Rosa de Lima",3.95,1.97
+604,"Casillas",4.1,1.99
+605,"San Rafael las Flores",4.06,2.17
+606,"Oratorio",3.99,2.23
+607,"San Juan Tecuaco",4.78,3.02
+608,"Chiquimulilla",3.88,2.3
+609,"Taxisco",3.96,2.42
+610,"Santa María Ixhuatán",4.02,2.42
+611,"Guazacapán",4.12,2.53
+612,"Santa Cruz Naranjo",3.98,2.05
+613,"Pueblo Nuevo Viñas",4.12,2.58
+614,"Nueva Santa Rosa",3.93,2.01
+701,"Sololá",5.98,2.3
+702,"San José Chacayá",5.46,2.46
+703,"Santa María Visitación",4.32,1.97
+704,"Santa Lucía Utatlán",4.53,2.17
+705,"Nahualá",5.12,2.84
+706,"Santa Catarina Ixtahuacán",4.95,2.91
+707,"Santa Clara la Laguna",4.45,2.31
+708,"Concepción",6.97,2.69
+709,"San Andrés Semetabaj",4.93,1.98
+710,"Panajachel",4.07,1.89
+711,"Santa Catarina Palopó",5.3,2.35
+712,"San Antonio Palopó",4.42,2.22
+713,"San Lucas Tolimán",4.64,2.3
+714,"Santa Cruz la Laguna",5,2.77
+715,"San Pablo la Laguna",4.22,2.65
+716,"San Marcos la Laguna",4.8,2.21
+717,"San Juan la Laguna",4.62,2.26
+718,"San Pedro la Laguna",4.06,1.84
+719,"Santiago Atitlán",4.15,2.22
+801,"Totonicapán",4.54,2.24
+802,"San Cristóbal Totonicapán",4.85,2.33
+803,"San Francisco el Alto",5.39,2.58
+804,"San Andrés Xecul",5.18,2.44
+805,"Momostenango",6.06,2.88
+806,"Santa María Chiquimula",6.31,3.76
+807,"Santa Lucía la Reforma",7.03,3.57
+808,"San Bartolo Aguas Calientes",5.42,2.96
+901,"Quetzaltenango",4.21,1.7
+902,"Salcajá",4.09,1.75
+903,"San Juan Olintepeque",4.44,1.94
+904,"San Carlos Sija",4.55,2.3
+905,"Sibilia",4.4,2.03
+906,"Cabricán",5.25,2.77
+907,"Cajolá",5.13,2.93
+908,"San Miguel Siguilá",5.35,2.59
+909,"San Juan Ostuncalco",5.14,2.37
+910,"San Mateo",4.36,1.92
+911,"Concepción Chiquirichapa",4.89,2.14
+912,"San Martín Sacatepéquez",4.98,2.59
+913,"Almolonga",4.47,1.9
+914,"Cantel",4.4,2.21
+915,"Huitán",5.4,2.94
+916,"Zunil",4.23,2.3
+917,"Colomba Costa Cuca",4.71,2.64
+918,"San Francisco la Unión",4.91,2.42
+919,"El Palmar",4.77,2.62
+920,"Coatepeque",4.5,2.31
+921,"Génova",4.69,2.74
+922,"Flores Costa Cuca",4.54,2.64
+923,"La Esperanza",4.24,1.75
+924,"Palestina de los Altos",4.83,2.49
+1001,"Mazatenango",4.19,2.13
+1002,"Cuyotenango",4.31,2.68
+1003,"San Francisco Zapotitlán",4.24,2.29
+1004,"San Bernardino",4.43,2.8
+1005,"San José el Ídolo",4.32,2.61
+1006,"Santo Domingo Suchitepéquez",4.4,2.82
+1007,"San Lorenzo",4.33,2.87
+1008,"Samayac",4.27,2.48
+1009,"San Pablo Jocopilas",4.26,2.33
+1010,"San Antonio Suchitepéquez",4.82,2.96
+1011,"San Miguel Panán",4.83,3.06
+1012,"San Gabriel",4.29,2.43
+1013,"Chicacao",5.05,3.18
+1014,"Patulul",4.4,2.58
+1015,"Santa Bárbara",4.6,3.01
+1016,"San Juan Bautista",4.39,2.86
+1017,"Santo Tomas la Unión",4.43,2.27
+1018,"Zunilito",4.48,2.43
+1019,"Pueblo Nuevo",4.47,2.74
+1020,"Río Bravo",4.32,2.72
+1021,"San José La Máquina",4.35,2.63
+1101,"Retalhuleu",4.24,2.23
+1102,"San Sebastián",4.49,2.41
+1103,"Santa Cruz Muluá",4.39,2.63
+1104,"San Martín Zapotitlán",4.42,2.32
+1105,"San Felipe",4.55,2.27
+1106,"San Andrés Villa Seca",4.54,2.85
+1107,"Champerico",4.25,2.6
+1108,"Nuevo San Carlos",4.66,2.75
+1109,"El Asintal",4.63,2.63
+1201,"San Marcos",4.67,1.93
+1202,"San Pedro Sacatepéquez",4.46,2.05
+1203,"San Antonio Sacatepéquez",4.67,2.52
+1204,"Comitancillo",5.86,3.61
+1205,"San Miguel Ixtahuacán",5.81,3.72
+1206,"Concepción Tutuapa",5.68,3.83
+1207,"Tacaná",5.75,3.1
+1208,"Sibinal",6.39,3.25
+1209,"Tajumulco",5.49,3.47
+1210,"Tejutla",5.27,2.98
+1211,"San Rafael Pie de la Cuesta",4.56,2.34
+1212,"Nuevo Progreso",4.8,2.93
+1213,"El Tumbador",4.93,3.02
+1214,"San José el Rodeo",4.8,2.58
+1215,"Malacatán",5.07,2.66
+1216,"Catarina",4.47,2.42
+1217,"Ayutla",4.26,2.24
+1218,"Ocós",4.21,2.56
+1219,"San Pablo",4.94,2.55
+1220,"El Quetzal",5.07,2.86
+1221,"La Reforma",4.86,2.99
+1222,"Pajapita",4.6,2.44
+1223,"Ixchiguán",5.29,3.09
+1224,"San José Ojetenam",6.03,3.45
+1225,"San Cristóbal Cucho",4.85,2.71
+1226,"Sipacapa",5.68,3.38
+1227,"Esquipulas Palo Gordo",4.9,2.35
+1228,"Río Blanco",4.73,2.41
+1229,"San Lorenzo",5.24,3.11
+1230,"La Blanca",4.35,2.66
+1301,"Huehuetenango",4.35,1.83
+1302,"Chiantla",5.17,2.99
+1303,"Malacatancito",4.76,2.46
+1304,"Cuilco",5.31,2.91
+1305,"Nentón",5.36,3.01
+1306,"San Pedro Necta",5.43,3.09
+1307,"Jacaltenango",3.98,2.11
+1308,"San Pedro Soloma",5.5,3.29
+1309,"San Ildefonso Ixtahuacán",5.56,3.03
+1310,"Santa Bárbara",5.91,3.71
+1311,"La Libertad",5.27,2.74
+1312,"La Democracia",4.99,2.32
+1313,"San Miguel Acatán",6.12,3.73
+1314,"San Rafael La Independencia",6.12,3.41
+1315,"Todos Santos Cuchumatán",5,3.02
+1316,"San Juan Atitán",4.66,2.47
+1317,"Santa Eulalia",5.95,4.14
+1318,"San Mateo Ixtatán",6.25,3.52
+1319,"Colotenango",5.83,3.24
+1320,"San Sebastián Huehuetenango",5.7,3.42
+1321,"Tectitán",5.94,2.77
+1322,"Concepción Huista",5.34,2.92
+1323,"San Juan Ixcoy",5.42,3.52
+1324,"San Antonio Huista",4.23,2.18
+1325,"San Sebastián Coatán",5.05,2.7
+1326,"Santa Cruz Barillas",5.7,3.77
+1327,"Aguacatán",4.99,2.62
+1328,"San Rafael Petzal",5.19,2.72
+1329,"San Gaspar Ixchil",5.54,3.25
+1330,"Santiago Chimaltenango",4.15,2.7
+1331,"Santa Ana Huista",4.03,2.15
+1332,"Unión Cantinil",4.65,2.57
+1333,"Petatán",4.73,2.52
+1401,"Santa Cruz del Quiché",5.11,2.29
+1402,"Chiché",6.03,2.75
+1403,"Chinique",5.19,2.57
+1404,"Zacualpa",5.74,2.71
+1405,"Chajul",5.54,4.1
+1406,"Santo Tomás Chichicastenango",6.21,2.65
+1407,"Patzité",5.77,3.25
+1408,"San Antonio Ilotenango",6.02,3.16
+1409,"San Pedro Jocopilas",6.91,3.14
+1410,"Cunén",6.2,3.38
+1411,"San Juan Cotzal",5.6,3.72
+1412,"Joyabaj",5.56,2.51
+1413,"Santa María Nebaj",4.94,2.76
+1414,"San Andrés Sajcabajá",4.81,2.77
+1415,"San Miguel Uspantán",5.36,3.52
+1416,"Sacapulas",5.91,3.26
+1417,"San Bartolomé Jocotenango",6.85,3.61
+1418,"Canillá",4.5,2.42
+1419,"Chicamán",5.33,3.54
+1420,"Playa Grande Ixcán",5.33,3.19
+1421,"Pachalum",3.94,1.88
+1501,"Salamá",4.15,2.14
+1502,"San Miguel Chicaj",4.54,2.45
+1503,"Rabinal",4.31,2.35
+1504,"Cubulco",4.41,2.7
+1505,"Granados",3.77,2.09
+1506,"Santa Cruz El Chol",3.89,2.05
+1507,"San Jerónimo",4.13,2.17
+1508,"Purulhá",5.23,3.75
+1601,"Cobán",4.91,2.59
+1602,"Santa Cruz Verapaz",5.28,2.73
+1603,"San Cristóbal Verapaz",5.65,2.99
+1604,"Tactic",4.87,2.54
+1605,"Tamahú",5.53,3.87
+1606,"San Miguel Tucurú",5.19,3.49
+1607,"Panzós",5.5,4.01
+1608,"Senahú",5.55,3.95
+1609,"San Pedro Carchá",5.4,3.56
+1610,"San Juan Chamelco",5.19,3.11
+1611,"San Agustín Lanquín",5.5,3.67
+1612,"Santa María Cahabón",5.54,3.15
+1613,"Chisec",5.67,3.78
+1614,"Chahal",5.3,3.58
+1615,"Fray Bartolomé de las Casas",5.27,3.59
+1616,"Santa Catalina La Tinta",5.25,3.46
+1617,"Raxruhá",5.53,3.81
+1701,"Flores",3.67,1.85
+1702,"San José",4.84,2.38
+1703,"San Benito",3.84,2.04
+1704,"San Andrés",4.57,2.68
+1705,"La Libertad",4.52,2.62
+1706,"San Francisco",4.36,2.21
+1707,"Santa Ana",4.39,2.37
+1708,"Dolores",4.56,2.52
+1709,"San Luis",4.33,2.65
+1710,"Sayaxché",4.8,2.94
+1711,"Melchor de Mencos",4.14,2.23
+1712,"Poptún",4.38,2.24
+1713,"Las Cruces",4.64,2.64
+1714,"El Chal",4.24,2.27
+1801,"Puerto Barrios",3.75,1.95
+1802,"Livingston",4.61,2.85
+1803,"El Estor",5.29,3.67
+1804,"Morales",4.1,2.27
+1805,"Los Amates",4.37,2.33
+1901,"Zacapa",3.92,2.05
+1902,"Estanzuela",3.89,1.9
+1903,"Río Hondo",3.64,1.85
+1904,"Gualán",4.18,2.19
+1905,"Teculután",3.94,2.13
+1906,"Usumatlán",3.99,2.09
+1907,"Cabañas",4.07,2.33
+1908,"San Diego",4.29,2.23
+1909,"La Unión",4.97,2.83
+1910,"Huité",4.23,2.64
+1911,"San Jorge",4.25,2.45
+2001,"Chiquimula",4.45,2.21
+2002,"San José la Arada",3.91,2.22
+2003,"San Juan Ermita",4.46,2.72
+2004,"Jocotán",5.28,3.43
+2005,"Camotán",5.21,3.05
+2006,"Olopa",4.84,3.17
+2007,"Esquipulas",4.24,2.26
+2008,"Concepción las Minas",3.76,1.87
+2009,"Quezaltepeque",4.19,2.2
+2010,"San Jacinto",4.37,2.56
+2011,"Ipala",3.91,2.02
+2101,"Jalapa",4.77,2.43
+2102,"San Pedro Pinula",5.11,2.94
+2103,"San Luis Jilotepeque",4.04,2.26
+2104,"San Manuel Chaparrón",3.77,1.95
+2105,"San Carlos Alzatate",5.31,2.85
+2106,"Monjas",4.12,2.04
+2107,"Mataquescuintla",4.43,2.37
+2201,"Jutiapa",4.47,2.31
+2202,"El Progreso",3.86,1.78
+2203,"Santa Catarina Mita",3.81,2.03
+2204,"Agua Blanca",3.76,2.02
+2205,"Asunción Mita",3.8,1.98
+2206,"Yupiltepeque",4.39,2.76
+2207,"Atescatempa",3.72,2.07
+2208,"Jerez",3.38,1.96
+2209,"El Adelanto",4.41,2.8
+2210,"Zapotitlán",4.45,2.74
+2211,"Comapa",4.55,2.89
+2212,"Jalpatagua",4.06,2.13
+2213,"Conguaco",5.22,3.48
+2214,"Moyuta",4.15,2.45
+2215,"Pasaco",4.13,2.49
+2216,"San José Acatempa",3.69,1.97
+2217,"Quesada",4.06,2.01

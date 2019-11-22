@@ -1,0 +1,45 @@
+"Código","Departamento","Total de personas","Zona","Cantidad de Personas","Porcentaje de Poblacion"
+1,"Guatemala",3015081,"Urbano",2750965,91.24
+1,"Guatemala",3015081,"Rural",264116,8.76
+2,"El Progreso",176632,"Urbano",91416,51.76
+2,"El Progreso",176632,"Rural",85216,48.24
+3,"Sacatepéquez",330469,"Urbano",292366,88.47
+3,"Sacatepéquez",330469,"Rural",38103,11.53
+4,"Chimaltenango",615776,"Urbano",333300,54.13
+4,"Chimaltenango",615776,"Rural",282476,45.87
+5,"Escuintla",733181,"Urbano",448531,61.18
+5,"Escuintla",733181,"Rural",284650,38.82
+6,"Santa Rosa",396607,"Urbano",184212,46.45
+6,"Santa Rosa",396607,"Rural",212395,53.55
+7,"Sololá",421583,"Urbano",259533,61.56
+7,"Sololá",421583,"Rural",162050,38.44
+8,"Totonicapán",418569,"Urbano",204938,48.96
+8,"Totonicapán",418569,"Rural",213631,51.04
+9,"Quetzaltenango",799101,"Urbano",491834,61.55
+9,"Quetzaltenango",799101,"Rural",307267,38.45
+10,"Suchitepéquez",554695,"Urbano",266189,47.99
+10,"Suchitepéquez",554695,"Rural",288506,52.01
+11,"Retalhuleu",326828,"Urbano",187401,57.34
+11,"Retalhuleu",326828,"Rural",139427,42.66
+12,"San Marcos",1032277,"Urbano",262033,25.38
+12,"San Marcos",1032277,"Rural",770244,74.62
+13,"Huehuetenango",1170669,"Urbano",327297,27.96
+13,"Huehuetenango",1170669,"Rural",843372,72.04
+14,"Quiché",949261,"Urbano",306569,32.3
+14,"Quiché",949261,"Rural",642692,67.7
+15,"Baja Verapaz",299476,"Urbano",120281,40.16
+15,"Baja Verapaz",299476,"Rural",179195,59.84
+16,"Alta Verapaz",1215038,"Urbano",379708,31.25
+16,"Alta Verapaz",1215038,"Rural",835330,68.75
+17,"Petén",545600,"Urbano",220797,40.47
+17,"Petén",545600,"Rural",324803,59.53
+18,"Izabal",408688,"Urbano",167653,41.02
+18,"Izabal",408688,"Rural",241035,58.98
+19,"Zacapa",245374,"Urbano",108485,44.21
+19,"Zacapa",245374,"Rural",136889,55.79
+20,"Chiquimula",415063,"Urbano",155171,37.38
+20,"Chiquimula",415063,"Rural",259892,62.62
+21,"Jalapa",342923,"Urbano",216075,63.01
+21,"Jalapa",342923,"Rural",126848,36.99
+22,"Jutiapa",488395,"Urbano",249754,51.14
+22,"Jutiapa",488395,"Rural",238641,48.86

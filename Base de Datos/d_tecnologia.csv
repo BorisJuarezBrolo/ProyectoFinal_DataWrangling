@@ -1,0 +1,199 @@
+"Código","Departamento","Población de 7 años o más","Uso de Tecnologias","Cantidad de Personas","Porcentaje de Poblacion"
+1,"Guatemala",2641109,"Usa Celular",2087365,79.03
+1,"Guatemala",2641109,"No Usa Celular",513410,19.44
+1,"Guatemala",2641109,"NA_Celular",40334,1.53
+1,"Guatemala",2641109,"Usa Computadora",1171421,44.35
+1,"Guatemala",2641109,"No usa Computadora",1431699,54.21
+1,"Guatemala",2641109,"NA_Computadora",37989,1.44
+1,"Guatemala",2641109,"Usa Internet",1439440,54.5
+1,"Guatemala",2641109,"No usa Internet",1156406,43.78
+1,"Guatemala",2641109,"NA_Internet",45263,1.71
+2,"El Progreso",151201,"Usa Celular",98530,65.16
+2,"El Progreso",151201,"No Usa Celular",51149,33.83
+2,"El Progreso",151201,"NA_Celular",1522,1.01
+2,"El Progreso",151201,"Usa Computadora",27299,18.05
+2,"El Progreso",151201,"No usa Computadora",122479,81
+2,"El Progreso",151201,"NA_Computadora",1423,0.94
+2,"El Progreso",151201,"Usa Internet",42613,28.18
+2,"El Progreso",151201,"No usa Internet",106786,70.63
+2,"El Progreso",151201,"NA_Internet",1802,1.19
+3,"Sacatepéquez",287301,"Usa Celular",198266,69.01
+3,"Sacatepéquez",287301,"No Usa Celular",82741,28.8
+3,"Sacatepéquez",287301,"NA_Celular",6294,2.19
+3,"Sacatepéquez",287301,"Usa Computadora",92271,32.12
+3,"Sacatepéquez",287301,"No usa Computadora",189424,65.93
+3,"Sacatepéquez",287301,"NA_Computadora",5606,1.95
+3,"Sacatepéquez",287301,"Usa Internet",110223,38.36
+3,"Sacatepéquez",287301,"No usa Internet",169859,59.12
+3,"Sacatepéquez",287301,"NA_Internet",7219,2.51
+4,"Chimaltenango",517360,"Usa Celular",315002,60.89
+4,"Chimaltenango",517360,"No Usa Celular",196720,38.02
+4,"Chimaltenango",517360,"NA_Celular",5638,1.09
+4,"Chimaltenango",517360,"Usa Computadora",104528,20.2
+4,"Chimaltenango",517360,"No usa Computadora",407604,78.79
+4,"Chimaltenango",517360,"NA_Computadora",5228,1.01
+4,"Chimaltenango",517360,"Usa Internet",133432,25.79
+4,"Chimaltenango",517360,"No usa Internet",376572,72.79
+4,"Chimaltenango",517360,"NA_Internet",7356,1.42
+5,"Escuintla",623009,"Usa Celular",396653,63.67
+5,"Escuintla",623009,"No Usa Celular",215651,34.61
+5,"Escuintla",623009,"NA_Celular",10705,1.72
+5,"Escuintla",623009,"Usa Computadora",102681,16.48
+5,"Escuintla",623009,"No usa Computadora",510226,81.9
+5,"Escuintla",623009,"NA_Computadora",10102,1.62
+5,"Escuintla",623009,"Usa Internet",165234,26.52
+5,"Escuintla",623009,"No usa Internet",444449,71.34
+5,"Escuintla",623009,"NA_Internet",13326,2.14
+6,"Santa Rosa",336320,"Usa Celular",218809,65.06
+6,"Santa Rosa",336320,"No Usa Celular",115283,34.28
+6,"Santa Rosa",336320,"NA_Celular",2228,0.66
+6,"Santa Rosa",336320,"Usa Computadora",54835,16.3
+6,"Santa Rosa",336320,"No usa Computadora",279451,83.09
+6,"Santa Rosa",336320,"NA_Computadora",2034,0.6
+6,"Santa Rosa",336320,"Usa Internet",97279,28.92
+6,"Santa Rosa",336320,"No usa Internet",235927,70.15
+6,"Santa Rosa",336320,"NA_Internet",3114,0.93
+7,"Sololá",358457,"Usa Celular",203478,56.76
+7,"Sololá",358457,"No Usa Celular",150965,42.12
+7,"Sololá",358457,"NA_Celular",4014,1.12
+7,"Sololá",358457,"Usa Computadora",60384,16.85
+7,"Sololá",358457,"No usa Computadora",295302,82.38
+7,"Sololá",358457,"NA_Computadora",2771,0.77
+7,"Sololá",358457,"Usa Internet",74137,20.68
+7,"Sololá",358457,"No usa Internet",279194,77.89
+7,"Sololá",358457,"NA_Internet",5126,1.43
+8,"Totonicapán",350819,"Usa Celular",192747,54.94
+8,"Totonicapán",350819,"No Usa Celular",148096,42.21
+8,"Totonicapán",350819,"NA_Celular",9976,2.84
+8,"Totonicapán",350819,"Usa Computadora",44870,12.79
+8,"Totonicapán",350819,"No usa Computadora",299583,85.4
+8,"Totonicapán",350819,"NA_Computadora",6366,1.81
+8,"Totonicapán",350819,"Usa Internet",65502,18.67
+8,"Totonicapán",350819,"No usa Internet",274151,78.15
+8,"Totonicapán",350819,"NA_Internet",11166,3.18
+9,"Quetzaltenango",680558,"Usa Celular",460792,67.71
+9,"Quetzaltenango",680558,"No Usa Celular",209727,30.82
+9,"Quetzaltenango",680558,"NA_Celular",10039,1.48
+9,"Quetzaltenango",680558,"Usa Computadora",168989,24.83
+9,"Quetzaltenango",680558,"No usa Computadora",502364,73.82
+9,"Quetzaltenango",680558,"NA_Computadora",9205,1.35
+9,"Quetzaltenango",680558,"Usa Internet",219112,32.2
+9,"Quetzaltenango",680558,"No usa Internet",448449,65.89
+9,"Quetzaltenango",680558,"NA_Internet",12997,1.91
+10,"Suchitepéquez",463564,"Usa Celular",276979,59.75
+10,"Suchitepéquez",463564,"No Usa Celular",182289,39.32
+10,"Suchitepéquez",463564,"NA_Celular",4296,0.93
+10,"Suchitepéquez",463564,"Usa Computadora",79320,17.11
+10,"Suchitepéquez",463564,"No usa Computadora",380437,82.07
+10,"Suchitepéquez",463564,"NA_Computadora",3807,0.82
+10,"Suchitepéquez",463564,"Usa Internet",119290,25.73
+10,"Suchitepéquez",463564,"No usa Internet",338925,73.11
+10,"Suchitepéquez",463564,"NA_Internet",5349,1.15
+11,"Retalhuleu",274349,"Usa Celular",171058,62.35
+11,"Retalhuleu",274349,"No Usa Celular",100658,36.69
+11,"Retalhuleu",274349,"NA_Celular",2633,0.96
+11,"Retalhuleu",274349,"Usa Computadora",47873,17.45
+11,"Retalhuleu",274349,"No usa Computadora",224059,81.67
+11,"Retalhuleu",274349,"NA_Computadora",2417,0.88
+11,"Retalhuleu",274349,"Usa Internet",77934,28.41
+11,"Retalhuleu",274349,"No usa Internet",193237,70.43
+11,"Retalhuleu",274349,"NA_Internet",3178,1.16
+12,"San Marcos",848315,"Usa Celular",485577,57.24
+12,"San Marcos",848315,"No Usa Celular",349790,41.23
+12,"San Marcos",848315,"NA_Celular",12948,1.53
+12,"San Marcos",848315,"Usa Computadora",103328,12.18
+12,"San Marcos",848315,"No usa Computadora",735306,86.68
+12,"San Marcos",848315,"NA_Computadora",9681,1.14
+12,"San Marcos",848315,"Usa Internet",163458,19.27
+12,"San Marcos",848315,"No usa Internet",668792,78.84
+12,"San Marcos",848315,"NA_Internet",16065,1.89
+13,"Huehuetenango",946716,"Usa Celular",543168,57.37
+13,"Huehuetenango",946716,"No Usa Celular",392036,41.41
+13,"Huehuetenango",946716,"NA_Celular",11512,1.22
+13,"Huehuetenango",946716,"Usa Computadora",98817,10.44
+13,"Huehuetenango",946716,"No usa Computadora",840835,88.82
+13,"Huehuetenango",946716,"NA_Computadora",7064,0.75
+13,"Huehuetenango",946716,"Usa Internet",175290,18.52
+13,"Huehuetenango",946716,"No usa Internet",757884,80.05
+13,"Huehuetenango",946716,"NA_Internet",13542,1.43
+14,"Quiché",773272,"Usa Celular",413960,53.53
+14,"Quiché",773272,"No Usa Celular",346326,44.79
+14,"Quiché",773272,"NA_Celular",12986,1.68
+14,"Quiché",773272,"Usa Computadora",66857,8.65
+14,"Quiché",773272,"No usa Computadora",698634,90.35
+14,"Quiché",773272,"NA_Computadora",7781,1.01
+14,"Quiché",773272,"Usa Internet",101337,13.1
+14,"Quiché",773272,"No usa Internet",655995,84.83
+14,"Quiché",773272,"NA_Internet",15940,2.06
+15,"Baja Verapaz",248176,"Usa Celular",144415,58.19
+15,"Baja Verapaz",248176,"No Usa Celular",101990,41.1
+15,"Baja Verapaz",248176,"NA_Celular",1771,0.71
+15,"Baja Verapaz",248176,"Usa Computadora",35873,14.45
+15,"Baja Verapaz",248176,"No usa Computadora",210973,85.01
+15,"Baja Verapaz",248176,"NA_Computadora",1330,0.54
+15,"Baja Verapaz",248176,"Usa Internet",50488,20.34
+15,"Baja Verapaz",248176,"No usa Internet",195420,78.74
+15,"Baja Verapaz",248176,"NA_Internet",2268,0.91
+16,"Alta Verapaz",984235,"Usa Celular",403515,41
+16,"Alta Verapaz",984235,"No Usa Celular",571393,58.05
+16,"Alta Verapaz",984235,"NA_Celular",9327,0.95
+16,"Alta Verapaz",984235,"Usa Computadora",100262,10.19
+16,"Alta Verapaz",984235,"No usa Computadora",879438,89.35
+16,"Alta Verapaz",984235,"NA_Computadora",4535,0.46
+16,"Alta Verapaz",984235,"Usa Internet",129070,13.11
+16,"Alta Verapaz",984235,"No usa Internet",845854,85.94
+16,"Alta Verapaz",984235,"NA_Internet",9311,0.95
+17,"Petén",449331,"Usa Celular",241010,53.64
+17,"Petén",449331,"No Usa Celular",202535,45.07
+17,"Petén",449331,"NA_Celular",5786,1.29
+17,"Petén",449331,"Usa Computadora",52184,11.61
+17,"Petén",449331,"No usa Computadora",392059,87.25
+17,"Petén",449331,"NA_Computadora",5088,1.13
+17,"Petén",449331,"Usa Internet",104425,23.24
+17,"Petén",449331,"No usa Internet",337697,75.16
+17,"Petén",449331,"NA_Internet",7209,1.6
+18,"Izabal",342614,"Usa Celular",191198,55.81
+18,"Izabal",342614,"No Usa Celular",147054,42.92
+18,"Izabal",342614,"NA_Celular",4362,1.27
+18,"Izabal",342614,"Usa Computadora",45938,13.41
+18,"Izabal",342614,"No usa Computadora",292235,85.3
+18,"Izabal",342614,"NA_Computadora",4441,1.3
+18,"Izabal",342614,"Usa Internet",85096,24.84
+18,"Izabal",342614,"No usa Internet",251674,73.46
+18,"Izabal",342614,"NA_Internet",5844,1.71
+19,"Zacapa",209192,"Usa Celular",122827,58.71
+19,"Zacapa",209192,"No Usa Celular",83297,39.82
+19,"Zacapa",209192,"NA_Celular",3068,1.47
+19,"Zacapa",209192,"Usa Computadora",32115,15.35
+19,"Zacapa",209192,"No usa Computadora",174190,83.27
+19,"Zacapa",209192,"NA_Computadora",2887,1.38
+19,"Zacapa",209192,"Usa Internet",55984,26.76
+19,"Zacapa",209192,"No usa Internet",149653,71.54
+19,"Zacapa",209192,"NA_Internet",3555,1.7
+20,"Chiquimula",343834,"Usa Celular",173862,50.57
+20,"Chiquimula",343834,"No Usa Celular",166686,48.48
+20,"Chiquimula",343834,"NA_Celular",3286,0.96
+20,"Chiquimula",343834,"Usa Computadora",42313,12.31
+20,"Chiquimula",343834,"No usa Computadora",299106,86.99
+20,"Chiquimula",343834,"NA_Computadora",2415,0.7
+20,"Chiquimula",343834,"Usa Internet",84267,24.51
+20,"Chiquimula",343834,"No usa Internet",256128,74.49
+20,"Chiquimula",343834,"NA_Internet",3439,1
+21,"Jalapa",283478,"Usa Celular",153445,54.13
+21,"Jalapa",283478,"No Usa Celular",128338,45.27
+21,"Jalapa",283478,"NA_Celular",1695,0.6
+21,"Jalapa",283478,"Usa Computadora",35628,12.57
+21,"Jalapa",283478,"No usa Computadora",246776,87.05
+21,"Jalapa",283478,"NA_Computadora",1074,0.38
+21,"Jalapa",283478,"Usa Internet",62353,22
+21,"Jalapa",283478,"No usa Internet",219347,77.38
+21,"Jalapa",283478,"NA_Internet",1778,0.63
+22,"Jutiapa",415727,"Usa Celular",260115,62.57
+22,"Jutiapa",415727,"No Usa Celular",152111,36.59
+22,"Jutiapa",415727,"NA_Celular",3501,0.84
+22,"Jutiapa",415727,"Usa Computadora",56887,13.68
+22,"Jutiapa",415727,"No usa Computadora",355654,85.55
+22,"Jutiapa",415727,"NA_Computadora",3186,0.77
+22,"Jutiapa",415727,"Usa Internet",118015,28.39
+22,"Jutiapa",415727,"No usa Internet",293698,70.65
+22,"Jutiapa",415727,"NA_Internet",4014,0.97

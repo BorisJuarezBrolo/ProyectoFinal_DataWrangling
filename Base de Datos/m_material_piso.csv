@@ -1,0 +1,2721 @@
+"Código","Municipio","Total de viviendas particulares","Material Predominante del Piso","Cantidad de Viviendas","Porcentaje de Viviendas Particulares"
+101,"Guatemala",283756,"Ladrillo cerámico",99345,35.01
+101,"Guatemala",283756,"Ladrillo de cemento",66768,23.53
+101,"Guatemala",283756,"Ladrillo de barro",1174,0.41
+101,"Guatemala",283756,"Torta de cemento",54666,19.27
+101,"Guatemala",283756,"Parqué o vinil",2364,0.83
+101,"Guatemala",283756,"Madera",963,0.34
+101,"Guatemala",283756,"Tierra",6129,2.16
+101,"Guatemala",283756,"Otro",1950,0.69
+102,"Santa Catarina Pinula",24991,"Ladrillo cerámico",9283,37.15
+102,"Santa Catarina Pinula",24991,"Ladrillo de cemento",2137,8.55
+102,"Santa Catarina Pinula",24991,"Ladrillo de barro",95,0.38
+102,"Santa Catarina Pinula",24991,"Torta de cemento",6530,26.13
+102,"Santa Catarina Pinula",24991,"Parqué o vinil",154,0.62
+102,"Santa Catarina Pinula",24991,"Madera",413,1.65
+102,"Santa Catarina Pinula",24991,"Tierra",922,3.69
+102,"Santa Catarina Pinula",24991,"Otro",87,0.35
+103,"San José Pinula",23675,"Ladrillo cerámico",9257,39.1
+103,"San José Pinula",23675,"Ladrillo de cemento",1477,6.24
+103,"San José Pinula",23675,"Ladrillo de barro",52,0.22
+103,"San José Pinula",23675,"Torta de cemento",6098,25.76
+103,"San José Pinula",23675,"Parqué o vinil",40,0.17
+103,"San José Pinula",23675,"Madera",77,0.33
+103,"San José Pinula",23675,"Tierra",1596,6.74
+103,"San José Pinula",23675,"Otro",33,0.14
+104,"San José del Golfo",2411,"Ladrillo cerámico",571,23.68
+104,"San José del Golfo",2411,"Ladrillo de cemento",85,3.53
+104,"San José del Golfo",2411,"Ladrillo de barro",7,0.29
+104,"San José del Golfo",2411,"Torta de cemento",1096,45.46
+104,"San José del Golfo",2411,"Parqué o vinil",2,0.08
+104,"San José del Golfo",2411,"Madera",3,0.12
+104,"San José del Golfo",2411,"Tierra",81,3.36
+104,"San José del Golfo",2411,"Otro",0,0
+105,"Palencia",20105,"Ladrillo cerámico",3940,19.6
+105,"Palencia",20105,"Ladrillo de cemento",1475,7.34
+105,"Palencia",20105,"Ladrillo de barro",44,0.22
+105,"Palencia",20105,"Torta de cemento",7839,38.99
+105,"Palencia",20105,"Parqué o vinil",15,0.07
+105,"Palencia",20105,"Madera",201,1
+105,"Palencia",20105,"Tierra",3136,15.6
+105,"Palencia",20105,"Otro",49,0.24
+106,"Chinautla",31001,"Ladrillo cerámico",8356,26.95
+106,"Chinautla",31001,"Ladrillo de cemento",3421,11.04
+106,"Chinautla",31001,"Ladrillo de barro",68,0.22
+106,"Chinautla",31001,"Torta de cemento",12736,41.08
+106,"Chinautla",31001,"Parqué o vinil",63,0.2
+106,"Chinautla",31001,"Madera",36,0.12
+106,"Chinautla",31001,"Tierra",1980,6.39
+106,"Chinautla",31001,"Otro",85,0.27
+107,"San Pedro Ayampuc",17139,"Ladrillo cerámico",2393,13.96
+107,"San Pedro Ayampuc",17139,"Ladrillo de cemento",954,5.57
+107,"San Pedro Ayampuc",17139,"Ladrillo de barro",33,0.19
+107,"San Pedro Ayampuc",17139,"Torta de cemento",7385,43.09
+107,"San Pedro Ayampuc",17139,"Parqué o vinil",33,0.19
+107,"San Pedro Ayampuc",17139,"Madera",30,0.18
+107,"San Pedro Ayampuc",17139,"Tierra",2669,15.57
+107,"San Pedro Ayampuc",17139,"Otro",45,0.26
+108,"Mixco",130487,"Ladrillo cerámico",53078,40.68
+108,"Mixco",130487,"Ladrillo de cemento",30237,23.17
+108,"Mixco",130487,"Ladrillo de barro",459,0.35
+108,"Mixco",130487,"Torta de cemento",26254,20.12
+108,"Mixco",130487,"Parqué o vinil",156,0.12
+108,"Mixco",130487,"Madera",179,0.14
+108,"Mixco",130487,"Tierra",2755,2.11
+108,"Mixco",130487,"Otro",740,0.57
+109,"San Pedro Sacatepéquez",11747,"Ladrillo cerámico",1944,16.55
+109,"San Pedro Sacatepéquez",11747,"Ladrillo de cemento",1056,8.99
+109,"San Pedro Sacatepéquez",11747,"Ladrillo de barro",18,0.15
+109,"San Pedro Sacatepéquez",11747,"Torta de cemento",4667,39.73
+109,"San Pedro Sacatepéquez",11747,"Parqué o vinil",20,0.17
+109,"San Pedro Sacatepéquez",11747,"Madera",63,0.54
+109,"San Pedro Sacatepéquez",11747,"Tierra",2214,18.85
+109,"San Pedro Sacatepéquez",11747,"Otro",0,0
+110,"San Juan Sacatepéquez",56517,"Ladrillo cerámico",9978,17.65
+110,"San Juan Sacatepéquez",56517,"Ladrillo de cemento",4712,8.34
+110,"San Juan Sacatepéquez",56517,"Ladrillo de barro",165,0.29
+110,"San Juan Sacatepéquez",56517,"Torta de cemento",18086,32
+110,"San Juan Sacatepéquez",56517,"Parqué o vinil",76,0.13
+110,"San Juan Sacatepéquez",56517,"Madera",256,0.45
+110,"San Juan Sacatepéquez",56517,"Tierra",11000,19.46
+110,"San Juan Sacatepéquez",56517,"Otro",205,0.36
+111,"San Raymundo",9362,"Ladrillo cerámico",1381,14.75
+111,"San Raymundo",9362,"Ladrillo de cemento",1021,10.91
+111,"San Raymundo",9362,"Ladrillo de barro",27,0.29
+111,"San Raymundo",9362,"Torta de cemento",3088,32.98
+111,"San Raymundo",9362,"Parqué o vinil",61,0.65
+111,"San Raymundo",9362,"Madera",37,0.4
+111,"San Raymundo",9362,"Tierra",1300,13.89
+111,"San Raymundo",9362,"Otro",35,0.37
+112,"Chuarrancho",3757,"Ladrillo cerámico",418,11.13
+112,"Chuarrancho",3757,"Ladrillo de cemento",233,6.2
+112,"Chuarrancho",3757,"Ladrillo de barro",54,1.44
+112,"Chuarrancho",3757,"Torta de cemento",1110,29.54
+112,"Chuarrancho",3757,"Parqué o vinil",7,0.19
+112,"Chuarrancho",3757,"Madera",23,0.61
+112,"Chuarrancho",3757,"Tierra",738,19.64
+112,"Chuarrancho",3757,"Otro",16,0.43
+113,"Fraijanes",16769,"Ladrillo cerámico",7253,43.25
+113,"Fraijanes",16769,"Ladrillo de cemento",939,5.6
+113,"Fraijanes",16769,"Ladrillo de barro",62,0.37
+113,"Fraijanes",16769,"Torta de cemento",3940,23.5
+113,"Fraijanes",16769,"Parqué o vinil",53,0.32
+113,"Fraijanes",16769,"Madera",212,1.26
+113,"Fraijanes",16769,"Tierra",1009,6.02
+113,"Fraijanes",16769,"Otro",61,0.36
+114,"Amatitlán",33904,"Ladrillo cerámico",10496,30.96
+114,"Amatitlán",33904,"Ladrillo de cemento",3989,11.77
+114,"Amatitlán",33904,"Ladrillo de barro",124,0.37
+114,"Amatitlán",33904,"Torta de cemento",9873,29.12
+114,"Amatitlán",33904,"Parqué o vinil",50,0.15
+114,"Amatitlán",33904,"Madera",40,0.12
+114,"Amatitlán",33904,"Tierra",2943,8.68
+114,"Amatitlán",33904,"Otro",82,0.24
+115,"Villa Nueva",125493,"Ladrillo cerámico",47740,38.04
+115,"Villa Nueva",125493,"Ladrillo de cemento",14758,11.76
+115,"Villa Nueva",125493,"Ladrillo de barro",281,0.22
+115,"Villa Nueva",125493,"Torta de cemento",34640,27.6
+115,"Villa Nueva",125493,"Parqué o vinil",176,0.14
+115,"Villa Nueva",125493,"Madera",157,0.13
+115,"Villa Nueva",125493,"Tierra",4951,3.95
+115,"Villa Nueva",125493,"Otro",1185,0.94
+116,"Villa Canales",43706,"Ladrillo cerámico",10522,24.07
+116,"Villa Canales",43706,"Ladrillo de cemento",3903,8.93
+116,"Villa Canales",43706,"Ladrillo de barro",114,0.26
+116,"Villa Canales",43706,"Torta de cemento",16658,38.11
+116,"Villa Canales",43706,"Parqué o vinil",85,0.19
+116,"Villa Canales",43706,"Madera",602,1.38
+116,"Villa Canales",43706,"Tierra",4525,10.35
+116,"Villa Canales",43706,"Otro",87,0.2
+117,"San Miguel Petapa",38884,"Ladrillo cerámico",19370,49.81
+117,"San Miguel Petapa",38884,"Ladrillo de cemento",5264,13.54
+117,"San Miguel Petapa",38884,"Ladrillo de barro",104,0.27
+117,"San Miguel Petapa",38884,"Torta de cemento",6888,17.71
+117,"San Miguel Petapa",38884,"Parqué o vinil",46,0.12
+117,"San Miguel Petapa",38884,"Madera",26,0.07
+117,"San Miguel Petapa",38884,"Tierra",1057,2.72
+117,"San Miguel Petapa",38884,"Otro",324,0.83
+201,"Guastatoya",8186,"Ladrillo cerámico",2684,32.79
+201,"Guastatoya",8186,"Ladrillo de cemento",1035,12.64
+201,"Guastatoya",8186,"Ladrillo de barro",29,0.35
+201,"Guastatoya",8186,"Torta de cemento",2338,28.56
+201,"Guastatoya",8186,"Parqué o vinil",41,0.5
+201,"Guastatoya",8186,"Madera",6,0.07
+201,"Guastatoya",8186,"Tierra",359,4.39
+201,"Guastatoya",8186,"Otro",65,0.79
+202,"Morazán",4531,"Ladrillo cerámico",775,17.1
+202,"Morazán",4531,"Ladrillo de cemento",304,6.71
+202,"Morazán",4531,"Ladrillo de barro",21,0.46
+202,"Morazán",4531,"Torta de cemento",1610,35.53
+202,"Morazán",4531,"Parqué o vinil",8,0.18
+202,"Morazán",4531,"Madera",34,0.75
+202,"Morazán",4531,"Tierra",430,9.49
+202,"Morazán",4531,"Otro",14,0.31
+203,"San Agustín Acasaguastlán",12670,"Ladrillo cerámico",1361,10.74
+203,"San Agustín Acasaguastlán",12670,"Ladrillo de cemento",424,3.35
+203,"San Agustín Acasaguastlán",12670,"Ladrillo de barro",48,0.38
+203,"San Agustín Acasaguastlán",12670,"Torta de cemento",5214,41.15
+203,"San Agustín Acasaguastlán",12670,"Parqué o vinil",12,0.09
+203,"San Agustín Acasaguastlán",12670,"Madera",199,1.57
+203,"San Agustín Acasaguastlán",12670,"Tierra",3209,25.33
+203,"San Agustín Acasaguastlán",12670,"Otro",15,0.12
+204,"San Cristóbal Acasaguastlán",2659,"Ladrillo cerámico",365,13.73
+204,"San Cristóbal Acasaguastlán",2659,"Ladrillo de cemento",109,4.1
+204,"San Cristóbal Acasaguastlán",2659,"Ladrillo de barro",5,0.19
+204,"San Cristóbal Acasaguastlán",2659,"Torta de cemento",1242,46.71
+204,"San Cristóbal Acasaguastlán",2659,"Parqué o vinil",5,0.19
+204,"San Cristóbal Acasaguastlán",2659,"Madera",10,0.38
+204,"San Cristóbal Acasaguastlán",2659,"Tierra",143,5.38
+204,"San Cristóbal Acasaguastlán",2659,"Otro",10,0.38
+205,"El Jícaro",4217,"Ladrillo cerámico",422,10.01
+205,"El Jícaro",4217,"Ladrillo de cemento",227,5.38
+205,"El Jícaro",4217,"Ladrillo de barro",5,0.12
+205,"El Jícaro",4217,"Torta de cemento",2143,50.82
+205,"El Jícaro",4217,"Parqué o vinil",8,0.19
+205,"El Jícaro",4217,"Madera",11,0.26
+205,"El Jícaro",4217,"Tierra",624,14.8
+205,"El Jícaro",4217,"Otro",2,0.05
+206,"Sansare",4107,"Ladrillo cerámico",702,17.09
+206,"Sansare",4107,"Ladrillo de cemento",721,17.56
+206,"Sansare",4107,"Ladrillo de barro",41,1
+206,"Sansare",4107,"Torta de cemento",1290,31.41
+206,"Sansare",4107,"Parqué o vinil",2,0.05
+206,"Sansare",4107,"Madera",8,0.19
+206,"Sansare",4107,"Tierra",460,11.2
+206,"Sansare",4107,"Otro",0,0
+207,"Sanarate",11498,"Ladrillo cerámico",2728,23.73
+207,"Sanarate",11498,"Ladrillo de cemento",1974,17.17
+207,"Sanarate",11498,"Ladrillo de barro",81,0.7
+207,"Sanarate",11498,"Torta de cemento",3786,32.93
+207,"Sanarate",11498,"Parqué o vinil",30,0.26
+207,"Sanarate",11498,"Madera",7,0.06
+207,"Sanarate",11498,"Tierra",949,8.25
+207,"Sanarate",11498,"Otro",28,0.24
+208,"San Antonio la Paz",6241,"Ladrillo cerámico",922,14.77
+208,"San Antonio la Paz",6241,"Ladrillo de cemento",316,5.06
+208,"San Antonio la Paz",6241,"Ladrillo de barro",11,0.18
+208,"San Antonio la Paz",6241,"Torta de cemento",3131,50.17
+208,"San Antonio la Paz",6241,"Parqué o vinil",15,0.24
+208,"San Antonio la Paz",6241,"Madera",9,0.14
+208,"San Antonio la Paz",6241,"Tierra",738,11.83
+208,"San Antonio la Paz",6241,"Otro",17,0.27
+301,"Antigua Guatemala",14687,"Ladrillo cerámico",3265,22.23
+301,"Antigua Guatemala",14687,"Ladrillo de cemento",1647,11.21
+301,"Antigua Guatemala",14687,"Ladrillo de barro",206,1.4
+301,"Antigua Guatemala",14687,"Torta de cemento",3890,26.49
+301,"Antigua Guatemala",14687,"Parqué o vinil",14,0.1
+301,"Antigua Guatemala",14687,"Madera",42,0.29
+301,"Antigua Guatemala",14687,"Tierra",937,6.38
+301,"Antigua Guatemala",14687,"Otro",53,0.36
+302,"Jocotenango",5706,"Ladrillo cerámico",2316,40.59
+302,"Jocotenango",5706,"Ladrillo de cemento",833,14.6
+302,"Jocotenango",5706,"Ladrillo de barro",26,0.46
+302,"Jocotenango",5706,"Torta de cemento",1332,23.34
+302,"Jocotenango",5706,"Parqué o vinil",10,0.18
+302,"Jocotenango",5706,"Madera",6,0.11
+302,"Jocotenango",5706,"Tierra",255,4.47
+302,"Jocotenango",5706,"Otro",19,0.33
+303,"Pastores",4112,"Ladrillo cerámico",575,13.98
+303,"Pastores",4112,"Ladrillo de cemento",334,8.12
+303,"Pastores",4112,"Ladrillo de barro",12,0.29
+303,"Pastores",4112,"Torta de cemento",1642,39.93
+303,"Pastores",4112,"Parqué o vinil",4,0.1
+303,"Pastores",4112,"Madera",9,0.22
+303,"Pastores",4112,"Tierra",1157,28.14
+303,"Pastores",4112,"Otro",14,0.34
+304,"Sumpango",10049,"Ladrillo cerámico",1752,17.43
+304,"Sumpango",10049,"Ladrillo de cemento",1040,10.35
+304,"Sumpango",10049,"Ladrillo de barro",106,1.05
+304,"Sumpango",10049,"Torta de cemento",3172,31.57
+304,"Sumpango",10049,"Parqué o vinil",21,0.21
+304,"Sumpango",10049,"Madera",24,0.24
+304,"Sumpango",10049,"Tierra",1302,12.96
+304,"Sumpango",10049,"Otro",6,0.06
+305,"Santo Domingo Xenacoj",3302,"Ladrillo cerámico",606,18.35
+305,"Santo Domingo Xenacoj",3302,"Ladrillo de cemento",173,5.24
+305,"Santo Domingo Xenacoj",3302,"Ladrillo de barro",11,0.33
+305,"Santo Domingo Xenacoj",3302,"Torta de cemento",1402,42.46
+305,"Santo Domingo Xenacoj",3302,"Parqué o vinil",3,0.09
+305,"Santo Domingo Xenacoj",3302,"Madera",16,0.48
+305,"Santo Domingo Xenacoj",3302,"Tierra",377,11.42
+305,"Santo Domingo Xenacoj",3302,"Otro",2,0.06
+306,"Santiago Sacatepéquez",7788,"Ladrillo cerámico",1926,24.73
+306,"Santiago Sacatepéquez",7788,"Ladrillo de cemento",1103,14.16
+306,"Santiago Sacatepéquez",7788,"Ladrillo de barro",24,0.31
+306,"Santiago Sacatepéquez",7788,"Torta de cemento",2474,31.77
+306,"Santiago Sacatepéquez",7788,"Parqué o vinil",28,0.36
+306,"Santiago Sacatepéquez",7788,"Madera",14,0.18
+306,"Santiago Sacatepéquez",7788,"Tierra",535,6.87
+306,"Santiago Sacatepéquez",7788,"Otro",96,1.23
+307,"San Bartolomé Milpas Altas",1893,"Ladrillo cerámico",661,34.92
+307,"San Bartolomé Milpas Altas",1893,"Ladrillo de cemento",169,8.93
+307,"San Bartolomé Milpas Altas",1893,"Ladrillo de barro",13,0.69
+307,"San Bartolomé Milpas Altas",1893,"Torta de cemento",709,37.45
+307,"San Bartolomé Milpas Altas",1893,"Parqué o vinil",6,0.32
+307,"San Bartolomé Milpas Altas",1893,"Madera",2,0.11
+307,"San Bartolomé Milpas Altas",1893,"Tierra",77,4.07
+307,"San Bartolomé Milpas Altas",1893,"Otro",14,0.74
+308,"San Lucas Sacatepéquez",7719,"Ladrillo cerámico",3305,42.82
+308,"San Lucas Sacatepéquez",7719,"Ladrillo de cemento",509,6.59
+308,"San Lucas Sacatepéquez",7719,"Ladrillo de barro",44,0.57
+308,"San Lucas Sacatepéquez",7719,"Torta de cemento",1638,21.22
+308,"San Lucas Sacatepéquez",7719,"Parqué o vinil",7,0.09
+308,"San Lucas Sacatepéquez",7719,"Madera",19,0.25
+308,"San Lucas Sacatepéquez",7719,"Tierra",197,2.55
+308,"San Lucas Sacatepéquez",7719,"Otro",96,1.24
+309,"Santa Lucía Milpas Altas",4740,"Ladrillo cerámico",1622,34.22
+309,"Santa Lucía Milpas Altas",4740,"Ladrillo de cemento",425,8.97
+309,"Santa Lucía Milpas Altas",4740,"Ladrillo de barro",29,0.61
+309,"Santa Lucía Milpas Altas",4740,"Torta de cemento",1434,30.25
+309,"Santa Lucía Milpas Altas",4740,"Parqué o vinil",7,0.15
+309,"Santa Lucía Milpas Altas",4740,"Madera",6,0.13
+309,"Santa Lucía Milpas Altas",4740,"Tierra",187,3.95
+309,"Santa Lucía Milpas Altas",4740,"Otro",15,0.32
+310,"Magdalena Milpas Altas",2717,"Ladrillo cerámico",618,22.75
+310,"Magdalena Milpas Altas",2717,"Ladrillo de cemento",323,11.89
+310,"Magdalena Milpas Altas",2717,"Ladrillo de barro",6,0.22
+310,"Magdalena Milpas Altas",2717,"Torta de cemento",1375,50.61
+310,"Magdalena Milpas Altas",2717,"Parqué o vinil",3,0.11
+310,"Magdalena Milpas Altas",2717,"Madera",2,0.07
+310,"Magdalena Milpas Altas",2717,"Tierra",86,3.17
+310,"Magdalena Milpas Altas",2717,"Otro",1,0.04
+311,"Santa María de Jesús",4774,"Ladrillo cerámico",613,12.84
+311,"Santa María de Jesús",4774,"Ladrillo de cemento",103,2.16
+311,"Santa María de Jesús",4774,"Ladrillo de barro",13,0.27
+311,"Santa María de Jesús",4774,"Torta de cemento",2149,45.01
+311,"Santa María de Jesús",4774,"Parqué o vinil",14,0.29
+311,"Santa María de Jesús",4774,"Madera",42,0.88
+311,"Santa María de Jesús",4774,"Tierra",1175,24.61
+311,"Santa María de Jesús",4774,"Otro",2,0.04
+312,"Ciudad Vieja",8658,"Ladrillo cerámico",1942,22.43
+312,"Ciudad Vieja",8658,"Ladrillo de cemento",782,9.03
+312,"Ciudad Vieja",8658,"Ladrillo de barro",48,0.55
+312,"Ciudad Vieja",8658,"Torta de cemento",3115,35.98
+312,"Ciudad Vieja",8658,"Parqué o vinil",9,0.1
+312,"Ciudad Vieja",8658,"Madera",13,0.15
+312,"Ciudad Vieja",8658,"Tierra",1136,13.12
+312,"Ciudad Vieja",8658,"Otro",15,0.17
+313,"San Miguel Dueñas",3316,"Ladrillo cerámico",919,27.71
+313,"San Miguel Dueñas",3316,"Ladrillo de cemento",367,11.07
+313,"San Miguel Dueñas",3316,"Ladrillo de barro",37,1.12
+313,"San Miguel Dueñas",3316,"Torta de cemento",1002,30.22
+313,"San Miguel Dueñas",3316,"Parqué o vinil",8,0.24
+313,"San Miguel Dueñas",3316,"Madera",6,0.18
+313,"San Miguel Dueñas",3316,"Tierra",431,13
+313,"San Miguel Dueñas",3316,"Otro",2,0.06
+314,"San Juan Alotenango",5239,"Ladrillo cerámico",593,11.32
+314,"San Juan Alotenango",5239,"Ladrillo de cemento",164,3.13
+314,"San Juan Alotenango",5239,"Ladrillo de barro",4,0.08
+314,"San Juan Alotenango",5239,"Torta de cemento",2492,47.57
+314,"San Juan Alotenango",5239,"Parqué o vinil",4,0.08
+314,"San Juan Alotenango",5239,"Madera",68,1.3
+314,"San Juan Alotenango",5239,"Tierra",1444,27.56
+314,"San Juan Alotenango",5239,"Otro",2,0.04
+315,"San Antonio Aguas Calientes",2689,"Ladrillo cerámico",470,17.48
+315,"San Antonio Aguas Calientes",2689,"Ladrillo de cemento",127,4.72
+315,"San Antonio Aguas Calientes",2689,"Ladrillo de barro",6,0.22
+315,"San Antonio Aguas Calientes",2689,"Torta de cemento",1026,38.16
+315,"San Antonio Aguas Calientes",2689,"Parqué o vinil",0,0
+315,"San Antonio Aguas Calientes",2689,"Madera",15,0.56
+315,"San Antonio Aguas Calientes",2689,"Tierra",772,28.71
+315,"San Antonio Aguas Calientes",2689,"Otro",0,0
+316,"Santa Catarina Barahona",984,"Ladrillo cerámico",123,12.5
+316,"Santa Catarina Barahona",984,"Ladrillo de cemento",48,4.88
+316,"Santa Catarina Barahona",984,"Ladrillo de barro",4,0.41
+316,"Santa Catarina Barahona",984,"Torta de cemento",395,40.14
+316,"Santa Catarina Barahona",984,"Parqué o vinil",0,0
+316,"Santa Catarina Barahona",984,"Madera",1,0.1
+316,"Santa Catarina Barahona",984,"Tierra",307,31.2
+316,"Santa Catarina Barahona",984,"Otro",2,0.2
+401,"Chimaltenango",24729,"Ladrillo cerámico",6779,27.41
+401,"Chimaltenango",24729,"Ladrillo de cemento",3793,15.34
+401,"Chimaltenango",24729,"Ladrillo de barro",102,0.41
+401,"Chimaltenango",24729,"Torta de cemento",7229,29.23
+401,"Chimaltenango",24729,"Parqué o vinil",29,0.12
+401,"Chimaltenango",24729,"Madera",27,0.11
+401,"Chimaltenango",24729,"Tierra",1869,7.56
+401,"Chimaltenango",24729,"Otro",20,0.08
+402,"San José Poaquil",6159,"Ladrillo cerámico",905,14.69
+402,"San José Poaquil",6159,"Ladrillo de cemento",186,3.02
+402,"San José Poaquil",6159,"Ladrillo de barro",12,0.19
+402,"San José Poaquil",6159,"Torta de cemento",2358,38.29
+402,"San José Poaquil",6159,"Parqué o vinil",13,0.21
+402,"San José Poaquil",6159,"Madera",46,0.75
+402,"San José Poaquil",6159,"Tierra",1490,24.19
+402,"San José Poaquil",6159,"Otro",1,0.02
+403,"San Martín Jilotepeque",18953,"Ladrillo cerámico",2939,15.51
+403,"San Martín Jilotepeque",18953,"Ladrillo de cemento",1209,6.38
+403,"San Martín Jilotepeque",18953,"Ladrillo de barro",42,0.22
+403,"San Martín Jilotepeque",18953,"Torta de cemento",6302,33.25
+403,"San Martín Jilotepeque",18953,"Parqué o vinil",31,0.16
+403,"San Martín Jilotepeque",18953,"Madera",53,0.28
+403,"San Martín Jilotepeque",18953,"Tierra",3984,21.02
+403,"San Martín Jilotepeque",18953,"Otro",18,0.09
+404,"San Juan Comalapa",11488,"Ladrillo cerámico",1356,11.8
+404,"San Juan Comalapa",11488,"Ladrillo de cemento",552,4.81
+404,"San Juan Comalapa",11488,"Ladrillo de barro",26,0.23
+404,"San Juan Comalapa",11488,"Torta de cemento",4629,40.29
+404,"San Juan Comalapa",11488,"Parqué o vinil",7,0.06
+404,"San Juan Comalapa",11488,"Madera",42,0.37
+404,"San Juan Comalapa",11488,"Tierra",2925,25.46
+404,"San Juan Comalapa",11488,"Otro",4,0.03
+405,"Santa Apolonia",3625,"Ladrillo cerámico",482,13.3
+405,"Santa Apolonia",3625,"Ladrillo de cemento",105,2.9
+405,"Santa Apolonia",3625,"Ladrillo de barro",10,0.28
+405,"Santa Apolonia",3625,"Torta de cemento",1796,49.54
+405,"Santa Apolonia",3625,"Parqué o vinil",3,0.08
+405,"Santa Apolonia",3625,"Madera",7,0.19
+405,"Santa Apolonia",3625,"Tierra",800,22.07
+405,"Santa Apolonia",3625,"Otro",1,0.03
+406,"Tecpán Guatemala",18140,"Ladrillo cerámico",2959,16.31
+406,"Tecpán Guatemala",18140,"Ladrillo de cemento",957,5.28
+406,"Tecpán Guatemala",18140,"Ladrillo de barro",84,0.46
+406,"Tecpán Guatemala",18140,"Torta de cemento",8150,44.93
+406,"Tecpán Guatemala",18140,"Parqué o vinil",38,0.21
+406,"Tecpán Guatemala",18140,"Madera",80,0.44
+406,"Tecpán Guatemala",18140,"Tierra",3530,19.46
+406,"Tecpán Guatemala",18140,"Otro",52,0.29
+407,"Patzún",13619,"Ladrillo cerámico",2715,19.94
+407,"Patzún",13619,"Ladrillo de cemento",1233,9.05
+407,"Patzún",13619,"Ladrillo de barro",68,0.5
+407,"Patzún",13619,"Torta de cemento",5928,43.53
+407,"Patzún",13619,"Parqué o vinil",17,0.12
+407,"Patzún",13619,"Madera",40,0.29
+407,"Patzún",13619,"Tierra",1687,12.39
+407,"Patzún",13619,"Otro",62,0.46
+408,"San Miguel Pochuta",1983,"Ladrillo cerámico",181,9.13
+408,"San Miguel Pochuta",1983,"Ladrillo de cemento",51,2.57
+408,"San Miguel Pochuta",1983,"Ladrillo de barro",13,0.66
+408,"San Miguel Pochuta",1983,"Torta de cemento",1080,54.46
+408,"San Miguel Pochuta",1983,"Parqué o vinil",0,0
+408,"San Miguel Pochuta",1983,"Madera",13,0.66
+408,"San Miguel Pochuta",1983,"Tierra",314,15.83
+408,"San Miguel Pochuta",1983,"Otro",1,0.05
+409,"Patzicía",7768,"Ladrillo cerámico",1830,23.56
+409,"Patzicía",7768,"Ladrillo de cemento",940,12.1
+409,"Patzicía",7768,"Ladrillo de barro",22,0.28
+409,"Patzicía",7768,"Torta de cemento",3015,38.81
+409,"Patzicía",7768,"Parqué o vinil",9,0.12
+409,"Patzicía",7768,"Madera",11,0.14
+409,"Patzicía",7768,"Tierra",908,11.69
+409,"Patzicía",7768,"Otro",9,0.12
+410,"Santa Cruz Balanyá",2327,"Ladrillo cerámico",406,17.45
+410,"Santa Cruz Balanyá",2327,"Ladrillo de cemento",101,4.34
+410,"Santa Cruz Balanyá",2327,"Ladrillo de barro",3,0.13
+410,"Santa Cruz Balanyá",2327,"Torta de cemento",1020,43.83
+410,"Santa Cruz Balanyá",2327,"Parqué o vinil",1,0.04
+410,"Santa Cruz Balanyá",2327,"Madera",2,0.09
+410,"Santa Cruz Balanyá",2327,"Tierra",424,18.22
+410,"Santa Cruz Balanyá",2327,"Otro",1,0.04
+411,"Acatenango",5654,"Ladrillo cerámico",1069,18.91
+411,"Acatenango",5654,"Ladrillo de cemento",596,10.54
+411,"Acatenango",5654,"Ladrillo de barro",18,0.32
+411,"Acatenango",5654,"Torta de cemento",2335,41.3
+411,"Acatenango",5654,"Parqué o vinil",4,0.07
+411,"Acatenango",5654,"Madera",12,0.21
+411,"Acatenango",5654,"Tierra",627,11.09
+411,"Acatenango",5654,"Otro",1,0.02
+412,"San Pedro Yepocapa",7432,"Ladrillo cerámico",1028,13.83
+412,"San Pedro Yepocapa",7432,"Ladrillo de cemento",355,4.78
+412,"San Pedro Yepocapa",7432,"Ladrillo de barro",11,0.15
+412,"San Pedro Yepocapa",7432,"Torta de cemento",4225,56.85
+412,"San Pedro Yepocapa",7432,"Parqué o vinil",12,0.16
+412,"San Pedro Yepocapa",7432,"Madera",15,0.2
+412,"San Pedro Yepocapa",7432,"Tierra",1038,13.97
+412,"San Pedro Yepocapa",7432,"Otro",5,0.07
+413,"San Andrés Itzapa",7689,"Ladrillo cerámico",1418,18.44
+413,"San Andrés Itzapa",7689,"Ladrillo de cemento",732,9.52
+413,"San Andrés Itzapa",7689,"Ladrillo de barro",92,1.2
+413,"San Andrés Itzapa",7689,"Torta de cemento",3058,39.77
+413,"San Andrés Itzapa",7689,"Parqué o vinil",5,0.07
+413,"San Andrés Itzapa",7689,"Madera",6,0.08
+413,"San Andrés Itzapa",7689,"Tierra",981,12.76
+413,"San Andrés Itzapa",7689,"Otro",5,0.07
+414,"Parramos",3912,"Ladrillo cerámico",727,18.58
+414,"Parramos",3912,"Ladrillo de cemento",375,9.59
+414,"Parramos",3912,"Ladrillo de barro",8,0.2
+414,"Parramos",3912,"Torta de cemento",1407,35.97
+414,"Parramos",3912,"Parqué o vinil",2,0.05
+414,"Parramos",3912,"Madera",6,0.15
+414,"Parramos",3912,"Tierra",799,20.42
+414,"Parramos",3912,"Otro",9,0.23
+415,"Zaragoza",6436,"Ladrillo cerámico",2119,32.92
+415,"Zaragoza",6436,"Ladrillo de cemento",768,11.93
+415,"Zaragoza",6436,"Ladrillo de barro",22,0.34
+415,"Zaragoza",6436,"Torta de cemento",2015,31.31
+415,"Zaragoza",6436,"Parqué o vinil",3,0.05
+415,"Zaragoza",6436,"Madera",14,0.22
+415,"Zaragoza",6436,"Tierra",533,8.28
+415,"Zaragoza",6436,"Otro",4,0.06
+416,"El Tejar",4930,"Ladrillo cerámico",1386,28.11
+416,"El Tejar",4930,"Ladrillo de cemento",853,17.3
+416,"El Tejar",4930,"Ladrillo de barro",51,1.03
+416,"El Tejar",4930,"Torta de cemento",1618,32.82
+416,"El Tejar",4930,"Parqué o vinil",5,0.1
+416,"El Tejar",4930,"Madera",4,0.08
+416,"El Tejar",4930,"Tierra",257,5.21
+416,"El Tejar",4930,"Otro",2,0.04
+501,"Escuintla",43995,"Ladrillo cerámico",8935,20.31
+501,"Escuintla",43995,"Ladrillo de cemento",4666,10.61
+501,"Escuintla",43995,"Ladrillo de barro",170,0.39
+501,"Escuintla",43995,"Torta de cemento",19440,44.19
+501,"Escuintla",43995,"Parqué o vinil",259,0.59
+501,"Escuintla",43995,"Madera",133,0.3
+501,"Escuintla",43995,"Tierra",4211,9.57
+501,"Escuintla",43995,"Otro",35,0.08
+502,"Santa Lucía Cotzumalguapa",28991,"Ladrillo cerámico",3683,12.7
+502,"Santa Lucía Cotzumalguapa",28991,"Ladrillo de cemento",3289,11.34
+502,"Santa Lucía Cotzumalguapa",28991,"Ladrillo de barro",66,0.23
+502,"Santa Lucía Cotzumalguapa",28991,"Torta de cemento",15243,52.58
+502,"Santa Lucía Cotzumalguapa",28991,"Parqué o vinil",56,0.19
+502,"Santa Lucía Cotzumalguapa",28991,"Madera",61,0.21
+502,"Santa Lucía Cotzumalguapa",28991,"Tierra",3739,12.9
+502,"Santa Lucía Cotzumalguapa",28991,"Otro",30,0.1
+503,"La Democracia",6517,"Ladrillo cerámico",588,9.02
+503,"La Democracia",6517,"Ladrillo de cemento",267,4.1
+503,"La Democracia",6517,"Ladrillo de barro",10,0.15
+503,"La Democracia",6517,"Torta de cemento",4019,61.67
+503,"La Democracia",6517,"Parqué o vinil",10,0.15
+503,"La Democracia",6517,"Madera",14,0.21
+503,"La Democracia",6517,"Tierra",866,13.29
+503,"La Democracia",6517,"Otro",12,0.18
+504,"Siquinalá",6214,"Ladrillo cerámico",868,13.97
+504,"Siquinalá",6214,"Ladrillo de cemento",1526,24.56
+504,"Siquinalá",6214,"Ladrillo de barro",15,0.24
+504,"Siquinalá",6214,"Torta de cemento",2176,35.02
+504,"Siquinalá",6214,"Parqué o vinil",19,0.31
+504,"Siquinalá",6214,"Madera",13,0.21
+504,"Siquinalá",6214,"Tierra",768,12.36
+504,"Siquinalá",6214,"Otro",2,0.03
+505,"Masagua",13858,"Ladrillo cerámico",636,4.59
+505,"Masagua",13858,"Ladrillo de cemento",1170,8.44
+505,"Masagua",13858,"Ladrillo de barro",15,0.11
+505,"Masagua",13858,"Torta de cemento",7352,53.05
+505,"Masagua",13858,"Parqué o vinil",25,0.18
+505,"Masagua",13858,"Madera",62,0.45
+505,"Masagua",13858,"Tierra",2302,16.61
+505,"Masagua",13858,"Otro",4,0.03
+506,"Tiquisate",17293,"Ladrillo cerámico",1708,9.88
+506,"Tiquisate",17293,"Ladrillo de cemento",2704,15.64
+506,"Tiquisate",17293,"Ladrillo de barro",42,0.24
+506,"Tiquisate",17293,"Torta de cemento",7526,43.52
+506,"Tiquisate",17293,"Parqué o vinil",19,0.11
+506,"Tiquisate",17293,"Madera",84,0.49
+506,"Tiquisate",17293,"Tierra",2029,11.73
+506,"Tiquisate",17293,"Otro",144,0.83
+507,"La Gomera",12770,"Ladrillo cerámico",803,6.29
+507,"La Gomera",12770,"Ladrillo de cemento",497,3.89
+507,"La Gomera",12770,"Ladrillo de barro",44,0.34
+507,"La Gomera",12770,"Torta de cemento",8261,64.69
+507,"La Gomera",12770,"Parqué o vinil",43,0.34
+507,"La Gomera",12770,"Madera",21,0.16
+507,"La Gomera",12770,"Tierra",1937,15.17
+507,"La Gomera",12770,"Otro",8,0.06
+508,"Guanagazapa",4167,"Ladrillo cerámico",216,5.18
+508,"Guanagazapa",4167,"Ladrillo de cemento",452,10.85
+508,"Guanagazapa",4167,"Ladrillo de barro",1,0.02
+508,"Guanagazapa",4167,"Torta de cemento",1562,37.49
+508,"Guanagazapa",4167,"Parqué o vinil",52,1.25
+508,"Guanagazapa",4167,"Madera",14,0.34
+508,"Guanagazapa",4167,"Tierra",1259,30.21
+508,"Guanagazapa",4167,"Otro",3,0.07
+509,"San José",21340,"Ladrillo cerámico",3261,15.28
+509,"San José",21340,"Ladrillo de cemento",1642,7.69
+509,"San José",21340,"Ladrillo de barro",65,0.3
+509,"San José",21340,"Torta de cemento",9943,46.59
+509,"San José",21340,"Parqué o vinil",53,0.25
+509,"San José",21340,"Madera",38,0.18
+509,"San José",21340,"Tierra",1907,8.94
+509,"San José",21340,"Otro",5,0.02
+510,"Iztapa",5742,"Ladrillo cerámico",897,15.62
+510,"Iztapa",5742,"Ladrillo de cemento",425,7.4
+510,"Iztapa",5742,"Ladrillo de barro",16,0.28
+510,"Iztapa",5742,"Torta de cemento",2642,46.01
+510,"Iztapa",5742,"Parqué o vinil",11,0.19
+510,"Iztapa",5742,"Madera",37,0.64
+510,"Iztapa",5742,"Tierra",715,12.45
+510,"Iztapa",5742,"Otro",2,0.03
+511,"Palín",17486,"Ladrillo cerámico",4995,28.57
+511,"Palín",17486,"Ladrillo de cemento",1493,8.54
+511,"Palín",17486,"Ladrillo de barro",84,0.48
+511,"Palín",17486,"Torta de cemento",7274,41.6
+511,"Palín",17486,"Parqué o vinil",74,0.42
+511,"Palín",17486,"Madera",37,0.21
+511,"Palín",17486,"Tierra",1462,8.36
+511,"Palín",17486,"Otro",6,0.03
+512,"San Vicente Pacaya",4799,"Ladrillo cerámico",794,16.55
+512,"San Vicente Pacaya",4799,"Ladrillo de cemento",391,8.15
+512,"San Vicente Pacaya",4799,"Ladrillo de barro",21,0.44
+512,"San Vicente Pacaya",4799,"Torta de cemento",2543,52.99
+512,"San Vicente Pacaya",4799,"Parqué o vinil",4,0.08
+512,"San Vicente Pacaya",4799,"Madera",7,0.15
+512,"San Vicente Pacaya",4799,"Tierra",346,7.21
+512,"San Vicente Pacaya",4799,"Otro",3,0.06
+513,"Nueva Concepción",21230,"Ladrillo cerámico",1810,8.53
+513,"Nueva Concepción",21230,"Ladrillo de cemento",1046,4.93
+513,"Nueva Concepción",21230,"Ladrillo de barro",32,0.15
+513,"Nueva Concepción",21230,"Torta de cemento",12110,57.04
+513,"Nueva Concepción",21230,"Parqué o vinil",27,0.13
+513,"Nueva Concepción",21230,"Madera",49,0.23
+513,"Nueva Concepción",21230,"Tierra",2893,13.63
+513,"Nueva Concepción",21230,"Otro",8,0.04
+514,"Sipacate",5049,"Ladrillo cerámico",291,5.76
+514,"Sipacate",5049,"Ladrillo de cemento",260,5.15
+514,"Sipacate",5049,"Ladrillo de barro",4,0.08
+514,"Sipacate",5049,"Torta de cemento",2700,53.48
+514,"Sipacate",5049,"Parqué o vinil",5,0.1
+514,"Sipacate",5049,"Madera",24,0.48
+514,"Sipacate",5049,"Tierra",761,15.07
+514,"Sipacate",5049,"Otro",0,0
+601,"Cuilapa",11309,"Ladrillo cerámico",2187,19.34
+601,"Cuilapa",11309,"Ladrillo de cemento",1643,14.53
+601,"Cuilapa",11309,"Ladrillo de barro",34,0.3
+601,"Cuilapa",11309,"Torta de cemento",3811,33.7
+601,"Cuilapa",11309,"Parqué o vinil",25,0.22
+601,"Cuilapa",11309,"Madera",49,0.43
+601,"Cuilapa",11309,"Tierra",1947,17.22
+601,"Cuilapa",11309,"Otro",2,0.02
+602,"Barberena",15143,"Ladrillo cerámico",3040,20.08
+602,"Barberena",15143,"Ladrillo de cemento",1923,12.7
+602,"Barberena",15143,"Ladrillo de barro",45,0.3
+602,"Barberena",15143,"Torta de cemento",5815,38.4
+602,"Barberena",15143,"Parqué o vinil",43,0.28
+602,"Barberena",15143,"Madera",117,0.77
+602,"Barberena",15143,"Tierra",2368,15.64
+602,"Barberena",15143,"Otro",40,0.26
+603,"Santa Rosa de Lima",6255,"Ladrillo cerámico",1191,19.04
+603,"Santa Rosa de Lima",6255,"Ladrillo de cemento",965,15.43
+603,"Santa Rosa de Lima",6255,"Ladrillo de barro",41,0.66
+603,"Santa Rosa de Lima",6255,"Torta de cemento",1768,28.27
+603,"Santa Rosa de Lima",6255,"Parqué o vinil",2,0.03
+603,"Santa Rosa de Lima",6255,"Madera",11,0.18
+603,"Santa Rosa de Lima",6255,"Tierra",831,13.29
+603,"Santa Rosa de Lima",6255,"Otro",2,0.03
+604,"Casillas",7723,"Ladrillo cerámico",1264,16.37
+604,"Casillas",7723,"Ladrillo de cemento",1052,13.62
+604,"Casillas",7723,"Ladrillo de barro",29,0.38
+604,"Casillas",7723,"Torta de cemento",2378,30.79
+604,"Casillas",7723,"Parqué o vinil",4,0.05
+604,"Casillas",7723,"Madera",21,0.27
+604,"Casillas",7723,"Tierra",1230,15.93
+604,"Casillas",7723,"Otro",3,0.04
+605,"San Rafael las Flores",3934,"Ladrillo cerámico",562,14.29
+605,"San Rafael las Flores",3934,"Ladrillo de cemento",304,7.73
+605,"San Rafael las Flores",3934,"Ladrillo de barro",13,0.33
+605,"San Rafael las Flores",3934,"Torta de cemento",1268,32.23
+605,"San Rafael las Flores",3934,"Parqué o vinil",22,0.56
+605,"San Rafael las Flores",3934,"Madera",15,0.38
+605,"San Rafael las Flores",3934,"Tierra",828,21.05
+605,"San Rafael las Flores",3934,"Otro",7,0.18
+606,"Oratorio",7471,"Ladrillo cerámico",1151,15.41
+606,"Oratorio",7471,"Ladrillo de cemento",597,7.99
+606,"Oratorio",7471,"Ladrillo de barro",15,0.2
+606,"Oratorio",7471,"Torta de cemento",2584,34.59
+606,"Oratorio",7471,"Parqué o vinil",6,0.08
+606,"Oratorio",7471,"Madera",25,0.33
+606,"Oratorio",7471,"Tierra",1712,22.92
+606,"Oratorio",7471,"Otro",4,0.05
+607,"San Juan Tecuaco",2451,"Ladrillo cerámico",270,11.02
+607,"San Juan Tecuaco",2451,"Ladrillo de cemento",80,3.26
+607,"San Juan Tecuaco",2451,"Ladrillo de barro",3,0.12
+607,"San Juan Tecuaco",2451,"Torta de cemento",934,38.11
+607,"San Juan Tecuaco",2451,"Parqué o vinil",1,0.04
+607,"San Juan Tecuaco",2451,"Madera",5,0.2
+607,"San Juan Tecuaco",2451,"Tierra",791,32.27
+607,"San Juan Tecuaco",2451,"Otro",0,0
+608,"Chiquimulilla",17195,"Ladrillo cerámico",2086,12.13
+608,"Chiquimulilla",17195,"Ladrillo de cemento",1293,7.52
+608,"Chiquimulilla",17195,"Ladrillo de barro",52,0.3
+608,"Chiquimulilla",17195,"Torta de cemento",6957,40.46
+608,"Chiquimulilla",17195,"Parqué o vinil",13,0.08
+608,"Chiquimulilla",17195,"Madera",81,0.47
+608,"Chiquimulilla",17195,"Tierra",2869,16.69
+608,"Chiquimulilla",17195,"Otro",113,0.66
+609,"Taxisco",9251,"Ladrillo cerámico",887,9.59
+609,"Taxisco",9251,"Ladrillo de cemento",475,5.13
+609,"Taxisco",9251,"Ladrillo de barro",20,0.22
+609,"Taxisco",9251,"Torta de cemento",3702,40.02
+609,"Taxisco",9251,"Parqué o vinil",10,0.11
+609,"Taxisco",9251,"Madera",25,0.27
+609,"Taxisco",9251,"Tierra",2104,22.74
+609,"Taxisco",9251,"Otro",23,0.25
+610,"Santa María Ixhuatán",7153,"Ladrillo cerámico",756,10.57
+610,"Santa María Ixhuatán",7153,"Ladrillo de cemento",595,8.32
+610,"Santa María Ixhuatán",7153,"Ladrillo de barro",9,0.13
+610,"Santa María Ixhuatán",7153,"Torta de cemento",2364,33.05
+610,"Santa María Ixhuatán",7153,"Parqué o vinil",3,0.04
+610,"Santa María Ixhuatán",7153,"Madera",54,0.75
+610,"Santa María Ixhuatán",7153,"Tierra",2082,29.11
+610,"Santa María Ixhuatán",7153,"Otro",5,0.07
+611,"Guazacapán",5306,"Ladrillo cerámico",652,12.29
+611,"Guazacapán",5306,"Ladrillo de cemento",243,4.58
+611,"Guazacapán",5306,"Ladrillo de barro",16,0.3
+611,"Guazacapán",5306,"Torta de cemento",2131,40.16
+611,"Guazacapán",5306,"Parqué o vinil",10,0.19
+611,"Guazacapán",5306,"Madera",10,0.19
+611,"Guazacapán",5306,"Tierra",1360,25.63
+611,"Guazacapán",5306,"Otro",1,0.02
+612,"Santa Cruz Naranjo",4907,"Ladrillo cerámico",845,17.22
+612,"Santa Cruz Naranjo",4907,"Ladrillo de cemento",342,6.97
+612,"Santa Cruz Naranjo",4907,"Ladrillo de barro",41,0.84
+612,"Santa Cruz Naranjo",4907,"Torta de cemento",2037,41.51
+612,"Santa Cruz Naranjo",4907,"Parqué o vinil",18,0.37
+612,"Santa Cruz Naranjo",4907,"Madera",13,0.26
+612,"Santa Cruz Naranjo",4907,"Tierra",643,13.1
+612,"Santa Cruz Naranjo",4907,"Otro",25,0.51
+613,"Pueblo Nuevo Viñas",7313,"Ladrillo cerámico",511,6.99
+613,"Pueblo Nuevo Viñas",7313,"Ladrillo de cemento",484,6.62
+613,"Pueblo Nuevo Viñas",7313,"Ladrillo de barro",32,0.44
+613,"Pueblo Nuevo Viñas",7313,"Torta de cemento",2605,35.62
+613,"Pueblo Nuevo Viñas",7313,"Parqué o vinil",7,0.1
+613,"Pueblo Nuevo Viñas",7313,"Madera",549,7.51
+613,"Pueblo Nuevo Viñas",7313,"Tierra",1747,23.89
+613,"Pueblo Nuevo Viñas",7313,"Otro",9,0.12
+614,"Nueva Santa Rosa",11242,"Ladrillo cerámico",2172,19.32
+614,"Nueva Santa Rosa",11242,"Ladrillo de cemento",1300,11.56
+614,"Nueva Santa Rosa",11242,"Ladrillo de barro",72,0.64
+614,"Nueva Santa Rosa",11242,"Torta de cemento",3225,28.69
+614,"Nueva Santa Rosa",11242,"Parqué o vinil",19,0.17
+614,"Nueva Santa Rosa",11242,"Madera",46,0.41
+614,"Nueva Santa Rosa",11242,"Tierra",2095,18.64
+614,"Nueva Santa Rosa",11242,"Otro",27,0.24
+701,"Sololá",17373,"Ladrillo cerámico",3734,21.49
+701,"Sololá",17373,"Ladrillo de cemento",941,5.42
+701,"Sololá",17373,"Ladrillo de barro",157,0.9
+701,"Sololá",17373,"Torta de cemento",6452,37.14
+701,"Sololá",17373,"Parqué o vinil",30,0.17
+701,"Sololá",17373,"Madera",93,0.54
+701,"Sololá",17373,"Tierra",3033,17.46
+701,"Sololá",17373,"Otro",21,0.12
+702,"San José Chacayá",934,"Ladrillo cerámico",176,18.84
+702,"San José Chacayá",934,"Ladrillo de cemento",24,2.57
+702,"San José Chacayá",934,"Ladrillo de barro",2,0.21
+702,"San José Chacayá",934,"Torta de cemento",438,46.9
+702,"San José Chacayá",934,"Parqué o vinil",2,0.21
+702,"San José Chacayá",934,"Madera",3,0.32
+702,"San José Chacayá",934,"Tierra",92,9.85
+702,"San José Chacayá",934,"Otro",0,0
+703,"Santa María Visitación",669,"Ladrillo cerámico",175,26.16
+703,"Santa María Visitación",669,"Ladrillo de cemento",25,3.74
+703,"Santa María Visitación",669,"Ladrillo de barro",1,0.15
+703,"Santa María Visitación",669,"Torta de cemento",333,49.78
+703,"Santa María Visitación",669,"Parqué o vinil",1,0.15
+703,"Santa María Visitación",669,"Madera",2,0.3
+703,"Santa María Visitación",669,"Tierra",11,1.64
+703,"Santa María Visitación",669,"Otro",0,0
+704,"Santa Lucía Utatlán",5921,"Ladrillo cerámico",1342,22.67
+704,"Santa Lucía Utatlán",5921,"Ladrillo de cemento",518,8.75
+704,"Santa Lucía Utatlán",5921,"Ladrillo de barro",20,0.34
+704,"Santa Lucía Utatlán",5921,"Torta de cemento",2427,40.99
+704,"Santa Lucía Utatlán",5921,"Parqué o vinil",4,0.07
+704,"Santa Lucía Utatlán",5921,"Madera",1,0.02
+704,"Santa Lucía Utatlán",5921,"Tierra",327,5.52
+704,"Santa Lucía Utatlán",5921,"Otro",0,0
+705,"Nahualá",17830,"Ladrillo cerámico",2314,12.98
+705,"Nahualá",17830,"Ladrillo de cemento",1022,5.73
+705,"Nahualá",17830,"Ladrillo de barro",54,0.3
+705,"Nahualá",17830,"Torta de cemento",5368,30.11
+705,"Nahualá",17830,"Parqué o vinil",15,0.08
+705,"Nahualá",17830,"Madera",118,0.66
+705,"Nahualá",17830,"Tierra",5692,31.92
+705,"Nahualá",17830,"Otro",15,0.08
+706,"Santa Catarina Ixtahuacán",13604,"Ladrillo cerámico",1691,12.43
+706,"Santa Catarina Ixtahuacán",13604,"Ladrillo de cemento",345,2.54
+706,"Santa Catarina Ixtahuacán",13604,"Ladrillo de barro",147,1.08
+706,"Santa Catarina Ixtahuacán",13604,"Torta de cemento",4968,36.52
+706,"Santa Catarina Ixtahuacán",13604,"Parqué o vinil",12,0.09
+706,"Santa Catarina Ixtahuacán",13604,"Madera",128,0.94
+706,"Santa Catarina Ixtahuacán",13604,"Tierra",4144,30.46
+706,"Santa Catarina Ixtahuacán",13604,"Otro",11,0.08
+707,"Santa Clara la Laguna",2429,"Ladrillo cerámico",453,18.65
+707,"Santa Clara la Laguna",2429,"Ladrillo de cemento",112,4.61
+707,"Santa Clara la Laguna",2429,"Ladrillo de barro",8,0.33
+707,"Santa Clara la Laguna",2429,"Torta de cemento",1287,52.98
+707,"Santa Clara la Laguna",2429,"Parqué o vinil",2,0.08
+707,"Santa Clara la Laguna",2429,"Madera",3,0.12
+707,"Santa Clara la Laguna",2429,"Tierra",205,8.44
+707,"Santa Clara la Laguna",2429,"Otro",0,0
+708,"Concepción",1060,"Ladrillo cerámico",164,15.47
+708,"Concepción",1060,"Ladrillo de cemento",25,2.36
+708,"Concepción",1060,"Ladrillo de barro",2,0.19
+708,"Concepción",1060,"Torta de cemento",439,41.42
+708,"Concepción",1060,"Parqué o vinil",3,0.28
+708,"Concepción",1060,"Madera",2,0.19
+708,"Concepción",1060,"Tierra",292,27.55
+708,"Concepción",1060,"Otro",0,0
+709,"San Andrés Semetabaj",3229,"Ladrillo cerámico",841,26.05
+709,"San Andrés Semetabaj",3229,"Ladrillo de cemento",303,9.38
+709,"San Andrés Semetabaj",3229,"Ladrillo de barro",5,0.15
+709,"San Andrés Semetabaj",3229,"Torta de cemento",1264,39.15
+709,"San Andrés Semetabaj",3229,"Parqué o vinil",1,0.03
+709,"San Andrés Semetabaj",3229,"Madera",1,0.03
+709,"San Andrés Semetabaj",3229,"Tierra",184,5.7
+709,"San Andrés Semetabaj",3229,"Otro",34,1.05
+710,"Panajachel",4304,"Ladrillo cerámico",1331,30.92
+710,"Panajachel",4304,"Ladrillo de cemento",738,17.15
+710,"Panajachel",4304,"Ladrillo de barro",44,1.02
+710,"Panajachel",4304,"Torta de cemento",1302,30.25
+710,"Panajachel",4304,"Parqué o vinil",28,0.65
+710,"Panajachel",4304,"Madera",8,0.19
+710,"Panajachel",4304,"Tierra",87,2.02
+710,"Panajachel",4304,"Otro",4,0.09
+711,"Santa Catarina Palopó",1165,"Ladrillo cerámico",158,13.56
+711,"Santa Catarina Palopó",1165,"Ladrillo de cemento",51,4.38
+711,"Santa Catarina Palopó",1165,"Ladrillo de barro",6,0.52
+711,"Santa Catarina Palopó",1165,"Torta de cemento",435,37.34
+711,"Santa Catarina Palopó",1165,"Parqué o vinil",0,0
+711,"Santa Catarina Palopó",1165,"Madera",13,1.12
+711,"Santa Catarina Palopó",1165,"Tierra",78,6.7
+711,"Santa Catarina Palopó",1165,"Otro",0,0
+712,"San Antonio Palopó",3860,"Ladrillo cerámico",805,20.85
+712,"San Antonio Palopó",3860,"Ladrillo de cemento",446,11.55
+712,"San Antonio Palopó",3860,"Ladrillo de barro",5,0.13
+712,"San Antonio Palopó",3860,"Torta de cemento",1256,32.54
+712,"San Antonio Palopó",3860,"Parqué o vinil",1,0.03
+712,"San Antonio Palopó",3860,"Madera",14,0.36
+712,"San Antonio Palopó",3860,"Tierra",555,14.38
+712,"San Antonio Palopó",3860,"Otro",84,2.18
+713,"San Lucas Tolimán",7562,"Ladrillo cerámico",897,11.86
+713,"San Lucas Tolimán",7562,"Ladrillo de cemento",555,7.34
+713,"San Lucas Tolimán",7562,"Ladrillo de barro",11,0.15
+713,"San Lucas Tolimán",7562,"Torta de cemento",4358,57.63
+713,"San Lucas Tolimán",7562,"Parqué o vinil",6,0.08
+713,"San Lucas Tolimán",7562,"Madera",4,0.05
+713,"San Lucas Tolimán",7562,"Tierra",369,4.88
+713,"San Lucas Tolimán",7562,"Otro",9,0.12
+714,"Santa Cruz la Laguna",1571,"Ladrillo cerámico",181,11.52
+714,"Santa Cruz la Laguna",1571,"Ladrillo de cemento",58,3.69
+714,"Santa Cruz la Laguna",1571,"Ladrillo de barro",8,0.51
+714,"Santa Cruz la Laguna",1571,"Torta de cemento",666,42.39
+714,"Santa Cruz la Laguna",1571,"Parqué o vinil",0,0
+714,"Santa Cruz la Laguna",1571,"Madera",6,0.38
+714,"Santa Cruz la Laguna",1571,"Tierra",203,12.92
+714,"Santa Cruz la Laguna",1571,"Otro",3,0.19
+715,"San Pablo la Laguna",1957,"Ladrillo cerámico",158,8.07
+715,"San Pablo la Laguna",1957,"Ladrillo de cemento",37,1.89
+715,"San Pablo la Laguna",1957,"Ladrillo de barro",1,0.05
+715,"San Pablo la Laguna",1957,"Torta de cemento",1004,51.3
+715,"San Pablo la Laguna",1957,"Parqué o vinil",0,0
+715,"San Pablo la Laguna",1957,"Madera",16,0.82
+715,"San Pablo la Laguna",1957,"Tierra",376,19.21
+715,"San Pablo la Laguna",1957,"Otro",0,0
+716,"San Marcos la Laguna",675,"Ladrillo cerámico",106,15.7
+716,"San Marcos la Laguna",675,"Ladrillo de cemento",16,2.37
+716,"San Marcos la Laguna",675,"Ladrillo de barro",3,0.44
+716,"San Marcos la Laguna",675,"Torta de cemento",348,51.56
+716,"San Marcos la Laguna",675,"Parqué o vinil",2,0.3
+716,"San Marcos la Laguna",675,"Madera",4,0.59
+716,"San Marcos la Laguna",675,"Tierra",42,6.22
+716,"San Marcos la Laguna",675,"Otro",2,0.3
+717,"San Juan la Laguna",3078,"Ladrillo cerámico",470,15.27
+717,"San Juan la Laguna",3078,"Ladrillo de cemento",113,3.67
+717,"San Juan la Laguna",3078,"Ladrillo de barro",8,0.26
+717,"San Juan la Laguna",3078,"Torta de cemento",1757,57.08
+717,"San Juan la Laguna",3078,"Parqué o vinil",2,0.06
+717,"San Juan la Laguna",3078,"Madera",3,0.1
+717,"San Juan la Laguna",3078,"Tierra",195,6.34
+717,"San Juan la Laguna",3078,"Otro",1,0.03
+718,"San Pedro la Laguna",3229,"Ladrillo cerámico",981,30.38
+718,"San Pedro la Laguna",3229,"Ladrillo de cemento",380,11.77
+718,"San Pedro la Laguna",3229,"Ladrillo de barro",149,4.61
+718,"San Pedro la Laguna",3229,"Torta de cemento",1014,31.4
+718,"San Pedro la Laguna",3229,"Parqué o vinil",34,1.05
+718,"San Pedro la Laguna",3229,"Madera",2,0.06
+718,"San Pedro la Laguna",3229,"Tierra",56,1.73
+718,"San Pedro la Laguna",3229,"Otro",0,0
+719,"Santiago Atitlán",11469,"Ladrillo cerámico",2718,23.7
+719,"Santiago Atitlán",11469,"Ladrillo de cemento",799,6.97
+719,"Santiago Atitlán",11469,"Ladrillo de barro",58,0.51
+719,"Santiago Atitlán",11469,"Torta de cemento",5316,46.35
+719,"Santiago Atitlán",11469,"Parqué o vinil",28,0.24
+719,"Santiago Atitlán",11469,"Madera",6,0.05
+719,"Santiago Atitlán",11469,"Tierra",285,2.48
+719,"Santiago Atitlán",11469,"Otro",8,0.07
+801,"Totonicapán",29701,"Ladrillo cerámico",4007,13.49
+801,"Totonicapán",29701,"Ladrillo de cemento",1681,5.66
+801,"Totonicapán",29701,"Ladrillo de barro",99,0.33
+801,"Totonicapán",29701,"Torta de cemento",10697,36.02
+801,"Totonicapán",29701,"Parqué o vinil",46,0.15
+801,"Totonicapán",29701,"Madera",83,0.28
+801,"Totonicapán",29701,"Tierra",5353,18.02
+801,"Totonicapán",29701,"Otro",36,0.12
+802,"San Cristóbal Totonicapán",10371,"Ladrillo cerámico",1107,10.67
+802,"San Cristóbal Totonicapán",10371,"Ladrillo de cemento",767,7.4
+802,"San Cristóbal Totonicapán",10371,"Ladrillo de barro",80,0.77
+802,"San Cristóbal Totonicapán",10371,"Torta de cemento",2995,28.88
+802,"San Cristóbal Totonicapán",10371,"Parqué o vinil",8,0.08
+802,"San Cristóbal Totonicapán",10371,"Madera",36,0.35
+802,"San Cristóbal Totonicapán",10371,"Tierra",2204,21.25
+802,"San Cristóbal Totonicapán",10371,"Otro",7,0.07
+803,"San Francisco el Alto",14258,"Ladrillo cerámico",1143,8.02
+803,"San Francisco el Alto",14258,"Ladrillo de cemento",968,6.79
+803,"San Francisco el Alto",14258,"Ladrillo de barro",100,0.7
+803,"San Francisco el Alto",14258,"Torta de cemento",3903,27.37
+803,"San Francisco el Alto",14258,"Parqué o vinil",17,0.12
+803,"San Francisco el Alto",14258,"Madera",77,0.54
+803,"San Francisco el Alto",14258,"Tierra",4204,29.49
+803,"San Francisco el Alto",14258,"Otro",4,0.03
+804,"San Andrés Xecul",7495,"Ladrillo cerámico",824,10.99
+804,"San Andrés Xecul",7495,"Ladrillo de cemento",425,5.67
+804,"San Andrés Xecul",7495,"Ladrillo de barro",22,0.29
+804,"San Andrés Xecul",7495,"Torta de cemento",2034,27.14
+804,"San Andrés Xecul",7495,"Parqué o vinil",5,0.07
+804,"San Andrés Xecul",7495,"Madera",22,0.29
+804,"San Andrés Xecul",7495,"Tierra",1777,23.71
+804,"San Andrés Xecul",7495,"Otro",2,0.03
+805,"Momostenango",26004,"Ladrillo cerámico",1710,6.58
+805,"Momostenango",26004,"Ladrillo de cemento",1443,5.55
+805,"Momostenango",26004,"Ladrillo de barro",41,0.16
+805,"Momostenango",26004,"Torta de cemento",5195,19.98
+805,"Momostenango",26004,"Parqué o vinil",18,0.07
+805,"Momostenango",26004,"Madera",98,0.38
+805,"Momostenango",26004,"Tierra",8771,33.73
+805,"Momostenango",26004,"Otro",15,0.06
+806,"Santa María Chiquimula",11856,"Ladrillo cerámico",290,2.45
+806,"Santa María Chiquimula",11856,"Ladrillo de cemento",236,1.99
+806,"Santa María Chiquimula",11856,"Ladrillo de barro",12,0.1
+806,"Santa María Chiquimula",11856,"Torta de cemento",1734,14.63
+806,"Santa María Chiquimula",11856,"Parqué o vinil",13,0.11
+806,"Santa María Chiquimula",11856,"Madera",118,1
+806,"Santa María Chiquimula",11856,"Tierra",6128,51.69
+806,"Santa María Chiquimula",11856,"Otro",3,0.03
+807,"Santa Lucía la Reforma",5067,"Ladrillo cerámico",60,1.18
+807,"Santa Lucía la Reforma",5067,"Ladrillo de cemento",36,0.71
+807,"Santa Lucía la Reforma",5067,"Ladrillo de barro",9,0.18
+807,"Santa Lucía la Reforma",5067,"Torta de cemento",794,15.67
+807,"Santa Lucía la Reforma",5067,"Parqué o vinil",2,0.04
+807,"Santa Lucía la Reforma",5067,"Madera",22,0.43
+807,"Santa Lucía la Reforma",5067,"Tierra",2204,43.5
+807,"Santa Lucía la Reforma",5067,"Otro",7,0.14
+808,"San Bartolo Aguas Calientes",2850,"Ladrillo cerámico",280,9.82
+808,"San Bartolo Aguas Calientes",2850,"Ladrillo de cemento",221,7.75
+808,"San Bartolo Aguas Calientes",2850,"Ladrillo de barro",16,0.56
+808,"San Bartolo Aguas Calientes",2850,"Torta de cemento",505,17.72
+808,"San Bartolo Aguas Calientes",2850,"Parqué o vinil",6,0.21
+808,"San Bartolo Aguas Calientes",2850,"Madera",8,0.28
+808,"San Bartolo Aguas Calientes",2850,"Tierra",900,31.58
+808,"San Bartolo Aguas Calientes",2850,"Otro",0,0
+901,"Quetzaltenango",49123,"Ladrillo cerámico",17902,36.44
+901,"Quetzaltenango",49123,"Ladrillo de cemento",11990,24.41
+901,"Quetzaltenango",49123,"Ladrillo de barro",207,0.42
+901,"Quetzaltenango",49123,"Torta de cemento",8540,17.38
+901,"Quetzaltenango",49123,"Parqué o vinil",45,0.09
+901,"Quetzaltenango",49123,"Madera",102,0.21
+901,"Quetzaltenango",49123,"Tierra",1477,3.01
+901,"Quetzaltenango",49123,"Otro",149,0.3
+902,"Salcajá",5520,"Ladrillo cerámico",1213,21.97
+902,"Salcajá",5520,"Ladrillo de cemento",1933,35.02
+902,"Salcajá",5520,"Ladrillo de barro",25,0.45
+902,"Salcajá",5520,"Torta de cemento",892,16.16
+902,"Salcajá",5520,"Parqué o vinil",0,0
+902,"Salcajá",5520,"Madera",5,0.09
+902,"Salcajá",5520,"Tierra",432,7.83
+902,"Salcajá",5520,"Otro",7,0.13
+903,"San Juan Olintepeque",9101,"Ladrillo cerámico",3257,35.79
+903,"San Juan Olintepeque",9101,"Ladrillo de cemento",1146,12.59
+903,"San Juan Olintepeque",9101,"Ladrillo de barro",51,0.56
+903,"San Juan Olintepeque",9101,"Torta de cemento",2230,24.5
+903,"San Juan Olintepeque",9101,"Parqué o vinil",11,0.12
+903,"San Juan Olintepeque",9101,"Madera",8,0.09
+903,"San Juan Olintepeque",9101,"Tierra",665,7.31
+903,"San Juan Olintepeque",9101,"Otro",6,0.07
+904,"San Carlos Sija",9989,"Ladrillo cerámico",1909,19.11
+904,"San Carlos Sija",9989,"Ladrillo de cemento",920,9.21
+904,"San Carlos Sija",9989,"Ladrillo de barro",21,0.21
+904,"San Carlos Sija",9989,"Torta de cemento",2928,29.31
+904,"San Carlos Sija",9989,"Parqué o vinil",16,0.16
+904,"San Carlos Sija",9989,"Madera",12,0.12
+904,"San Carlos Sija",9989,"Tierra",760,7.61
+904,"San Carlos Sija",9989,"Otro",39,0.39
+905,"Sibilia",2708,"Ladrillo cerámico",1128,41.65
+905,"Sibilia",2708,"Ladrillo de cemento",204,7.53
+905,"Sibilia",2708,"Ladrillo de barro",27,1
+905,"Sibilia",2708,"Torta de cemento",474,17.5
+905,"Sibilia",2708,"Parqué o vinil",2,0.07
+905,"Sibilia",2708,"Madera",1,0.04
+905,"Sibilia",2708,"Tierra",46,1.7
+905,"Sibilia",2708,"Otro",1,0.04
+906,"Cabricán",5989,"Ladrillo cerámico",1191,19.89
+906,"Cabricán",5989,"Ladrillo de cemento",377,6.29
+906,"Cabricán",5989,"Ladrillo de barro",19,0.32
+906,"Cabricán",5989,"Torta de cemento",1098,18.33
+906,"Cabricán",5989,"Parqué o vinil",14,0.23
+906,"Cabricán",5989,"Madera",11,0.18
+906,"Cabricán",5989,"Tierra",1598,26.68
+906,"Cabricán",5989,"Otro",70,1.17
+907,"Cajolá",4126,"Ladrillo cerámico",946,22.93
+907,"Cajolá",4126,"Ladrillo de cemento",771,18.69
+907,"Cajolá",4126,"Ladrillo de barro",42,1.02
+907,"Cajolá",4126,"Torta de cemento",623,15.1
+907,"Cajolá",4126,"Parqué o vinil",1,0.02
+907,"Cajolá",4126,"Madera",11,0.27
+907,"Cajolá",4126,"Tierra",498,12.07
+907,"Cajolá",4126,"Otro",4,0.1
+908,"San Miguel Siguilá",2059,"Ladrillo cerámico",357,17.34
+908,"San Miguel Siguilá",2059,"Ladrillo de cemento",410,19.91
+908,"San Miguel Siguilá",2059,"Ladrillo de barro",5,0.24
+908,"San Miguel Siguilá",2059,"Torta de cemento",558,27.1
+908,"San Miguel Siguilá",2059,"Parqué o vinil",1,0.05
+908,"San Miguel Siguilá",2059,"Madera",3,0.15
+908,"San Miguel Siguilá",2059,"Tierra",111,5.39
+908,"San Miguel Siguilá",2059,"Otro",0,0
+909,"San Juan Ostuncalco",14391,"Ladrillo cerámico",2781,19.32
+909,"San Juan Ostuncalco",14391,"Ladrillo de cemento",1534,10.66
+909,"San Juan Ostuncalco",14391,"Ladrillo de barro",151,1.05
+909,"San Juan Ostuncalco",14391,"Torta de cemento",4516,31.38
+909,"San Juan Ostuncalco",14391,"Parqué o vinil",24,0.17
+909,"San Juan Ostuncalco",14391,"Madera",25,0.17
+909,"San Juan Ostuncalco",14391,"Tierra",801,5.57
+909,"San Juan Ostuncalco",14391,"Otro",12,0.08
+910,"San Mateo",2004,"Ladrillo cerámico",819,40.87
+910,"San Mateo",2004,"Ladrillo de cemento",367,18.31
+910,"San Mateo",2004,"Ladrillo de barro",12,0.6
+910,"San Mateo",2004,"Torta de cemento",469,23.4
+910,"San Mateo",2004,"Parqué o vinil",1,0.05
+910,"San Mateo",2004,"Madera",0,0
+910,"San Mateo",2004,"Tierra",31,1.55
+910,"San Mateo",2004,"Otro",5,0.25
+911,"Concepción Chiquirichapa",4689,"Ladrillo cerámico",2026,43.21
+911,"Concepción Chiquirichapa",4689,"Ladrillo de cemento",853,18.19
+911,"Concepción Chiquirichapa",4689,"Ladrillo de barro",58,1.24
+911,"Concepción Chiquirichapa",4689,"Torta de cemento",481,10.26
+911,"Concepción Chiquirichapa",4689,"Parqué o vinil",5,0.11
+911,"Concepción Chiquirichapa",4689,"Madera",1,0.02
+911,"Concepción Chiquirichapa",4689,"Tierra",50,1.07
+911,"Concepción Chiquirichapa",4689,"Otro",2,0.04
+912,"San Martín Sacatepéquez",7195,"Ladrillo cerámico",1776,24.68
+912,"San Martín Sacatepéquez",7195,"Ladrillo de cemento",316,4.39
+912,"San Martín Sacatepéquez",7195,"Ladrillo de barro",34,0.47
+912,"San Martín Sacatepéquez",7195,"Torta de cemento",3291,45.74
+912,"San Martín Sacatepéquez",7195,"Parqué o vinil",9,0.13
+912,"San Martín Sacatepéquez",7195,"Madera",22,0.31
+912,"San Martín Sacatepéquez",7195,"Tierra",200,2.78
+912,"San Martín Sacatepéquez",7195,"Otro",2,0.03
+913,"Almolonga",4075,"Ladrillo cerámico",1163,28.54
+913,"Almolonga",4075,"Ladrillo de cemento",707,17.35
+913,"Almolonga",4075,"Ladrillo de barro",7,0.17
+913,"Almolonga",4075,"Torta de cemento",1288,31.61
+913,"Almolonga",4075,"Parqué o vinil",10,0.25
+913,"Almolonga",4075,"Madera",5,0.12
+913,"Almolonga",4075,"Tierra",74,1.82
+913,"Almolonga",4075,"Otro",0,0
+914,"Cantel",8809,"Ladrillo cerámico",1902,21.59
+914,"Cantel",8809,"Ladrillo de cemento",774,8.79
+914,"Cantel",8809,"Ladrillo de barro",42,0.48
+914,"Cantel",8809,"Torta de cemento",4666,52.97
+914,"Cantel",8809,"Parqué o vinil",11,0.12
+914,"Cantel",8809,"Madera",19,0.22
+914,"Cantel",8809,"Tierra",633,7.19
+914,"Cantel",8809,"Otro",19,0.22
+915,"Huitán",3416,"Ladrillo cerámico",456,13.35
+915,"Huitán",3416,"Ladrillo de cemento",319,9.34
+915,"Huitán",3416,"Ladrillo de barro",8,0.23
+915,"Huitán",3416,"Torta de cemento",751,21.98
+915,"Huitán",3416,"Parqué o vinil",2,0.06
+915,"Huitán",3416,"Madera",31,0.91
+915,"Huitán",3416,"Tierra",911,26.67
+915,"Huitán",3416,"Otro",1,0.03
+916,"Zunil",4052,"Ladrillo cerámico",1200,29.62
+916,"Zunil",4052,"Ladrillo de cemento",114,2.81
+916,"Zunil",4052,"Ladrillo de barro",54,1.33
+916,"Zunil",4052,"Torta de cemento",1793,44.25
+916,"Zunil",4052,"Parqué o vinil",6,0.15
+916,"Zunil",4052,"Madera",1,0.02
+916,"Zunil",4052,"Tierra",167,4.12
+916,"Zunil",4052,"Otro",0,0
+917,"Colomba Costa Cuca",12802,"Ladrillo cerámico",887,6.93
+917,"Colomba Costa Cuca",12802,"Ladrillo de cemento",443,3.46
+917,"Colomba Costa Cuca",12802,"Ladrillo de barro",13,0.1
+917,"Colomba Costa Cuca",12802,"Torta de cemento",6546,51.13
+917,"Colomba Costa Cuca",12802,"Parqué o vinil",20,0.16
+917,"Colomba Costa Cuca",12802,"Madera",90,0.7
+917,"Colomba Costa Cuca",12802,"Tierra",1872,14.62
+917,"Colomba Costa Cuca",12802,"Otro",12,0.09
+918,"San Francisco la Unión",2154,"Ladrillo cerámico",652,30.27
+918,"San Francisco la Unión",2154,"Ladrillo de cemento",77,3.57
+918,"San Francisco la Unión",2154,"Ladrillo de barro",9,0.42
+918,"San Francisco la Unión",2154,"Torta de cemento",569,26.42
+918,"San Francisco la Unión",2154,"Parqué o vinil",2,0.09
+918,"San Francisco la Unión",2154,"Madera",3,0.14
+918,"San Francisco la Unión",2154,"Tierra",253,11.75
+918,"San Francisco la Unión",2154,"Otro",0,0
+919,"El Palmar",6833,"Ladrillo cerámico",897,13.13
+919,"El Palmar",6833,"Ladrillo de cemento",507,7.42
+919,"El Palmar",6833,"Ladrillo de barro",16,0.23
+919,"El Palmar",6833,"Torta de cemento",3415,49.98
+919,"El Palmar",6833,"Parqué o vinil",13,0.19
+919,"El Palmar",6833,"Madera",28,0.41
+919,"El Palmar",6833,"Tierra",1011,14.8
+919,"El Palmar",6833,"Otro",4,0.06
+920,"Coatepeque",29201,"Ladrillo cerámico",5224,17.89
+920,"Coatepeque",29201,"Ladrillo de cemento",1935,6.63
+920,"Coatepeque",29201,"Ladrillo de barro",45,0.15
+920,"Coatepeque",29201,"Torta de cemento",11129,38.11
+920,"Coatepeque",29201,"Parqué o vinil",34,0.12
+920,"Coatepeque",29201,"Madera",61,0.21
+920,"Coatepeque",29201,"Tierra",4472,15.31
+920,"Coatepeque",29201,"Otro",37,0.13
+921,"Génova",9446,"Ladrillo cerámico",788,8.34
+921,"Génova",9446,"Ladrillo de cemento",199,2.11
+921,"Génova",9446,"Ladrillo de barro",6,0.06
+921,"Génova",9446,"Torta de cemento",3398,35.97
+921,"Génova",9446,"Parqué o vinil",6,0.06
+921,"Génova",9446,"Madera",171,1.81
+921,"Génova",9446,"Tierra",3263,34.54
+921,"Génova",9446,"Otro",33,0.35
+922,"Flores Costa Cuca",5273,"Ladrillo cerámico",582,11.04
+922,"Flores Costa Cuca",5273,"Ladrillo de cemento",351,6.66
+922,"Flores Costa Cuca",5273,"Ladrillo de barro",18,0.34
+922,"Flores Costa Cuca",5273,"Torta de cemento",2184,41.42
+922,"Flores Costa Cuca",5273,"Parqué o vinil",9,0.17
+922,"Flores Costa Cuca",5273,"Madera",16,0.3
+922,"Flores Costa Cuca",5273,"Tierra",1402,26.59
+922,"Flores Costa Cuca",5273,"Otro",26,0.49
+923,"La Esperanza",5858,"Ladrillo cerámico",2347,40.06
+923,"La Esperanza",5858,"Ladrillo de cemento",1252,21.37
+923,"La Esperanza",5858,"Ladrillo de barro",23,0.39
+923,"La Esperanza",5858,"Torta de cemento",1215,20.74
+923,"La Esperanza",5858,"Parqué o vinil",7,0.12
+923,"La Esperanza",5858,"Madera",5,0.09
+923,"La Esperanza",5858,"Tierra",88,1.5
+923,"La Esperanza",5858,"Otro",3,0.05
+924,"Palestina de los Altos",5166,"Ladrillo cerámico",765,14.81
+924,"Palestina de los Altos",5166,"Ladrillo de cemento",471,9.12
+924,"Palestina de los Altos",5166,"Ladrillo de barro",8,0.15
+924,"Palestina de los Altos",5166,"Torta de cemento",1705,33
+924,"Palestina de los Altos",5166,"Parqué o vinil",5,0.1
+924,"Palestina de los Altos",5166,"Madera",7,0.14
+924,"Palestina de los Altos",5166,"Tierra",367,7.1
+924,"Palestina de los Altos",5166,"Otro",0,0
+1001,"Mazatenango",22122,"Ladrillo cerámico",5571,25.18
+1001,"Mazatenango",22122,"Ladrillo de cemento",2495,11.28
+1001,"Mazatenango",22122,"Ladrillo de barro",36,0.16
+1001,"Mazatenango",22122,"Torta de cemento",7175,32.43
+1001,"Mazatenango",22122,"Parqué o vinil",28,0.13
+1001,"Mazatenango",22122,"Madera",53,0.24
+1001,"Mazatenango",22122,"Tierra",2627,11.88
+1001,"Mazatenango",22122,"Otro",28,0.13
+1002,"Cuyotenango",8808,"Ladrillo cerámico",1368,15.53
+1002,"Cuyotenango",8808,"Ladrillo de cemento",581,6.6
+1002,"Cuyotenango",8808,"Ladrillo de barro",12,0.14
+1002,"Cuyotenango",8808,"Torta de cemento",4101,46.56
+1002,"Cuyotenango",8808,"Parqué o vinil",5,0.06
+1002,"Cuyotenango",8808,"Madera",24,0.27
+1002,"Cuyotenango",8808,"Tierra",1426,16.19
+1002,"Cuyotenango",8808,"Otro",8,0.09
+1003,"San Francisco Zapotitlán",5905,"Ladrillo cerámico",1588,26.89
+1003,"San Francisco Zapotitlán",5905,"Ladrillo de cemento",398,6.74
+1003,"San Francisco Zapotitlán",5905,"Ladrillo de barro",13,0.22
+1003,"San Francisco Zapotitlán",5905,"Torta de cemento",2495,42.25
+1003,"San Francisco Zapotitlán",5905,"Parqué o vinil",6,0.1
+1003,"San Francisco Zapotitlán",5905,"Madera",15,0.25
+1003,"San Francisco Zapotitlán",5905,"Tierra",554,9.38
+1003,"San Francisco Zapotitlán",5905,"Otro",24,0.41
+1004,"San Bernardino",4004,"Ladrillo cerámico",745,18.61
+1004,"San Bernardino",4004,"Ladrillo de cemento",299,7.47
+1004,"San Bernardino",4004,"Ladrillo de barro",4,0.1
+1004,"San Bernardino",4004,"Torta de cemento",1627,40.63
+1004,"San Bernardino",4004,"Parqué o vinil",1,0.02
+1004,"San Bernardino",4004,"Madera",19,0.47
+1004,"San Bernardino",4004,"Tierra",730,18.23
+1004,"San Bernardino",4004,"Otro",9,0.22
+1005,"San José el Ídolo",2743,"Ladrillo cerámico",349,12.72
+1005,"San José el Ídolo",2743,"Ladrillo de cemento",129,4.7
+1005,"San José el Ídolo",2743,"Ladrillo de barro",10,0.36
+1005,"San José el Ídolo",2743,"Torta de cemento",1338,48.78
+1005,"San José el Ídolo",2743,"Parqué o vinil",7,0.26
+1005,"San José el Ídolo",2743,"Madera",8,0.29
+1005,"San José el Ídolo",2743,"Tierra",471,17.17
+1005,"San José el Ídolo",2743,"Otro",0,0
+1006,"Santo Domingo Suchitepéquez",10884,"Ladrillo cerámico",1008,9.26
+1006,"Santo Domingo Suchitepéquez",10884,"Ladrillo de cemento",246,2.26
+1006,"Santo Domingo Suchitepéquez",10884,"Ladrillo de barro",9,0.08
+1006,"Santo Domingo Suchitepéquez",10884,"Torta de cemento",5034,46.25
+1006,"Santo Domingo Suchitepéquez",10884,"Parqué o vinil",22,0.2
+1006,"Santo Domingo Suchitepéquez",10884,"Madera",114,1.05
+1006,"Santo Domingo Suchitepéquez",10884,"Tierra",2508,23.04
+1006,"Santo Domingo Suchitepéquez",10884,"Otro",53,0.49
+1007,"San Lorenzo",3757,"Ladrillo cerámico",460,12.24
+1007,"San Lorenzo",3757,"Ladrillo de cemento",115,3.06
+1007,"San Lorenzo",3757,"Ladrillo de barro",5,0.13
+1007,"San Lorenzo",3757,"Torta de cemento",1497,39.85
+1007,"San Lorenzo",3757,"Parqué o vinil",5,0.13
+1007,"San Lorenzo",3757,"Madera",19,0.51
+1007,"San Lorenzo",3757,"Tierra",933,24.83
+1007,"San Lorenzo",3757,"Otro",1,0.03
+1008,"Samayac",6440,"Ladrillo cerámico",1590,24.69
+1008,"Samayac",6440,"Ladrillo de cemento",318,4.94
+1008,"Samayac",6440,"Ladrillo de barro",10,0.16
+1008,"Samayac",6440,"Torta de cemento",2787,43.28
+1008,"Samayac",6440,"Parqué o vinil",7,0.11
+1008,"Samayac",6440,"Madera",24,0.37
+1008,"Samayac",6440,"Tierra",698,10.84
+1008,"Samayac",6440,"Otro",5,0.08
+1009,"San Pablo Jocopilas",5177,"Ladrillo cerámico",869,16.79
+1009,"San Pablo Jocopilas",5177,"Ladrillo de cemento",369,7.13
+1009,"San Pablo Jocopilas",5177,"Ladrillo de barro",34,0.66
+1009,"San Pablo Jocopilas",5177,"Torta de cemento",2205,42.59
+1009,"San Pablo Jocopilas",5177,"Parqué o vinil",5,0.1
+1009,"San Pablo Jocopilas",5177,"Madera",23,0.44
+1009,"San Pablo Jocopilas",5177,"Tierra",976,18.85
+1009,"San Pablo Jocopilas",5177,"Otro",1,0.02
+1010,"San Antonio Suchitepéquez",13627,"Ladrillo cerámico",2101,15.42
+1010,"San Antonio Suchitepéquez",13627,"Ladrillo de cemento",655,4.81
+1010,"San Antonio Suchitepéquez",13627,"Ladrillo de barro",32,0.23
+1010,"San Antonio Suchitepéquez",13627,"Torta de cemento",6289,46.15
+1010,"San Antonio Suchitepéquez",13627,"Parqué o vinil",11,0.08
+1010,"San Antonio Suchitepéquez",13627,"Madera",57,0.42
+1010,"San Antonio Suchitepéquez",13627,"Tierra",2698,19.8
+1010,"San Antonio Suchitepéquez",13627,"Otro",18,0.13
+1011,"San Miguel Panán",2310,"Ladrillo cerámico",316,13.68
+1011,"San Miguel Panán",2310,"Ladrillo de cemento",63,2.73
+1011,"San Miguel Panán",2310,"Ladrillo de barro",4,0.17
+1011,"San Miguel Panán",2310,"Torta de cemento",1180,51.08
+1011,"San Miguel Panán",2310,"Parqué o vinil",6,0.26
+1011,"San Miguel Panán",2310,"Madera",4,0.17
+1011,"San Miguel Panán",2310,"Tierra",475,20.56
+1011,"San Miguel Panán",2310,"Otro",2,0.09
+1012,"San Gabriel",1849,"Ladrillo cerámico",445,24.07
+1012,"San Gabriel",1849,"Ladrillo de cemento",46,2.49
+1012,"San Gabriel",1849,"Ladrillo de barro",2,0.11
+1012,"San Gabriel",1849,"Torta de cemento",966,52.24
+1012,"San Gabriel",1849,"Parqué o vinil",7,0.38
+1012,"San Gabriel",1849,"Madera",0,0
+1012,"San Gabriel",1849,"Tierra",150,8.11
+1012,"San Gabriel",1849,"Otro",1,0.05
+1013,"Chicacao",13134,"Ladrillo cerámico",1074,8.18
+1013,"Chicacao",13134,"Ladrillo de cemento",563,4.29
+1013,"Chicacao",13134,"Ladrillo de barro",31,0.24
+1013,"Chicacao",13134,"Torta de cemento",5666,43.14
+1013,"Chicacao",13134,"Parqué o vinil",15,0.11
+1013,"Chicacao",13134,"Madera",69,0.53
+1013,"Chicacao",13134,"Tierra",3964,30.18
+1013,"Chicacao",13134,"Otro",8,0.06
+1014,"Patulul",10205,"Ladrillo cerámico",909,8.91
+1014,"Patulul",10205,"Ladrillo de cemento",888,8.7
+1014,"Patulul",10205,"Ladrillo de barro",52,0.51
+1014,"Patulul",10205,"Torta de cemento",5047,49.46
+1014,"Patulul",10205,"Parqué o vinil",11,0.11
+1014,"Patulul",10205,"Madera",36,0.35
+1014,"Patulul",10205,"Tierra",1816,17.8
+1014,"Patulul",10205,"Otro",24,0.24
+1015,"Santa Bárbara",6189,"Ladrillo cerámico",306,4.94
+1015,"Santa Bárbara",6189,"Ladrillo de cemento",281,4.54
+1015,"Santa Bárbara",6189,"Ladrillo de barro",13,0.21
+1015,"Santa Bárbara",6189,"Torta de cemento",3116,50.35
+1015,"Santa Bárbara",6189,"Parqué o vinil",5,0.08
+1015,"Santa Bárbara",6189,"Madera",17,0.27
+1015,"Santa Bárbara",6189,"Tierra",1759,28.42
+1015,"Santa Bárbara",6189,"Otro",6,0.1
+1016,"San Juan Bautista",1918,"Ladrillo cerámico",130,6.78
+1016,"San Juan Bautista",1918,"Ladrillo de cemento",30,1.56
+1016,"San Juan Bautista",1918,"Ladrillo de barro",3,0.16
+1016,"San Juan Bautista",1918,"Torta de cemento",1003,52.29
+1016,"San Juan Bautista",1918,"Parqué o vinil",0,0
+1016,"San Juan Bautista",1918,"Madera",4,0.21
+1016,"San Juan Bautista",1918,"Tierra",517,26.96
+1016,"San Juan Bautista",1918,"Otro",0,0
+1017,"Santo Tomas la Unión",2886,"Ladrillo cerámico",764,26.47
+1017,"Santo Tomas la Unión",2886,"Ladrillo de cemento",212,7.35
+1017,"Santo Tomas la Unión",2886,"Ladrillo de barro",1,0.03
+1017,"Santo Tomas la Unión",2886,"Torta de cemento",1103,38.22
+1017,"Santo Tomas la Unión",2886,"Parqué o vinil",1,0.03
+1017,"Santo Tomas la Unión",2886,"Madera",6,0.21
+1017,"Santo Tomas la Unión",2886,"Tierra",313,10.85
+1017,"Santo Tomas la Unión",2886,"Otro",1,0.03
+1018,"Zunilito",1804,"Ladrillo cerámico",308,17.07
+1018,"Zunilito",1804,"Ladrillo de cemento",14,0.78
+1018,"Zunilito",1804,"Ladrillo de barro",3,0.17
+1018,"Zunilito",1804,"Torta de cemento",1229,68.13
+1018,"Zunilito",1804,"Parqué o vinil",1,0.06
+1018,"Zunilito",1804,"Madera",2,0.11
+1018,"Zunilito",1804,"Tierra",75,4.16
+1018,"Zunilito",1804,"Otro",1,0.06
+1019,"Pueblo Nuevo",2742,"Ladrillo cerámico",513,18.71
+1019,"Pueblo Nuevo",2742,"Ladrillo de cemento",140,5.11
+1019,"Pueblo Nuevo",2742,"Ladrillo de barro",3,0.11
+1019,"Pueblo Nuevo",2742,"Torta de cemento",1264,46.1
+1019,"Pueblo Nuevo",2742,"Parqué o vinil",3,0.11
+1019,"Pueblo Nuevo",2742,"Madera",9,0.33
+1019,"Pueblo Nuevo",2742,"Tierra",483,17.61
+1019,"Pueblo Nuevo",2742,"Otro",4,0.15
+1020,"Río Bravo",7314,"Ladrillo cerámico",441,6.03
+1020,"Río Bravo",7314,"Ladrillo de cemento",345,4.72
+1020,"Río Bravo",7314,"Ladrillo de barro",7,0.1
+1020,"Río Bravo",7314,"Torta de cemento",3930,53.73
+1020,"Río Bravo",7314,"Parqué o vinil",39,0.53
+1020,"Río Bravo",7314,"Madera",23,0.31
+1020,"Río Bravo",7314,"Tierra",1512,20.67
+1020,"Río Bravo",7314,"Otro",2,0.03
+1021,"San José La Máquina",6308,"Ladrillo cerámico",710,11.26
+1021,"San José La Máquina",6308,"Ladrillo de cemento",147,2.33
+1021,"San José La Máquina",6308,"Ladrillo de barro",9,0.14
+1021,"San José La Máquina",6308,"Torta de cemento",2364,37.48
+1021,"San José La Máquina",6308,"Parqué o vinil",3,0.05
+1021,"San José La Máquina",6308,"Madera",47,0.75
+1021,"San José La Máquina",6308,"Tierra",1894,30.03
+1021,"San José La Máquina",6308,"Otro",7,0.11
+1101,"Retalhuleu",25970,"Ladrillo cerámico",5302,20.42
+1101,"Retalhuleu",25970,"Ladrillo de cemento",1437,5.53
+1101,"Retalhuleu",25970,"Ladrillo de barro",55,0.21
+1101,"Retalhuleu",25970,"Torta de cemento",9604,36.98
+1101,"Retalhuleu",25970,"Parqué o vinil",36,0.14
+1101,"Retalhuleu",25970,"Madera",58,0.22
+1101,"Retalhuleu",25970,"Tierra",4342,16.72
+1101,"Retalhuleu",25970,"Otro",135,0.52
+1102,"San Sebastián",7484,"Ladrillo cerámico",1121,14.98
+1102,"San Sebastián",7484,"Ladrillo de cemento",186,2.49
+1102,"San Sebastián",7484,"Ladrillo de barro",12,0.16
+1102,"San Sebastián",7484,"Torta de cemento",4250,56.79
+1102,"San Sebastián",7484,"Parqué o vinil",14,0.19
+1102,"San Sebastián",7484,"Madera",3,0.04
+1102,"San Sebastián",7484,"Tierra",772,10.32
+1102,"San Sebastián",7484,"Otro",2,0.03
+1103,"Santa Cruz Muluá",3441,"Ladrillo cerámico",449,13.05
+1103,"Santa Cruz Muluá",3441,"Ladrillo de cemento",60,1.74
+1103,"Santa Cruz Muluá",3441,"Ladrillo de barro",7,0.2
+1103,"Santa Cruz Muluá",3441,"Torta de cemento",1767,51.35
+1103,"Santa Cruz Muluá",3441,"Parqué o vinil",14,0.41
+1103,"Santa Cruz Muluá",3441,"Madera",17,0.49
+1103,"Santa Cruz Muluá",3441,"Tierra",658,19.12
+1103,"Santa Cruz Muluá",3441,"Otro",3,0.09
+1104,"San Martín Zapotitlán",3057,"Ladrillo cerámico",556,18.19
+1104,"San Martín Zapotitlán",3057,"Ladrillo de cemento",39,1.28
+1104,"San Martín Zapotitlán",3057,"Ladrillo de barro",5,0.16
+1104,"San Martín Zapotitlán",3057,"Torta de cemento",1613,52.76
+1104,"San Martín Zapotitlán",3057,"Parqué o vinil",2,0.07
+1104,"San Martín Zapotitlán",3057,"Madera",7,0.23
+1104,"San Martín Zapotitlán",3057,"Tierra",397,12.99
+1104,"San Martín Zapotitlán",3057,"Otro",6,0.2
+1105,"San Felipe",6454,"Ladrillo cerámico",1390,21.54
+1105,"San Felipe",6454,"Ladrillo de cemento",276,4.28
+1105,"San Felipe",6454,"Ladrillo de barro",7,0.11
+1105,"San Felipe",6454,"Torta de cemento",2805,43.46
+1105,"San Felipe",6454,"Parqué o vinil",3,0.05
+1105,"San Felipe",6454,"Madera",9,0.14
+1105,"San Felipe",6454,"Tierra",682,10.57
+1105,"San Felipe",6454,"Otro",6,0.09
+1106,"San Andrés Villa Seca",12047,"Ladrillo cerámico",1120,9.3
+1106,"San Andrés Villa Seca",12047,"Ladrillo de cemento",538,4.47
+1106,"San Andrés Villa Seca",12047,"Ladrillo de barro",10,0.08
+1106,"San Andrés Villa Seca",12047,"Torta de cemento",4627,38.41
+1106,"San Andrés Villa Seca",12047,"Parqué o vinil",8,0.07
+1106,"San Andrés Villa Seca",12047,"Madera",62,0.51
+1106,"San Andrés Villa Seca",12047,"Tierra",3851,31.97
+1106,"San Andrés Villa Seca",12047,"Otro",83,0.69
+1107,"Champerico",10458,"Ladrillo cerámico",927,8.86
+1107,"Champerico",10458,"Ladrillo de cemento",485,4.64
+1107,"Champerico",10458,"Ladrillo de barro",13,0.12
+1107,"Champerico",10458,"Torta de cemento",3753,35.89
+1107,"Champerico",10458,"Parqué o vinil",7,0.07
+1107,"Champerico",10458,"Madera",22,0.21
+1107,"Champerico",10458,"Tierra",2307,22.06
+1107,"Champerico",10458,"Otro",63,0.6
+1108,"Nuevo San Carlos",9665,"Ladrillo cerámico",1446,14.96
+1108,"Nuevo San Carlos",9665,"Ladrillo de cemento",390,4.04
+1108,"Nuevo San Carlos",9665,"Ladrillo de barro",12,0.12
+1108,"Nuevo San Carlos",9665,"Torta de cemento",3640,37.66
+1108,"Nuevo San Carlos",9665,"Parqué o vinil",9,0.09
+1108,"Nuevo San Carlos",9665,"Madera",44,0.46
+1108,"Nuevo San Carlos",9665,"Tierra",2717,28.11
+1108,"Nuevo San Carlos",9665,"Otro",3,0.03
+1109,"El Asintal",9293,"Ladrillo cerámico",1576,16.96
+1109,"El Asintal",9293,"Ladrillo de cemento",532,5.72
+1109,"El Asintal",9293,"Ladrillo de barro",4,0.04
+1109,"El Asintal",9293,"Torta de cemento",2603,28.01
+1109,"El Asintal",9293,"Parqué o vinil",9,0.1
+1109,"El Asintal",9293,"Madera",71,0.76
+1109,"El Asintal",9293,"Tierra",3013,32.42
+1109,"El Asintal",9293,"Otro",48,0.52
+1201,"San Marcos",12947,"Ladrillo cerámico",4522,34.93
+1201,"San Marcos",12947,"Ladrillo de cemento",1112,8.59
+1201,"San Marcos",12947,"Ladrillo de barro",30,0.23
+1201,"San Marcos",12947,"Torta de cemento",3714,28.69
+1201,"San Marcos",12947,"Parqué o vinil",16,0.12
+1201,"San Marcos",12947,"Madera",29,0.22
+1201,"San Marcos",12947,"Tierra",242,1.87
+1201,"San Marcos",12947,"Otro",100,0.77
+1202,"San Pedro Sacatepéquez",22056,"Ladrillo cerámico",7875,35.7
+1202,"San Pedro Sacatepéquez",22056,"Ladrillo de cemento",1977,8.96
+1202,"San Pedro Sacatepéquez",22056,"Ladrillo de barro",57,0.26
+1202,"San Pedro Sacatepéquez",22056,"Torta de cemento",6541,29.66
+1202,"San Pedro Sacatepéquez",22056,"Parqué o vinil",32,0.15
+1202,"San Pedro Sacatepéquez",22056,"Madera",35,0.16
+1202,"San Pedro Sacatepéquez",22056,"Tierra",822,3.73
+1202,"San Pedro Sacatepéquez",22056,"Otro",43,0.19
+1203,"San Antonio Sacatepéquez",5368,"Ladrillo cerámico",1143,21.29
+1203,"San Antonio Sacatepéquez",5368,"Ladrillo de cemento",103,1.92
+1203,"San Antonio Sacatepéquez",5368,"Ladrillo de barro",6,0.11
+1203,"San Antonio Sacatepéquez",5368,"Torta de cemento",2345,43.68
+1203,"San Antonio Sacatepéquez",5368,"Parqué o vinil",17,0.32
+1203,"San Antonio Sacatepéquez",5368,"Madera",9,0.17
+1203,"San Antonio Sacatepéquez",5368,"Tierra",400,7.45
+1203,"San Antonio Sacatepéquez",5368,"Otro",3,0.06
+1204,"Comitancillo",14228,"Ladrillo cerámico",787,5.53
+1204,"Comitancillo",14228,"Ladrillo de cemento",331,2.33
+1204,"Comitancillo",14228,"Ladrillo de barro",15,0.11
+1204,"Comitancillo",14228,"Torta de cemento",1598,11.23
+1204,"Comitancillo",14228,"Parqué o vinil",44,0.31
+1204,"Comitancillo",14228,"Madera",127,0.89
+1204,"Comitancillo",14228,"Tierra",7191,50.54
+1204,"Comitancillo",14228,"Otro",16,0.11
+1205,"San Miguel Ixtahuacán",12810,"Ladrillo cerámico",761,5.94
+1205,"San Miguel Ixtahuacán",12810,"Ladrillo de cemento",278,2.17
+1205,"San Miguel Ixtahuacán",12810,"Ladrillo de barro",7,0.05
+1205,"San Miguel Ixtahuacán",12810,"Torta de cemento",2206,17.22
+1205,"San Miguel Ixtahuacán",12810,"Parqué o vinil",7,0.05
+1205,"San Miguel Ixtahuacán",12810,"Madera",94,0.73
+1205,"San Miguel Ixtahuacán",12810,"Tierra",4724,36.88
+1205,"San Miguel Ixtahuacán",12810,"Otro",5,0.04
+1206,"Concepción Tutuapa",19722,"Ladrillo cerámico",709,3.59
+1206,"Concepción Tutuapa",19722,"Ladrillo de cemento",187,0.95
+1206,"Concepción Tutuapa",19722,"Ladrillo de barro",10,0.05
+1206,"Concepción Tutuapa",19722,"Torta de cemento",2617,13.27
+1206,"Concepción Tutuapa",19722,"Parqué o vinil",5,0.03
+1206,"Concepción Tutuapa",19722,"Madera",167,0.85
+1206,"Concepción Tutuapa",19722,"Tierra",8250,41.83
+1206,"Concepción Tutuapa",19722,"Otro",21,0.11
+1207,"Tacaná",15363,"Ladrillo cerámico",1380,8.98
+1207,"Tacaná",15363,"Ladrillo de cemento",533,3.47
+1207,"Tacaná",15363,"Ladrillo de barro",39,0.25
+1207,"Tacaná",15363,"Torta de cemento",4078,26.54
+1207,"Tacaná",15363,"Parqué o vinil",34,0.22
+1207,"Tacaná",15363,"Madera",147,0.96
+1207,"Tacaná",15363,"Tierra",6884,44.81
+1207,"Tacaná",15363,"Otro",16,0.1
+1208,"Sibinal",3681,"Ladrillo cerámico",187,5.08
+1208,"Sibinal",3681,"Ladrillo de cemento",121,3.29
+1208,"Sibinal",3681,"Ladrillo de barro",5,0.14
+1208,"Sibinal",3681,"Torta de cemento",1460,39.66
+1208,"Sibinal",3681,"Parqué o vinil",4,0.11
+1208,"Sibinal",3681,"Madera",17,0.46
+1208,"Sibinal",3681,"Tierra",662,17.98
+1208,"Sibinal",3681,"Otro",3,0.08
+1209,"Tajumulco",11935,"Ladrillo cerámico",1577,13.21
+1209,"Tajumulco",11935,"Ladrillo de cemento",318,2.66
+1209,"Tajumulco",11935,"Ladrillo de barro",11,0.09
+1209,"Tajumulco",11935,"Torta de cemento",2883,24.16
+1209,"Tajumulco",11935,"Parqué o vinil",12,0.1
+1209,"Tajumulco",11935,"Madera",189,1.58
+1209,"Tajumulco",11935,"Tierra",4261,35.7
+1209,"Tajumulco",11935,"Otro",5,0.04
+1210,"Tejutla",10482,"Ladrillo cerámico",1436,13.7
+1210,"Tejutla",10482,"Ladrillo de cemento",526,5.02
+1210,"Tejutla",10482,"Ladrillo de barro",27,0.26
+1210,"Tejutla",10482,"Torta de cemento",2170,20.7
+1210,"Tejutla",10482,"Parqué o vinil",10,0.1
+1210,"Tejutla",10482,"Madera",58,0.55
+1210,"Tejutla",10482,"Tierra",2999,28.61
+1210,"Tejutla",10482,"Otro",42,0.4
+1211,"San Rafael Pie de la Cuesta",4508,"Ladrillo cerámico",690,15.31
+1211,"San Rafael Pie de la Cuesta",4508,"Ladrillo de cemento",189,4.19
+1211,"San Rafael Pie de la Cuesta",4508,"Ladrillo de barro",5,0.11
+1211,"San Rafael Pie de la Cuesta",4508,"Torta de cemento",2361,52.37
+1211,"San Rafael Pie de la Cuesta",4508,"Parqué o vinil",5,0.11
+1211,"San Rafael Pie de la Cuesta",4508,"Madera",11,0.24
+1211,"San Rafael Pie de la Cuesta",4508,"Tierra",296,6.57
+1211,"San Rafael Pie de la Cuesta",4508,"Otro",0,0
+1212,"Nuevo Progreso",7683,"Ladrillo cerámico",504,6.56
+1212,"Nuevo Progreso",7683,"Ladrillo de cemento",81,1.05
+1212,"Nuevo Progreso",7683,"Ladrillo de barro",2,0.03
+1212,"Nuevo Progreso",7683,"Torta de cemento",3195,41.59
+1212,"Nuevo Progreso",7683,"Parqué o vinil",8,0.1
+1212,"Nuevo Progreso",7683,"Madera",110,1.43
+1212,"Nuevo Progreso",7683,"Tierra",2275,29.61
+1212,"Nuevo Progreso",7683,"Otro",2,0.03
+1213,"El Tumbador",10385,"Ladrillo cerámico",802,7.72
+1213,"El Tumbador",10385,"Ladrillo de cemento",185,1.78
+1213,"El Tumbador",10385,"Ladrillo de barro",22,0.21
+1213,"El Tumbador",10385,"Torta de cemento",4419,42.55
+1213,"El Tumbador",10385,"Parqué o vinil",9,0.09
+1213,"El Tumbador",10385,"Madera",125,1.2
+1213,"El Tumbador",10385,"Tierra",3062,29.48
+1213,"El Tumbador",10385,"Otro",9,0.09
+1214,"San José el Rodeo",4541,"Ladrillo cerámico",379,8.35
+1214,"San José el Rodeo",4541,"Ladrillo de cemento",71,1.56
+1214,"San José el Rodeo",4541,"Ladrillo de barro",4,0.09
+1214,"San José el Rodeo",4541,"Torta de cemento",1919,42.26
+1214,"San José el Rodeo",4541,"Parqué o vinil",47,1.04
+1214,"San José el Rodeo",4541,"Madera",24,0.53
+1214,"San José el Rodeo",4541,"Tierra",1203,26.49
+1214,"San José el Rodeo",4541,"Otro",4,0.09
+1215,"Malacatán",24302,"Ladrillo cerámico",2559,10.53
+1215,"Malacatán",24302,"Ladrillo de cemento",1765,7.26
+1215,"Malacatán",24302,"Ladrillo de barro",89,0.37
+1215,"Malacatán",24302,"Torta de cemento",9146,37.63
+1215,"Malacatán",24302,"Parqué o vinil",223,0.92
+1215,"Malacatán",24302,"Madera",141,0.58
+1215,"Malacatán",24302,"Tierra",4189,17.24
+1215,"Malacatán",24302,"Otro",20,0.08
+1216,"Catarina",8779,"Ladrillo cerámico",996,11.35
+1216,"Catarina",8779,"Ladrillo de cemento",299,3.41
+1216,"Catarina",8779,"Ladrillo de barro",12,0.14
+1216,"Catarina",8779,"Torta de cemento",4224,48.11
+1216,"Catarina",8779,"Parqué o vinil",11,0.13
+1216,"Catarina",8779,"Madera",16,0.18
+1216,"Catarina",8779,"Tierra",1061,12.09
+1216,"Catarina",8779,"Otro",5,0.06
+1217,"Ayutla",10581,"Ladrillo cerámico",1646,15.56
+1217,"Ayutla",10581,"Ladrillo de cemento",692,6.54
+1217,"Ayutla",10581,"Ladrillo de barro",24,0.23
+1217,"Ayutla",10581,"Torta de cemento",5240,49.52
+1217,"Ayutla",10581,"Parqué o vinil",20,0.19
+1217,"Ayutla",10581,"Madera",15,0.14
+1217,"Ayutla",10581,"Tierra",908,8.58
+1217,"Ayutla",10581,"Otro",3,0.03
+1218,"Ocós",3228,"Ladrillo cerámico",332,10.29
+1218,"Ocós",3228,"Ladrillo de cemento",36,1.12
+1218,"Ocós",3228,"Ladrillo de barro",0,0
+1218,"Ocós",3228,"Torta de cemento",1629,50.46
+1218,"Ocós",3228,"Parqué o vinil",2,0.06
+1218,"Ocós",3228,"Madera",13,0.4
+1218,"Ocós",3228,"Tierra",475,14.71
+1218,"Ocós",3228,"Otro",6,0.19
+1219,"San Pablo",12642,"Ladrillo cerámico",1957,15.48
+1219,"San Pablo",12642,"Ladrillo de cemento",798,6.31
+1219,"San Pablo",12642,"Ladrillo de barro",11,0.09
+1219,"San Pablo",12642,"Torta de cemento",4641,36.71
+1219,"San Pablo",12642,"Parqué o vinil",12,0.09
+1219,"San Pablo",12642,"Madera",58,0.46
+1219,"San Pablo",12642,"Tierra",2249,17.79
+1219,"San Pablo",12642,"Otro",13,0.1
+1220,"El Quetzal",5926,"Ladrillo cerámico",572,9.65
+1220,"El Quetzal",5926,"Ladrillo de cemento",202,3.41
+1220,"El Quetzal",5926,"Ladrillo de barro",7,0.12
+1220,"El Quetzal",5926,"Torta de cemento",2666,44.99
+1220,"El Quetzal",5926,"Parqué o vinil",17,0.29
+1220,"El Quetzal",5926,"Madera",24,0.4
+1220,"El Quetzal",5926,"Tierra",1045,17.63
+1220,"El Quetzal",5926,"Otro",6,0.1
+1221,"La Reforma",4369,"Ladrillo cerámico",368,8.42
+1221,"La Reforma",4369,"Ladrillo de cemento",67,1.53
+1221,"La Reforma",4369,"Ladrillo de barro",2,0.05
+1221,"La Reforma",4369,"Torta de cemento",1967,45.02
+1221,"La Reforma",4369,"Parqué o vinil",1,0.02
+1221,"La Reforma",4369,"Madera",39,0.89
+1221,"La Reforma",4369,"Tierra",1092,24.99
+1221,"La Reforma",4369,"Otro",2,0.05
+1222,"Pajapita",5900,"Ladrillo cerámico",730,12.37
+1222,"Pajapita",5900,"Ladrillo de cemento",115,1.95
+1222,"Pajapita",5900,"Ladrillo de barro",9,0.15
+1222,"Pajapita",5900,"Torta de cemento",2713,45.98
+1222,"Pajapita",5900,"Parqué o vinil",3,0.05
+1222,"Pajapita",5900,"Madera",31,0.53
+1222,"Pajapita",5900,"Tierra",1044,17.69
+1222,"Pajapita",5900,"Otro",3,0.05
+1223,"Ixchiguán",6172,"Ladrillo cerámico",963,15.6
+1223,"Ixchiguán",6172,"Ladrillo de cemento",449,7.27
+1223,"Ixchiguán",6172,"Ladrillo de barro",6,0.1
+1223,"Ixchiguán",6172,"Torta de cemento",1171,18.97
+1223,"Ixchiguán",6172,"Parqué o vinil",3,0.05
+1223,"Ixchiguán",6172,"Madera",62,1
+1223,"Ixchiguán",6172,"Tierra",1558,25.24
+1223,"Ixchiguán",6172,"Otro",5,0.08
+1224,"San José Ojetenam",5409,"Ladrillo cerámico",545,10.08
+1224,"San José Ojetenam",5409,"Ladrillo de cemento",166,3.07
+1224,"San José Ojetenam",5409,"Ladrillo de barro",2,0.04
+1224,"San José Ojetenam",5409,"Torta de cemento",903,16.69
+1224,"San José Ojetenam",5409,"Parqué o vinil",2,0.04
+1224,"San José Ojetenam",5409,"Madera",27,0.5
+1224,"San José Ojetenam",5409,"Tierra",1506,27.84
+1224,"San José Ojetenam",5409,"Otro",2,0.04
+1225,"San Cristóbal Cucho",4842,"Ladrillo cerámico",1195,24.68
+1225,"San Cristóbal Cucho",4842,"Ladrillo de cemento",75,1.55
+1225,"San Cristóbal Cucho",4842,"Ladrillo de barro",6,0.12
+1225,"San Cristóbal Cucho",4842,"Torta de cemento",1795,37.07
+1225,"San Cristóbal Cucho",4842,"Parqué o vinil",6,0.12
+1225,"San Cristóbal Cucho",4842,"Madera",20,0.41
+1225,"San Cristóbal Cucho",4842,"Tierra",313,6.46
+1225,"San Cristóbal Cucho",4842,"Otro",0,0
+1226,"Sipacapa",5734,"Ladrillo cerámico",328,5.72
+1226,"Sipacapa",5734,"Ladrillo de cemento",85,1.48
+1226,"Sipacapa",5734,"Ladrillo de barro",5,0.09
+1226,"Sipacapa",5734,"Torta de cemento",905,15.78
+1226,"Sipacapa",5734,"Parqué o vinil",8,0.14
+1226,"Sipacapa",5734,"Madera",20,0.35
+1226,"Sipacapa",5734,"Tierra",2192,38.23
+1226,"Sipacapa",5734,"Otro",1,0.02
+1227,"Esquipulas Palo Gordo",3377,"Ladrillo cerámico",658,19.48
+1227,"Esquipulas Palo Gordo",3377,"Ladrillo de cemento",88,2.61
+1227,"Esquipulas Palo Gordo",3377,"Ladrillo de barro",19,0.56
+1227,"Esquipulas Palo Gordo",3377,"Torta de cemento",1711,50.67
+1227,"Esquipulas Palo Gordo",3377,"Parqué o vinil",6,0.18
+1227,"Esquipulas Palo Gordo",3377,"Madera",12,0.36
+1227,"Esquipulas Palo Gordo",3377,"Tierra",106,3.14
+1227,"Esquipulas Palo Gordo",3377,"Otro",2,0.06
+1228,"Río Blanco",1723,"Ladrillo cerámico",299,17.35
+1228,"Río Blanco",1723,"Ladrillo de cemento",189,10.97
+1228,"Río Blanco",1723,"Ladrillo de barro",2,0.12
+1228,"Río Blanco",1723,"Torta de cemento",415,24.09
+1228,"Río Blanco",1723,"Parqué o vinil",3,0.17
+1228,"Río Blanco",1723,"Madera",10,0.58
+1228,"Río Blanco",1723,"Tierra",201,11.67
+1228,"Río Blanco",1723,"Otro",0,0
+1229,"San Lorenzo",3394,"Ladrillo cerámico",564,16.62
+1229,"San Lorenzo",3394,"Ladrillo de cemento",115,3.39
+1229,"San Lorenzo",3394,"Ladrillo de barro",23,0.68
+1229,"San Lorenzo",3394,"Torta de cemento",1275,37.57
+1229,"San Lorenzo",3394,"Parqué o vinil",15,0.44
+1229,"San Lorenzo",3394,"Madera",18,0.53
+1229,"San Lorenzo",3394,"Tierra",478,14.08
+1229,"San Lorenzo",3394,"Otro",1,0.03
+1230,"La Blanca",8055,"Ladrillo cerámico",575,7.14
+1230,"La Blanca",8055,"Ladrillo de cemento",251,3.12
+1230,"La Blanca",8055,"Ladrillo de barro",9,0.11
+1230,"La Blanca",8055,"Torta de cemento",3659,45.43
+1230,"La Blanca",8055,"Parqué o vinil",2,0.02
+1230,"La Blanca",8055,"Madera",31,0.38
+1230,"La Blanca",8055,"Tierra",1877,23.3
+1230,"La Blanca",8055,"Otro",88,1.09
+1301,"Huehuetenango",32397,"Ladrillo cerámico",9974,30.79
+1301,"Huehuetenango",32397,"Ladrillo de cemento",4831,14.91
+1301,"Huehuetenango",32397,"Ladrillo de barro",184,0.57
+1301,"Huehuetenango",32397,"Torta de cemento",9651,29.79
+1301,"Huehuetenango",32397,"Parqué o vinil",45,0.14
+1301,"Huehuetenango",32397,"Madera",28,0.09
+1301,"Huehuetenango",32397,"Tierra",1459,4.5
+1301,"Huehuetenango",32397,"Otro",84,0.26
+1302,"Chiantla",19758,"Ladrillo cerámico",3119,15.79
+1302,"Chiantla",19758,"Ladrillo de cemento",1155,5.85
+1302,"Chiantla",19758,"Ladrillo de barro",81,0.41
+1302,"Chiantla",19758,"Torta de cemento",5654,28.62
+1302,"Chiantla",19758,"Parqué o vinil",25,0.13
+1302,"Chiantla",19758,"Madera",101,0.51
+1302,"Chiantla",19758,"Tierra",6403,32.41
+1302,"Chiantla",19758,"Otro",47,0.24
+1303,"Malacatancito",5805,"Ladrillo cerámico",787,13.56
+1303,"Malacatancito",5805,"Ladrillo de cemento",360,6.2
+1303,"Malacatancito",5805,"Ladrillo de barro",48,0.83
+1303,"Malacatancito",5805,"Torta de cemento",1772,30.53
+1303,"Malacatancito",5805,"Parqué o vinil",6,0.1
+1303,"Malacatancito",5805,"Madera",13,0.22
+1303,"Malacatancito",5805,"Tierra",1007,17.35
+1303,"Malacatancito",5805,"Otro",3,0.05
+1304,"Cuilco",16311,"Ladrillo cerámico",2225,13.64
+1304,"Cuilco",16311,"Ladrillo de cemento",1126,6.9
+1304,"Cuilco",16311,"Ladrillo de barro",37,0.23
+1304,"Cuilco",16311,"Torta de cemento",3370,20.66
+1304,"Cuilco",16311,"Parqué o vinil",9,0.06
+1304,"Cuilco",16311,"Madera",88,0.54
+1304,"Cuilco",16311,"Tierra",4465,27.37
+1304,"Cuilco",16311,"Otro",8,0.05
+1305,"Nentón",10383,"Ladrillo cerámico",1083,10.43
+1305,"Nentón",10383,"Ladrillo de cemento",299,2.88
+1305,"Nentón",10383,"Ladrillo de barro",13,0.13
+1305,"Nentón",10383,"Torta de cemento",3408,32.82
+1305,"Nentón",10383,"Parqué o vinil",4,0.04
+1305,"Nentón",10383,"Madera",70,0.67
+1305,"Nentón",10383,"Tierra",3522,33.92
+1305,"Nentón",10383,"Otro",2,0.02
+1306,"San Pedro Necta",9487,"Ladrillo cerámico",578,6.09
+1306,"San Pedro Necta",9487,"Ladrillo de cemento",367,3.87
+1306,"San Pedro Necta",9487,"Ladrillo de barro",12,0.13
+1306,"San Pedro Necta",9487,"Torta de cemento",1528,16.11
+1306,"San Pedro Necta",9487,"Parqué o vinil",4,0.04
+1306,"San Pedro Necta",9487,"Madera",67,0.71
+1306,"San Pedro Necta",9487,"Tierra",4431,46.71
+1306,"San Pedro Necta",9487,"Otro",4,0.04
+1307,"Jacaltenango",11460,"Ladrillo cerámico",2448,21.36
+1307,"Jacaltenango",11460,"Ladrillo de cemento",639,5.58
+1307,"Jacaltenango",11460,"Ladrillo de barro",19,0.17
+1307,"Jacaltenango",11460,"Torta de cemento",2647,23.1
+1307,"Jacaltenango",11460,"Parqué o vinil",7,0.06
+1307,"Jacaltenango",11460,"Madera",56,0.49
+1307,"Jacaltenango",11460,"Tierra",3100,27.05
+1307,"Jacaltenango",11460,"Otro",14,0.12
+1308,"San Pedro Soloma",11830,"Ladrillo cerámico",1483,12.54
+1308,"San Pedro Soloma",11830,"Ladrillo de cemento",595,5.03
+1308,"San Pedro Soloma",11830,"Ladrillo de barro",45,0.38
+1308,"San Pedro Soloma",11830,"Torta de cemento",3886,32.85
+1308,"San Pedro Soloma",11830,"Parqué o vinil",14,0.12
+1308,"San Pedro Soloma",11830,"Madera",50,0.42
+1308,"San Pedro Soloma",11830,"Tierra",2691,22.75
+1308,"San Pedro Soloma",11830,"Otro",22,0.19
+1309,"San Ildefonso Ixtahuacán",10489,"Ladrillo cerámico",509,4.85
+1309,"San Ildefonso Ixtahuacán",10489,"Ladrillo de cemento",135,1.29
+1309,"San Ildefonso Ixtahuacán",10489,"Ladrillo de barro",24,0.23
+1309,"San Ildefonso Ixtahuacán",10489,"Torta de cemento",2781,26.51
+1309,"San Ildefonso Ixtahuacán",10489,"Parqué o vinil",13,0.12
+1309,"San Ildefonso Ixtahuacán",10489,"Madera",58,0.55
+1309,"San Ildefonso Ixtahuacán",10489,"Tierra",4431,42.24
+1309,"San Ildefonso Ixtahuacán",10489,"Otro",10,0.1
+1310,"Santa Bárbara",9501,"Ladrillo cerámico",283,2.98
+1310,"Santa Bárbara",9501,"Ladrillo de cemento",130,1.37
+1310,"Santa Bárbara",9501,"Ladrillo de barro",5,0.05
+1310,"Santa Bárbara",9501,"Torta de cemento",909,9.57
+1310,"Santa Bárbara",9501,"Parqué o vinil",2,0.02
+1310,"Santa Bárbara",9501,"Madera",51,0.54
+1310,"Santa Bárbara",9501,"Tierra",4304,45.3
+1310,"Santa Bárbara",9501,"Otro",5,0.05
+1311,"La Libertad",9691,"Ladrillo cerámico",1337,13.8
+1311,"La Libertad",9691,"Ladrillo de cemento",293,3.02
+1311,"La Libertad",9691,"Ladrillo de barro",10,0.1
+1311,"La Libertad",9691,"Torta de cemento",2909,30.02
+1311,"La Libertad",9691,"Parqué o vinil",8,0.08
+1311,"La Libertad",9691,"Madera",70,0.72
+1311,"La Libertad",9691,"Tierra",2623,27.07
+1311,"La Libertad",9691,"Otro",3,0.03
+1312,"La Democracia",15181,"Ladrillo cerámico",2358,15.53
+1312,"La Democracia",15181,"Ladrillo de cemento",744,4.9
+1312,"La Democracia",15181,"Ladrillo de barro",12,0.08
+1312,"La Democracia",15181,"Torta de cemento",4209,27.73
+1312,"La Democracia",15181,"Parqué o vinil",18,0.12
+1312,"La Democracia",15181,"Madera",64,0.42
+1312,"La Democracia",15181,"Tierra",3618,23.83
+1312,"La Democracia",15181,"Otro",14,0.09
+1313,"San Miguel Acatán",5113,"Ladrillo cerámico",261,5.1
+1313,"San Miguel Acatán",5113,"Ladrillo de cemento",46,0.9
+1313,"San Miguel Acatán",5113,"Ladrillo de barro",7,0.14
+1313,"San Miguel Acatán",5113,"Torta de cemento",1564,30.59
+1313,"San Miguel Acatán",5113,"Parqué o vinil",25,0.49
+1313,"San Miguel Acatán",5113,"Madera",58,1.13
+1313,"San Miguel Acatán",5113,"Tierra",2436,47.64
+1313,"San Miguel Acatán",5113,"Otro",0,0
+1314,"San Rafael La Independencia",3391,"Ladrillo cerámico",155,4.57
+1314,"San Rafael La Independencia",3391,"Ladrillo de cemento",17,0.5
+1314,"San Rafael La Independencia",3391,"Ladrillo de barro",3,0.09
+1314,"San Rafael La Independencia",3391,"Torta de cemento",1284,37.86
+1314,"San Rafael La Independencia",3391,"Parqué o vinil",4,0.12
+1314,"San Rafael La Independencia",3391,"Madera",19,0.56
+1314,"San Rafael La Independencia",3391,"Tierra",759,22.38
+1314,"San Rafael La Independencia",3391,"Otro",1,0.03
+1315,"Todos Santos Cuchumatán",10190,"Ladrillo cerámico",440,4.32
+1315,"Todos Santos Cuchumatán",10190,"Ladrillo de cemento",194,1.9
+1315,"Todos Santos Cuchumatán",10190,"Ladrillo de barro",7,0.07
+1315,"Todos Santos Cuchumatán",10190,"Torta de cemento",2886,28.32
+1315,"Todos Santos Cuchumatán",10190,"Parqué o vinil",5,0.05
+1315,"Todos Santos Cuchumatán",10190,"Madera",101,0.99
+1315,"Todos Santos Cuchumatán",10190,"Tierra",2370,23.26
+1315,"Todos Santos Cuchumatán",10190,"Otro",2,0.02
+1316,"San Juan Atitán",6122,"Ladrillo cerámico",835,13.64
+1316,"San Juan Atitán",6122,"Ladrillo de cemento",175,2.86
+1316,"San Juan Atitán",6122,"Ladrillo de barro",2,0.03
+1316,"San Juan Atitán",6122,"Torta de cemento",797,13.02
+1316,"San Juan Atitán",6122,"Parqué o vinil",3,0.05
+1316,"San Juan Atitán",6122,"Madera",15,0.25
+1316,"San Juan Atitán",6122,"Tierra",2330,38.06
+1316,"San Juan Atitán",6122,"Otro",5,0.08
+1317,"Santa Eulalia",10388,"Ladrillo cerámico",392,3.77
+1317,"Santa Eulalia",10388,"Ladrillo de cemento",115,1.11
+1317,"Santa Eulalia",10388,"Ladrillo de barro",3,0.03
+1317,"Santa Eulalia",10388,"Torta de cemento",2107,20.28
+1317,"Santa Eulalia",10388,"Parqué o vinil",39,0.38
+1317,"Santa Eulalia",10388,"Madera",186,1.79
+1317,"Santa Eulalia",10388,"Tierra",3571,34.38
+1317,"Santa Eulalia",10388,"Otro",73,0.7
+1318,"San Mateo Ixtatán",10071,"Ladrillo cerámico",505,5.01
+1318,"San Mateo Ixtatán",10071,"Ladrillo de cemento",420,4.17
+1318,"San Mateo Ixtatán",10071,"Ladrillo de barro",17,0.17
+1318,"San Mateo Ixtatán",10071,"Torta de cemento",1974,19.6
+1318,"San Mateo Ixtatán",10071,"Parqué o vinil",51,0.51
+1318,"San Mateo Ixtatán",10071,"Madera",92,0.91
+1318,"San Mateo Ixtatán",10071,"Tierra",3935,39.07
+1318,"San Mateo Ixtatán",10071,"Otro",2,0.02
+1319,"Colotenango",7802,"Ladrillo cerámico",378,4.84
+1319,"Colotenango",7802,"Ladrillo de cemento",118,1.51
+1319,"Colotenango",7802,"Ladrillo de barro",6,0.08
+1319,"Colotenango",7802,"Torta de cemento",1156,14.82
+1319,"Colotenango",7802,"Parqué o vinil",9,0.12
+1319,"Colotenango",7802,"Madera",43,0.55
+1319,"Colotenango",7802,"Tierra",4248,54.45
+1319,"Colotenango",7802,"Otro",11,0.14
+1320,"San Sebastián Huehuetenango",7818,"Ladrillo cerámico",343,4.39
+1320,"San Sebastián Huehuetenango",7818,"Ladrillo de cemento",178,2.28
+1320,"San Sebastián Huehuetenango",7818,"Ladrillo de barro",10,0.13
+1320,"San Sebastián Huehuetenango",7818,"Torta de cemento",1378,17.63
+1320,"San Sebastián Huehuetenango",7818,"Parqué o vinil",2,0.03
+1320,"San Sebastián Huehuetenango",7818,"Madera",50,0.64
+1320,"San Sebastián Huehuetenango",7818,"Tierra",3699,47.31
+1320,"San Sebastián Huehuetenango",7818,"Otro",7,0.09
+1321,"Tectitán",3089,"Ladrillo cerámico",298,9.65
+1321,"Tectitán",3089,"Ladrillo de cemento",179,5.79
+1321,"Tectitán",3089,"Ladrillo de barro",1,0.03
+1321,"Tectitán",3089,"Torta de cemento",399,12.92
+1321,"Tectitán",3089,"Parqué o vinil",2,0.06
+1321,"Tectitán",3089,"Madera",24,0.78
+1321,"Tectitán",3089,"Tierra",920,29.78
+1321,"Tectitán",3089,"Otro",1,0.03
+1322,"Concepción Huista",4710,"Ladrillo cerámico",713,15.14
+1322,"Concepción Huista",4710,"Ladrillo de cemento",23,0.49
+1322,"Concepción Huista",4710,"Ladrillo de barro",8,0.17
+1322,"Concepción Huista",4710,"Torta de cemento",1169,24.82
+1322,"Concepción Huista",4710,"Parqué o vinil",6,0.13
+1322,"Concepción Huista",4710,"Madera",73,1.55
+1322,"Concepción Huista",4710,"Tierra",1524,32.36
+1322,"Concepción Huista",4710,"Otro",4,0.08
+1323,"San Juan Ixcoy",6739,"Ladrillo cerámico",278,4.13
+1323,"San Juan Ixcoy",6739,"Ladrillo de cemento",40,0.59
+1323,"San Juan Ixcoy",6739,"Ladrillo de barro",7,0.1
+1323,"San Juan Ixcoy",6739,"Torta de cemento",1838,27.27
+1323,"San Juan Ixcoy",6739,"Parqué o vinil",6,0.09
+1323,"San Juan Ixcoy",6739,"Madera",53,0.79
+1323,"San Juan Ixcoy",6739,"Tierra",2030,30.12
+1323,"San Juan Ixcoy",6739,"Otro",6,0.09
+1324,"San Antonio Huista",4949,"Ladrillo cerámico",924,18.67
+1324,"San Antonio Huista",4949,"Ladrillo de cemento",423,8.55
+1324,"San Antonio Huista",4949,"Ladrillo de barro",4,0.08
+1324,"San Antonio Huista",4949,"Torta de cemento",1557,31.46
+1324,"San Antonio Huista",4949,"Parqué o vinil",1,0.02
+1324,"San Antonio Huista",4949,"Madera",8,0.16
+1324,"San Antonio Huista",4949,"Tierra",983,19.86
+1324,"San Antonio Huista",4949,"Otro",1,0.02
+1325,"San Sebastián Coatán",6149,"Ladrillo cerámico",532,8.65
+1325,"San Sebastián Coatán",6149,"Ladrillo de cemento",247,4.02
+1325,"San Sebastián Coatán",6149,"Ladrillo de barro",35,0.57
+1325,"San Sebastián Coatán",6149,"Torta de cemento",1193,19.4
+1325,"San Sebastián Coatán",6149,"Parqué o vinil",1,0.02
+1325,"San Sebastián Coatán",6149,"Madera",41,0.67
+1325,"San Sebastián Coatán",6149,"Tierra",2067,33.62
+1325,"San Sebastián Coatán",6149,"Otro",8,0.13
+1326,"Santa Cruz Barillas",22921,"Ladrillo cerámico",920,4.01
+1326,"Santa Cruz Barillas",22921,"Ladrillo de cemento",469,2.05
+1326,"Santa Cruz Barillas",22921,"Ladrillo de barro",25,0.11
+1326,"Santa Cruz Barillas",22921,"Torta de cemento",6630,28.93
+1326,"Santa Cruz Barillas",22921,"Parqué o vinil",22,0.1
+1326,"Santa Cruz Barillas",22921,"Madera",642,2.8
+1326,"Santa Cruz Barillas",22921,"Tierra",8721,38.05
+1326,"Santa Cruz Barillas",22921,"Otro",8,0.03
+1327,"Aguacatán",14286,"Ladrillo cerámico",1246,8.72
+1327,"Aguacatán",14286,"Ladrillo de cemento",641,4.49
+1327,"Aguacatán",14286,"Ladrillo de barro",34,0.24
+1327,"Aguacatán",14286,"Torta de cemento",3191,22.34
+1327,"Aguacatán",14286,"Parqué o vinil",67,0.47
+1327,"Aguacatán",14286,"Madera",64,0.45
+1327,"Aguacatán",14286,"Tierra",4510,31.57
+1327,"Aguacatán",14286,"Otro",6,0.04
+1328,"San Rafael Petzal",3107,"Ladrillo cerámico",164,5.28
+1328,"San Rafael Petzal",3107,"Ladrillo de cemento",95,3.06
+1328,"San Rafael Petzal",3107,"Ladrillo de barro",10,0.32
+1328,"San Rafael Petzal",3107,"Torta de cemento",854,27.49
+1328,"San Rafael Petzal",3107,"Parqué o vinil",3,0.1
+1328,"San Rafael Petzal",3107,"Madera",12,0.39
+1328,"San Rafael Petzal",3107,"Tierra",1008,32.44
+1328,"San Rafael Petzal",3107,"Otro",2,0.06
+1329,"San Gaspar Ixchil",2460,"Ladrillo cerámico",95,3.86
+1329,"San Gaspar Ixchil",2460,"Ladrillo de cemento",47,1.91
+1329,"San Gaspar Ixchil",2460,"Ladrillo de barro",0,0
+1329,"San Gaspar Ixchil",2460,"Torta de cemento",400,16.26
+1329,"San Gaspar Ixchil",2460,"Parqué o vinil",2,0.08
+1329,"San Gaspar Ixchil",2460,"Madera",10,0.41
+1329,"San Gaspar Ixchil",2460,"Tierra",914,37.15
+1329,"San Gaspar Ixchil",2460,"Otro",1,0.04
+1330,"Santiago Chimaltenango",3944,"Ladrillo cerámico",135,3.42
+1330,"Santiago Chimaltenango",3944,"Ladrillo de cemento",36,0.91
+1330,"Santiago Chimaltenango",3944,"Ladrillo de barro",16,0.41
+1330,"Santiago Chimaltenango",3944,"Torta de cemento",989,25.08
+1330,"Santiago Chimaltenango",3944,"Parqué o vinil",1,0.03
+1330,"Santiago Chimaltenango",3944,"Madera",15,0.38
+1330,"Santiago Chimaltenango",3944,"Tierra",1323,33.54
+1330,"Santiago Chimaltenango",3944,"Otro",1,0.03
+1331,"Santa Ana Huista",2838,"Ladrillo cerámico",495,17.44
+1331,"Santa Ana Huista",2838,"Ladrillo de cemento",104,3.66
+1331,"Santa Ana Huista",2838,"Ladrillo de barro",6,0.21
+1331,"Santa Ana Huista",2838,"Torta de cemento",1013,35.69
+1331,"Santa Ana Huista",2838,"Parqué o vinil",3,0.11
+1331,"Santa Ana Huista",2838,"Madera",4,0.14
+1331,"Santa Ana Huista",2838,"Tierra",669,23.57
+1331,"Santa Ana Huista",2838,"Otro",10,0.35
+1332,"Unión Cantinil",4228,"Ladrillo cerámico",826,19.54
+1332,"Unión Cantinil",4228,"Ladrillo de cemento",129,3.05
+1332,"Unión Cantinil",4228,"Ladrillo de barro",17,0.4
+1332,"Unión Cantinil",4228,"Torta de cemento",1313,31.05
+1332,"Unión Cantinil",4228,"Parqué o vinil",4,0.09
+1332,"Unión Cantinil",4228,"Madera",12,0.28
+1332,"Unión Cantinil",4228,"Tierra",1103,26.09
+1332,"Unión Cantinil",4228,"Otro",7,0.17
+1333,"Petatán",1709,"Ladrillo cerámico",202,11.82
+1333,"Petatán",1709,"Ladrillo de cemento",115,6.73
+1333,"Petatán",1709,"Ladrillo de barro",2,0.12
+1333,"Petatán",1709,"Torta de cemento",403,23.58
+1333,"Petatán",1709,"Parqué o vinil",0,0
+1333,"Petatán",1709,"Madera",1,0.06
+1333,"Petatán",1709,"Tierra",570,33.35
+1333,"Petatán",1709,"Otro",0,0
+1401,"Santa Cruz del Quiché",20780,"Ladrillo cerámico",2745,13.21
+1401,"Santa Cruz del Quiché",20780,"Ladrillo de cemento",1647,7.93
+1401,"Santa Cruz del Quiché",20780,"Ladrillo de barro",100,0.48
+1401,"Santa Cruz del Quiché",20780,"Torta de cemento",3926,18.89
+1401,"Santa Cruz del Quiché",20780,"Parqué o vinil",21,0.1
+1401,"Santa Cruz del Quiché",20780,"Madera",88,0.42
+1401,"Santa Cruz del Quiché",20780,"Tierra",6460,31.09
+1401,"Santa Cruz del Quiché",20780,"Otro",37,0.18
+1402,"Chiché",6241,"Ladrillo cerámico",399,6.39
+1402,"Chiché",6241,"Ladrillo de cemento",141,2.26
+1402,"Chiché",6241,"Ladrillo de barro",15,0.24
+1402,"Chiché",6241,"Torta de cemento",1082,17.34
+1402,"Chiché",6241,"Parqué o vinil",1,0.02
+1402,"Chiché",6241,"Madera",31,0.5
+1402,"Chiché",6241,"Tierra",3022,48.42
+1402,"Chiché",6241,"Otro",3,0.05
+1403,"Chinique",3097,"Ladrillo cerámico",499,16.11
+1403,"Chinique",3097,"Ladrillo de cemento",180,5.81
+1403,"Chinique",3097,"Ladrillo de barro",18,0.58
+1403,"Chinique",3097,"Torta de cemento",443,14.3
+1403,"Chinique",3097,"Parqué o vinil",3,0.1
+1403,"Chinique",3097,"Madera",13,0.42
+1403,"Chinique",3097,"Tierra",1025,33.1
+1403,"Chinique",3097,"Otro",1,0.03
+1404,"Zacualpa",7705,"Ladrillo cerámico",537,6.97
+1404,"Zacualpa",7705,"Ladrillo de cemento",452,5.87
+1404,"Zacualpa",7705,"Ladrillo de barro",117,1.52
+1404,"Zacualpa",7705,"Torta de cemento",2241,29.09
+1404,"Zacualpa",7705,"Parqué o vinil",10,0.13
+1404,"Zacualpa",7705,"Madera",30,0.39
+1404,"Zacualpa",7705,"Tierra",2256,29.28
+1404,"Zacualpa",7705,"Otro",5,0.06
+1405,"Chajul",9552,"Ladrillo cerámico",285,2.98
+1405,"Chajul",9552,"Ladrillo de cemento",97,1.02
+1405,"Chajul",9552,"Ladrillo de barro",18,0.19
+1405,"Chajul",9552,"Torta de cemento",1555,16.28
+1405,"Chajul",9552,"Parqué o vinil",0,0
+1405,"Chajul",9552,"Madera",318,3.33
+1405,"Chajul",9552,"Tierra",6066,63.51
+1405,"Chajul",9552,"Otro",3,0.03
+1406,"Santo Tomás Chichicastenango",29575,"Ladrillo cerámico",2289,7.74
+1406,"Santo Tomás Chichicastenango",29575,"Ladrillo de cemento",817,2.76
+1406,"Santo Tomás Chichicastenango",29575,"Ladrillo de barro",112,0.38
+1406,"Santo Tomás Chichicastenango",29575,"Torta de cemento",8662,29.29
+1406,"Santo Tomás Chichicastenango",29575,"Parqué o vinil",43,0.15
+1406,"Santo Tomás Chichicastenango",29575,"Madera",168,0.57
+1406,"Santo Tomás Chichicastenango",29575,"Tierra",10481,35.44
+1406,"Santo Tomás Chichicastenango",29575,"Otro",39,0.13
+1407,"Patzité",1353,"Ladrillo cerámico",58,4.29
+1407,"Patzité",1353,"Ladrillo de cemento",47,3.47
+1407,"Patzité",1353,"Ladrillo de barro",4,0.3
+1407,"Patzité",1353,"Torta de cemento",235,17.37
+1407,"Patzité",1353,"Parqué o vinil",0,0
+1407,"Patzité",1353,"Madera",27,2
+1407,"Patzité",1353,"Tierra",679,50.18
+1407,"Patzité",1353,"Otro",2,0.15
+1408,"San Antonio Ilotenango",5315,"Ladrillo cerámico",166,3.12
+1408,"San Antonio Ilotenango",5315,"Ladrillo de cemento",31,0.58
+1408,"San Antonio Ilotenango",5315,"Ladrillo de barro",6,0.11
+1408,"San Antonio Ilotenango",5315,"Torta de cemento",2102,39.55
+1408,"San Antonio Ilotenango",5315,"Parqué o vinil",4,0.08
+1408,"San Antonio Ilotenango",5315,"Madera",22,0.41
+1408,"San Antonio Ilotenango",5315,"Tierra",1627,30.61
+1408,"San Antonio Ilotenango",5315,"Otro",3,0.06
+1409,"San Pedro Jocopilas",6518,"Ladrillo cerámico",276,4.23
+1409,"San Pedro Jocopilas",6518,"Ladrillo de cemento",119,1.83
+1409,"San Pedro Jocopilas",6518,"Ladrillo de barro",5,0.08
+1409,"San Pedro Jocopilas",6518,"Torta de cemento",1057,16.22
+1409,"San Pedro Jocopilas",6518,"Parqué o vinil",4,0.06
+1409,"San Pedro Jocopilas",6518,"Madera",49,0.75
+1409,"San Pedro Jocopilas",6518,"Tierra",3089,47.39
+1409,"San Pedro Jocopilas",6518,"Otro",7,0.11
+1410,"Cunén",7976,"Ladrillo cerámico",313,3.92
+1410,"Cunén",7976,"Ladrillo de cemento",217,2.72
+1410,"Cunén",7976,"Ladrillo de barro",6,0.08
+1410,"Cunén",7976,"Torta de cemento",2198,27.56
+1410,"Cunén",7976,"Parqué o vinil",7,0.09
+1410,"Cunén",7976,"Madera",115,1.44
+1410,"Cunén",7976,"Tierra",3750,47.02
+1410,"Cunén",7976,"Otro",8,0.1
+1411,"San Juan Cotzal",6530,"Ladrillo cerámico",199,3.05
+1411,"San Juan Cotzal",6530,"Ladrillo de cemento",146,2.24
+1411,"San Juan Cotzal",6530,"Ladrillo de barro",8,0.12
+1411,"San Juan Cotzal",6530,"Torta de cemento",1259,19.28
+1411,"San Juan Cotzal",6530,"Parqué o vinil",2,0.03
+1411,"San Juan Cotzal",6530,"Madera",181,2.77
+1411,"San Juan Cotzal",6530,"Tierra",3649,55.88
+1411,"San Juan Cotzal",6530,"Otro",7,0.11
+1412,"Joyabaj",19955,"Ladrillo cerámico",1690,8.47
+1412,"Joyabaj",19955,"Ladrillo de cemento",409,2.05
+1412,"Joyabaj",19955,"Ladrillo de barro",11,0.06
+1412,"Joyabaj",19955,"Torta de cemento",6414,32.14
+1412,"Joyabaj",19955,"Parqué o vinil",12,0.06
+1412,"Joyabaj",19955,"Madera",83,0.42
+1412,"Joyabaj",19955,"Tierra",6009,30.11
+1412,"Joyabaj",19955,"Otro",40,0.2
+1413,"Santa María Nebaj",18723,"Ladrillo cerámico",1836,9.81
+1413,"Santa María Nebaj",18723,"Ladrillo de cemento",560,2.99
+1413,"Santa María Nebaj",18723,"Ladrillo de barro",18,0.1
+1413,"Santa María Nebaj",18723,"Torta de cemento",4275,22.83
+1413,"Santa María Nebaj",18723,"Parqué o vinil",99,0.53
+1413,"Santa María Nebaj",18723,"Madera",311,1.66
+1413,"Santa María Nebaj",18723,"Tierra",7383,39.43
+1413,"Santa María Nebaj",18723,"Otro",31,0.17
+1414,"San Andrés Sajcabajá",7785,"Ladrillo cerámico",385,4.95
+1414,"San Andrés Sajcabajá",7785,"Ladrillo de cemento",208,2.67
+1414,"San Andrés Sajcabajá",7785,"Ladrillo de barro",4,0.05
+1414,"San Andrés Sajcabajá",7785,"Torta de cemento",1817,23.34
+1414,"San Andrés Sajcabajá",7785,"Parqué o vinil",4,0.05
+1414,"San Andrés Sajcabajá",7785,"Madera",45,0.58
+1414,"San Andrés Sajcabajá",7785,"Tierra",2639,33.9
+1414,"San Andrés Sajcabajá",7785,"Otro",1,0.01
+1415,"San Miguel Uspantán",14049,"Ladrillo cerámico",621,4.42
+1415,"San Miguel Uspantán",14049,"Ladrillo de cemento",447,3.18
+1415,"San Miguel Uspantán",14049,"Ladrillo de barro",51,0.36
+1415,"San Miguel Uspantán",14049,"Torta de cemento",3331,23.71
+1415,"San Miguel Uspantán",14049,"Parqué o vinil",4,0.03
+1415,"San Miguel Uspantán",14049,"Madera",108,0.77
+1415,"San Miguel Uspantán",14049,"Tierra",7579,53.95
+1415,"San Miguel Uspantán",14049,"Otro",10,0.07
+1416,"Sacapulas",11735,"Ladrillo cerámico",525,4.47
+1416,"Sacapulas",11735,"Ladrillo de cemento",266,2.27
+1416,"Sacapulas",11735,"Ladrillo de barro",26,0.22
+1416,"Sacapulas",11735,"Torta de cemento",3781,32.22
+1416,"Sacapulas",11735,"Parqué o vinil",19,0.16
+1416,"Sacapulas",11735,"Madera",56,0.48
+1416,"Sacapulas",11735,"Tierra",4059,34.59
+1416,"Sacapulas",11735,"Otro",16,0.14
+1417,"San Bartolomé Jocotenango",3065,"Ladrillo cerámico",67,2.19
+1417,"San Bartolomé Jocotenango",3065,"Ladrillo de cemento",40,1.31
+1417,"San Bartolomé Jocotenango",3065,"Ladrillo de barro",0,0
+1417,"San Bartolomé Jocotenango",3065,"Torta de cemento",458,14.94
+1417,"San Bartolomé Jocotenango",3065,"Parqué o vinil",3,0.1
+1417,"San Bartolomé Jocotenango",3065,"Madera",9,0.29
+1417,"San Bartolomé Jocotenango",3065,"Tierra",1403,45.77
+1417,"San Bartolomé Jocotenango",3065,"Otro",0,0
+1418,"Canillá",3978,"Ladrillo cerámico",322,8.09
+1418,"Canillá",3978,"Ladrillo de cemento",129,3.24
+1418,"Canillá",3978,"Ladrillo de barro",15,0.38
+1418,"Canillá",3978,"Torta de cemento",1208,30.37
+1418,"Canillá",3978,"Parqué o vinil",4,0.1
+1418,"Canillá",3978,"Madera",10,0.25
+1418,"Canillá",3978,"Tierra",984,24.74
+1418,"Canillá",3978,"Otro",0,0
+1419,"Chicamán",8477,"Ladrillo cerámico",457,5.39
+1419,"Chicamán",8477,"Ladrillo de cemento",104,1.23
+1419,"Chicamán",8477,"Ladrillo de barro",2,0.02
+1419,"Chicamán",8477,"Torta de cemento",2155,25.42
+1419,"Chicamán",8477,"Parqué o vinil",6,0.07
+1419,"Chicamán",8477,"Madera",54,0.64
+1419,"Chicamán",8477,"Tierra",4535,53.5
+1419,"Chicamán",8477,"Otro",8,0.09
+1420,"Playa Grande Ixcán",22220,"Ladrillo cerámico",564,2.54
+1420,"Playa Grande Ixcán",22220,"Ladrillo de cemento",109,0.49
+1420,"Playa Grande Ixcán",22220,"Ladrillo de barro",8,0.04
+1420,"Playa Grande Ixcán",22220,"Torta de cemento",8556,38.51
+1420,"Playa Grande Ixcán",22220,"Parqué o vinil",11,0.05
+1420,"Playa Grande Ixcán",22220,"Madera",322,1.45
+1420,"Playa Grande Ixcán",22220,"Tierra",8869,39.91
+1420,"Playa Grande Ixcán",22220,"Otro",22,0.1
+1421,"Pachalum",3091,"Ladrillo cerámico",676,21.87
+1421,"Pachalum",3091,"Ladrillo de cemento",234,7.57
+1421,"Pachalum",3091,"Ladrillo de barro",3,0.1
+1421,"Pachalum",3091,"Torta de cemento",1047,33.87
+1421,"Pachalum",3091,"Parqué o vinil",0,0
+1421,"Pachalum",3091,"Madera",2,0.06
+1421,"Pachalum",3091,"Tierra",222,7.18
+1421,"Pachalum",3091,"Otro",29,0.94
+1501,"Salamá",18572,"Ladrillo cerámico",2353,12.67
+1501,"Salamá",18572,"Ladrillo de cemento",1100,5.92
+1501,"Salamá",18572,"Ladrillo de barro",173,0.93
+1501,"Salamá",18572,"Torta de cemento",7762,41.79
+1501,"Salamá",18572,"Parqué o vinil",19,0.1
+1501,"Salamá",18572,"Madera",151,0.81
+1501,"Salamá",18572,"Tierra",3666,19.74
+1501,"Salamá",18572,"Otro",62,0.33
+1502,"San Miguel Chicaj",8757,"Ladrillo cerámico",528,6.03
+1502,"San Miguel Chicaj",8757,"Ladrillo de cemento",190,2.17
+1502,"San Miguel Chicaj",8757,"Ladrillo de barro",26,0.3
+1502,"San Miguel Chicaj",8757,"Torta de cemento",3919,44.75
+1502,"San Miguel Chicaj",8757,"Parqué o vinil",14,0.16
+1502,"San Miguel Chicaj",8757,"Madera",32,0.37
+1502,"San Miguel Chicaj",8757,"Tierra",2135,24.38
+1502,"San Miguel Chicaj",8757,"Otro",2,0.02
+1503,"Rabinal",12033,"Ladrillo cerámico",751,6.24
+1503,"Rabinal",12033,"Ladrillo de cemento",503,4.18
+1503,"Rabinal",12033,"Ladrillo de barro",29,0.24
+1503,"Rabinal",12033,"Torta de cemento",5197,43.19
+1503,"Rabinal",12033,"Parqué o vinil",7,0.06
+1503,"Rabinal",12033,"Madera",34,0.28
+1503,"Rabinal",12033,"Tierra",2606,21.66
+1503,"Rabinal",12033,"Otro",15,0.12
+1504,"Cubulco",17440,"Ladrillo cerámico",572,3.28
+1504,"Cubulco",17440,"Ladrillo de cemento",493,2.83
+1504,"Cubulco",17440,"Ladrillo de barro",15,0.09
+1504,"Cubulco",17440,"Torta de cemento",4102,23.52
+1504,"Cubulco",17440,"Parqué o vinil",14,0.08
+1504,"Cubulco",17440,"Madera",94,0.54
+1504,"Cubulco",17440,"Tierra",6457,37.02
+1504,"Cubulco",17440,"Otro",15,0.09
+1505,"Granados",4595,"Ladrillo cerámico",741,16.13
+1505,"Granados",4595,"Ladrillo de cemento",268,5.83
+1505,"Granados",4595,"Ladrillo de barro",1,0.02
+1505,"Granados",4595,"Torta de cemento",1616,35.17
+1505,"Granados",4595,"Parqué o vinil",3,0.07
+1505,"Granados",4595,"Madera",16,0.35
+1505,"Granados",4595,"Tierra",835,18.17
+1505,"Granados",4595,"Otro",13,0.28
+1506,"Santa Cruz El Chol",3293,"Ladrillo cerámico",483,14.67
+1506,"Santa Cruz El Chol",3293,"Ladrillo de cemento",217,6.59
+1506,"Santa Cruz El Chol",3293,"Ladrillo de barro",22,0.67
+1506,"Santa Cruz El Chol",3293,"Torta de cemento",1368,41.54
+1506,"Santa Cruz El Chol",3293,"Parqué o vinil",4,0.12
+1506,"Santa Cruz El Chol",3293,"Madera",5,0.15
+1506,"Santa Cruz El Chol",3293,"Tierra",325,9.87
+1506,"Santa Cruz El Chol",3293,"Otro",1,0.03
+1507,"San Jerónimo",7611,"Ladrillo cerámico",866,11.38
+1507,"San Jerónimo",7611,"Ladrillo de cemento",303,3.98
+1507,"San Jerónimo",7611,"Ladrillo de barro",37,0.49
+1507,"San Jerónimo",7611,"Torta de cemento",3393,44.58
+1507,"San Jerónimo",7611,"Parqué o vinil",5,0.07
+1507,"San Jerónimo",7611,"Madera",30,0.39
+1507,"San Jerónimo",7611,"Tierra",1311,17.23
+1507,"San Jerónimo",7611,"Otro",25,0.33
+1508,"Purulhá",11470,"Ladrillo cerámico",215,1.87
+1508,"Purulhá",11470,"Ladrillo de cemento",93,0.81
+1508,"Purulhá",11470,"Ladrillo de barro",7,0.06
+1508,"Purulhá",11470,"Torta de cemento",2381,20.76
+1508,"Purulhá",11470,"Parqué o vinil",5,0.04
+1508,"Purulhá",11470,"Madera",136,1.19
+1508,"Purulhá",11470,"Tierra",7467,65.1
+1508,"Purulhá",11470,"Otro",4,0.03
+1601,"Cobán",48625,"Ladrillo cerámico",4589,9.44
+1601,"Cobán",48625,"Ladrillo de cemento",2956,6.08
+1601,"Cobán",48625,"Ladrillo de barro",96,0.2
+1601,"Cobán",48625,"Torta de cemento",12170,25.03
+1601,"Cobán",48625,"Parqué o vinil",25,0.05
+1601,"Cobán",48625,"Madera",739,1.52
+1601,"Cobán",48625,"Tierra",22062,45.37
+1601,"Cobán",48625,"Otro",35,0.07
+1602,"Santa Cruz Verapaz",6977,"Ladrillo cerámico",662,9.49
+1602,"Santa Cruz Verapaz",6977,"Ladrillo de cemento",156,2.24
+1602,"Santa Cruz Verapaz",6977,"Ladrillo de barro",7,0.1
+1602,"Santa Cruz Verapaz",6977,"Torta de cemento",2870,41.14
+1602,"Santa Cruz Verapaz",6977,"Parqué o vinil",9,0.13
+1602,"Santa Cruz Verapaz",6977,"Madera",93,1.33
+1602,"Santa Cruz Verapaz",6977,"Tierra",2138,30.64
+1602,"Santa Cruz Verapaz",6977,"Otro",3,0.04
+1603,"San Cristóbal Verapaz",13376,"Ladrillo cerámico",898,6.71
+1603,"San Cristóbal Verapaz",13376,"Ladrillo de cemento",490,3.66
+1603,"San Cristóbal Verapaz",13376,"Ladrillo de barro",21,0.16
+1603,"San Cristóbal Verapaz",13376,"Torta de cemento",5225,39.06
+1603,"San Cristóbal Verapaz",13376,"Parqué o vinil",16,0.12
+1603,"San Cristóbal Verapaz",13376,"Madera",176,1.32
+1603,"San Cristóbal Verapaz",13376,"Tierra",5047,37.73
+1603,"San Cristóbal Verapaz",13376,"Otro",7,0.05
+1604,"Tactic",8969,"Ladrillo cerámico",1014,11.31
+1604,"Tactic",8969,"Ladrillo de cemento",576,6.42
+1604,"Tactic",8969,"Ladrillo de barro",15,0.17
+1604,"Tactic",8969,"Torta de cemento",3366,37.53
+1604,"Tactic",8969,"Parqué o vinil",7,0.08
+1604,"Tactic",8969,"Madera",108,1.2
+1604,"Tactic",8969,"Tierra",2530,28.21
+1604,"Tactic",8969,"Otro",5,0.06
+1605,"Tamahú",3769,"Ladrillo cerámico",163,4.32
+1605,"Tamahú",3769,"Ladrillo de cemento",48,1.27
+1605,"Tamahú",3769,"Ladrillo de barro",2,0.05
+1605,"Tamahú",3769,"Torta de cemento",1070,28.39
+1605,"Tamahú",3769,"Parqué o vinil",2,0.05
+1605,"Tamahú",3769,"Madera",50,1.33
+1605,"Tamahú",3769,"Tierra",2158,57.26
+1605,"Tamahú",3769,"Otro",3,0.08
+1606,"San Miguel Tucurú",8844,"Ladrillo cerámico",117,1.32
+1606,"San Miguel Tucurú",8844,"Ladrillo de cemento",82,0.93
+1606,"San Miguel Tucurú",8844,"Ladrillo de barro",7,0.08
+1606,"San Miguel Tucurú",8844,"Torta de cemento",1362,15.4
+1606,"San Miguel Tucurú",8844,"Parqué o vinil",7,0.08
+1606,"San Miguel Tucurú",8844,"Madera",98,1.11
+1606,"San Miguel Tucurú",8844,"Tierra",6500,73.5
+1606,"San Miguel Tucurú",8844,"Otro",12,0.14
+1607,"Panzós",14441,"Ladrillo cerámico",104,0.72
+1607,"Panzós",14441,"Ladrillo de cemento",241,1.67
+1607,"Panzós",14441,"Ladrillo de barro",7,0.05
+1607,"Panzós",14441,"Torta de cemento",2394,16.58
+1607,"Panzós",14441,"Parqué o vinil",2,0.01
+1607,"Panzós",14441,"Madera",198,1.37
+1607,"Panzós",14441,"Tierra",10025,69.42
+1607,"Panzós",14441,"Otro",9,0.06
+1608,"Senahú",18045,"Ladrillo cerámico",145,0.8
+1608,"Senahú",18045,"Ladrillo de cemento",108,0.6
+1608,"Senahú",18045,"Ladrillo de barro",4,0.02
+1608,"Senahú",18045,"Torta de cemento",3033,16.81
+1608,"Senahú",18045,"Parqué o vinil",12,0.07
+1608,"Senahú",18045,"Madera",200,1.11
+1608,"Senahú",18045,"Tierra",13029,72.2
+1608,"Senahú",18045,"Otro",9,0.05
+1609,"San Pedro Carchá",48637,"Ladrillo cerámico",1631,3.35
+1609,"San Pedro Carchá",48637,"Ladrillo de cemento",1247,2.56
+1609,"San Pedro Carchá",48637,"Ladrillo de barro",47,0.1
+1609,"San Pedro Carchá",48637,"Torta de cemento",10313,21.2
+1609,"San Pedro Carchá",48637,"Parqué o vinil",24,0.05
+1609,"San Pedro Carchá",48637,"Madera",1091,2.24
+1609,"San Pedro Carchá",48637,"Tierra",28924,59.47
+1609,"San Pedro Carchá",48637,"Otro",18,0.04
+1610,"San Juan Chamelco",12546,"Ladrillo cerámico",587,4.68
+1610,"San Juan Chamelco",12546,"Ladrillo de cemento",433,3.45
+1610,"San Juan Chamelco",12546,"Ladrillo de barro",5,0.04
+1610,"San Juan Chamelco",12546,"Torta de cemento",2649,21.11
+1610,"San Juan Chamelco",12546,"Parqué o vinil",1,0.01
+1610,"San Juan Chamelco",12546,"Madera",282,2.25
+1610,"San Juan Chamelco",12546,"Tierra",6944,55.35
+1610,"San Juan Chamelco",12546,"Otro",19,0.15
+1611,"San Agustín Lanquín",4709,"Ladrillo cerámico",137,2.91
+1611,"San Agustín Lanquín",4709,"Ladrillo de cemento",208,4.42
+1611,"San Agustín Lanquín",4709,"Ladrillo de barro",3,0.06
+1611,"San Agustín Lanquín",4709,"Torta de cemento",349,7.41
+1611,"San Agustín Lanquín",4709,"Parqué o vinil",2,0.04
+1611,"San Agustín Lanquín",4709,"Madera",117,2.48
+1611,"San Agustín Lanquín",4709,"Tierra",3562,75.64
+1611,"San Agustín Lanquín",4709,"Otro",1,0.02
+1612,"Santa María Cahabón",12444,"Ladrillo cerámico",356,2.86
+1612,"Santa María Cahabón",12444,"Ladrillo de cemento",100,0.8
+1612,"Santa María Cahabón",12444,"Ladrillo de barro",2,0.02
+1612,"Santa María Cahabón",12444,"Torta de cemento",839,6.74
+1612,"Santa María Cahabón",12444,"Parqué o vinil",6,0.05
+1612,"Santa María Cahabón",12444,"Madera",304,2.44
+1612,"Santa María Cahabón",12444,"Tierra",10070,80.92
+1612,"Santa María Cahabón",12444,"Otro",13,0.1
+1613,"Chisec",16897,"Ladrillo cerámico",200,1.18
+1613,"Chisec",16897,"Ladrillo de cemento",132,0.78
+1613,"Chisec",16897,"Ladrillo de barro",15,0.09
+1613,"Chisec",16897,"Torta de cemento",3630,21.48
+1613,"Chisec",16897,"Parqué o vinil",9,0.05
+1613,"Chisec",16897,"Madera",435,2.57
+1613,"Chisec",16897,"Tierra",10415,61.64
+1613,"Chisec",16897,"Otro",15,0.09
+1614,"Chahal",5675,"Ladrillo cerámico",97,1.71
+1614,"Chahal",5675,"Ladrillo de cemento",31,0.55
+1614,"Chahal",5675,"Ladrillo de barro",3,0.05
+1614,"Chahal",5675,"Torta de cemento",932,16.42
+1614,"Chahal",5675,"Parqué o vinil",1,0.02
+1614,"Chahal",5675,"Madera",131,2.31
+1614,"Chahal",5675,"Tierra",3826,67.42
+1614,"Chahal",5675,"Otro",7,0.12
+1615,"Fray Bartolomé de las Casas",14444,"Ladrillo cerámico",349,2.42
+1615,"Fray Bartolomé de las Casas",14444,"Ladrillo de cemento",285,1.97
+1615,"Fray Bartolomé de las Casas",14444,"Ladrillo de barro",5,0.03
+1615,"Fray Bartolomé de las Casas",14444,"Torta de cemento",3398,23.53
+1615,"Fray Bartolomé de las Casas",14444,"Parqué o vinil",0,0
+1615,"Fray Bartolomé de las Casas",14444,"Madera",148,1.02
+1615,"Fray Bartolomé de las Casas",14444,"Tierra",8302,57.48
+1615,"Fray Bartolomé de las Casas",14444,"Otro",5,0.03
+1616,"Santa Catalina La Tinta",8178,"Ladrillo cerámico",114,1.39
+1616,"Santa Catalina La Tinta",8178,"Ladrillo de cemento",129,1.58
+1616,"Santa Catalina La Tinta",8178,"Ladrillo de barro",6,0.07
+1616,"Santa Catalina La Tinta",8178,"Torta de cemento",2096,25.63
+1616,"Santa Catalina La Tinta",8178,"Parqué o vinil",5,0.06
+1616,"Santa Catalina La Tinta",8178,"Madera",99,1.21
+1616,"Santa Catalina La Tinta",8178,"Tierra",5167,63.18
+1616,"Santa Catalina La Tinta",8178,"Otro",7,0.09
+1617,"Raxruhá",7629,"Ladrillo cerámico",265,3.47
+1617,"Raxruhá",7629,"Ladrillo de cemento",89,1.17
+1617,"Raxruhá",7629,"Ladrillo de barro",4,0.05
+1617,"Raxruhá",7629,"Torta de cemento",1479,19.39
+1617,"Raxruhá",7629,"Parqué o vinil",3,0.04
+1617,"Raxruhá",7629,"Madera",220,2.88
+1617,"Raxruhá",7629,"Tierra",4574,59.96
+1617,"Raxruhá",7629,"Otro",3,0.04
+1701,"Flores",11984,"Ladrillo cerámico",2596,21.66
+1701,"Flores",11984,"Ladrillo de cemento",348,2.9
+1701,"Flores",11984,"Ladrillo de barro",13,0.11
+1701,"Flores",11984,"Torta de cemento",5046,42.11
+1701,"Flores",11984,"Parqué o vinil",12,0.1
+1701,"Flores",11984,"Madera",86,0.72
+1701,"Flores",11984,"Tierra",1561,13.03
+1701,"Flores",11984,"Otro",8,0.07
+1702,"San José",1901,"Ladrillo cerámico",147,7.73
+1702,"San José",1901,"Ladrillo de cemento",69,3.63
+1702,"San José",1901,"Ladrillo de barro",0,0
+1702,"San José",1901,"Torta de cemento",583,30.67
+1702,"San José",1901,"Parqué o vinil",1,0.05
+1702,"San José",1901,"Madera",16,0.84
+1702,"San José",1901,"Tierra",623,32.77
+1702,"San José",1901,"Otro",3,0.16
+1703,"San Benito",12662,"Ladrillo cerámico",2727,21.54
+1703,"San Benito",12662,"Ladrillo de cemento",1448,11.44
+1703,"San Benito",12662,"Ladrillo de barro",45,0.36
+1703,"San Benito",12662,"Torta de cemento",4772,37.69
+1703,"San Benito",12662,"Parqué o vinil",12,0.09
+1703,"San Benito",12662,"Madera",52,0.41
+1703,"San Benito",12662,"Tierra",1775,14.02
+1703,"San Benito",12662,"Otro",7,0.06
+1704,"San Andrés",9454,"Ladrillo cerámico",483,5.11
+1704,"San Andrés",9454,"Ladrillo de cemento",148,1.57
+1704,"San Andrés",9454,"Ladrillo de barro",6,0.06
+1704,"San Andrés",9454,"Torta de cemento",2380,25.17
+1704,"San Andrés",9454,"Parqué o vinil",5,0.05
+1704,"San Andrés",9454,"Madera",200,2.12
+1704,"San Andrés",9454,"Tierra",3847,40.69
+1704,"San Andrés",9454,"Otro",7,0.07
+1705,"La Libertad",19109,"Ladrillo cerámico",1290,6.75
+1705,"La Libertad",19109,"Ladrillo de cemento",757,3.96
+1705,"La Libertad",19109,"Ladrillo de barro",23,0.12
+1705,"La Libertad",19109,"Torta de cemento",6062,31.72
+1705,"La Libertad",19109,"Parqué o vinil",37,0.19
+1705,"La Libertad",19109,"Madera",265,1.39
+1705,"La Libertad",19109,"Tierra",6857,35.88
+1705,"La Libertad",19109,"Otro",11,0.06
+1706,"San Francisco",4036,"Ladrillo cerámico",465,11.52
+1706,"San Francisco",4036,"Ladrillo de cemento",432,10.7
+1706,"San Francisco",4036,"Ladrillo de barro",4,0.1
+1706,"San Francisco",4036,"Torta de cemento",1360,33.7
+1706,"San Francisco",4036,"Parqué o vinil",35,0.87
+1706,"San Francisco",4036,"Madera",52,1.29
+1706,"San Francisco",4036,"Tierra",1000,24.78
+1706,"San Francisco",4036,"Otro",7,0.17
+1707,"Santa Ana",6337,"Ladrillo cerámico",661,10.43
+1707,"Santa Ana",6337,"Ladrillo de cemento",820,12.94
+1707,"Santa Ana",6337,"Ladrillo de barro",6,0.09
+1707,"Santa Ana",6337,"Torta de cemento",2011,31.73
+1707,"Santa Ana",6337,"Parqué o vinil",6,0.09
+1707,"Santa Ana",6337,"Madera",59,0.93
+1707,"Santa Ana",6337,"Tierra",1341,21.16
+1707,"Santa Ana",6337,"Otro",2,0.03
+1708,"Dolores",7265,"Ladrillo cerámico",640,8.81
+1708,"Dolores",7265,"Ladrillo de cemento",121,1.67
+1708,"Dolores",7265,"Ladrillo de barro",3,0.04
+1708,"Dolores",7265,"Torta de cemento",2802,38.57
+1708,"Dolores",7265,"Parqué o vinil",4,0.06
+1708,"Dolores",7265,"Madera",101,1.39
+1708,"Dolores",7265,"Tierra",2094,28.82
+1708,"Dolores",7265,"Otro",2,0.03
+1709,"San Luis",17253,"Ladrillo cerámico",1079,6.25
+1709,"San Luis",17253,"Ladrillo de cemento",526,3.05
+1709,"San Luis",17253,"Ladrillo de barro",10,0.06
+1709,"San Luis",17253,"Torta de cemento",3802,22.04
+1709,"San Luis",17253,"Parqué o vinil",4,0.02
+1709,"San Luis",17253,"Madera",492,2.85
+1709,"San Luis",17253,"Tierra",8539,49.49
+1709,"San Luis",17253,"Otro",16,0.09
+1710,"Sayaxché",21733,"Ladrillo cerámico",892,4.1
+1710,"Sayaxché",21733,"Ladrillo de cemento",870,4
+1710,"Sayaxché",21733,"Ladrillo de barro",21,0.1
+1710,"Sayaxché",21733,"Torta de cemento",5500,25.31
+1710,"Sayaxché",21733,"Parqué o vinil",22,0.1
+1710,"Sayaxché",21733,"Madera",477,2.19
+1710,"Sayaxché",21733,"Tierra",10970,50.48
+1710,"Sayaxché",21733,"Otro",11,0.05
+1711,"Melchor de Mencos",8080,"Ladrillo cerámico",1178,14.58
+1711,"Melchor de Mencos",8080,"Ladrillo de cemento",190,2.35
+1711,"Melchor de Mencos",8080,"Ladrillo de barro",4,0.05
+1711,"Melchor de Mencos",8080,"Torta de cemento",3612,44.7
+1711,"Melchor de Mencos",8080,"Parqué o vinil",7,0.09
+1711,"Melchor de Mencos",8080,"Madera",102,1.26
+1711,"Melchor de Mencos",8080,"Tierra",1567,19.39
+1711,"Melchor de Mencos",8080,"Otro",16,0.2
+1712,"Poptún",14382,"Ladrillo cerámico",2330,16.2
+1712,"Poptún",14382,"Ladrillo de cemento",981,6.82
+1712,"Poptún",14382,"Ladrillo de barro",19,0.13
+1712,"Poptún",14382,"Torta de cemento",4937,34.33
+1712,"Poptún",14382,"Parqué o vinil",11,0.08
+1712,"Poptún",14382,"Madera",141,0.98
+1712,"Poptún",14382,"Tierra",3258,22.65
+1712,"Poptún",14382,"Otro",18,0.13
+1713,"Las Cruces",8602,"Ladrillo cerámico",468,5.44
+1713,"Las Cruces",8602,"Ladrillo de cemento",58,0.67
+1713,"Las Cruces",8602,"Ladrillo de barro",3,0.03
+1713,"Las Cruces",8602,"Torta de cemento",3362,39.08
+1713,"Las Cruces",8602,"Parqué o vinil",5,0.06
+1713,"Las Cruces",8602,"Madera",103,1.2
+1713,"Las Cruces",8602,"Tierra",2921,33.96
+1713,"Las Cruces",8602,"Otro",2,0.02
+1714,"El Chal",3826,"Ladrillo cerámico",476,12.44
+1714,"El Chal",3826,"Ladrillo de cemento",32,0.84
+1714,"El Chal",3826,"Ladrillo de barro",2,0.05
+1714,"El Chal",3826,"Torta de cemento",1657,43.31
+1714,"El Chal",3826,"Parqué o vinil",4,0.1
+1714,"El Chal",3826,"Madera",39,1.02
+1714,"El Chal",3826,"Tierra",957,25.01
+1714,"El Chal",3826,"Otro",1,0.03
+1801,"Puerto Barrios",31447,"Ladrillo cerámico",7766,24.7
+1801,"Puerto Barrios",31447,"Ladrillo de cemento",3541,11.26
+1801,"Puerto Barrios",31447,"Ladrillo de barro",116,0.37
+1801,"Puerto Barrios",31447,"Torta de cemento",11960,38.03
+1801,"Puerto Barrios",31447,"Parqué o vinil",53,0.17
+1801,"Puerto Barrios",31447,"Madera",532,1.69
+1801,"Puerto Barrios",31447,"Tierra",2139,6.8
+1801,"Puerto Barrios",31447,"Otro",65,0.21
+1802,"Livingston",19605,"Ladrillo cerámico",1899,9.69
+1802,"Livingston",19605,"Ladrillo de cemento",1078,5.5
+1802,"Livingston",19605,"Ladrillo de barro",26,0.13
+1802,"Livingston",19605,"Torta de cemento",5029,25.65
+1802,"Livingston",19605,"Parqué o vinil",8,0.04
+1802,"Livingston",19605,"Madera",926,4.72
+1802,"Livingston",19605,"Tierra",6720,34.28
+1802,"Livingston",19605,"Otro",17,0.09
+1803,"El Estor",15708,"Ladrillo cerámico",493,3.14
+1803,"El Estor",15708,"Ladrillo de cemento",124,0.79
+1803,"El Estor",15708,"Ladrillo de barro",7,0.04
+1803,"El Estor",15708,"Torta de cemento",3879,24.69
+1803,"El Estor",15708,"Parqué o vinil",39,0.25
+1803,"El Estor",15708,"Madera",257,1.64
+1803,"El Estor",15708,"Tierra",8957,57.02
+1803,"El Estor",15708,"Otro",16,0.1
+1804,"Morales",29328,"Ladrillo cerámico",4453,15.18
+1804,"Morales",29328,"Ladrillo de cemento",1411,4.81
+1804,"Morales",29328,"Ladrillo de barro",23,0.08
+1804,"Morales",29328,"Torta de cemento",13761,46.92
+1804,"Morales",29328,"Parqué o vinil",50,0.17
+1804,"Morales",29328,"Madera",252,0.86
+1804,"Morales",29328,"Tierra",4049,13.81
+1804,"Morales",29328,"Otro",36,0.12
+1805,"Los Amates",17245,"Ladrillo cerámico",1700,9.86
+1805,"Los Amates",17245,"Ladrillo de cemento",644,3.73
+1805,"Los Amates",17245,"Ladrillo de barro",18,0.1
+1805,"Los Amates",17245,"Torta de cemento",7594,44.04
+1805,"Los Amates",17245,"Parqué o vinil",15,0.09
+1805,"Los Amates",17245,"Madera",191,1.11
+1805,"Los Amates",17245,"Tierra",3543,20.55
+1805,"Los Amates",17245,"Otro",7,0.04
+1901,"Zacapa",19006,"Ladrillo cerámico",3577,18.82
+1901,"Zacapa",19006,"Ladrillo de cemento",1259,6.62
+1901,"Zacapa",19006,"Ladrillo de barro",104,0.55
+1901,"Zacapa",19006,"Torta de cemento",7771,40.89
+1901,"Zacapa",19006,"Parqué o vinil",30,0.16
+1901,"Zacapa",19006,"Madera",51,0.27
+1901,"Zacapa",19006,"Tierra",2245,11.81
+1901,"Zacapa",19006,"Otro",62,0.33
+1902,"Estanzuela",3390,"Ladrillo cerámico",695,20.5
+1902,"Estanzuela",3390,"Ladrillo de cemento",295,8.7
+1902,"Estanzuela",3390,"Ladrillo de barro",46,1.36
+1902,"Estanzuela",3390,"Torta de cemento",1283,37.85
+1902,"Estanzuela",3390,"Parqué o vinil",8,0.24
+1902,"Estanzuela",3390,"Madera",2,0.06
+1902,"Estanzuela",3390,"Tierra",124,3.66
+1902,"Estanzuela",3390,"Otro",2,0.06
+1903,"Río Hondo",8188,"Ladrillo cerámico",1271,15.52
+1903,"Río Hondo",8188,"Ladrillo de cemento",1088,13.29
+1903,"Río Hondo",8188,"Ladrillo de barro",83,1.01
+1903,"Río Hondo",8188,"Torta de cemento",3037,37.09
+1903,"Río Hondo",8188,"Parqué o vinil",11,0.13
+1903,"Río Hondo",8188,"Madera",3,0.04
+1903,"Río Hondo",8188,"Tierra",235,2.87
+1903,"Río Hondo",8188,"Otro",7,0.09
+1904,"Gualán",13760,"Ladrillo cerámico",2179,15.84
+1904,"Gualán",13760,"Ladrillo de cemento",867,6.3
+1904,"Gualán",13760,"Ladrillo de barro",79,0.57
+1904,"Gualán",13760,"Torta de cemento",5240,38.08
+1904,"Gualán",13760,"Parqué o vinil",22,0.16
+1904,"Gualán",13760,"Madera",79,0.57
+1904,"Gualán",13760,"Tierra",2307,16.77
+1904,"Gualán",13760,"Otro",11,0.08
+1905,"Teculután",5620,"Ladrillo cerámico",584,10.39
+1905,"Teculután",5620,"Ladrillo de cemento",509,9.06
+1905,"Teculután",5620,"Ladrillo de barro",41,0.73
+1905,"Teculután",5620,"Torta de cemento",2854,50.78
+1905,"Teculután",5620,"Parqué o vinil",11,0.2
+1905,"Teculután",5620,"Madera",8,0.14
+1905,"Teculután",5620,"Tierra",396,7.05
+1905,"Teculután",5620,"Otro",4,0.07
+1906,"Usumatlán",3984,"Ladrillo cerámico",395,9.91
+1906,"Usumatlán",3984,"Ladrillo de cemento",390,9.79
+1906,"Usumatlán",3984,"Ladrillo de barro",10,0.25
+1906,"Usumatlán",3984,"Torta de cemento",1663,41.74
+1906,"Usumatlán",3984,"Parqué o vinil",5,0.13
+1906,"Usumatlán",3984,"Madera",29,0.73
+1906,"Usumatlán",3984,"Tierra",490,12.3
+1906,"Usumatlán",3984,"Otro",0,0
+1907,"Cabañas",4237,"Ladrillo cerámico",355,8.38
+1907,"Cabañas",4237,"Ladrillo de cemento",198,4.67
+1907,"Cabañas",4237,"Ladrillo de barro",18,0.42
+1907,"Cabañas",4237,"Torta de cemento",2088,49.28
+1907,"Cabañas",4237,"Parqué o vinil",2,0.05
+1907,"Cabañas",4237,"Madera",3,0.07
+1907,"Cabañas",4237,"Tierra",578,13.64
+1907,"Cabañas",4237,"Otro",13,0.31
+1908,"San Diego",2353,"Ladrillo cerámico",296,12.58
+1908,"San Diego",2353,"Ladrillo de cemento",184,7.82
+1908,"San Diego",2353,"Ladrillo de barro",3,0.13
+1908,"San Diego",2353,"Torta de cemento",882,37.48
+1908,"San Diego",2353,"Parqué o vinil",0,0
+1908,"San Diego",2353,"Madera",1,0.04
+1908,"San Diego",2353,"Tierra",309,13.13
+1908,"San Diego",2353,"Otro",0,0
+1909,"La Unión",8112,"Ladrillo cerámico",368,4.54
+1909,"La Unión",8112,"Ladrillo de cemento",239,2.95
+1909,"La Unión",8112,"Ladrillo de barro",7,0.09
+1909,"La Unión",8112,"Torta de cemento",1662,20.49
+1909,"La Unión",8112,"Parqué o vinil",11,0.14
+1909,"La Unión",8112,"Madera",65,0.8
+1909,"La Unión",8112,"Tierra",4300,53.01
+1909,"La Unión",8112,"Otro",8,0.1
+1910,"Huité",3538,"Ladrillo cerámico",288,8.14
+1910,"Huité",3538,"Ladrillo de cemento",61,1.72
+1910,"Huité",3538,"Ladrillo de barro",11,0.31
+1910,"Huité",3538,"Torta de cemento",1521,42.99
+1910,"Huité",3538,"Parqué o vinil",0,0
+1910,"Huité",3538,"Madera",5,0.14
+1910,"Huité",3538,"Tierra",730,20.63
+1910,"Huité",3538,"Otro",0,0
+1911,"San Jorge",3455,"Ladrillo cerámico",437,12.65
+1911,"San Jorge",3455,"Ladrillo de cemento",143,4.14
+1911,"San Jorge",3455,"Ladrillo de barro",53,1.53
+1911,"San Jorge",3455,"Torta de cemento",1811,52.42
+1911,"San Jorge",3455,"Parqué o vinil",8,0.23
+1911,"San Jorge",3455,"Madera",0,0
+1911,"San Jorge",3455,"Tierra",405,11.72
+1911,"San Jorge",3455,"Otro",3,0.09
+2001,"Chiquimula",28676,"Ladrillo cerámico",5320,18.55
+2001,"Chiquimula",28676,"Ladrillo de cemento",3844,13.4
+2001,"Chiquimula",28676,"Ladrillo de barro",166,0.58
+2001,"Chiquimula",28676,"Torta de cemento",7866,27.43
+2001,"Chiquimula",28676,"Parqué o vinil",44,0.15
+2001,"Chiquimula",28676,"Madera",56,0.2
+2001,"Chiquimula",28676,"Tierra",6539,22.8
+2001,"Chiquimula",28676,"Otro",175,0.61
+2002,"San José la Arada",2867,"Ladrillo cerámico",476,16.6
+2002,"San José la Arada",2867,"Ladrillo de cemento",369,12.87
+2002,"San José la Arada",2867,"Ladrillo de barro",10,0.35
+2002,"San José la Arada",2867,"Torta de cemento",932,32.51
+2002,"San José la Arada",2867,"Parqué o vinil",5,0.17
+2002,"San José la Arada",2867,"Madera",7,0.24
+2002,"San José la Arada",2867,"Tierra",344,12
+2002,"San José la Arada",2867,"Otro",2,0.07
+2003,"San Juan Ermita",4351,"Ladrillo cerámico",464,10.66
+2003,"San Juan Ermita",4351,"Ladrillo de cemento",373,8.57
+2003,"San Juan Ermita",4351,"Ladrillo de barro",1,0.02
+2003,"San Juan Ermita",4351,"Torta de cemento",852,19.58
+2003,"San Juan Ermita",4351,"Parqué o vinil",1,0.02
+2003,"San Juan Ermita",4351,"Madera",35,0.8
+2003,"San Juan Ermita",4351,"Tierra",1847,42.45
+2003,"San Juan Ermita",4351,"Otro",3,0.07
+2004,"Jocotán",13722,"Ladrillo cerámico",959,6.99
+2004,"Jocotán",13722,"Ladrillo de cemento",426,3.1
+2004,"Jocotán",13722,"Ladrillo de barro",11,0.08
+2004,"Jocotán",13722,"Torta de cemento",1666,12.14
+2004,"Jocotán",13722,"Parqué o vinil",5,0.04
+2004,"Jocotán",13722,"Madera",87,0.63
+2004,"Jocotán",13722,"Tierra",9171,66.83
+2004,"Jocotán",13722,"Otro",20,0.15
+2005,"Camotán",11984,"Ladrillo cerámico",740,6.17
+2005,"Camotán",11984,"Ladrillo de cemento",365,3.05
+2005,"Camotán",11984,"Ladrillo de barro",5,0.04
+2005,"Camotán",11984,"Torta de cemento",1790,14.94
+2005,"Camotán",11984,"Parqué o vinil",6,0.05
+2005,"Camotán",11984,"Madera",61,0.51
+2005,"Camotán",11984,"Tierra",7611,63.51
+2005,"Camotán",11984,"Otro",10,0.08
+2006,"Olopa",6349,"Ladrillo cerámico",416,6.55
+2006,"Olopa",6349,"Ladrillo de cemento",187,2.95
+2006,"Olopa",6349,"Ladrillo de barro",10,0.16
+2006,"Olopa",6349,"Torta de cemento",834,13.14
+2006,"Olopa",6349,"Parqué o vinil",1,0.02
+2006,"Olopa",6349,"Madera",18,0.28
+2006,"Olopa",6349,"Tierra",4042,63.66
+2006,"Olopa",6349,"Otro",4,0.06
+2007,"Esquipulas",15478,"Ladrillo cerámico",4381,28.3
+2007,"Esquipulas",15478,"Ladrillo de cemento",1313,8.48
+2007,"Esquipulas",15478,"Ladrillo de barro",49,0.32
+2007,"Esquipulas",15478,"Torta de cemento",3570,23.06
+2007,"Esquipulas",15478,"Parqué o vinil",10,0.06
+2007,"Esquipulas",15478,"Madera",39,0.25
+2007,"Esquipulas",15478,"Tierra",2837,18.33
+2007,"Esquipulas",15478,"Otro",8,0.05
+2008,"Concepción las Minas",4869,"Ladrillo cerámico",871,17.89
+2008,"Concepción las Minas",4869,"Ladrillo de cemento",1182,24.28
+2008,"Concepción las Minas",4869,"Ladrillo de barro",28,0.58
+2008,"Concepción las Minas",4869,"Torta de cemento",698,14.34
+2008,"Concepción las Minas",4869,"Parqué o vinil",4,0.08
+2008,"Concepción las Minas",4869,"Madera",3,0.06
+2008,"Concepción las Minas",4869,"Tierra",300,6.16
+2008,"Concepción las Minas",4869,"Otro",1,0.02
+2009,"Quezaltepeque",8716,"Ladrillo cerámico",978,11.22
+2009,"Quezaltepeque",8716,"Ladrillo de cemento",1954,22.42
+2009,"Quezaltepeque",8716,"Ladrillo de barro",30,0.34
+2009,"Quezaltepeque",8716,"Torta de cemento",1462,16.77
+2009,"Quezaltepeque",8716,"Parqué o vinil",1,0.01
+2009,"Quezaltepeque",8716,"Madera",3,0.03
+2009,"Quezaltepeque",8716,"Tierra",2048,23.5
+2009,"Quezaltepeque",8716,"Otro",26,0.3
+2010,"San Jacinto",3302,"Ladrillo cerámico",314,9.51
+2010,"San Jacinto",3302,"Ladrillo de cemento",265,8.03
+2010,"San Jacinto",3302,"Ladrillo de barro",17,0.51
+2010,"San Jacinto",3302,"Torta de cemento",1107,33.53
+2010,"San Jacinto",3302,"Parqué o vinil",2,0.06
+2010,"San Jacinto",3302,"Madera",19,0.58
+2010,"San Jacinto",3302,"Tierra",1019,30.86
+2010,"San Jacinto",3302,"Otro",1,0.03
+2011,"Ipala",7719,"Ladrillo cerámico",1518,19.67
+2011,"Ipala",7719,"Ladrillo de cemento",1334,17.28
+2011,"Ipala",7719,"Ladrillo de barro",28,0.36
+2011,"Ipala",7719,"Torta de cemento",2033,26.34
+2011,"Ipala",7719,"Parqué o vinil",4,0.05
+2011,"Ipala",7719,"Madera",10,0.13
+2011,"Ipala",7719,"Tierra",732,9.48
+2011,"Ipala",7719,"Otro",2,0.03
+2101,"Jalapa",39015,"Ladrillo cerámico",5652,14.49
+2101,"Jalapa",39015,"Ladrillo de cemento",4306,11.04
+2101,"Jalapa",39015,"Ladrillo de barro",117,0.3
+2101,"Jalapa",39015,"Torta de cemento",6170,15.81
+2101,"Jalapa",39015,"Parqué o vinil",32,0.08
+2101,"Jalapa",39015,"Madera",182,0.47
+2101,"Jalapa",39015,"Tierra",15686,40.21
+2101,"Jalapa",39015,"Otro",112,0.29
+2102,"San Pedro Pinula",14640,"Ladrillo cerámico",1075,7.34
+2102,"San Pedro Pinula",14640,"Ladrillo de cemento",838,5.72
+2102,"San Pedro Pinula",14640,"Ladrillo de barro",61,0.42
+2102,"San Pedro Pinula",14640,"Torta de cemento",1679,11.47
+2102,"San Pedro Pinula",14640,"Parqué o vinil",12,0.08
+2102,"San Pedro Pinula",14640,"Madera",100,0.68
+2102,"San Pedro Pinula",14640,"Tierra",8140,55.6
+2102,"San Pedro Pinula",14640,"Otro",20,0.14
+2103,"San Luis Jilotepeque",7634,"Ladrillo cerámico",1200,15.72
+2103,"San Luis Jilotepeque",7634,"Ladrillo de cemento",1295,16.96
+2103,"San Luis Jilotepeque",7634,"Ladrillo de barro",90,1.18
+2103,"San Luis Jilotepeque",7634,"Torta de cemento",1273,16.68
+2103,"San Luis Jilotepeque",7634,"Parqué o vinil",5,0.07
+2103,"San Luis Jilotepeque",7634,"Madera",18,0.24
+2103,"San Luis Jilotepeque",7634,"Tierra",1978,25.91
+2103,"San Luis Jilotepeque",7634,"Otro",7,0.09
+2104,"San Manuel Chaparrón",2945,"Ladrillo cerámico",391,13.28
+2104,"San Manuel Chaparrón",2945,"Ladrillo de cemento",911,30.93
+2104,"San Manuel Chaparrón",2945,"Ladrillo de barro",26,0.88
+2104,"San Manuel Chaparrón",2945,"Torta de cemento",516,17.52
+2104,"San Manuel Chaparrón",2945,"Parqué o vinil",3,0.1
+2104,"San Manuel Chaparrón",2945,"Madera",8,0.27
+2104,"San Manuel Chaparrón",2945,"Tierra",330,11.21
+2104,"San Manuel Chaparrón",2945,"Otro",0,0
+2105,"San Carlos Alzatate",4095,"Ladrillo cerámico",200,4.88
+2105,"San Carlos Alzatate",4095,"Ladrillo de cemento",92,2.25
+2105,"San Carlos Alzatate",4095,"Ladrillo de barro",4,0.1
+2105,"San Carlos Alzatate",4095,"Torta de cemento",733,17.9
+2105,"San Carlos Alzatate",4095,"Parqué o vinil",7,0.17
+2105,"San Carlos Alzatate",4095,"Madera",60,1.47
+2105,"San Carlos Alzatate",4095,"Tierra",2404,58.71
+2105,"San Carlos Alzatate",4095,"Otro",8,0.2
+2106,"Monjas",8107,"Ladrillo cerámico",1607,19.82
+2106,"Monjas",8107,"Ladrillo de cemento",1976,24.37
+2106,"Monjas",8107,"Ladrillo de barro",38,0.47
+2106,"Monjas",8107,"Torta de cemento",1774,21.88
+2106,"Monjas",8107,"Parqué o vinil",10,0.12
+2106,"Monjas",8107,"Madera",13,0.16
+2106,"Monjas",8107,"Tierra",939,11.58
+2106,"Monjas",8107,"Otro",22,0.27
+2107,"Mataquescuintla",11682,"Ladrillo cerámico",1472,12.6
+2107,"Mataquescuintla",11682,"Ladrillo de cemento",880,7.53
+2107,"Mataquescuintla",11682,"Ladrillo de barro",60,0.51
+2107,"Mataquescuintla",11682,"Torta de cemento",3004,25.71
+2107,"Mataquescuintla",11682,"Parqué o vinil",5,0.04
+2107,"Mataquescuintla",11682,"Madera",27,0.23
+2107,"Mataquescuintla",11682,"Tierra",3669,31.41
+2107,"Mataquescuintla",11682,"Otro",9,0.08
+2201,"Jutiapa",38624,"Ladrillo cerámico",7703,19.94
+2201,"Jutiapa",38624,"Ladrillo de cemento",4994,12.93
+2201,"Jutiapa",38624,"Ladrillo de barro",217,0.56
+2201,"Jutiapa",38624,"Torta de cemento",9671,25.04
+2201,"Jutiapa",38624,"Parqué o vinil",117,0.3
+2201,"Jutiapa",38624,"Madera",115,0.3
+2201,"Jutiapa",38624,"Tierra",8905,23.06
+2201,"Jutiapa",38624,"Otro",41,0.11
+2202,"El Progreso",7303,"Ladrillo cerámico",2046,28.02
+2202,"El Progreso",7303,"Ladrillo de cemento",2182,29.88
+2202,"El Progreso",7303,"Ladrillo de barro",41,0.56
+2202,"El Progreso",7303,"Torta de cemento",1006,13.78
+2202,"El Progreso",7303,"Parqué o vinil",34,0.47
+2202,"El Progreso",7303,"Madera",1,0.01
+2202,"El Progreso",7303,"Tierra",269,3.68
+2202,"El Progreso",7303,"Otro",3,0.04
+2203,"Santa Catarina Mita",10080,"Ladrillo cerámico",1955,19.39
+2203,"Santa Catarina Mita",10080,"Ladrillo de cemento",2932,29.09
+2203,"Santa Catarina Mita",10080,"Ladrillo de barro",36,0.36
+2203,"Santa Catarina Mita",10080,"Torta de cemento",1644,16.31
+2203,"Santa Catarina Mita",10080,"Parqué o vinil",4,0.04
+2203,"Santa Catarina Mita",10080,"Madera",4,0.04
+2203,"Santa Catarina Mita",10080,"Tierra",865,8.58
+2203,"Santa Catarina Mita",10080,"Otro",4,0.04
+2204,"Agua Blanca",6084,"Ladrillo cerámico",1549,25.46
+2204,"Agua Blanca",6084,"Ladrillo de cemento",1173,19.28
+2204,"Agua Blanca",6084,"Ladrillo de barro",41,0.67
+2204,"Agua Blanca",6084,"Torta de cemento",1309,21.52
+2204,"Agua Blanca",6084,"Parqué o vinil",21,0.35
+2204,"Agua Blanca",6084,"Madera",7,0.12
+2204,"Agua Blanca",6084,"Tierra",228,3.75
+2204,"Agua Blanca",6084,"Otro",1,0.02
+2205,"Asunción Mita",15572,"Ladrillo cerámico",3428,22.01
+2205,"Asunción Mita",15572,"Ladrillo de cemento",3815,24.5
+2205,"Asunción Mita",15572,"Ladrillo de barro",249,1.6
+2205,"Asunción Mita",15572,"Torta de cemento",3328,21.37
+2205,"Asunción Mita",15572,"Parqué o vinil",153,0.98
+2205,"Asunción Mita",15572,"Madera",14,0.09
+2205,"Asunción Mita",15572,"Tierra",1376,8.84
+2205,"Asunción Mita",15572,"Otro",6,0.04
+2206,"Yupiltepeque",4724,"Ladrillo cerámico",521,11.03
+2206,"Yupiltepeque",4724,"Ladrillo de cemento",618,13.08
+2206,"Yupiltepeque",4724,"Ladrillo de barro",8,0.17
+2206,"Yupiltepeque",4724,"Torta de cemento",1301,27.54
+2206,"Yupiltepeque",4724,"Parqué o vinil",5,0.11
+2206,"Yupiltepeque",4724,"Madera",13,0.28
+2206,"Yupiltepeque",4724,"Tierra",1369,28.98
+2206,"Yupiltepeque",4724,"Otro",1,0.02
+2207,"Atescatempa",5916,"Ladrillo cerámico",1141,19.29
+2207,"Atescatempa",5916,"Ladrillo de cemento",1340,22.65
+2207,"Atescatempa",5916,"Ladrillo de barro",22,0.37
+2207,"Atescatempa",5916,"Torta de cemento",1285,21.72
+2207,"Atescatempa",5916,"Parqué o vinil",11,0.19
+2207,"Atescatempa",5916,"Madera",4,0.07
+2207,"Atescatempa",5916,"Tierra",1044,17.65
+2207,"Atescatempa",5916,"Otro",5,0.08
+2208,"Jerez",2315,"Ladrillo cerámico",370,15.98
+2208,"Jerez",2315,"Ladrillo de cemento",520,22.46
+2208,"Jerez",2315,"Ladrillo de barro",11,0.48
+2208,"Jerez",2315,"Torta de cemento",481,20.78
+2208,"Jerez",2315,"Parqué o vinil",1,0.04
+2208,"Jerez",2315,"Madera",10,0.43
+2208,"Jerez",2315,"Tierra",453,19.57
+2208,"Jerez",2315,"Otro",1,0.04
+2209,"El Adelanto",1717,"Ladrillo cerámico",163,9.49
+2209,"El Adelanto",1717,"Ladrillo de cemento",328,19.1
+2209,"El Adelanto",1717,"Ladrillo de barro",3,0.17
+2209,"El Adelanto",1717,"Torta de cemento",385,22.42
+2209,"El Adelanto",1717,"Parqué o vinil",2,0.12
+2209,"El Adelanto",1717,"Madera",2,0.12
+2209,"El Adelanto",1717,"Tierra",548,31.92
+2209,"El Adelanto",1717,"Otro",5,0.29
+2210,"Zapotitlán",2423,"Ladrillo cerámico",272,11.23
+2210,"Zapotitlán",2423,"Ladrillo de cemento",359,14.82
+2210,"Zapotitlán",2423,"Ladrillo de barro",18,0.74
+2210,"Zapotitlán",2423,"Torta de cemento",462,19.07
+2210,"Zapotitlán",2423,"Parqué o vinil",4,0.17
+2210,"Zapotitlán",2423,"Madera",18,0.74
+2210,"Zapotitlán",2423,"Tierra",896,36.98
+2210,"Zapotitlán",2423,"Otro",1,0.04
+2211,"Comapa",8048,"Ladrillo cerámico",902,11.21
+2211,"Comapa",8048,"Ladrillo de cemento",1212,15.06
+2211,"Comapa",8048,"Ladrillo de barro",54,0.67
+2211,"Comapa",8048,"Torta de cemento",2393,29.73
+2211,"Comapa",8048,"Parqué o vinil",9,0.11
+2211,"Comapa",8048,"Madera",26,0.32
+2211,"Comapa",8048,"Tierra",2300,28.58
+2211,"Comapa",8048,"Otro",17,0.21
+2212,"Jalpatagua",8774,"Ladrillo cerámico",1267,14.44
+2212,"Jalpatagua",8774,"Ladrillo de cemento",1874,21.36
+2212,"Jalpatagua",8774,"Ladrillo de barro",32,0.36
+2212,"Jalpatagua",8774,"Torta de cemento",2249,25.63
+2212,"Jalpatagua",8774,"Parqué o vinil",6,0.07
+2212,"Jalpatagua",8774,"Madera",9,0.1
+2212,"Jalpatagua",8774,"Tierra",1548,17.64
+2212,"Jalpatagua",8774,"Otro",9,0.1
+2213,"Conguaco",4888,"Ladrillo cerámico",390,7.98
+2213,"Conguaco",4888,"Ladrillo de cemento",300,6.14
+2213,"Conguaco",4888,"Ladrillo de barro",10,0.2
+2213,"Conguaco",4888,"Torta de cemento",1028,21.03
+2213,"Conguaco",4888,"Parqué o vinil",3,0.06
+2213,"Conguaco",4888,"Madera",21,0.43
+2213,"Conguaco",4888,"Tierra",2596,53.11
+2213,"Conguaco",4888,"Otro",1,0.02
+2214,"Moyuta",11393,"Ladrillo cerámico",1491,13.09
+2214,"Moyuta",11393,"Ladrillo de cemento",824,7.23
+2214,"Moyuta",11393,"Ladrillo de barro",44,0.39
+2214,"Moyuta",11393,"Torta de cemento",4154,36.46
+2214,"Moyuta",11393,"Parqué o vinil",19,0.17
+2214,"Moyuta",11393,"Madera",41,0.36
+2214,"Moyuta",11393,"Tierra",2803,24.6
+2214,"Moyuta",11393,"Otro",20,0.18
+2215,"Pasaco",2852,"Ladrillo cerámico",272,9.54
+2215,"Pasaco",2852,"Ladrillo de cemento",206,7.22
+2215,"Pasaco",2852,"Ladrillo de barro",19,0.67
+2215,"Pasaco",2852,"Torta de cemento",818,28.68
+2215,"Pasaco",2852,"Parqué o vinil",7,0.25
+2215,"Pasaco",2852,"Madera",11,0.39
+2215,"Pasaco",2852,"Tierra",799,28.02
+2215,"Pasaco",2852,"Otro",6,0.21
+2216,"San José Acatempa",4301,"Ladrillo cerámico",1037,24.11
+2216,"San José Acatempa",4301,"Ladrillo de cemento",474,11.02
+2216,"San José Acatempa",4301,"Ladrillo de barro",27,0.63
+2216,"San José Acatempa",4301,"Torta de cemento",1261,29.32
+2216,"San José Acatempa",4301,"Parqué o vinil",2,0.05
+2216,"San José Acatempa",4301,"Madera",8,0.19
+2216,"San José Acatempa",4301,"Tierra",720,16.74
+2216,"San José Acatempa",4301,"Otro",3,0.07
+2217,"Quesada",6493,"Ladrillo cerámico",1206,18.57
+2217,"Quesada",6493,"Ladrillo de cemento",813,12.52
+2217,"Quesada",6493,"Ladrillo de barro",49,0.75
+2217,"Quesada",6493,"Torta de cemento",2229,34.33
+2217,"Quesada",6493,"Parqué o vinil",8,0.12
+2217,"Quesada",6493,"Madera",12,0.18
+2217,"Quesada",6493,"Tierra",1069,16.46
+2217,"Quesada",6493,"Otro",12,0.18

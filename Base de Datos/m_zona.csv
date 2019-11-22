@@ -1,0 +1,681 @@
+"Código","Municipio","Total de personas","Zona","Cantidad de Personas","Porcentaje de Poblacion"
+101,"Guatemala",923392,"Urbano",923392,100
+101,"Guatemala",923392,"Rural",0,0
+102,"Santa Catarina Pinula",80582,"Urbano",70982,88.09
+102,"Santa Catarina Pinula",80582,"Rural",9600,11.91
+103,"San José Pinula",79844,"Urbano",67327,84.32
+103,"San José Pinula",79844,"Rural",12517,15.68
+104,"San José del Golfo",7229,"Urbano",2331,32.25
+104,"San José del Golfo",7229,"Rural",4898,67.75
+105,"Palencia",70973,"Urbano",31824,44.84
+105,"Palencia",70973,"Rural",39149,55.16
+106,"Chinautla",114752,"Urbano",104972,91.48
+106,"Chinautla",114752,"Rural",9780,8.52
+107,"San Pedro Ayampuc",58609,"Urbano",48727,83.14
+107,"San Pedro Ayampuc",58609,"Rural",9882,16.86
+108,"Mixco",465773,"Urbano",463019,99.41
+108,"Mixco",465773,"Rural",2754,0.59
+109,"San Pedro Sacatepéquez",51292,"Urbano",36932,72
+109,"San Pedro Sacatepéquez",51292,"Rural",14360,28
+110,"San Juan Sacatepéquez",218156,"Urbano",155965,71.49
+110,"San Juan Sacatepéquez",218156,"Rural",62191,28.51
+111,"San Raymundo",31605,"Urbano",15447,48.88
+111,"San Raymundo",31605,"Rural",16158,51.12
+112,"Chuarrancho",12638,"Urbano",7634,60.41
+112,"Chuarrancho",12638,"Rural",5004,39.59
+113,"Fraijanes",58922,"Urbano",44117,74.87
+113,"Fraijanes",58922,"Rural",14805,25.13
+114,"Amatitlán",116711,"Urbano",98176,84.12
+114,"Amatitlán",116711,"Rural",18535,15.88
+115,"Villa Nueva",433734,"Urbano",426316,98.29
+115,"Villa Nueva",433734,"Rural",7418,1.71
+116,"Villa Canales",155422,"Urbano",124680,80.22
+116,"Villa Canales",155422,"Rural",30742,19.78
+117,"San Miguel Petapa",135447,"Urbano",129124,95.33
+117,"San Miguel Petapa",135447,"Rural",6323,4.67
+201,"Guastatoya",24821,"Urbano",24821,100
+201,"Guastatoya",24821,"Rural",0,0
+202,"Morazán",12164,"Urbano",2581,21.22
+202,"Morazán",12164,"Rural",9583,78.78
+203,"San Agustín Acasaguastlán",45765,"Urbano",17728,38.74
+203,"San Agustín Acasaguastlán",45765,"Rural",28037,61.26
+204,"San Cristóbal Acasaguastlán",7199,"Urbano",2329,32.35
+204,"San Cristóbal Acasaguastlán",7199,"Rural",4870,67.65
+205,"El Jícaro",13128,"Urbano",6911,52.64
+205,"El Jícaro",13128,"Rural",6217,47.36
+206,"Sansare",13154,"Urbano",4727,35.94
+206,"Sansare",13154,"Rural",8427,64.06
+207,"Sanarate",39444,"Urbano",20976,53.18
+207,"Sanarate",39444,"Rural",18468,46.82
+208,"San Antonio la Paz",20957,"Urbano",11343,54.13
+208,"San Antonio la Paz",20957,"Rural",9614,45.87
+301,"Antigua Guatemala",46054,"Urbano",46054,100
+301,"Antigua Guatemala",46054,"Rural",0,0
+302,"Jocotenango",21657,"Urbano",19280,89.02
+302,"Jocotenango",21657,"Rural",2377,10.98
+303,"Pastores",17814,"Urbano",12621,70.85
+303,"Pastores",17814,"Rural",5193,29.15
+304,"Sumpango",37260,"Urbano",28488,76.46
+304,"Sumpango",37260,"Rural",8772,23.54
+305,"Santo Domingo Xenacoj",12402,"Urbano",10632,85.73
+305,"Santo Domingo Xenacoj",12402,"Rural",1770,14.27
+306,"Santiago Sacatepéquez",29238,"Urbano",24100,82.43
+306,"Santiago Sacatepéquez",29238,"Rural",5138,17.57
+307,"San Bartolomé Milpas Altas",7816,"Urbano",7816,100
+307,"San Bartolomé Milpas Altas",7816,"Rural",0,0
+308,"San Lucas Sacatepéquez",23369,"Urbano",20723,88.68
+308,"San Lucas Sacatepéquez",23369,"Rural",2646,11.32
+309,"Santa Lucía Milpas Altas",15570,"Urbano",12234,78.57
+309,"Santa Lucía Milpas Altas",15570,"Rural",3336,21.43
+310,"Magdalena Milpas Altas",11856,"Urbano",7841,66.14
+310,"Magdalena Milpas Altas",11856,"Rural",4015,33.86
+311,"Santa María de Jesús",21938,"Urbano",21795,99.35
+311,"Santa María de Jesús",21938,"Rural",143,0.65
+312,"Ciudad Vieja",33405,"Urbano",32802,98.19
+312,"Ciudad Vieja",33405,"Rural",603,1.81
+313,"San Miguel Dueñas",12696,"Urbano",10892,85.79
+313,"San Miguel Dueñas",12696,"Rural",1804,14.21
+314,"San Juan Alotenango",23986,"Urbano",23358,97.38
+314,"San Juan Alotenango",23986,"Rural",628,2.62
+315,"San Antonio Aguas Calientes",11347,"Urbano",9669,85.21
+315,"San Antonio Aguas Calientes",11347,"Rural",1678,14.79
+316,"Santa Catarina Barahona",4061,"Urbano",4061,100
+316,"Santa Catarina Barahona",4061,"Rural",0,0
+401,"Chimaltenango",96985,"Urbano",96985,100
+401,"Chimaltenango",96985,"Rural",0,0
+402,"San José Poaquil",26845,"Urbano",9726,36.23
+402,"San José Poaquil",26845,"Rural",17119,63.77
+403,"San Martín Jilotepeque",73469,"Urbano",10812,14.72
+403,"San Martín Jilotepeque",73469,"Rural",62657,85.28
+404,"San Juan Comalapa",48597,"Urbano",32312,66.49
+404,"San Juan Comalapa",48597,"Rural",16285,33.51
+405,"Santa Apolonia",18540,"Urbano",2314,12.48
+405,"Santa Apolonia",18540,"Rural",16226,87.52
+406,"Tecpán Guatemala",91927,"Urbano",34519,37.55
+406,"Tecpán Guatemala",91927,"Rural",57408,62.45
+407,"Patzún",58240,"Urbano",26632,45.73
+407,"Patzún",58240,"Rural",31608,54.27
+408,"San Miguel Pochuta",8790,"Urbano",4272,48.6
+408,"San Miguel Pochuta",8790,"Rural",4518,51.4
+409,"Patzicía",33207,"Urbano",21249,63.99
+409,"Patzicía",33207,"Rural",11958,36.01
+410,"Santa Cruz Balanyá",9479,"Urbano",1545,16.3
+410,"Santa Cruz Balanyá",9479,"Rural",7934,83.7
+411,"Acatenango",23228,"Urbano",12136,52.25
+411,"Acatenango",23228,"Rural",11092,47.75
+412,"San Pedro Yepocapa",34948,"Urbano",17021,48.7
+412,"San Pedro Yepocapa",34948,"Rural",17927,51.3
+413,"San Andrés Itzapa",32083,"Urbano",24992,77.9
+413,"San Andrés Itzapa",32083,"Rural",7091,22.1
+414,"Parramos",15924,"Urbano",11970,75.17
+414,"Parramos",15924,"Rural",3954,24.83
+415,"Zaragoza",24022,"Urbano",11176,46.52
+415,"Zaragoza",24022,"Rural",12846,53.48
+416,"El Tejar",19492,"Urbano",15639,80.23
+416,"El Tejar",19492,"Rural",3853,19.77
+501,"Escuintla",156313,"Urbano",156313,100
+501,"Escuintla",156313,"Rural",0,0
+502,"Santa Lucía Cotzumalguapa",112780,"Urbano",58877,52.21
+502,"Santa Lucía Cotzumalguapa",112780,"Rural",53903,47.79
+503,"La Democracia",23017,"Urbano",13400,58.22
+503,"La Democracia",23017,"Rural",9617,41.78
+504,"Siquinalá",22968,"Urbano",18150,79.02
+504,"Siquinalá",22968,"Rural",4818,20.98
+505,"Masagua",45323,"Urbano",16797,37.06
+505,"Masagua",45323,"Rural",28526,62.94
+506,"Tiquisate",57292,"Urbano",29193,50.95
+506,"Tiquisate",57292,"Rural",28099,49.05
+507,"La Gomera",46666,"Urbano",26533,56.86
+507,"La Gomera",46666,"Rural",20133,43.14
+508,"Guanagazapa",15958,"Urbano",3738,23.42
+508,"Guanagazapa",15958,"Rural",12220,76.58
+509,"San José",62801,"Urbano",23887,38.04
+509,"San José",62801,"Rural",38914,61.96
+510,"Iztapa",18342,"Urbano",4900,26.71
+510,"Iztapa",18342,"Rural",13442,73.29
+511,"Palín",65873,"Urbano",62095,94.26
+511,"Palín",65873,"Rural",3778,5.74
+512,"San Vicente Pacaya",16705,"Urbano",8942,53.53
+512,"San Vicente Pacaya",16705,"Rural",7763,46.47
+513,"Nueva Concepción",72909,"Urbano",15747,21.6
+513,"Nueva Concepción",72909,"Rural",57162,78.4
+514,"Sipacate",16234,"Urbano",9959,61.35
+514,"Sipacate",16234,"Rural",6275,38.65
+601,"Cuilapa",41359,"Urbano",41359,100
+601,"Cuilapa",41359,"Rural",0,0
+602,"Barberena",58276,"Urbano",47093,80.81
+602,"Barberena",58276,"Rural",11183,19.19
+603,"Santa Rosa de Lima",19702,"Urbano",3596,18.25
+603,"Santa Rosa de Lima",19702,"Rural",16106,81.75
+604,"Casillas",24956,"Urbano",7698,30.85
+604,"Casillas",24956,"Rural",17258,69.15
+605,"San Rafael las Flores",12641,"Urbano",3610,28.56
+605,"San Rafael las Flores",12641,"Rural",9031,71.44
+606,"Oratorio",24954,"Urbano",10068,40.35
+606,"Oratorio",24954,"Rural",14886,59.65
+607,"San Juan Tecuaco",10122,"Urbano",2966,29.3
+607,"San Juan Tecuaco",10122,"Rural",7156,70.7
+608,"Chiquimulilla",53727,"Urbano",18848,35.08
+608,"Chiquimulilla",53727,"Rural",34879,64.92
+609,"Taxisco",29846,"Urbano",9130,30.59
+609,"Taxisco",29846,"Rural",20716,69.41
+610,"Santa María Ixhuatán",23801,"Urbano",4619,19.41
+610,"Santa María Ixhuatán",23801,"Rural",19182,80.59
+611,"Guazacapán",18855,"Urbano",12195,64.68
+611,"Guazacapán",18855,"Rural",6660,35.32
+612,"Santa Cruz Naranjo",16385,"Urbano",5768,35.2
+612,"Santa Cruz Naranjo",16385,"Rural",10617,64.8
+613,"Pueblo Nuevo Viñas",25529,"Urbano",3727,14.6
+613,"Pueblo Nuevo Viñas",25529,"Rural",21802,85.4
+614,"Nueva Santa Rosa",36454,"Urbano",13535,37.13
+614,"Nueva Santa Rosa",36454,"Rural",22919,62.87
+701,"Sololá",88612,"Urbano",88612,100
+701,"Sololá",88612,"Rural",0,0
+702,"San José Chacayá",4068,"Urbano",1013,24.9
+702,"San José Chacayá",4068,"Rural",3055,75.1
+703,"Santa María Visitación",2370,"Urbano",1579,66.62
+703,"Santa María Visitación",2370,"Rural",791,33.38
+704,"Santa Lucía Utatlán",21284,"Urbano",1356,6.37
+704,"Santa Lucía Utatlán",21284,"Rural",19928,93.63
+705,"Nahualá",75430,"Urbano",23635,31.33
+705,"Nahualá",75430,"Rural",51795,68.67
+706,"Santa Catarina Ixtahuacán",56981,"Urbano",19560,34.33
+706,"Santa Catarina Ixtahuacán",56981,"Rural",37421,65.67
+707,"Santa Clara la Laguna",9405,"Urbano",6707,71.31
+707,"Santa Clara la Laguna",9405,"Rural",2698,28.69
+708,"Concepción",6601,"Urbano",4024,60.96
+708,"Concepción",6601,"Rural",2577,39.04
+709,"San Andrés Semetabaj",13142,"Urbano",3325,25.3
+709,"San Andrés Semetabaj",13142,"Rural",9817,74.7
+710,"Panajachel",15077,"Urbano",13767,91.31
+710,"Panajachel",15077,"Rural",1310,8.69
+711,"Santa Catarina Palopó",3924,"Urbano",3297,84.02
+711,"Santa Catarina Palopó",3924,"Rural",627,15.98
+712,"San Antonio Palopó",14437,"Urbano",7062,48.92
+712,"San Antonio Palopó",14437,"Rural",7375,51.08
+713,"San Lucas Tolimán",29772,"Urbano",17101,57.44
+713,"San Lucas Tolimán",29772,"Rural",12671,42.56
+714,"Santa Cruz la Laguna",5820,"Urbano",1723,29.6
+714,"Santa Cruz la Laguna",5820,"Rural",4097,70.4
+715,"San Pablo la Laguna",7299,"Urbano",7299,100
+715,"San Pablo la Laguna",7299,"Rural",0,0
+716,"San Marcos la Laguna",2617,"Urbano",2617,100
+716,"San Marcos la Laguna",2617,"Rural",0,0
+717,"San Juan la Laguna",12162,"Urbano",8051,66.2
+717,"San Juan la Laguna",12162,"Rural",4111,33.8
+718,"San Pedro la Laguna",10705,"Urbano",10705,100
+718,"San Pedro la Laguna",10705,"Rural",0,0
+719,"Santiago Atitlán",41877,"Urbano",38100,90.98
+719,"Santiago Atitlán",41877,"Rural",3777,9.02
+801,"Totonicapán",103952,"Urbano",103952,100
+801,"Totonicapán",103952,"Rural",0,0
+802,"San Cristóbal Totonicapán",36119,"Urbano",12589,34.85
+802,"San Cristóbal Totonicapán",36119,"Rural",23530,65.15
+803,"San Francisco el Alto",57894,"Urbano",38995,67.36
+803,"San Francisco el Alto",57894,"Rural",18899,32.64
+804,"San Andrés Xecul",26984,"Urbano",15074,55.86
+804,"San Andrés Xecul",26984,"Rural",11910,44.14
+805,"Momostenango",105617,"Urbano",15601,14.77
+805,"Momostenango",105617,"Rural",90016,85.23
+806,"Santa María Chiquimula",55013,"Urbano",15919,28.94
+806,"Santa María Chiquimula",55013,"Rural",39094,71.06
+807,"Santa Lucía la Reforma",22378,"Urbano",1146,5.12
+807,"Santa Lucía la Reforma",22378,"Rural",21232,94.88
+808,"San Bartolo Aguas Calientes",10612,"Urbano",1662,15.66
+808,"San Bartolo Aguas Calientes",10612,"Rural",8950,84.34
+901,"Quetzaltenango",180706,"Urbano",180706,100
+901,"Quetzaltenango",180706,"Rural",0,0
+902,"Salcajá",19434,"Urbano",17042,87.69
+902,"Salcajá",19434,"Rural",2392,12.31
+903,"San Juan Olintepeque",35060,"Urbano",31545,89.97
+903,"San Juan Olintepeque",35060,"Rural",3515,10.03
+904,"San Carlos Sija",30224,"Urbano",4766,15.77
+904,"San Carlos Sija",30224,"Rural",25458,84.23
+905,"Sibilia",8407,"Urbano",830,9.87
+905,"Sibilia",8407,"Rural",7577,90.13
+906,"Cabricán",23033,"Urbano",6998,30.38
+906,"Cabricán",23033,"Rural",16035,69.62
+907,"Cajolá",14948,"Urbano",14948,100
+907,"Cajolá",14948,"Rural",0,0
+908,"San Miguel Siguilá",7889,"Urbano",4662,59.09
+908,"San Miguel Siguilá",7889,"Rural",3227,40.91
+909,"San Juan Ostuncalco",51828,"Urbano",20763,40.06
+909,"San Juan Ostuncalco",51828,"Rural",31065,59.94
+910,"San Mateo",7895,"Urbano",7719,97.77
+910,"San Mateo",7895,"Rural",176,2.23
+911,"Concepción Chiquirichapa",17342,"Urbano",9879,56.97
+911,"Concepción Chiquirichapa",17342,"Rural",7463,43.03
+912,"San Martín Sacatepéquez",29373,"Urbano",4457,15.17
+912,"San Martín Sacatepéquez",29373,"Rural",24916,84.83
+913,"Almolonga",15724,"Urbano",12299,78.22
+913,"Almolonga",15724,"Rural",3425,21.78
+914,"Cantel",42142,"Urbano",35825,85.01
+914,"Cantel",42142,"Rural",6317,14.99
+915,"Huitán",13450,"Urbano",4707,35
+915,"Huitán",13450,"Rural",8743,65
+916,"Zunil",14118,"Urbano",10792,76.44
+916,"Zunil",14118,"Rural",3326,23.56
+917,"Colomba Costa Cuca",47544,"Urbano",28655,60.27
+917,"Colomba Costa Cuca",47544,"Rural",18889,39.73
+918,"San Francisco la Unión",7939,"Urbano",3375,42.51
+918,"San Francisco la Unión",7939,"Rural",4564,57.49
+919,"El Palmar",29132,"Urbano",19115,65.62
+919,"El Palmar",29132,"Rural",10017,34.38
+920,"Coatepeque",105415,"Urbano",37330,35.41
+920,"Coatepeque",105415,"Rural",68085,64.59
+921,"Génova",37497,"Urbano",4731,12.62
+921,"Génova",37497,"Rural",32766,87.38
+922,"Flores Costa Cuca",21630,"Urbano",9008,41.65
+922,"Flores Costa Cuca",21630,"Rural",12622,58.35
+923,"La Esperanza",22166,"Urbano",19724,88.98
+923,"La Esperanza",22166,"Rural",2442,11.02
+924,"Palestina de los Altos",16205,"Urbano",1958,12.08
+924,"Palestina de los Altos",16205,"Rural",14247,87.92
+1001,"Mazatenango",77431,"Urbano",77431,100
+1001,"Mazatenango",77431,"Rural",0,0
+1002,"Cuyotenango",33436,"Urbano",8332,24.92
+1002,"Cuyotenango",33436,"Rural",25104,75.08
+1003,"San Francisco Zapotitlán",22533,"Urbano",18468,81.96
+1003,"San Francisco Zapotitlán",22533,"Rural",4065,18.04
+1004,"San Bernardino",15849,"Urbano",3961,24.99
+1004,"San Bernardino",15849,"Rural",11888,75.01
+1005,"San José el Ídolo",10212,"Urbano",3049,29.86
+1005,"San José el Ídolo",10212,"Rural",7163,70.14
+1006,"Santo Domingo Suchitepéquez",42291,"Urbano",7578,17.92
+1006,"Santo Domingo Suchitepéquez",42291,"Rural",34713,82.08
+1007,"San Lorenzo",13282,"Urbano",4663,35.11
+1007,"San Lorenzo",13282,"Rural",8619,64.89
+1008,"Samayac",24790,"Urbano",9681,39.05
+1008,"Samayac",24790,"Rural",15109,60.95
+1009,"San Pablo Jocopilas",20433,"Urbano",16872,82.57
+1009,"San Pablo Jocopilas",20433,"Rural",3561,17.43
+1010,"San Antonio Suchitepéquez",59184,"Urbano",13666,23.09
+1010,"San Antonio Suchitepéquez",59184,"Rural",45518,76.91
+1011,"San Miguel Panán",10320,"Urbano",4885,47.34
+1011,"San Miguel Panán",10320,"Rural",5435,52.66
+1012,"San Gabriel",7383,"Urbano",6599,89.38
+1012,"San Gabriel",7383,"Rural",784,10.62
+1013,"Chicacao",60735,"Urbano",26309,43.32
+1013,"Chicacao",60735,"Rural",34426,56.68
+1014,"Patulul",40683,"Urbano",11343,27.88
+1014,"Patulul",40683,"Rural",29340,72.12
+1015,"Santa Bárbara",26346,"Urbano",17172,65.18
+1015,"Santa Bárbara",26346,"Rural",9174,34.82
+1016,"San Juan Bautista",7826,"Urbano",3788,48.4
+1016,"San Juan Bautista",7826,"Rural",4038,51.6
+1017,"Santo Tomas la Unión",11698,"Urbano",4365,37.31
+1017,"Santo Tomas la Unión",11698,"Rural",7333,62.69
+1018,"Zunilito",8280,"Urbano",4457,53.83
+1018,"Zunilito",8280,"Rural",3823,46.17
+1019,"Pueblo Nuevo",11315,"Urbano",3404,30.08
+1019,"Pueblo Nuevo",11315,"Rural",7911,69.92
+1020,"Río Bravo",27606,"Urbano",15391,55.75
+1020,"Río Bravo",27606,"Rural",12215,44.25
+1021,"San José La Máquina",23062,"Urbano",4775,20.71
+1021,"San José La Máquina",23062,"Rural",18287,79.29
+1101,"Retalhuleu",90505,"Urbano",90505,100
+1101,"Retalhuleu",90505,"Rural",0,0
+1102,"San Sebastián",29167,"Urbano",9362,32.1
+1102,"San Sebastián",29167,"Rural",19805,67.9
+1103,"Santa Cruz Muluá",13545,"Urbano",4674,34.51
+1103,"Santa Cruz Muluá",13545,"Rural",8871,65.49
+1104,"San Martín Zapotitlán",12083,"Urbano",3751,31.04
+1104,"San Martín Zapotitlán",12083,"Rural",8332,68.96
+1105,"San Felipe",24446,"Urbano",17360,71.01
+1105,"San Felipe",24446,"Rural",7086,28.99
+1106,"San Andrés Villa Seca",47820,"Urbano",11763,24.6
+1106,"San Andrés Villa Seca",47820,"Rural",36057,75.4
+1107,"Champerico",32815,"Urbano",9941,30.29
+1107,"Champerico",32815,"Rural",22874,69.71
+1108,"Nuevo San Carlos",39565,"Urbano",22657,57.27
+1108,"Nuevo San Carlos",39565,"Rural",16908,42.73
+1109,"El Asintal",36882,"Urbano",17388,47.14
+1109,"El Asintal",36882,"Rural",19494,52.86
+1201,"San Marcos",47063,"Urbano",47063,100
+1201,"San Marcos",47063,"Rural",0,0
+1202,"San Pedro Sacatepéquez",79158,"Urbano",49589,62.65
+1202,"San Pedro Sacatepéquez",79158,"Rural",29569,37.35
+1203,"San Antonio Sacatepéquez",19100,"Urbano",1702,8.91
+1203,"San Antonio Sacatepéquez",19100,"Rural",17398,91.09
+1204,"Comitancillo",59489,"Urbano",9034,15.19
+1204,"Comitancillo",59489,"Rural",50455,84.81
+1205,"San Miguel Ixtahuacán",47301,"Urbano",3376,7.14
+1205,"San Miguel Ixtahuacán",47301,"Rural",43925,92.86
+1206,"Concepción Tutuapa",68148,"Urbano",6006,8.81
+1206,"Concepción Tutuapa",68148,"Rural",62142,91.19
+1207,"Tacaná",75788,"Urbano",8725,11.51
+1207,"Tacaná",75788,"Rural",67063,88.49
+1208,"Sibinal",15733,"Urbano",2517,16
+1208,"Sibinal",15733,"Rural",13216,84
+1209,"Tajumulco",50907,"Urbano",717,1.41
+1209,"Tajumulco",50907,"Rural",50190,98.59
+1210,"Tejutla",38669,"Urbano",4437,11.47
+1210,"Tejutla",38669,"Rural",34232,88.53
+1211,"San Rafael Pie de la Cuesta",17139,"Urbano",3800,22.17
+1211,"San Rafael Pie de la Cuesta",17139,"Rural",13339,77.83
+1212,"Nuevo Progreso",30067,"Urbano",2704,8.99
+1212,"Nuevo Progreso",30067,"Rural",27363,91.01
+1213,"El Tumbador",44395,"Urbano",8856,19.95
+1213,"El Tumbador",44395,"Rural",35539,80.05
+1214,"San José el Rodeo",17881,"Urbano",2356,13.18
+1214,"San José el Rodeo",17881,"Rural",15525,86.82
+1215,"Malacatán",92816,"Urbano",8689,9.36
+1215,"Malacatán",92816,"Rural",84127,90.64
+1216,"Catarina",30014,"Urbano",3407,11.35
+1216,"Catarina",30014,"Rural",26607,88.65
+1217,"Ayutla",37049,"Urbano",23574,63.63
+1217,"Ayutla",37049,"Rural",13475,36.37
+1218,"Ocós",10841,"Urbano",4417,40.74
+1218,"Ocós",10841,"Rural",6424,59.26
+1219,"San Pablo",48937,"Urbano",16768,34.26
+1219,"San Pablo",48937,"Rural",32169,65.74
+1220,"El Quetzal",23511,"Urbano",10513,44.72
+1220,"El Quetzal",23511,"Rural",12998,55.28
+1221,"La Reforma",17918,"Urbano",3850,21.49
+1221,"La Reforma",17918,"Rural",14068,78.51
+1222,"Pajapita",21725,"Urbano",6817,31.38
+1222,"Pajapita",21725,"Rural",14908,68.62
+1223,"Ixchiguán",22375,"Urbano",1527,6.82
+1223,"Ixchiguán",22375,"Rural",20848,93.18
+1224,"San José Ojetenam",19009,"Urbano",1689,8.89
+1224,"San José Ojetenam",19009,"Rural",17320,91.11
+1225,"San Cristóbal Cucho",16619,"Urbano",5487,33.02
+1225,"San Cristóbal Cucho",16619,"Rural",11132,66.98
+1226,"Sipacapa",20178,"Urbano",1879,9.31
+1226,"Sipacapa",20178,"Rural",18299,90.69
+1227,"Esquipulas Palo Gordo",12892,"Urbano",3952,30.65
+1227,"Esquipulas Palo Gordo",12892,"Rural",8940,69.35
+1228,"Río Blanco",5318,"Urbano",1001,18.82
+1228,"Río Blanco",5318,"Rural",4317,81.18
+1229,"San Lorenzo",13125,"Urbano",3660,27.89
+1229,"San Lorenzo",13125,"Rural",9465,72.11
+1230,"La Blanca",29112,"Urbano",13921,47.82
+1230,"La Blanca",29112,"Rural",15191,52.18
+1301,"Huehuetenango",117818,"Urbano",117818,100
+1301,"Huehuetenango",117818,"Rural",0,0
+1302,"Chiantla",87447,"Urbano",7208,8.24
+1302,"Chiantla",87447,"Rural",80239,91.76
+1303,"Malacatancito",19155,"Urbano",835,4.36
+1303,"Malacatancito",19155,"Rural",18320,95.64
+1304,"Cuilco",60395,"Urbano",2191,3.63
+1304,"Cuilco",60395,"Rural",58204,96.37
+1305,"Nentón",45679,"Urbano",18606,40.73
+1305,"Nentón",45679,"Rural",27073,59.27
+1306,"San Pedro Necta",38510,"Urbano",4213,10.94
+1306,"San Pedro Necta",38510,"Rural",34297,89.06
+1307,"Jacaltenango",37171,"Urbano",22533,60.62
+1307,"Jacaltenango",37171,"Rural",14638,39.38
+1308,"San Pedro Soloma",49030,"Urbano",14166,28.89
+1308,"San Pedro Soloma",49030,"Rural",34864,71.11
+1309,"San Ildefonso Ixtahuacán",44424,"Urbano",10875,24.48
+1309,"San Ildefonso Ixtahuacán",44424,"Rural",33549,75.52
+1310,"Santa Bárbara",33608,"Urbano",1133,3.37
+1310,"Santa Bárbara",33608,"Rural",32475,96.63
+1311,"La Libertad",38234,"Urbano",6216,16.26
+1311,"La Libertad",38234,"Rural",32018,83.74
+1312,"La Democracia",55434,"Urbano",23146,41.75
+1312,"La Democracia",55434,"Rural",32288,58.25
+1313,"San Miguel Acatán",27128,"Urbano",5850,21.56
+1313,"San Miguel Acatán",27128,"Rural",21278,78.44
+1314,"San Rafael La Independencia",14149,"Urbano",1301,9.19
+1314,"San Rafael La Independencia",14149,"Rural",12848,90.81
+1315,"Todos Santos Cuchumatán",30186,"Urbano",578,1.91
+1315,"Todos Santos Cuchumatán",30186,"Rural",29608,98.09
+1316,"San Juan Atitán",19418,"Urbano",4263,21.95
+1316,"San Juan Atitán",19418,"Rural",15155,78.05
+1317,"Santa Eulalia",39025,"Urbano",3417,8.76
+1317,"Santa Eulalia",39025,"Rural",35608,91.24
+1318,"San Mateo Ixtatán",43810,"Urbano",15090,34.44
+1318,"San Mateo Ixtatán",43810,"Rural",28720,65.56
+1319,"Colotenango",34834,"Urbano",5132,14.73
+1319,"Colotenango",34834,"Rural",29702,85.27
+1320,"San Sebastián Huehuetenango",32608,"Urbano",3517,10.79
+1320,"San Sebastián Huehuetenango",32608,"Rural",29091,89.21
+1321,"Tectitán",10830,"Urbano",888,8.2
+1321,"Tectitán",10830,"Rural",9942,91.8
+1322,"Concepción Huista",18915,"Urbano",7243,38.29
+1322,"Concepción Huista",18915,"Rural",11672,61.71
+1323,"San Juan Ixcoy",23204,"Urbano",2330,10.04
+1323,"San Juan Ixcoy",23204,"Rural",20874,89.96
+1324,"San Antonio Huista",16697,"Urbano",6132,36.73
+1324,"San Antonio Huista",16697,"Rural",10565,63.27
+1325,"San Sebastián Coatán",20905,"Urbano",989,4.73
+1325,"San Sebastián Coatán",20905,"Rural",19916,95.27
+1326,"Santa Cruz Barillas",100849,"Urbano",17166,17.02
+1326,"Santa Cruz Barillas",100849,"Rural",83683,82.98
+1327,"Aguacatán",49607,"Urbano",8084,16.3
+1327,"Aguacatán",49607,"Rural",41523,83.7
+1328,"San Rafael Petzal",11271,"Urbano",5112,45.36
+1328,"San Rafael Petzal",11271,"Rural",6159,54.64
+1329,"San Gaspar Ixchil",8142,"Urbano",834,10.24
+1329,"San Gaspar Ixchil",8142,"Rural",7308,89.76
+1330,"Santiago Chimaltenango",10507,"Urbano",5841,55.59
+1330,"Santiago Chimaltenango",10507,"Rural",4666,44.41
+1331,"Santa Ana Huista",9413,"Urbano",237,2.52
+1331,"Santa Ana Huista",9413,"Rural",9176,97.48
+1332,"Unión Cantinil",15900,"Urbano",1514,9.52
+1332,"Unión Cantinil",15900,"Rural",14386,90.48
+1333,"Petatán",6366,"Urbano",2839,44.6
+1333,"Petatán",6366,"Rural",3527,55.4
+1401,"Santa Cruz del Quiché",78279,"Urbano",78279,100
+1401,"Santa Cruz del Quiché",78279,"Rural",0,0
+1402,"Chiché",29646,"Urbano",4565,15.4
+1402,"Chiché",29646,"Rural",25081,84.6
+1403,"Chinique",11382,"Urbano",2038,17.91
+1403,"Chinique",11382,"Rural",9344,82.09
+1404,"Zacualpa",32750,"Urbano",5603,17.11
+1404,"Zacualpa",32750,"Rural",27147,82.89
+1405,"Chajul",46658,"Urbano",24247,51.97
+1405,"Chajul",46658,"Rural",22411,48.03
+1406,"Santo Tomás Chichicastenango",141567,"Urbano",71394,50.43
+1406,"Santo Tomás Chichicastenango",141567,"Rural",70173,49.57
+1407,"Patzité",6144,"Urbano",987,16.06
+1407,"Patzité",6144,"Rural",5157,83.94
+1408,"San Antonio Ilotenango",25590,"Urbano",4988,19.49
+1408,"San Antonio Ilotenango",25590,"Rural",20602,80.51
+1409,"San Pedro Jocopilas",31950,"Urbano",1096,3.43
+1409,"San Pedro Jocopilas",31950,"Rural",30854,96.57
+1410,"Cunén",41455,"Urbano",7903,19.06
+1410,"Cunén",41455,"Rural",33552,80.94
+1411,"San Juan Cotzal",31532,"Urbano",14032,44.5
+1411,"San Juan Cotzal",31532,"Rural",17500,55.5
+1412,"Joyabaj",82369,"Urbano",15451,18.76
+1412,"Joyabaj",82369,"Rural",66918,81.24
+1413,"Santa María Nebaj",72686,"Urbano",31935,43.94
+1413,"Santa María Nebaj",72686,"Rural",40751,56.06
+1414,"San Andrés Sajcabajá",24981,"Urbano",2816,11.27
+1414,"San Andrés Sajcabajá",24981,"Rural",22165,88.73
+1415,"San Miguel Uspantán",65872,"Urbano",6664,10.12
+1415,"San Miguel Uspantán",65872,"Rural",59208,89.88
+1416,"Sacapulas",52620,"Urbano",12225,23.23
+1416,"Sacapulas",52620,"Rural",40395,76.77
+1417,"San Bartolomé Jocotenango",13568,"Urbano",2143,15.79
+1417,"San Bartolomé Jocotenango",13568,"Rural",11425,84.21
+1418,"Canillá",12172,"Urbano",2489,20.45
+1418,"Canillá",12172,"Rural",9683,79.55
+1419,"Chicamán",39731,"Urbano",2920,7.35
+1419,"Chicamán",39731,"Rural",36811,92.65
+1420,"Playa Grande Ixcán",99470,"Urbano",12710,12.78
+1420,"Playa Grande Ixcán",99470,"Rural",86760,87.22
+1421,"Pachalum",8839,"Urbano",2084,23.58
+1421,"Pachalum",8839,"Rural",6755,76.42
+1501,"Salamá",65275,"Urbano",65275,100
+1501,"Salamá",65275,"Rural",0,0
+1502,"San Miguel Chicaj",33121,"Urbano",7609,22.97
+1502,"San Miguel Chicaj",33121,"Rural",25512,77.03
+1503,"Rabinal",40797,"Urbano",15157,37.15
+1503,"Rabinal",40797,"Rural",25640,62.85
+1504,"Cubulco",54869,"Urbano",10681,19.47
+1504,"Cubulco",54869,"Rural",44188,80.53
+1505,"Granados",13595,"Urbano",1101,8.1
+1505,"Granados",13595,"Rural",12494,91.9
+1506,"Santa Cruz El Chol",9538,"Urbano",2027,21.25
+1506,"Santa Cruz El Chol",9538,"Rural",7511,78.75
+1507,"San Jerónimo",25459,"Urbano",10530,41.36
+1507,"San Jerónimo",25459,"Rural",14929,58.64
+1508,"Purulhá",56822,"Urbano",7901,13.9
+1508,"Purulhá",56822,"Rural",48921,86.1
+1601,"Cobán",212421,"Urbano",212047,99.82
+1601,"Cobán",212421,"Rural",374,0.18
+1602,"Santa Cruz Verapaz",32042,"Urbano",8630,26.93
+1602,"Santa Cruz Verapaz",32042,"Rural",23412,73.07
+1603,"San Cristóbal Verapaz",68819,"Urbano",20961,30.46
+1603,"San Cristóbal Verapaz",68819,"Rural",47858,69.54
+1604,"Tactic",38052,"Urbano",15213,39.98
+1604,"Tactic",38052,"Rural",22839,60.02
+1605,"Tamahú",19984,"Urbano",3910,19.57
+1605,"Tamahú",19984,"Rural",16074,80.43
+1606,"San Miguel Tucurú",43473,"Urbano",4064,9.35
+1606,"San Miguel Tucurú",43473,"Rural",39409,90.65
+1607,"Panzós",71846,"Urbano",22068,30.72
+1607,"Panzós",71846,"Rural",49778,69.28
+1608,"Senahú",91974,"Urbano",12084,13.14
+1608,"Senahú",91974,"Rural",79890,86.86
+1609,"San Pedro Carchá",235275,"Urbano",16353,6.95
+1609,"San Pedro Carchá",235275,"Rural",218922,93.05
+1610,"San Juan Chamelco",57456,"Urbano",13264,23.09
+1610,"San Juan Chamelco",57456,"Rural",44192,76.91
+1611,"San Agustín Lanquín",24099,"Urbano",2969,12.32
+1611,"San Agustín Lanquín",24099,"Rural",21130,87.68
+1612,"Santa María Cahabón",64911,"Urbano",3492,5.38
+1612,"Santa María Cahabón",64911,"Rural",61419,94.62
+1613,"Chisec",84553,"Urbano",9884,11.69
+1613,"Chisec",84553,"Rural",74669,88.31
+1614,"Chahal",26644,"Urbano",4244,15.93
+1614,"Chahal",26644,"Rural",22400,84.07
+1615,"Fray Bartolomé de las Casas",66141,"Urbano",3935,5.95
+1615,"Fray Bartolomé de las Casas",66141,"Rural",62206,94.05
+1616,"Santa Catalina La Tinta",40516,"Urbano",20552,50.73
+1616,"Santa Catalina La Tinta",40516,"Rural",19964,49.27
+1617,"Raxruhá",36832,"Urbano",6038,16.39
+1617,"Raxruhá",36832,"Rural",30794,83.61
+1701,"Flores",38186,"Urbano",38186,100
+1701,"Flores",38186,"Rural",0,0
+1702,"San José",6989,"Urbano",1586,22.69
+1702,"San José",6989,"Rural",5403,77.31
+1703,"San Benito",43841,"Urbano",34788,79.35
+1703,"San Benito",43841,"Rural",9053,20.65
+1704,"San Andrés",32878,"Urbano",12516,38.07
+1704,"San Andrés",32878,"Rural",20362,61.93
+1705,"La Libertad",71939,"Urbano",23820,33.11
+1705,"La Libertad",71939,"Rural",48119,66.89
+1706,"San Francisco",15371,"Urbano",9298,60.49
+1706,"San Francisco",15371,"Rural",6073,39.51
+1707,"Santa Ana",21970,"Urbano",10612,48.3
+1707,"Santa Ana",21970,"Rural",11358,51.7
+1708,"Dolores",26920,"Urbano",7595,28.21
+1708,"Dolores",26920,"Rural",19325,71.79
+1709,"San Luis",67038,"Urbano",10316,15.39
+1709,"San Luis",67038,"Rural",56722,84.61
+1710,"Sayaxché",93414,"Urbano",13780,14.75
+1710,"Sayaxché",93414,"Rural",79634,85.25
+1711,"Melchor de Mencos",28238,"Urbano",14972,53.02
+1711,"Melchor de Mencos",28238,"Rural",13266,46.98
+1712,"Poptún",52282,"Urbano",29130,55.72
+1712,"Poptún",52282,"Rural",23152,44.28
+1713,"Las Cruces",32715,"Urbano",10594,32.38
+1713,"Las Cruces",32715,"Rural",22121,67.62
+1714,"El Chal",13819,"Urbano",3604,26.08
+1714,"El Chal",13819,"Rural",10215,73.92
+1801,"Puerto Barrios",100593,"Urbano",100593,100
+1801,"Puerto Barrios",100593,"Rural",0,0
+1802,"Livingston",73492,"Urbano",17923,24.39
+1802,"Livingston",73492,"Rural",55569,75.61
+1803,"El Estor",73328,"Urbano",20489,27.94
+1803,"El Estor",73328,"Rural",52839,72.06
+1804,"Morales",100361,"Urbano",23855,23.77
+1804,"Morales",100361,"Rural",76506,76.23
+1805,"Los Amates",60914,"Urbano",4793,7.87
+1805,"Los Amates",60914,"Rural",56121,92.13
+1901,"Zacapa",60424,"Urbano",60370,99.91
+1901,"Zacapa",60424,"Rural",54,0.09
+1902,"Estanzuela",9797,"Urbano",7941,81.06
+1902,"Estanzuela",9797,"Rural",1856,18.94
+1903,"Río Hondo",21434,"Urbano",6267,29.24
+1903,"Río Hondo",21434,"Rural",15167,70.76
+1904,"Gualán",45663,"Urbano",6430,14.08
+1904,"Gualán",45663,"Rural",39233,85.92
+1905,"Teculután",17602,"Urbano",5585,31.73
+1905,"Teculután",17602,"Rural",12017,68.27
+1906,"Usumatlán",12232,"Urbano",4363,35.67
+1906,"Usumatlán",12232,"Rural",7869,64.33
+1907,"Cabañas",13641,"Urbano",7322,53.68
+1907,"Cabañas",13641,"Rural",6319,46.32
+1908,"San Diego",7235,"Urbano",706,9.76
+1908,"San Diego",7235,"Rural",6529,90.24
+1909,"La Unión",33572,"Urbano",2511,7.48
+1909,"La Unión",33572,"Rural",31061,92.52
+1910,"Huité",11470,"Urbano",3287,28.66
+1910,"Huité",11470,"Rural",8183,71.34
+1911,"San Jorge",12304,"Urbano",3703,30.1
+1911,"San Jorge",12304,"Rural",8601,69.9
+2001,"Chiquimula",111505,"Urbano",111505,100
+2001,"Chiquimula",111505,"Rural",0,0
+2002,"San José la Arada",8756,"Urbano",2844,32.48
+2002,"San José la Arada",8756,"Rural",5912,67.52
+2003,"San Juan Ermita",16418,"Urbano",653,3.98
+2003,"San Juan Ermita",16418,"Rural",15765,96.02
+2004,"Jocotán",66379,"Urbano",8387,12.64
+2004,"Jocotán",66379,"Rural",57992,87.36
+2005,"Camotán",56138,"Urbano",676,1.2
+2005,"Camotán",56138,"Rural",55462,98.8
+2006,"Olopa",27511,"Urbano",2486,9.04
+2006,"Olopa",27511,"Rural",25025,90.96
+2007,"Esquipulas",53556,"Urbano",18667,34.86
+2007,"Esquipulas",53556,"Rural",34889,65.14
+2008,"Concepción las Minas",11693,"Urbano",1087,9.3
+2008,"Concepción las Minas",11693,"Rural",10606,90.7
+2009,"Quezaltepeque",28075,"Urbano",2019,7.19
+2009,"Quezaltepeque",28075,"Rural",26056,92.81
+2010,"San Jacinto",12619,"Urbano",915,7.25
+2010,"San Jacinto",12619,"Rural",11704,92.75
+2011,"Ipala",22413,"Urbano",5932,26.47
+2011,"Ipala",22413,"Rural",16481,73.53
+2101,"Jalapa",159840,"Urbano",159840,100
+2101,"Jalapa",159840,"Rural",0,0
+2102,"San Pedro Pinula",61908,"Urbano",8933,14.43
+2102,"San Pedro Pinula",61908,"Rural",52975,85.57
+2103,"San Luis Jilotepeque",24679,"Urbano",11675,47.31
+2103,"San Luis Jilotepeque",24679,"Rural",13004,52.69
+2104,"San Manuel Chaparrón",8317,"Urbano",3347,40.24
+2104,"San Manuel Chaparrón",8317,"Rural",4970,59.76
+2105,"San Carlos Alzatate",18977,"Urbano",8906,46.93
+2105,"San Carlos Alzatate",18977,"Rural",10071,53.07
+2106,"Monjas",27354,"Urbano",13541,49.5
+2106,"Monjas",27354,"Rural",13813,50.5
+2107,"Mataquescuintla",41848,"Urbano",9833,23.5
+2107,"Mataquescuintla",41848,"Rural",32015,76.5
+2201,"Jutiapa",145880,"Urbano",145880,100
+2201,"Jutiapa",145880,"Rural",0,0
+2202,"El Progreso",22114,"Urbano",9504,42.98
+2202,"El Progreso",22114,"Rural",12610,57.02
+2203,"Santa Catarina Mita",28983,"Urbano",14520,50.1
+2203,"Santa Catarina Mita",28983,"Rural",14463,49.9
+2204,"Agua Blanca",16353,"Urbano",3897,23.83
+2204,"Agua Blanca",16353,"Rural",12456,76.17
+2205,"Asunción Mita",48297,"Urbano",20936,43.35
+2205,"Asunción Mita",48297,"Rural",27361,56.65
+2206,"Yupiltepeque",17389,"Urbano",3016,17.34
+2206,"Yupiltepeque",17389,"Rural",14373,82.66
+2207,"Atescatempa",18402,"Urbano",9606,52.2
+2207,"Atescatempa",18402,"Rural",8796,47.8
+2208,"Jerez",6309,"Urbano",3744,59.34
+2208,"Jerez",6309,"Rural",2565,40.66
+2209,"El Adelanto",6500,"Urbano",2341,36.02
+2209,"El Adelanto",6500,"Rural",4159,63.98
+2210,"Zapotitlán",9126,"Urbano",2118,23.21
+2210,"Zapotitlán",9126,"Rural",7008,76.79
+2211,"Comapa",32207,"Urbano",4400,13.66
+2211,"Comapa",32207,"Rural",27807,86.34
+2212,"Jalpatagua",28832,"Urbano",10336,35.85
+2212,"Jalpatagua",28832,"Rural",18496,64.15
+2213,"Conguaco",23452,"Urbano",2936,12.52
+2213,"Conguaco",23452,"Rural",20516,87.48
+2214,"Moyuta",39781,"Urbano",6779,17.04
+2214,"Moyuta",39781,"Rural",33002,82.96
+2215,"Pasaco",8854,"Urbano",1912,21.59
+2215,"Pasaco",8854,"Rural",6942,78.41
+2216,"San José Acatempa",13206,"Urbano",5285,40.02
+2216,"San José Acatempa",13206,"Rural",7921,59.98
+2217,"Quesada",22710,"Urbano",2544,11.2
+2217,"Quesada",22710,"Rural",20166,88.8

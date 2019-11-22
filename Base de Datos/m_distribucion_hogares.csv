@@ -1,0 +1,681 @@
+"Código","Municipio","Area","Distribución de Hogares"
+101,"Guatemala"," urbana",100
+101,"Guatemala"," rural",0
+102,"Santa Catarina Pinula"," urbana",88.57
+102,"Santa Catarina Pinula"," rural",11.43
+103,"San José Pinula"," urbana",85.31
+103,"San José Pinula"," rural",14.69
+104,"San José del Golfo"," urbana",32.31
+104,"San José del Golfo"," rural",67.69
+105,"Palencia"," urbana",46.44
+105,"Palencia"," rural",53.56
+106,"Chinautla"," urbana",91.68
+106,"Chinautla"," rural",8.32
+107,"San Pedro Ayampuc"," urbana",81.76
+107,"San Pedro Ayampuc"," rural",18.24
+108,"Mixco"," urbana",99.47
+108,"Mixco"," rural",0.53
+109,"San Pedro Sacatepéquez"," urbana",72.93
+109,"San Pedro Sacatepéquez"," rural",27.07
+110,"San Juan Sacatepéquez"," urbana",74.15
+110,"San Juan Sacatepéquez"," rural",25.85
+111,"San Raymundo"," urbana",49.46
+111,"San Raymundo"," rural",50.54
+112,"Chuarrancho"," urbana",56.32
+112,"Chuarrancho"," rural",43.68
+113,"Fraijanes"," urbana",81.27
+113,"Fraijanes"," rural",18.73
+114,"Amatitlán"," urbana",84.25
+114,"Amatitlán"," rural",15.75
+115,"Villa Nueva"," urbana",98.37
+115,"Villa Nueva"," rural",1.63
+116,"Villa Canales"," urbana",80.34
+116,"Villa Canales"," rural",19.66
+117,"San Miguel Petapa"," urbana",95.61
+117,"San Miguel Petapa"," rural",4.39
+201,"Guastatoya"," urbana",100
+201,"Guastatoya"," rural",0
+202,"Morazán"," urbana",23.6
+202,"Morazán"," rural",76.4
+203,"San Agustín Acasaguastlán"," urbana",40.25
+203,"San Agustín Acasaguastlán"," rural",59.75
+204,"San Cristóbal Acasaguastlán"," urbana",33.76
+204,"San Cristóbal Acasaguastlán"," rural",66.24
+205,"El Jícaro"," urbana",53.59
+205,"El Jícaro"," rural",46.41
+206,"Sansare"," urbana",36.9
+206,"Sansare"," rural",63.1
+207,"Sanarate"," urbana",53.9
+207,"Sanarate"," rural",46.1
+208,"San Antonio la Paz"," urbana",55.57
+208,"San Antonio la Paz"," rural",44.43
+301,"Antigua Guatemala"," urbana",100
+301,"Antigua Guatemala"," rural",0
+302,"Jocotenango"," urbana",89.79
+302,"Jocotenango"," rural",10.21
+303,"Pastores"," urbana",70.1
+303,"Pastores"," rural",29.9
+304,"Sumpango"," urbana",78.64
+304,"Sumpango"," rural",21.36
+305,"Santo Domingo Xenacoj"," urbana",86.5
+305,"Santo Domingo Xenacoj"," rural",13.5
+306,"Santiago Sacatepéquez"," urbana",82.42
+306,"Santiago Sacatepéquez"," rural",17.58
+307,"San Bartolomé Milpas Altas"," urbana",100
+307,"San Bartolomé Milpas Altas"," rural",0
+308,"San Lucas Sacatepéquez"," urbana",89.02
+308,"San Lucas Sacatepéquez"," rural",10.98
+309,"Santa Lucía Milpas Altas"," urbana",79.08
+309,"Santa Lucía Milpas Altas"," rural",20.92
+310,"Magdalena Milpas Altas"," urbana",66.72
+310,"Magdalena Milpas Altas"," rural",33.28
+311,"Santa María de Jesús"," urbana",99.12
+311,"Santa María de Jesús"," rural",0.88
+312,"Ciudad Vieja"," urbana",98.32
+312,"Ciudad Vieja"," rural",1.68
+313,"San Miguel Dueñas"," urbana",86.13
+313,"San Miguel Dueñas"," rural",13.87
+314,"San Juan Alotenango"," urbana",97.33
+314,"San Juan Alotenango"," rural",2.67
+315,"San Antonio Aguas Calientes"," urbana",85.79
+315,"San Antonio Aguas Calientes"," rural",14.21
+316,"Santa Catarina Barahona"," urbana",100
+316,"Santa Catarina Barahona"," rural",0
+401,"Chimaltenango"," urbana",100
+401,"Chimaltenango"," rural",0
+402,"San José Poaquil"," urbana",36.67
+402,"San José Poaquil"," rural",63.33
+403,"San Martín Jilotepeque"," urbana",15.67
+403,"San Martín Jilotepeque"," rural",84.33
+404,"San Juan Comalapa"," urbana",68.26
+404,"San Juan Comalapa"," rural",31.74
+405,"Santa Apolonia"," urbana",14.08
+405,"Santa Apolonia"," rural",85.92
+406,"Tecpán Guatemala"," urbana",39.88
+406,"Tecpán Guatemala"," rural",60.12
+407,"Patzún"," urbana",50.1
+407,"Patzún"," rural",49.9
+408,"San Miguel Pochuta"," urbana",52.02
+408,"San Miguel Pochuta"," rural",47.98
+409,"Patzicía"," urbana",65
+409,"Patzicía"," rural",35
+410,"Santa Cruz Balanyá"," urbana",17.24
+410,"Santa Cruz Balanyá"," rural",82.76
+411,"Acatenango"," urbana",53.98
+411,"Acatenango"," rural",46.02
+412,"San Pedro Yepocapa"," urbana",49.7
+412,"San Pedro Yepocapa"," rural",50.3
+413,"San Andrés Itzapa"," urbana",79.18
+413,"San Andrés Itzapa"," rural",20.82
+414,"Parramos"," urbana",75.01
+414,"Parramos"," rural",24.99
+415,"Zaragoza"," urbana",50.13
+415,"Zaragoza"," rural",49.87
+416,"El Tejar"," urbana",81.75
+416,"El Tejar"," rural",18.25
+501,"Escuintla"," urbana",100
+501,"Escuintla"," rural",0
+502,"Santa Lucía Cotzumalguapa"," urbana",53.55
+502,"Santa Lucía Cotzumalguapa"," rural",46.45
+503,"La Democracia"," urbana",58.75
+503,"La Democracia"," rural",41.25
+504,"Siquinalá"," urbana",81.93
+504,"Siquinalá"," rural",18.07
+505,"Masagua"," urbana",37.41
+505,"Masagua"," rural",62.59
+506,"Tiquisate"," urbana",52.26
+506,"Tiquisate"," rural",47.74
+507,"La Gomera"," urbana",57.37
+507,"La Gomera"," rural",42.63
+508,"Guanagazapa"," urbana",25.66
+508,"Guanagazapa"," rural",74.34
+509,"San José"," urbana",38.06
+509,"San José"," rural",61.94
+510,"Iztapa"," urbana",27.12
+510,"Iztapa"," rural",72.88
+511,"Palín"," urbana",94.54
+511,"Palín"," rural",5.46
+512,"San Vicente Pacaya"," urbana",54.37
+512,"San Vicente Pacaya"," rural",45.63
+513,"Nueva Concepción"," urbana",22.46
+513,"Nueva Concepción"," rural",77.54
+514,"Sipacate"," urbana",62.41
+514,"Sipacate"," rural",37.59
+601,"Cuilapa"," urbana",100
+601,"Cuilapa"," rural",0
+602,"Barberena"," urbana",81.02
+602,"Barberena"," rural",18.98
+603,"Santa Rosa de Lima"," urbana",18.17
+603,"Santa Rosa de Lima"," rural",81.83
+604,"Casillas"," urbana",31.44
+604,"Casillas"," rural",68.56
+605,"San Rafael las Flores"," urbana",32.18
+605,"San Rafael las Flores"," rural",67.82
+606,"Oratorio"," urbana",41.58
+606,"Oratorio"," rural",58.42
+607,"San Juan Tecuaco"," urbana",31.65
+607,"San Juan Tecuaco"," rural",68.35
+608,"Chiquimulilla"," urbana",35.72
+608,"Chiquimulilla"," rural",64.28
+609,"Taxisco"," urbana",31.73
+609,"Taxisco"," rural",68.27
+610,"Santa María Ixhuatán"," urbana",20.11
+610,"Santa María Ixhuatán"," rural",79.89
+611,"Guazacapán"," urbana",66.32
+611,"Guazacapán"," rural",33.68
+612,"Santa Cruz Naranjo"," urbana",35.01
+612,"Santa Cruz Naranjo"," rural",64.99
+613,"Pueblo Nuevo Viñas"," urbana",15.44
+613,"Pueblo Nuevo Viñas"," rural",84.56
+614,"Nueva Santa Rosa"," urbana",37.28
+614,"Nueva Santa Rosa"," rural",62.72
+701,"Sololá"," urbana",100
+701,"Sololá"," rural",0
+702,"San José Chacayá"," urbana",27.11
+702,"San José Chacayá"," rural",72.89
+703,"Santa María Visitación"," urbana",68.8
+703,"Santa María Visitación"," rural",31.2
+704,"Santa Lucía Utatlán"," urbana",7.06
+704,"Santa Lucía Utatlán"," rural",92.94
+705,"Nahualá"," urbana",30.85
+705,"Nahualá"," rural",69.15
+706,"Santa Catarina Ixtahuacán"," urbana",35.09
+706,"Santa Catarina Ixtahuacán"," rural",64.91
+707,"Santa Clara la Laguna"," urbana",71.4
+707,"Santa Clara la Laguna"," rural",28.6
+708,"Concepción"," urbana",61.35
+708,"Concepción"," rural",38.65
+709,"San Andrés Semetabaj"," urbana",28.74
+709,"San Andrés Semetabaj"," rural",71.26
+710,"Panajachel"," urbana",92.74
+710,"Panajachel"," rural",7.26
+711,"Santa Catarina Palopó"," urbana",81.38
+711,"Santa Catarina Palopó"," rural",18.62
+712,"San Antonio Palopó"," urbana",51.87
+712,"San Antonio Palopó"," rural",48.13
+713,"San Lucas Tolimán"," urbana",58.92
+713,"San Lucas Tolimán"," rural",41.08
+714,"Santa Cruz la Laguna"," urbana",32.33
+714,"Santa Cruz la Laguna"," rural",67.67
+715,"San Pablo la Laguna"," urbana",100
+715,"San Pablo la Laguna"," rural",0
+716,"San Marcos la Laguna"," urbana",100
+716,"San Marcos la Laguna"," rural",0
+717,"San Juan la Laguna"," urbana",68.67
+717,"San Juan la Laguna"," rural",31.33
+718,"San Pedro la Laguna"," urbana",100
+718,"San Pedro la Laguna"," rural",0
+719,"Santiago Atitlán"," urbana",91.03
+719,"Santiago Atitlán"," rural",8.97
+801,"Totonicapán"," urbana",100
+801,"Totonicapán"," rural",0
+802,"San Cristóbal Totonicapán"," urbana",36.18
+802,"San Cristóbal Totonicapán"," rural",63.82
+803,"San Francisco el Alto"," urbana",66.98
+803,"San Francisco el Alto"," rural",33.02
+804,"San Andrés Xecul"," urbana",59.3
+804,"San Andrés Xecul"," rural",40.7
+805,"Momostenango"," urbana",16.92
+805,"Momostenango"," rural",83.08
+806,"Santa María Chiquimula"," urbana",29.8
+806,"Santa María Chiquimula"," rural",70.2
+807,"Santa Lucía la Reforma"," urbana",5.87
+807,"Santa Lucía la Reforma"," rural",94.13
+808,"San Bartolo Aguas Calientes"," urbana",18.15
+808,"San Bartolo Aguas Calientes"," rural",81.85
+901,"Quetzaltenango"," urbana",100
+901,"Quetzaltenango"," rural",0
+902,"Salcajá"," urbana",87.15
+902,"Salcajá"," rural",12.85
+903,"San Juan Olintepeque"," urbana",90.95
+903,"San Juan Olintepeque"," rural",9.05
+904,"San Carlos Sija"," urbana",15.31
+904,"San Carlos Sija"," rural",84.69
+905,"Sibilia"," urbana",10.37
+905,"Sibilia"," rural",89.63
+906,"Cabricán"," urbana",30.99
+906,"Cabricán"," rural",69.01
+907,"Cajolá"," urbana",100
+907,"Cajolá"," rural",0
+908,"San Miguel Siguilá"," urbana",58.92
+908,"San Miguel Siguilá"," rural",41.08
+909,"San Juan Ostuncalco"," urbana",41.17
+909,"San Juan Ostuncalco"," rural",58.83
+910,"San Mateo"," urbana",98.18
+910,"San Mateo"," rural",1.82
+911,"Concepción Chiquirichapa"," urbana",58.47
+911,"Concepción Chiquirichapa"," rural",41.53
+912,"San Martín Sacatepéquez"," urbana",14.12
+912,"San Martín Sacatepéquez"," rural",85.88
+913,"Almolonga"," urbana",79.23
+913,"Almolonga"," rural",20.77
+914,"Cantel"," urbana",84.23
+914,"Cantel"," rural",15.77
+915,"Huitán"," urbana",35.24
+915,"Huitán"," rural",64.76
+916,"Zunil"," urbana",77
+916,"Zunil"," rural",23
+917,"Colomba Costa Cuca"," urbana",61.07
+917,"Colomba Costa Cuca"," rural",38.93
+918,"San Francisco la Unión"," urbana",40.9
+918,"San Francisco la Unión"," rural",59.1
+919,"El Palmar"," urbana",66.97
+919,"El Palmar"," rural",33.03
+920,"Coatepeque"," urbana",38.34
+920,"Coatepeque"," rural",61.66
+921,"Génova"," urbana",13.61
+921,"Génova"," rural",86.39
+922,"Flores Costa Cuca"," urbana",43.26
+922,"Flores Costa Cuca"," rural",56.74
+923,"La Esperanza"," urbana",90.34
+923,"La Esperanza"," rural",9.66
+924,"Palestina de los Altos"," urbana",13.05
+924,"Palestina de los Altos"," rural",86.95
+1001,"Mazatenango"," urbana",100
+1001,"Mazatenango"," rural",0
+1002,"Cuyotenango"," urbana",26.88
+1002,"Cuyotenango"," rural",73.12
+1003,"San Francisco Zapotitlán"," urbana",82.62
+1003,"San Francisco Zapotitlán"," rural",17.38
+1004,"San Bernardino"," urbana",25.63
+1004,"San Bernardino"," rural",74.37
+1005,"San José el Ídolo"," urbana",32.39
+1005,"San José el Ídolo"," rural",67.61
+1006,"Santo Domingo Suchitepéquez"," urbana",19.1
+1006,"Santo Domingo Suchitepéquez"," rural",80.9
+1007,"San Lorenzo"," urbana",36.24
+1007,"San Lorenzo"," rural",63.76
+1008,"Samayac"," urbana",41.24
+1008,"Samayac"," rural",58.76
+1009,"San Pablo Jocopilas"," urbana",83.69
+1009,"San Pablo Jocopilas"," rural",16.31
+1010,"San Antonio Suchitepéquez"," urbana",26
+1010,"San Antonio Suchitepéquez"," rural",74
+1011,"San Miguel Panán"," urbana",48.24
+1011,"San Miguel Panán"," rural",51.76
+1012,"San Gabriel"," urbana",89.44
+1012,"San Gabriel"," rural",10.56
+1013,"Chicacao"," urbana",44.28
+1013,"Chicacao"," rural",55.72
+1014,"Patulul"," urbana",29.88
+1014,"Patulul"," rural",70.12
+1015,"Santa Bárbara"," urbana",64.96
+1015,"Santa Bárbara"," rural",35.04
+1016,"San Juan Bautista"," urbana",51.79
+1016,"San Juan Bautista"," rural",48.21
+1017,"Santo Tomas la Unión"," urbana",39.09
+1017,"Santo Tomas la Unión"," rural",60.91
+1018,"Zunilito"," urbana",55.87
+1018,"Zunilito"," rural",44.13
+1019,"Pueblo Nuevo"," urbana",30.52
+1019,"Pueblo Nuevo"," rural",69.48
+1020,"Río Bravo"," urbana",56.57
+1020,"Río Bravo"," rural",43.43
+1021,"San José La Máquina"," urbana",21.61
+1021,"San José La Máquina"," rural",78.39
+1101,"Retalhuleu"," urbana",100
+1101,"Retalhuleu"," rural",0
+1102,"San Sebastián"," urbana",31.97
+1102,"San Sebastián"," rural",68.03
+1103,"Santa Cruz Muluá"," urbana",37.96
+1103,"Santa Cruz Muluá"," rural",62.04
+1104,"San Martín Zapotitlán"," urbana",31.94
+1104,"San Martín Zapotitlán"," rural",68.06
+1105,"San Felipe"," urbana",72.22
+1105,"San Felipe"," rural",27.78
+1106,"San Andrés Villa Seca"," urbana",23.35
+1106,"San Andrés Villa Seca"," rural",76.65
+1107,"Champerico"," urbana",34.21
+1107,"Champerico"," rural",65.79
+1108,"Nuevo San Carlos"," urbana",58.52
+1108,"Nuevo San Carlos"," rural",41.48
+1109,"El Asintal"," urbana",47.44
+1109,"El Asintal"," rural",52.56
+1201,"San Marcos"," urbana",100
+1201,"San Marcos"," rural",0
+1202,"San Pedro Sacatepéquez"," urbana",63.06
+1202,"San Pedro Sacatepéquez"," rural",36.94
+1203,"San Antonio Sacatepéquez"," urbana",10.15
+1203,"San Antonio Sacatepéquez"," rural",89.85
+1204,"Comitancillo"," urbana",16.61
+1204,"Comitancillo"," rural",83.39
+1205,"San Miguel Ixtahuacán"," urbana",8.62
+1205,"San Miguel Ixtahuacán"," rural",91.38
+1206,"Concepción Tutuapa"," urbana",9.1
+1206,"Concepción Tutuapa"," rural",90.9
+1207,"Tacaná"," urbana",12.8
+1207,"Tacaná"," rural",87.2
+1208,"Sibinal"," urbana",16.31
+1208,"Sibinal"," rural",83.69
+1209,"Tajumulco"," urbana",1.53
+1209,"Tajumulco"," rural",98.47
+1210,"Tejutla"," urbana",13.09
+1210,"Tejutla"," rural",86.91
+1211,"San Rafael Pie de la Cuesta"," urbana",22.56
+1211,"San Rafael Pie de la Cuesta"," rural",77.44
+1212,"Nuevo Progreso"," urbana",9.76
+1212,"Nuevo Progreso"," rural",90.24
+1213,"El Tumbador"," urbana",20.27
+1213,"El Tumbador"," rural",79.73
+1214,"San José el Rodeo"," urbana",13.77
+1214,"San José el Rodeo"," rural",86.23
+1215,"Malacatán"," urbana",10.41
+1215,"Malacatán"," rural",89.59
+1216,"Catarina"," urbana",11.57
+1216,"Catarina"," rural",88.43
+1217,"Ayutla"," urbana",65.25
+1217,"Ayutla"," rural",34.75
+1218,"Ocós"," urbana",41.04
+1218,"Ocós"," rural",58.96
+1219,"San Pablo"," urbana",37.15
+1219,"San Pablo"," rural",62.85
+1220,"El Quetzal"," urbana",47.1
+1220,"El Quetzal"," rural",52.9
+1221,"La Reforma"," urbana",23.4
+1221,"La Reforma"," rural",76.6
+1222,"Pajapita"," urbana",32.01
+1222,"Pajapita"," rural",67.99
+1223,"Ixchiguán"," urbana",6.96
+1223,"Ixchiguán"," rural",93.04
+1224,"San José Ojetenam"," urbana",11.45
+1224,"San José Ojetenam"," rural",88.55
+1225,"San Cristóbal Cucho"," urbana",34.52
+1225,"San Cristóbal Cucho"," rural",65.48
+1226,"Sipacapa"," urbana",10.56
+1226,"Sipacapa"," rural",89.44
+1227,"Esquipulas Palo Gordo"," urbana",30.13
+1227,"Esquipulas Palo Gordo"," rural",69.87
+1228,"Río Blanco"," urbana",20.37
+1228,"Río Blanco"," rural",79.63
+1229,"San Lorenzo"," urbana",29.57
+1229,"San Lorenzo"," rural",70.43
+1230,"La Blanca"," urbana",49.17
+1230,"La Blanca"," rural",50.83
+1301,"Huehuetenango"," urbana",100
+1301,"Huehuetenango"," rural",0
+1302,"Chiantla"," urbana",9.34
+1302,"Chiantla"," rural",90.66
+1303,"Malacatancito"," urbana",5.1
+1303,"Malacatancito"," rural",94.9
+1304,"Cuilco"," urbana",4.48
+1304,"Cuilco"," rural",95.52
+1305,"Nentón"," urbana",41.41
+1305,"Nentón"," rural",58.59
+1306,"San Pedro Necta"," urbana",12.27
+1306,"San Pedro Necta"," rural",87.73
+1307,"Jacaltenango"," urbana",62.33
+1307,"Jacaltenango"," rural",37.67
+1308,"San Pedro Soloma"," urbana",30.05
+1308,"San Pedro Soloma"," rural",69.95
+1309,"San Ildefonso Ixtahuacán"," urbana",26.95
+1309,"San Ildefonso Ixtahuacán"," rural",73.05
+1310,"Santa Bárbara"," urbana",3.5
+1310,"Santa Bárbara"," rural",96.5
+1311,"La Libertad"," urbana",17.37
+1311,"La Libertad"," rural",82.63
+1312,"La Democracia"," urbana",43.61
+1312,"La Democracia"," rural",56.39
+1313,"San Miguel Acatán"," urbana",22.78
+1313,"San Miguel Acatán"," rural",77.22
+1314,"San Rafael La Independencia"," urbana",10.51
+1314,"San Rafael La Independencia"," rural",89.49
+1315,"Todos Santos Cuchumatán"," urbana",2.14
+1315,"Todos Santos Cuchumatán"," rural",97.86
+1316,"San Juan Atitán"," urbana",21.45
+1316,"San Juan Atitán"," rural",78.55
+1317,"Santa Eulalia"," urbana",9.27
+1317,"Santa Eulalia"," rural",90.73
+1318,"San Mateo Ixtatán"," urbana",35.17
+1318,"San Mateo Ixtatán"," rural",64.83
+1319,"Colotenango"," urbana",15.02
+1319,"Colotenango"," rural",84.98
+1320,"San Sebastián Huehuetenango"," urbana",11.69
+1320,"San Sebastián Huehuetenango"," rural",88.31
+1321,"Tectitán"," urbana",9.65
+1321,"Tectitán"," rural",90.35
+1322,"Concepción Huista"," urbana",40.45
+1322,"Concepción Huista"," rural",59.55
+1323,"San Juan Ixcoy"," urbana",10.45
+1323,"San Juan Ixcoy"," rural",89.55
+1324,"San Antonio Huista"," urbana",39.24
+1324,"San Antonio Huista"," rural",60.76
+1325,"San Sebastián Coatán"," urbana",5.24
+1325,"San Sebastián Coatán"," rural",94.76
+1326,"Santa Cruz Barillas"," urbana",19.13
+1326,"Santa Cruz Barillas"," rural",80.87
+1327,"Aguacatán"," urbana",19.55
+1327,"Aguacatán"," rural",80.45
+1328,"San Rafael Petzal"," urbana",46.77
+1328,"San Rafael Petzal"," rural",53.23
+1329,"San Gaspar Ixchil"," urbana",11.37
+1329,"San Gaspar Ixchil"," rural",88.63
+1330,"Santiago Chimaltenango"," urbana",61.21
+1330,"Santiago Chimaltenango"," rural",38.79
+1331,"Santa Ana Huista"," urbana",2.74
+1331,"Santa Ana Huista"," rural",97.26
+1332,"Unión Cantinil"," urbana",10.18
+1332,"Unión Cantinil"," rural",89.82
+1333,"Petatán"," urbana",44.13
+1333,"Petatán"," rural",55.87
+1401,"Santa Cruz del Quiché"," urbana",100
+1401,"Santa Cruz del Quiché"," rural",0
+1402,"Chiché"," urbana",17.26
+1402,"Chiché"," rural",82.74
+1403,"Chinique"," urbana",22.27
+1403,"Chinique"," rural",77.73
+1404,"Zacualpa"," urbana",20.36
+1404,"Zacualpa"," rural",79.64
+1405,"Chajul"," urbana",51.37
+1405,"Chajul"," rural",48.63
+1406,"Santo Tomás Chichicastenango"," urbana",50.25
+1406,"Santo Tomás Chichicastenango"," rural",49.75
+1407,"Patzité"," urbana",17.75
+1407,"Patzité"," rural",82.25
+1408,"San Antonio Ilotenango"," urbana",19.41
+1408,"San Antonio Ilotenango"," rural",80.59
+1409,"San Pedro Jocopilas"," urbana",5
+1409,"San Pedro Jocopilas"," rural",95
+1410,"Cunén"," urbana",21.27
+1410,"Cunén"," rural",78.73
+1411,"San Juan Cotzal"," urbana",46.59
+1411,"San Juan Cotzal"," rural",53.41
+1412,"Joyabaj"," urbana",20.76
+1412,"Joyabaj"," rural",79.24
+1413,"Santa María Nebaj"," urbana",45.72
+1413,"Santa María Nebaj"," rural",54.28
+1414,"San Andrés Sajcabajá"," urbana",13.83
+1414,"San Andrés Sajcabajá"," rural",86.17
+1415,"San Miguel Uspantán"," urbana",11.62
+1415,"San Miguel Uspantán"," rural",88.38
+1416,"Sacapulas"," urbana",26.77
+1416,"Sacapulas"," rural",73.23
+1417,"San Bartolomé Jocotenango"," urbana",18.13
+1417,"San Bartolomé Jocotenango"," rural",81.87
+1418,"Canillá"," urbana",23.9
+1418,"Canillá"," rural",76.1
+1419,"Chicamán"," urbana",9.6
+1419,"Chicamán"," rural",90.4
+1420,"Playa Grande Ixcán"," urbana",14.37
+1420,"Playa Grande Ixcán"," rural",85.63
+1421,"Pachalum"," urbana",24.3
+1421,"Pachalum"," rural",75.7
+1501,"Salamá"," urbana",100
+1501,"Salamá"," rural",0
+1502,"San Miguel Chicaj"," urbana",24.45
+1502,"San Miguel Chicaj"," rural",75.55
+1503,"Rabinal"," urbana",39.34
+1503,"Rabinal"," rural",60.66
+1504,"Cubulco"," urbana",21.61
+1504,"Cubulco"," rural",78.39
+1505,"Granados"," urbana",9.05
+1505,"Granados"," rural",90.95
+1506,"Santa Cruz El Chol"," urbana",22.38
+1506,"Santa Cruz El Chol"," rural",77.62
+1507,"San Jerónimo"," urbana",43.49
+1507,"San Jerónimo"," rural",56.51
+1508,"Purulhá"," urbana",15.51
+1508,"Purulhá"," rural",84.49
+1601,"Cobán"," urbana",99.91
+1601,"Cobán"," rural",0.09
+1602,"Santa Cruz Verapaz"," urbana",29.85
+1602,"Santa Cruz Verapaz"," rural",70.15
+1603,"San Cristóbal Verapaz"," urbana",32.66
+1603,"San Cristóbal Verapaz"," rural",67.34
+1604,"Tactic"," urbana",42.75
+1604,"Tactic"," rural",57.25
+1605,"Tamahú"," urbana",24.24
+1605,"Tamahú"," rural",75.76
+1606,"San Miguel Tucurú"," urbana",10.84
+1606,"San Miguel Tucurú"," rural",89.16
+1607,"Panzós"," urbana",31.19
+1607,"Panzós"," rural",68.81
+1608,"Senahú"," urbana",13.84
+1608,"Senahú"," rural",86.16
+1609,"San Pedro Carchá"," urbana",8.3
+1609,"San Pedro Carchá"," rural",91.7
+1610,"San Juan Chamelco"," urbana",24.6
+1610,"San Juan Chamelco"," rural",75.4
+1611,"San Agustín Lanquín"," urbana",14.51
+1611,"San Agustín Lanquín"," rural",85.49
+1612,"Santa María Cahabón"," urbana",5.99
+1612,"Santa María Cahabón"," rural",94.01
+1613,"Chisec"," urbana",11.8
+1613,"Chisec"," rural",88.2
+1614,"Chahal"," urbana",16.84
+1614,"Chahal"," rural",83.16
+1615,"Fray Bartolomé de las Casas"," urbana",6.38
+1615,"Fray Bartolomé de las Casas"," rural",93.62
+1616,"Santa Catalina La Tinta"," urbana",52.71
+1616,"Santa Catalina La Tinta"," rural",47.29
+1617,"Raxruhá"," urbana",19.48
+1617,"Raxruhá"," rural",80.52
+1701,"Flores"," urbana",100
+1701,"Flores"," rural",0
+1702,"San José"," urbana",21.97
+1702,"San José"," rural",78.03
+1703,"San Benito"," urbana",80.96
+1703,"San Benito"," rural",19.04
+1704,"San Andrés"," urbana",39.71
+1704,"San Andrés"," rural",60.29
+1705,"La Libertad"," urbana",35.21
+1705,"La Libertad"," rural",64.79
+1706,"San Francisco"," urbana",62.95
+1706,"San Francisco"," rural",37.05
+1707,"Santa Ana"," urbana",49.27
+1707,"Santa Ana"," rural",50.73
+1708,"Dolores"," urbana",28.46
+1708,"Dolores"," rural",71.54
+1709,"San Luis"," urbana",16.21
+1709,"San Luis"," rural",83.79
+1710,"Sayaxché"," urbana",16.32
+1710,"Sayaxché"," rural",83.68
+1711,"Melchor de Mencos"," urbana",55.01
+1711,"Melchor de Mencos"," rural",44.99
+1712,"Poptún"," urbana",60.44
+1712,"Poptún"," rural",39.56
+1713,"Las Cruces"," urbana",34.23
+1713,"Las Cruces"," rural",65.77
+1714,"El Chal"," urbana",25.8
+1714,"El Chal"," rural",74.2
+1801,"Puerto Barrios"," urbana",100
+1801,"Puerto Barrios"," rural",0
+1802,"Livingston"," urbana",28.24
+1802,"Livingston"," rural",71.76
+1803,"El Estor"," urbana",30.73
+1803,"El Estor"," rural",69.27
+1804,"Morales"," urbana",25.2
+1804,"Morales"," rural",74.8
+1805,"Los Amates"," urbana",8.69
+1805,"Los Amates"," rural",91.31
+1901,"Zacapa"," urbana",99.96
+1901,"Zacapa"," rural",0.04
+1902,"Estanzuela"," urbana",81.89
+1902,"Estanzuela"," rural",18.11
+1903,"Río Hondo"," urbana",30.54
+1903,"Río Hondo"," rural",69.46
+1904,"Gualán"," urbana",15.73
+1904,"Gualán"," rural",84.27
+1905,"Teculután"," urbana",32.16
+1905,"Teculután"," rural",67.84
+1906,"Usumatlán"," urbana",38.22
+1906,"Usumatlán"," rural",61.78
+1907,"Cabañas"," urbana",58.55
+1907,"Cabañas"," rural",41.45
+1908,"San Diego"," urbana",11.03
+1908,"San Diego"," rural",88.97
+1909,"La Unión"," urbana",8.84
+1909,"La Unión"," rural",91.16
+1910,"Huité"," urbana",33.6
+1910,"Huité"," rural",66.4
+1911,"San Jorge"," urbana",31.33
+1911,"San Jorge"," rural",68.67
+2001,"Chiquimula"," urbana",100
+2001,"Chiquimula"," rural",0
+2002,"San José la Arada"," urbana",33.74
+2002,"San José la Arada"," rural",66.26
+2003,"San Juan Ermita"," urbana",4
+2003,"San Juan Ermita"," rural",96
+2004,"Jocotán"," urbana",14.58
+2004,"Jocotán"," rural",85.42
+2005,"Camotán"," urbana",1.48
+2005,"Camotán"," rural",98.52
+2006,"Olopa"," urbana",10.76
+2006,"Olopa"," rural",89.24
+2007,"Esquipulas"," urbana",36.64
+2007,"Esquipulas"," rural",63.36
+2008,"Concepción las Minas"," urbana",10.21
+2008,"Concepción las Minas"," rural",89.79
+2009,"Quezaltepeque"," urbana",7.85
+2009,"Quezaltepeque"," rural",92.15
+2010,"San Jacinto"," urbana",7.41
+2010,"San Jacinto"," rural",92.59
+2011,"Ipala"," urbana",27.02
+2011,"Ipala"," rural",72.98
+2101,"Jalapa"," urbana",100
+2101,"Jalapa"," rural",0
+2102,"San Pedro Pinula"," urbana",15.73
+2102,"San Pedro Pinula"," rural",84.27
+2103,"San Luis Jilotepeque"," urbana",47.34
+2103,"San Luis Jilotepeque"," rural",52.66
+2104,"San Manuel Chaparrón"," urbana",40.59
+2104,"San Manuel Chaparrón"," rural",59.41
+2105,"San Carlos Alzatate"," urbana",46.39
+2105,"San Carlos Alzatate"," rural",53.61
+2106,"Monjas"," urbana",49.69
+2106,"Monjas"," rural",50.31
+2107,"Mataquescuintla"," urbana",24.52
+2107,"Mataquescuintla"," rural",75.48
+2201,"Jutiapa"," urbana",100
+2201,"Jutiapa"," rural",0
+2202,"El Progreso"," urbana",44.35
+2202,"El Progreso"," rural",55.65
+2203,"Santa Catarina Mita"," urbana",50.87
+2203,"Santa Catarina Mita"," rural",49.13
+2204,"Agua Blanca"," urbana",24.58
+2204,"Agua Blanca"," rural",75.42
+2205,"Asunción Mita"," urbana",44.43
+2205,"Asunción Mita"," rural",55.57
+2206,"Yupiltepeque"," urbana",18.02
+2206,"Yupiltepeque"," rural",81.98
+2207,"Atescatempa"," urbana",55
+2207,"Atescatempa"," rural",45
+2208,"Jerez"," urbana",61.69
+2208,"Jerez"," rural",38.31
+2209,"El Adelanto"," urbana",37.38
+2209,"El Adelanto"," rural",62.62
+2210,"Zapotitlán"," urbana",24.84
+2210,"Zapotitlán"," rural",75.16
+2211,"Comapa"," urbana",14.07
+2211,"Comapa"," rural",85.93
+2212,"Jalpatagua"," urbana",36.06
+2212,"Jalpatagua"," rural",63.94
+2213,"Conguaco"," urbana",13.52
+2213,"Conguaco"," rural",86.48
+2214,"Moyuta"," urbana",18.59
+2214,"Moyuta"," rural",81.41
+2215,"Pasaco"," urbana",23.85
+2215,"Pasaco"," rural",76.15
+2216,"San José Acatempa"," urbana",40.89
+2216,"San José Acatempa"," rural",59.11
+2217,"Quesada"," urbana",12.42
+2217,"Quesada"," rural",87.58

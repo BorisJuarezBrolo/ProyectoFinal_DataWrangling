@@ -1,0 +1,485 @@
+"Código","Departamento","Total de personas","Comunidad Linguistica","Cantidad","Porcentaje de Total"
+1,"Guatemala",3015081,"Achi",11896,0.39
+1,"Guatemala",3015081,"Akateka",1246,0.04
+1,"Guatemala",3015081,"Awakateka",812,0.03
+1,"Guatemala",3015081,"Ch'orti'",319,0.01
+1,"Guatemala",3015081,"Chalchiteka",5013,0.17
+1,"Guatemala",3015081,"Chuj",337,0.01
+1,"Guatemala",3015081,"Itza'",128,0
+1,"Guatemala",3015081,"Ixil",3656,0.12
+1,"Guatemala",3015081,"Jakalteko/Popti'",275,0.01
+1,"Guatemala",3015081,"K'iche'",54443,1.81
+1,"Guatemala",3015081,"Kaqchiquel",272989,9.05
+1,"Guatemala",3015081,"Mam",15779,0.52
+1,"Guatemala",3015081,"Mopan",160,0.01
+1,"Guatemala",3015081,"Poqomam",10113,0.34
+1,"Guatemala",3015081,"Poqomchi'",2566,0.09
+1,"Guatemala",3015081,"Q'anjob'al",1984,0.07
+1,"Guatemala",3015081,"Q'eqchi'",16040,0.53
+1,"Guatemala",3015081,"Sakapulteka",1172,0.04
+1,"Guatemala",3015081,"Sipakapense",481,0.02
+1,"Guatemala",3015081,"Tektiteka",104,0
+1,"Guatemala",3015081,"Tz'utujil",2433,0.08
+1,"Guatemala",3015081,"Uspanteka",430,0.01
+2,"El Progreso",176632,"Achi",145,0.08
+2,"El Progreso",176632,"Akateka",4,0
+2,"El Progreso",176632,"Awakateka",2,0
+2,"El Progreso",176632,"Ch'orti'",10,0.01
+2,"El Progreso",176632,"Chalchiteka",580,0.33
+2,"El Progreso",176632,"Chuj",1,0
+2,"El Progreso",176632,"Itza'",0,0
+2,"El Progreso",176632,"Ixil",22,0.01
+2,"El Progreso",176632,"Jakalteko/Popti'",1,0
+2,"El Progreso",176632,"K'iche'",837,0.47
+2,"El Progreso",176632,"Kaqchiquel",369,0.21
+2,"El Progreso",176632,"Mam",80,0.05
+2,"El Progreso",176632,"Mopan",0,0
+2,"El Progreso",176632,"Poqomam",18,0.01
+2,"El Progreso",176632,"Poqomchi'",102,0.06
+2,"El Progreso",176632,"Q'anjob'al",53,0.03
+2,"El Progreso",176632,"Q'eqchi'",370,0.21
+2,"El Progreso",176632,"Sakapulteka",1,0
+2,"El Progreso",176632,"Sipakapense",10,0.01
+2,"El Progreso",176632,"Tektiteka",0,0
+2,"El Progreso",176632,"Tz'utujil",13,0.01
+2,"El Progreso",176632,"Uspanteka",9,0.01
+3,"Sacatepéquez",330469,"Achi",1123,0.34
+3,"Sacatepéquez",330469,"Akateka",244,0.07
+3,"Sacatepéquez",330469,"Awakateka",44,0.01
+3,"Sacatepéquez",330469,"Ch'orti'",50,0.02
+3,"Sacatepéquez",330469,"Chalchiteka",667,0.2
+3,"Sacatepéquez",330469,"Chuj",49,0.01
+3,"Sacatepéquez",330469,"Itza'",8,0
+3,"Sacatepéquez",330469,"Ixil",456,0.14
+3,"Sacatepéquez",330469,"Jakalteko/Popti'",32,0.01
+3,"Sacatepéquez",330469,"K'iche'",3264,0.99
+3,"Sacatepéquez",330469,"Kaqchiquel",124829,37.77
+3,"Sacatepéquez",330469,"Mam",573,0.17
+3,"Sacatepéquez",330469,"Mopan",9,0
+3,"Sacatepéquez",330469,"Poqomam",100,0.03
+3,"Sacatepéquez",330469,"Poqomchi'",77,0.02
+3,"Sacatepéquez",330469,"Q'anjob'al",371,0.11
+3,"Sacatepéquez",330469,"Q'eqchi'",540,0.16
+3,"Sacatepéquez",330469,"Sakapulteka",21,0.01
+3,"Sacatepéquez",330469,"Sipakapense",40,0.01
+3,"Sacatepéquez",330469,"Tektiteka",1,0
+3,"Sacatepéquez",330469,"Tz'utujil",218,0.07
+3,"Sacatepéquez",330469,"Uspanteka",46,0.01
+4,"Chimaltenango",615776,"Achi",1744,0.28
+4,"Chimaltenango",615776,"Akateka",418,0.07
+4,"Chimaltenango",615776,"Awakateka",40,0.01
+4,"Chimaltenango",615776,"Ch'orti'",12,0
+4,"Chimaltenango",615776,"Chalchiteka",266,0.04
+4,"Chimaltenango",615776,"Chuj",16,0
+4,"Chimaltenango",615776,"Itza'",4,0
+4,"Chimaltenango",615776,"Ixil",712,0.12
+4,"Chimaltenango",615776,"Jakalteko/Popti'",20,0
+4,"Chimaltenango",615776,"K'iche'",11259,1.83
+4,"Chimaltenango",615776,"Kaqchiquel",463784,75.32
+4,"Chimaltenango",615776,"Mam",1678,0.27
+4,"Chimaltenango",615776,"Mopan",19,0
+4,"Chimaltenango",615776,"Poqomam",199,0.03
+4,"Chimaltenango",615776,"Poqomchi'",126,0.02
+4,"Chimaltenango",615776,"Q'anjob'al",165,0.03
+4,"Chimaltenango",615776,"Q'eqchi'",458,0.07
+4,"Chimaltenango",615776,"Sakapulteka",25,0
+4,"Chimaltenango",615776,"Sipakapense",25,0
+4,"Chimaltenango",615776,"Tektiteka",4,0
+4,"Chimaltenango",615776,"Tz'utujil",252,0.04
+4,"Chimaltenango",615776,"Uspanteka",109,0.02
+5,"Escuintla",733181,"Achi",1075,0.15
+5,"Escuintla",733181,"Akateka",243,0.03
+5,"Escuintla",733181,"Awakateka",259,0.04
+5,"Escuintla",733181,"Ch'orti'",41,0.01
+5,"Escuintla",733181,"Chalchiteka",1326,0.18
+5,"Escuintla",733181,"Chuj",21,0
+5,"Escuintla",733181,"Itza'",38,0.01
+5,"Escuintla",733181,"Ixil",428,0.06
+5,"Escuintla",733181,"Jakalteko/Popti'",98,0.01
+5,"Escuintla",733181,"K'iche'",9880,1.35
+5,"Escuintla",733181,"Kaqchiquel",7674,1.05
+5,"Escuintla",733181,"Mam",3370,0.46
+5,"Escuintla",733181,"Mopan",30,0
+5,"Escuintla",733181,"Poqomam",10315,1.41
+5,"Escuintla",733181,"Poqomchi'",256,0.03
+5,"Escuintla",733181,"Q'anjob'al",417,0.06
+5,"Escuintla",733181,"Q'eqchi'",1091,0.15
+5,"Escuintla",733181,"Sakapulteka",37,0.01
+5,"Escuintla",733181,"Sipakapense",19,0
+5,"Escuintla",733181,"Tektiteka",7,0
+5,"Escuintla",733181,"Tz'utujil",422,0.06
+5,"Escuintla",733181,"Uspanteka",53,0.01
+6,"Santa Rosa",396607,"Achi",520,0.13
+6,"Santa Rosa",396607,"Akateka",140,0.04
+6,"Santa Rosa",396607,"Awakateka",153,0.04
+6,"Santa Rosa",396607,"Ch'orti'",52,0.01
+6,"Santa Rosa",396607,"Chalchiteka",562,0.14
+6,"Santa Rosa",396607,"Chuj",12,0
+6,"Santa Rosa",396607,"Itza'",1,0
+6,"Santa Rosa",396607,"Ixil",134,0.03
+6,"Santa Rosa",396607,"Jakalteko/Popti'",4,0
+6,"Santa Rosa",396607,"K'iche'",3332,0.84
+6,"Santa Rosa",396607,"Kaqchiquel",1785,0.45
+6,"Santa Rosa",396607,"Mam",536,0.14
+6,"Santa Rosa",396607,"Mopan",27,0.01
+6,"Santa Rosa",396607,"Poqomam",39,0.01
+6,"Santa Rosa",396607,"Poqomchi'",82,0.02
+6,"Santa Rosa",396607,"Q'anjob'al",146,0.04
+6,"Santa Rosa",396607,"Q'eqchi'",274,0.07
+6,"Santa Rosa",396607,"Sakapulteka",24,0.01
+6,"Santa Rosa",396607,"Sipakapense",16,0
+6,"Santa Rosa",396607,"Tektiteka",2,0
+6,"Santa Rosa",396607,"Tz'utujil",20,0.01
+6,"Santa Rosa",396607,"Uspanteka",2,0
+7,"Sololá",421583,"Achi",1287,0.31
+7,"Sololá",421583,"Akateka",365,0.09
+7,"Sololá",421583,"Awakateka",13,0
+7,"Sololá",421583,"Ch'orti'",5,0
+7,"Sololá",421583,"Chalchiteka",69,0.02
+7,"Sololá",421583,"Chuj",13,0
+7,"Sololá",421583,"Itza'",3,0
+7,"Sololá",421583,"Ixil",50,0.01
+7,"Sololá",421583,"Jakalteko/Popti'",9,0
+7,"Sololá",421583,"K'iche'",180488,42.81
+7,"Sololá",421583,"Kaqchiquel",158341,37.56
+7,"Sololá",421583,"Mam",262,0.06
+7,"Sololá",421583,"Mopan",10,0
+7,"Sololá",421583,"Poqomam",137,0.03
+7,"Sololá",421583,"Poqomchi'",29,0.01
+7,"Sololá",421583,"Q'anjob'al",239,0.06
+7,"Sololá",421583,"Q'eqchi'",104,0.02
+7,"Sololá",421583,"Sakapulteka",15,0
+7,"Sololá",421583,"Sipakapense",19,0
+7,"Sololá",421583,"Tektiteka",50,0.01
+7,"Sololá",421583,"Tz'utujil",64748,15.36
+7,"Sololá",421583,"Uspanteka",39,0.01
+8,"Totonicapán",418569,"Achi",1234,0.29
+8,"Totonicapán",418569,"Akateka",531,0.13
+8,"Totonicapán",418569,"Awakateka",19,0
+8,"Totonicapán",418569,"Ch'orti'",10,0
+8,"Totonicapán",418569,"Chalchiteka",35,0.01
+8,"Totonicapán",418569,"Chuj",9,0
+8,"Totonicapán",418569,"Itza'",3,0
+8,"Totonicapán",418569,"Ixil",16,0
+8,"Totonicapán",418569,"Jakalteko/Popti'",8,0
+8,"Totonicapán",418569,"K'iche'",405765,96.94
+8,"Totonicapán",418569,"Kaqchiquel",591,0.14
+8,"Totonicapán",418569,"Mam",485,0.12
+8,"Totonicapán",418569,"Mopan",17,0
+8,"Totonicapán",418569,"Poqomam",64,0.02
+8,"Totonicapán",418569,"Poqomchi'",71,0.02
+8,"Totonicapán",418569,"Q'anjob'al",681,0.16
+8,"Totonicapán",418569,"Q'eqchi'",108,0.03
+8,"Totonicapán",418569,"Sakapulteka",57,0.01
+8,"Totonicapán",418569,"Sipakapense",18,0
+8,"Totonicapán",418569,"Tektiteka",406,0.1
+8,"Totonicapán",418569,"Tz'utujil",51,0.01
+8,"Totonicapán",418569,"Uspanteka",16,0
+9,"Quetzaltenango",799101,"Achi",1079,0.14
+9,"Quetzaltenango",799101,"Akateka",1268,0.16
+9,"Quetzaltenango",799101,"Awakateka",112,0.01
+9,"Quetzaltenango",799101,"Ch'orti'",12,0
+9,"Quetzaltenango",799101,"Chalchiteka",626,0.08
+9,"Quetzaltenango",799101,"Chuj",56,0.01
+9,"Quetzaltenango",799101,"Itza'",1,0
+9,"Quetzaltenango",799101,"Ixil",164,0.02
+9,"Quetzaltenango",799101,"Jakalteko/Popti'",96,0.01
+9,"Quetzaltenango",799101,"K'iche'",227663,28.49
+9,"Quetzaltenango",799101,"Kaqchiquel",1639,0.21
+9,"Quetzaltenango",799101,"Mam",170855,21.38
+9,"Quetzaltenango",799101,"Mopan",64,0.01
+9,"Quetzaltenango",799101,"Poqomam",84,0.01
+9,"Quetzaltenango",799101,"Poqomchi'",203,0.03
+9,"Quetzaltenango",799101,"Q'anjob'al",1403,0.18
+9,"Quetzaltenango",799101,"Q'eqchi'",418,0.05
+9,"Quetzaltenango",799101,"Sakapulteka",56,0.01
+9,"Quetzaltenango",799101,"Sipakapense",113,0.01
+9,"Quetzaltenango",799101,"Tektiteka",188,0.02
+9,"Quetzaltenango",799101,"Tz'utujil",349,0.04
+9,"Quetzaltenango",799101,"Uspanteka",42,0.01
+10,"Suchitepéquez",554695,"Achi",796,0.14
+10,"Suchitepéquez",554695,"Akateka",456,0.08
+10,"Suchitepéquez",554695,"Awakateka",23,0
+10,"Suchitepéquez",554695,"Ch'orti'",11,0
+10,"Suchitepéquez",554695,"Chalchiteka",548,0.1
+10,"Suchitepéquez",554695,"Chuj",4,0
+10,"Suchitepéquez",554695,"Itza'",4,0
+10,"Suchitepéquez",554695,"Ixil",1046,0.19
+10,"Suchitepéquez",554695,"Jakalteko/Popti'",31,0.01
+10,"Suchitepéquez",554695,"K'iche'",143396,25.85
+10,"Suchitepéquez",554695,"Kaqchiquel",21368,3.85
+10,"Suchitepéquez",554695,"Mam",5241,0.94
+10,"Suchitepéquez",554695,"Mopan",22,0
+10,"Suchitepéquez",554695,"Poqomam",46,0.01
+10,"Suchitepéquez",554695,"Poqomchi'",75,0.01
+10,"Suchitepéquez",554695,"Q'anjob'al",414,0.07
+10,"Suchitepéquez",554695,"Q'eqchi'",410,0.07
+10,"Suchitepéquez",554695,"Sakapulteka",17,0
+10,"Suchitepéquez",554695,"Sipakapense",6,0
+10,"Suchitepéquez",554695,"Tektiteka",133,0.02
+10,"Suchitepéquez",554695,"Tz'utujil",37015,6.67
+10,"Suchitepéquez",554695,"Uspanteka",41,0.01
+11,"Retalhuleu",326828,"Achi",193,0.06
+11,"Retalhuleu",326828,"Akateka",115,0.04
+11,"Retalhuleu",326828,"Awakateka",4,0
+11,"Retalhuleu",326828,"Ch'orti'",10,0
+11,"Retalhuleu",326828,"Chalchiteka",470,0.14
+11,"Retalhuleu",326828,"Chuj",35,0.01
+11,"Retalhuleu",326828,"Itza'",1,0
+11,"Retalhuleu",326828,"Ixil",929,0.28
+11,"Retalhuleu",326828,"Jakalteko/Popti'",23,0.01
+11,"Retalhuleu",326828,"K'iche'",27278,8.35
+11,"Retalhuleu",326828,"Kaqchiquel",1445,0.44
+11,"Retalhuleu",326828,"Mam",17896,5.48
+11,"Retalhuleu",326828,"Mopan",12,0
+11,"Retalhuleu",326828,"Poqomam",27,0.01
+11,"Retalhuleu",326828,"Poqomchi'",66,0.02
+11,"Retalhuleu",326828,"Q'anjob'al",218,0.07
+11,"Retalhuleu",326828,"Q'eqchi'",102,0.03
+11,"Retalhuleu",326828,"Sakapulteka",8,0
+11,"Retalhuleu",326828,"Sipakapense",8,0
+11,"Retalhuleu",326828,"Tektiteka",8,0
+11,"Retalhuleu",326828,"Tz'utujil",22,0.01
+11,"Retalhuleu",326828,"Uspanteka",1,0
+12,"San Marcos",1032277,"Achi",899,0.09
+12,"San Marcos",1032277,"Akateka",767,0.07
+12,"San Marcos",1032277,"Awakateka",20,0
+12,"San Marcos",1032277,"Ch'orti'",7,0
+12,"San Marcos",1032277,"Chalchiteka",1504,0.15
+12,"San Marcos",1032277,"Chuj",32,0
+12,"San Marcos",1032277,"Itza'",3,0
+12,"San Marcos",1032277,"Ixil",15,0
+12,"San Marcos",1032277,"Jakalteko/Popti'",24,0
+12,"San Marcos",1032277,"K'iche'",2188,0.21
+12,"San Marcos",1032277,"Kaqchiquel",740,0.07
+12,"San Marcos",1032277,"Mam",294097,28.49
+12,"San Marcos",1032277,"Mopan",99,0.01
+12,"San Marcos",1032277,"Poqomam",424,0.04
+12,"San Marcos",1032277,"Poqomchi'",123,0.01
+12,"San Marcos",1032277,"Q'anjob'al",211,0.02
+12,"San Marcos",1032277,"Q'eqchi'",281,0.03
+12,"San Marcos",1032277,"Sakapulteka",39,0
+12,"San Marcos",1032277,"Sipakapense",16383,1.59
+12,"San Marcos",1032277,"Tektiteka",21,0
+12,"San Marcos",1032277,"Tz'utujil",93,0.01
+12,"San Marcos",1032277,"Uspanteka",123,0.01
+13,"Huehuetenango",1170669,"Achi",1656,0.14
+13,"Huehuetenango",1170669,"Akateka",56945,4.86
+13,"Huehuetenango",1170669,"Awakateka",10039,0.86
+13,"Huehuetenango",1170669,"Ch'orti'",110,0.01
+13,"Huehuetenango",1170669,"Chalchiteka",17027,1.45
+13,"Huehuetenango",1170669,"Chuj",89663,7.66
+13,"Huehuetenango",1170669,"Itza'",18,0
+13,"Huehuetenango",1170669,"Ixil",116,0.01
+13,"Huehuetenango",1170669,"Jakalteko/Popti'",52239,4.46
+13,"Huehuetenango",1170669,"K'iche'",27007,2.31
+13,"Huehuetenango",1170669,"Kaqchiquel",828,0.07
+13,"Huehuetenango",1170669,"Mam",316592,27.04
+13,"Huehuetenango",1170669,"Mopan",234,0.02
+13,"Huehuetenango",1170669,"Poqomam",259,0.02
+13,"Huehuetenango",1170669,"Poqomchi'",189,0.02
+13,"Huehuetenango",1170669,"Q'anjob'al",185393,15.84
+13,"Huehuetenango",1170669,"Q'eqchi'",213,0.02
+13,"Huehuetenango",1170669,"Sakapulteka",103,0.01
+13,"Huehuetenango",1170669,"Sipakapense",85,0.01
+13,"Huehuetenango",1170669,"Tektiteka",1858,0.16
+13,"Huehuetenango",1170669,"Tz'utujil",88,0.01
+13,"Huehuetenango",1170669,"Uspanteka",209,0.02
+14,"Quiché",949261,"Achi",4824,0.51
+14,"Quiché",949261,"Akateka",1131,0.12
+14,"Quiché",949261,"Awakateka",359,0.04
+14,"Quiché",949261,"Ch'orti'",61,0.01
+14,"Quiché",949261,"Chalchiteka",448,0.05
+14,"Quiché",949261,"Chuj",642,0.07
+14,"Quiché",949261,"Itza'",39,0
+14,"Quiché",949261,"Ixil",125271,13.2
+14,"Quiché",949261,"Jakalteko/Popti'",1188,0.13
+14,"Quiché",949261,"K'iche'",570985,60.15
+14,"Quiché",949261,"Kaqchiquel",3823,0.4
+14,"Quiché",949261,"Mam",9769,1.03
+14,"Quiché",949261,"Mopan",79,0.01
+14,"Quiché",949261,"Poqomam",425,0.04
+14,"Quiché",949261,"Poqomchi'",19805,2.09
+14,"Quiché",949261,"Q'anjob'al",14264,1.5
+14,"Quiché",949261,"Q'eqchi'",77974,8.21
+14,"Quiché",949261,"Sakapulteka",11080,1.17
+14,"Quiché",949261,"Sipakapense",41,0
+14,"Quiché",949261,"Tektiteka",518,0.05
+14,"Quiché",949261,"Tz'utujil",83,0.01
+14,"Quiché",949261,"Uspanteka",3691,0.39
+15,"Baja Verapaz",299476,"Achi",121340,40.52
+15,"Baja Verapaz",299476,"Akateka",132,0.04
+15,"Baja Verapaz",299476,"Awakateka",5,0
+15,"Baja Verapaz",299476,"Ch'orti'",60,0.02
+15,"Baja Verapaz",299476,"Chalchiteka",454,0.15
+15,"Baja Verapaz",299476,"Chuj",6,0
+15,"Baja Verapaz",299476,"Itza'",15,0.01
+15,"Baja Verapaz",299476,"Ixil",9,0
+15,"Baja Verapaz",299476,"Jakalteko/Popti'",13,0
+15,"Baja Verapaz",299476,"K'iche'",1126,0.38
+15,"Baja Verapaz",299476,"Kaqchiquel",707,0.24
+15,"Baja Verapaz",299476,"Mam",96,0.03
+15,"Baja Verapaz",299476,"Mopan",12,0
+15,"Baja Verapaz",299476,"Poqomam",126,0.04
+15,"Baja Verapaz",299476,"Poqomchi'",22567,7.54
+15,"Baja Verapaz",299476,"Q'anjob'al",10,0
+15,"Baja Verapaz",299476,"Q'eqchi'",33018,11.03
+15,"Baja Verapaz",299476,"Sakapulteka",20,0.01
+15,"Baja Verapaz",299476,"Sipakapense",5,0
+15,"Baja Verapaz",299476,"Tektiteka",8,0
+15,"Baja Verapaz",299476,"Tz'utujil",13,0
+15,"Baja Verapaz",299476,"Uspanteka",4,0
+16,"Alta Verapaz",1215038,"Achi",7467,0.61
+16,"Alta Verapaz",1215038,"Akateka",1332,0.11
+16,"Alta Verapaz",1215038,"Awakateka",68,0.01
+16,"Alta Verapaz",1215038,"Ch'orti'",26,0
+16,"Alta Verapaz",1215038,"Chalchiteka",343,0.03
+16,"Alta Verapaz",1215038,"Chuj",422,0.03
+16,"Alta Verapaz",1215038,"Itza'",405,0.03
+16,"Alta Verapaz",1215038,"Ixil",188,0.02
+16,"Alta Verapaz",1215038,"Jakalteko/Popti'",49,0
+16,"Alta Verapaz",1215038,"K'iche'",2664,0.22
+16,"Alta Verapaz",1215038,"Kaqchiquel",2222,0.18
+16,"Alta Verapaz",1215038,"Mam",2745,0.23
+16,"Alta Verapaz",1215038,"Mopan",283,0.02
+16,"Alta Verapaz",1215038,"Poqomam",1339,0.11
+16,"Alta Verapaz",1215038,"Poqomchi'",128557,10.58
+16,"Alta Verapaz",1215038,"Q'anjob'al",1665,0.14
+16,"Alta Verapaz",1215038,"Q'eqchi'",979220,80.59
+16,"Alta Verapaz",1215038,"Sakapulteka",166,0.01
+16,"Alta Verapaz",1215038,"Sipakapense",76,0.01
+16,"Alta Verapaz",1215038,"Tektiteka",1,0
+16,"Alta Verapaz",1215038,"Tz'utujil",81,0.01
+16,"Alta Verapaz",1215038,"Uspanteka",50,0
+17,"Petén",545600,"Achi",2314,0.42
+17,"Petén",545600,"Akateka",140,0.03
+17,"Petén",545600,"Awakateka",4,0
+17,"Petén",545600,"Ch'orti'",417,0.08
+17,"Petén",545600,"Chalchiteka",464,0.09
+17,"Petén",545600,"Chuj",18,0
+17,"Petén",545600,"Itza'",2181,0.4
+17,"Petén",545600,"Ixil",74,0.01
+17,"Petén",545600,"Jakalteko/Popti'",57,0.01
+17,"Petén",545600,"K'iche'",2746,0.5
+17,"Petén",545600,"Kaqchiquel",3158,0.58
+17,"Petén",545600,"Mam",1433,0.26
+17,"Petén",545600,"Mopan",2218,0.41
+17,"Petén",545600,"Poqomam",363,0.07
+17,"Petén",545600,"Poqomchi'",1312,0.24
+17,"Petén",545600,"Q'anjob'al",295,0.05
+17,"Petén",545600,"Q'eqchi'",147530,27.04
+17,"Petén",545600,"Sakapulteka",31,0.01
+17,"Petén",545600,"Sipakapense",13,0
+17,"Petén",545600,"Tektiteka",4,0
+17,"Petén",545600,"Tz'utujil",24,0
+17,"Petén",545600,"Uspanteka",18,0
+18,"Izabal",408688,"Achi",360,0.09
+18,"Izabal",408688,"Akateka",116,0.03
+18,"Izabal",408688,"Awakateka",4,0
+18,"Izabal",408688,"Ch'orti'",235,0.06
+18,"Izabal",408688,"Chalchiteka",322,0.08
+18,"Izabal",408688,"Chuj",6,0
+18,"Izabal",408688,"Itza'",62,0.02
+18,"Izabal",408688,"Ixil",2,0
+18,"Izabal",408688,"Jakalteko/Popti'",2,0
+18,"Izabal",408688,"K'iche'",2003,0.49
+18,"Izabal",408688,"Kaqchiquel",500,0.12
+18,"Izabal",408688,"Mam",287,0.07
+18,"Izabal",408688,"Mopan",37,0.01
+18,"Izabal",408688,"Poqomam",178,0.04
+18,"Izabal",408688,"Poqomchi'",286,0.07
+18,"Izabal",408688,"Q'anjob'al",29,0.01
+18,"Izabal",408688,"Q'eqchi'",110761,27.1
+18,"Izabal",408688,"Sakapulteka",42,0.01
+18,"Izabal",408688,"Sipakapense",8,0
+18,"Izabal",408688,"Tektiteka",2,0
+18,"Izabal",408688,"Tz'utujil",40,0.01
+18,"Izabal",408688,"Uspanteka",14,0
+19,"Zacapa",245374,"Achi",149,0.06
+19,"Zacapa",245374,"Akateka",31,0.01
+19,"Zacapa",245374,"Awakateka",8,0
+19,"Zacapa",245374,"Ch'orti'",2092,0.85
+19,"Zacapa",245374,"Chalchiteka",894,0.36
+19,"Zacapa",245374,"Chuj",1,0
+19,"Zacapa",245374,"Itza'",1,0
+19,"Zacapa",245374,"Ixil",5,0
+19,"Zacapa",245374,"Jakalteko/Popti'",34,0.01
+19,"Zacapa",245374,"K'iche'",749,0.31
+19,"Zacapa",245374,"Kaqchiquel",250,0.1
+19,"Zacapa",245374,"Mam",178,0.07
+19,"Zacapa",245374,"Mopan",2,0
+19,"Zacapa",245374,"Poqomam",32,0.01
+19,"Zacapa",245374,"Poqomchi'",31,0.01
+19,"Zacapa",245374,"Q'anjob'al",7,0
+19,"Zacapa",245374,"Q'eqchi'",286,0.12
+19,"Zacapa",245374,"Sakapulteka",6,0
+19,"Zacapa",245374,"Sipakapense",0,0
+19,"Zacapa",245374,"Tektiteka",0,0
+19,"Zacapa",245374,"Tz'utujil",10,0
+19,"Zacapa",245374,"Uspanteka",3,0
+20,"Chiquimula",415063,"Achi",334,0.08
+20,"Chiquimula",415063,"Akateka",92,0.02
+20,"Chiquimula",415063,"Awakateka",26,0.01
+20,"Chiquimula",415063,"Ch'orti'",108758,26.2
+20,"Chiquimula",415063,"Chalchiteka",821,0.2
+20,"Chiquimula",415063,"Chuj",26,0.01
+20,"Chiquimula",415063,"Itza'",6,0
+20,"Chiquimula",415063,"Ixil",11,0
+20,"Chiquimula",415063,"Jakalteko/Popti'",10,0
+20,"Chiquimula",415063,"K'iche'",635,0.15
+20,"Chiquimula",415063,"Kaqchiquel",210,0.05
+20,"Chiquimula",415063,"Mam",61,0.01
+20,"Chiquimula",415063,"Mopan",9,0
+20,"Chiquimula",415063,"Poqomam",39,0.01
+20,"Chiquimula",415063,"Poqomchi'",29,0.01
+20,"Chiquimula",415063,"Q'anjob'al",7,0
+20,"Chiquimula",415063,"Q'eqchi'",286,0.07
+20,"Chiquimula",415063,"Sakapulteka",2,0
+20,"Chiquimula",415063,"Sipakapense",0,0
+20,"Chiquimula",415063,"Tektiteka",2,0
+20,"Chiquimula",415063,"Tz'utujil",3,0
+20,"Chiquimula",415063,"Uspanteka",1,0
+21,"Jalapa",342923,"Achi",204,0.06
+21,"Jalapa",342923,"Akateka",150,0.04
+21,"Jalapa",342923,"Awakateka",289,0.08
+21,"Jalapa",342923,"Ch'orti'",51,0.01
+21,"Jalapa",342923,"Chalchiteka",419,0.12
+21,"Jalapa",342923,"Chuj",7,0
+21,"Jalapa",342923,"Itza'",0,0
+21,"Jalapa",342923,"Ixil",8,0
+21,"Jalapa",342923,"Jakalteko/Popti'",0,0
+21,"Jalapa",342923,"K'iche'",984,0.29
+21,"Jalapa",342923,"Kaqchiquel",317,0.09
+21,"Jalapa",342923,"Mam",99,0.03
+21,"Jalapa",342923,"Mopan",8,0
+21,"Jalapa",342923,"Poqomam",22066,6.43
+21,"Jalapa",342923,"Poqomchi'",16,0
+21,"Jalapa",342923,"Q'anjob'al",30,0.01
+21,"Jalapa",342923,"Q'eqchi'",215,0.06
+21,"Jalapa",342923,"Sakapulteka",14,0
+21,"Jalapa",342923,"Sipakapense",3,0
+21,"Jalapa",342923,"Tektiteka",0,0
+21,"Jalapa",342923,"Tz'utujil",5,0
+21,"Jalapa",342923,"Uspanteka",6,0
+22,"Jutiapa",488395,"Achi",219,0.04
+22,"Jutiapa",488395,"Akateka",99,0.02
+22,"Jutiapa",488395,"Awakateka",238,0.05
+22,"Jutiapa",488395,"Ch'orti'",83,0.02
+22,"Jutiapa",488395,"Chalchiteka",783,0.16
+22,"Jutiapa",488395,"Chuj",15,0
+22,"Jutiapa",488395,"Itza'",5,0
+22,"Jutiapa",488395,"Ixil",17,0
+22,"Jutiapa",488395,"Jakalteko/Popti'",24,0
+22,"Jutiapa",488395,"K'iche'",1859,0.38
+22,"Jutiapa",488395,"Kaqchiquel",787,0.16
+22,"Jutiapa",488395,"Mam",140,0.03
+22,"Jutiapa",488395,"Mopan",9,0
+22,"Jutiapa",488395,"Poqomam",85,0.02
+22,"Jutiapa",488395,"Poqomchi'",54,0.01
+22,"Jutiapa",488395,"Q'anjob'al",6,0
+22,"Jutiapa",488395,"Q'eqchi'",308,0.06
+22,"Jutiapa",488395,"Sakapulteka",2,0
+22,"Jutiapa",488395,"Sipakapense",4,0
+22,"Jutiapa",488395,"Tektiteka",0,0
+22,"Jutiapa",488395,"Tz'utujil",29,0.01
+22,"Jutiapa",488395,"Uspanteka",2,0

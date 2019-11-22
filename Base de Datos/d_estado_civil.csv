@@ -1,0 +1,133 @@
+"Código","Departamento","Población de 10 años o más","Estado Civil","Cantidad","Porcentaje de Poblacion"
+1,"Guatemala",2480766,"Soltera(o)",1094982,44.14
+1,"Guatemala",2480766,"Unida(o)",372920,15.03
+1,"Guatemala",2480766,"Casada(o)",819508,33.03
+1,"Guatemala",2480766,"Separada(o)",77057,3.11
+1,"Guatemala",2480766,"Divorciada(o)",18063,0.73
+1,"Guatemala",2480766,"Viuda(o)",98236,3.96
+2,"El Progreso",140244,"Soltera(o)",58770,41.91
+2,"El Progreso",140244,"Unida(o)",28456,20.29
+2,"El Progreso",140244,"Casada(o)",42414,30.24
+2,"El Progreso",140244,"Separada(o)",4042,2.88
+2,"El Progreso",140244,"Divorciada(o)",463,0.33
+2,"El Progreso",140244,"Viuda(o)",6099,4.35
+3,"Sacatepéquez",268123,"Soltera(o)",116815,43.57
+3,"Sacatepéquez",268123,"Unida(o)",32000,11.93
+3,"Sacatepéquez",268123,"Casada(o)",102857,38.36
+3,"Sacatepéquez",268123,"Separada(o)",5839,2.18
+3,"Sacatepéquez",268123,"Divorciada(o)",1064,0.4
+3,"Sacatepéquez",268123,"Viuda(o)",9548,3.56
+4,"Chimaltenango",476012,"Soltera(o)",215855,45.35
+4,"Chimaltenango",476012,"Unida(o)",44548,9.36
+4,"Chimaltenango",476012,"Casada(o)",189102,39.73
+4,"Chimaltenango",476012,"Separada(o)",8067,1.69
+4,"Chimaltenango",476012,"Divorciada(o)",679,0.14
+4,"Chimaltenango",476012,"Viuda(o)",17761,3.73
+5,"Escuintla",578011,"Soltera(o)",238060,41.19
+5,"Escuintla",578011,"Unida(o)",138333,23.93
+5,"Escuintla",578011,"Casada(o)",158902,27.49
+5,"Escuintla",578011,"Separada(o)",18761,3.25
+5,"Escuintla",578011,"Divorciada(o)",1354,0.23
+5,"Escuintla",578011,"Viuda(o)",22601,3.91
+6,"Santa Rosa",311798,"Soltera(o)",134332,43.08
+6,"Santa Rosa",311798,"Unida(o)",66177,21.22
+6,"Santa Rosa",311798,"Casada(o)",88660,28.44
+6,"Santa Rosa",311798,"Separada(o)",9205,2.95
+6,"Santa Rosa",311798,"Divorciada(o)",683,0.22
+6,"Santa Rosa",311798,"Viuda(o)",12741,4.09
+7,"Sololá",331225,"Soltera(o)",147254,44.46
+7,"Sololá",331225,"Unida(o)",52464,15.84
+7,"Sololá",331225,"Casada(o)",113500,34.27
+7,"Sololá",331225,"Separada(o)",5463,1.65
+7,"Sololá",331225,"Divorciada(o)",496,0.15
+7,"Sololá",331225,"Viuda(o)",12048,3.64
+8,"Totonicapán",322967,"Soltera(o)",147789,45.76
+8,"Totonicapán",322967,"Unida(o)",35309,10.93
+8,"Totonicapán",322967,"Casada(o)",121229,37.54
+8,"Totonicapán",322967,"Separada(o)",4545,1.41
+8,"Totonicapán",322967,"Divorciada(o)",435,0.13
+8,"Totonicapán",322967,"Viuda(o)",13660,4.23
+9,"Quetzaltenango",630780,"Soltera(o)",274437,43.51
+9,"Quetzaltenango",630780,"Unida(o)",90593,14.36
+9,"Quetzaltenango",630780,"Casada(o)",222624,35.29
+9,"Quetzaltenango",630780,"Separada(o)",14644,2.32
+9,"Quetzaltenango",630780,"Divorciada(o)",2300,0.36
+9,"Quetzaltenango",630780,"Viuda(o)",26182,4.15
+10,"Suchitepéquez",426595,"Soltera(o)",181852,42.63
+10,"Suchitepéquez",426595,"Unida(o)",70873,16.61
+10,"Suchitepéquez",426595,"Casada(o)",142559,33.42
+10,"Suchitepéquez",426595,"Separada(o)",11869,2.78
+10,"Suchitepéquez",426595,"Divorciada(o)",1092,0.26
+10,"Suchitepéquez",426595,"Viuda(o)",18350,4.3
+11,"Retalhuleu",252798,"Soltera(o)",107424,42.49
+11,"Retalhuleu",252798,"Unida(o)",43041,17.03
+11,"Retalhuleu",252798,"Casada(o)",83575,33.06
+11,"Retalhuleu",252798,"Separada(o)",6781,2.68
+11,"Retalhuleu",252798,"Divorciada(o)",705,0.28
+11,"Retalhuleu",252798,"Viuda(o)",11272,4.46
+12,"San Marcos",772438,"Soltera(o)",331623,42.93
+12,"San Marcos",772438,"Unida(o)",161419,20.9
+12,"San Marcos",772438,"Casada(o)",232351,30.08
+12,"San Marcos",772438,"Separada(o)",16231,2.1
+12,"San Marcos",772438,"Divorciada(o)",1066,0.14
+12,"San Marcos",772438,"Viuda(o)",29748,3.85
+13,"Huehuetenango",856750,"Soltera(o)",353689,41.28
+13,"Huehuetenango",856750,"Unida(o)",202467,23.63
+13,"Huehuetenango",856750,"Casada(o)",255452,29.82
+13,"Huehuetenango",856750,"Separada(o)",16821,1.96
+13,"Huehuetenango",856750,"Divorciada(o)",1036,0.12
+13,"Huehuetenango",856750,"Viuda(o)",27285,3.18
+14,"Quiché",699467,"Soltera(o)",310943,44.45
+14,"Quiché",699467,"Unida(o)",136903,19.57
+14,"Quiché",699467,"Casada(o)",214105,30.61
+14,"Quiché",699467,"Separada(o)",11289,1.61
+14,"Quiché",699467,"Divorciada(o)",808,0.12
+14,"Quiché",699467,"Viuda(o)",25419,3.63
+15,"Baja Verapaz",227505,"Soltera(o)",93079,40.91
+15,"Baja Verapaz",227505,"Unida(o)",39823,17.5
+15,"Baja Verapaz",227505,"Casada(o)",80265,35.28
+15,"Baja Verapaz",227505,"Separada(o)",5573,2.45
+15,"Baja Verapaz",227505,"Divorciada(o)",516,0.23
+15,"Baja Verapaz",227505,"Viuda(o)",8249,3.63
+16,"Alta Verapaz",888978,"Soltera(o)",372745,41.93
+16,"Alta Verapaz",888978,"Unida(o)",163419,18.38
+16,"Alta Verapaz",888978,"Casada(o)",309502,34.82
+16,"Alta Verapaz",888978,"Separada(o)",17718,1.99
+16,"Alta Verapaz",888978,"Divorciada(o)",1219,0.14
+16,"Alta Verapaz",888978,"Viuda(o)",24375,2.74
+17,"Petén",409498,"Soltera(o)",169193,41.32
+17,"Petén",409498,"Unida(o)",105361,25.73
+17,"Petén",409498,"Casada(o)",110568,27
+17,"Petén",409498,"Separada(o)",11878,2.9
+17,"Petén",409498,"Divorciada(o)",794,0.19
+17,"Petén",409498,"Viuda(o)",11704,2.86
+18,"Izabal",314879,"Soltera(o)",135152,42.92
+18,"Izabal",314879,"Unida(o)",79014,25.09
+18,"Izabal",314879,"Casada(o)",79302,25.18
+18,"Izabal",314879,"Separada(o)",9330,2.96
+18,"Izabal",314879,"Divorciada(o)",842,0.27
+18,"Izabal",314879,"Viuda(o)",11239,3.57
+19,"Zacapa",193975,"Soltera(o)",83137,42.86
+19,"Zacapa",193975,"Unida(o)",44550,22.97
+19,"Zacapa",193975,"Casada(o)",50942,26.26
+19,"Zacapa",193975,"Separada(o)",6126,3.16
+19,"Zacapa",193975,"Divorciada(o)",808,0.42
+19,"Zacapa",193975,"Viuda(o)",8412,4.34
+20,"Chiquimula",315537,"Soltera(o)",142046,45.02
+20,"Chiquimula",315537,"Unida(o)",65769,20.84
+20,"Chiquimula",315537,"Casada(o)",86447,27.4
+20,"Chiquimula",315537,"Separada(o)",7232,2.29
+20,"Chiquimula",315537,"Divorciada(o)",647,0.21
+20,"Chiquimula",315537,"Viuda(o)",13396,4.25
+21,"Jalapa",259561,"Soltera(o)",114436,44.09
+21,"Jalapa",259561,"Unida(o)",48969,18.87
+21,"Jalapa",259561,"Casada(o)",76167,29.34
+21,"Jalapa",259561,"Separada(o)",8535,3.29
+21,"Jalapa",259561,"Divorciada(o)",608,0.23
+21,"Jalapa",259561,"Viuda(o)",10846,4.18
+22,"Jutiapa",384728,"Soltera(o)",161615,42.01
+22,"Jutiapa",384728,"Unida(o)",70378,18.29
+22,"Jutiapa",384728,"Casada(o)",121120,31.48
+22,"Jutiapa",384728,"Separada(o)",12457,3.24
+22,"Jutiapa",384728,"Divorciada(o)",994,0.26
+22,"Jutiapa",384728,"Viuda(o)",18164,4.72

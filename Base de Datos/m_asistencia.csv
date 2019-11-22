@@ -1,0 +1,681 @@
+"Código","Municipio","Población de 7 años o más","Situacion","Personas","Porcentaje Asistencia"
+101,"Guatemala",823541,"Asiste",258321,31.37
+101,"Guatemala",823541,"No asiste",565220,68.63
+102,"Santa Catarina Pinula",70958,"Asiste",22646,31.91
+102,"Santa Catarina Pinula",70958,"No asiste",48312,68.09
+103,"San José Pinula",68509,"Asiste",22256,32.49
+103,"San José Pinula",68509,"No asiste",46253,67.51
+104,"San José del Golfo",6206,"Asiste",1689,27.22
+104,"San José del Golfo",6206,"No asiste",4517,72.78
+105,"Palencia",59630,"Asiste",15891,26.65
+105,"Palencia",59630,"No asiste",43739,73.35
+106,"Chinautla",98780,"Asiste",31827,32.22
+106,"Chinautla",98780,"No asiste",66953,67.78
+107,"San Pedro Ayampuc",50043,"Asiste",14758,29.49
+107,"San Pedro Ayampuc",50043,"No asiste",35285,70.51
+108,"Mixco",413084,"Asiste",132360,32.04
+108,"Mixco",413084,"No asiste",280724,67.96
+109,"San Pedro Sacatepéquez",43666,"Asiste",12843,29.41
+109,"San Pedro Sacatepéquez",43666,"No asiste",30823,70.59
+110,"San Juan Sacatepéquez",184474,"Asiste",54231,29.4
+110,"San Juan Sacatepéquez",184474,"No asiste",130243,70.6
+111,"San Raymundo",26643,"Asiste",7178,26.94
+111,"San Raymundo",26643,"No asiste",19465,73.06
+112,"Chuarrancho",10555,"Asiste",2773,26.27
+112,"Chuarrancho",10555,"No asiste",7782,73.73
+113,"Fraijanes",52138,"Asiste",15841,30.38
+113,"Fraijanes",52138,"No asiste",36297,69.62
+114,"Amatitlán",100917,"Asiste",31350,31.07
+114,"Amatitlán",100917,"No asiste",69567,68.93
+115,"Villa Nueva",378827,"Asiste",125228,33.06
+115,"Villa Nueva",378827,"No asiste",253599,66.94
+116,"Villa Canales",133606,"Asiste",39968,29.91
+116,"Villa Canales",133606,"No asiste",93638,70.09
+117,"San Miguel Petapa",119532,"Asiste",40457,33.85
+117,"San Miguel Petapa",119532,"No asiste",79075,66.15
+201,"Guastatoya",21686,"Asiste",6446,29.72
+201,"Guastatoya",21686,"No asiste",15240,70.28
+202,"Morazán",10512,"Asiste",2521,23.98
+202,"Morazán",10512,"No asiste",7991,76.02
+203,"San Agustín Acasaguastlán",38035,"Asiste",11445,30.09
+203,"San Agustín Acasaguastlán",38035,"No asiste",26590,69.91
+204,"San Cristóbal Acasaguastlán",6227,"Asiste",1837,29.5
+204,"San Cristóbal Acasaguastlán",6227,"No asiste",4390,70.5
+205,"El Jícaro",11426,"Asiste",2959,25.9
+205,"El Jícaro",11426,"No asiste",8467,74.1
+206,"Sansare",11416,"Asiste",3124,27.37
+206,"Sansare",11416,"No asiste",8292,72.63
+207,"Sanarate",34148,"Asiste",9656,28.28
+207,"Sanarate",34148,"No asiste",24492,71.72
+208,"San Antonio la Paz",17751,"Asiste",4730,26.65
+208,"San Antonio la Paz",17751,"No asiste",13021,73.35
+301,"Antigua Guatemala",40973,"Asiste",12215,29.81
+301,"Antigua Guatemala",40973,"No asiste",28758,70.19
+302,"Jocotenango",19292,"Asiste",6175,32.01
+302,"Jocotenango",19292,"No asiste",13117,67.99
+303,"Pastores",15433,"Asiste",4588,29.73
+303,"Pastores",15433,"No asiste",10845,70.27
+304,"Sumpango",31813,"Asiste",8611,27.07
+304,"Sumpango",31813,"No asiste",23202,72.93
+305,"Santo Domingo Xenacoj",10585,"Asiste",3155,29.81
+305,"Santo Domingo Xenacoj",10585,"No asiste",7430,70.19
+306,"Santiago Sacatepéquez",25291,"Asiste",7265,28.73
+306,"Santiago Sacatepéquez",25291,"No asiste",18026,71.27
+307,"San Bartolomé Milpas Altas",6831,"Asiste",2475,36.23
+307,"San Bartolomé Milpas Altas",6831,"No asiste",4356,63.77
+308,"San Lucas Sacatepéquez",20577,"Asiste",6893,33.5
+308,"San Lucas Sacatepéquez",20577,"No asiste",13684,66.5
+309,"Santa Lucía Milpas Altas",13662,"Asiste",4337,31.74
+309,"Santa Lucía Milpas Altas",13662,"No asiste",9325,68.26
+310,"Magdalena Milpas Altas",10365,"Asiste",3159,30.48
+310,"Magdalena Milpas Altas",10365,"No asiste",7206,69.52
+311,"Santa María de Jesús",18454,"Asiste",4444,24.08
+311,"Santa María de Jesús",18454,"No asiste",14010,75.92
+312,"Ciudad Vieja",29121,"Asiste",8237,28.29
+312,"Ciudad Vieja",29121,"No asiste",20884,71.71
+313,"San Miguel Dueñas",10985,"Asiste",3074,27.98
+313,"San Miguel Dueñas",10985,"No asiste",7911,72.02
+314,"San Juan Alotenango",20473,"Asiste",5785,28.26
+314,"San Juan Alotenango",20473,"No asiste",14688,71.74
+315,"San Antonio Aguas Calientes",9900,"Asiste",2944,29.74
+315,"San Antonio Aguas Calientes",9900,"No asiste",6956,70.26
+316,"Santa Catarina Barahona",3546,"Asiste",995,28.06
+316,"Santa Catarina Barahona",3546,"No asiste",2551,71.94
+401,"Chimaltenango",83554,"Asiste",26829,32.11
+401,"Chimaltenango",83554,"No asiste",56725,67.89
+402,"San José Poaquil",22856,"Asiste",6049,26.47
+402,"San José Poaquil",22856,"No asiste",16807,73.53
+403,"San Martín Jilotepeque",61676,"Asiste",16247,26.34
+403,"San Martín Jilotepeque",61676,"No asiste",45429,73.66
+404,"San Juan Comalapa",41229,"Asiste",12250,29.71
+404,"San Juan Comalapa",41229,"No asiste",28979,70.29
+405,"Santa Apolonia",15016,"Asiste",3854,25.67
+405,"Santa Apolonia",15016,"No asiste",11162,74.33
+406,"Tecpán Guatemala",75219,"Asiste",20491,27.24
+406,"Tecpán Guatemala",75219,"No asiste",54728,72.76
+407,"Patzún",49017,"Asiste",12486,25.47
+407,"Patzún",49017,"No asiste",36531,74.53
+408,"San Miguel Pochuta",7463,"Asiste",2335,31.29
+408,"San Miguel Pochuta",7463,"No asiste",5128,68.71
+409,"Patzicía",28069,"Asiste",6902,24.59
+409,"Patzicía",28069,"No asiste",21167,75.41
+410,"Santa Cruz Balanyá",7931,"Asiste",2380,30.01
+410,"Santa Cruz Balanyá",7931,"No asiste",5551,69.99
+411,"Acatenango",19335,"Asiste",5121,26.49
+411,"Acatenango",19335,"No asiste",14214,73.51
+412,"San Pedro Yepocapa",28758,"Asiste",8684,30.2
+412,"San Pedro Yepocapa",28758,"No asiste",20074,69.8
+413,"San Andrés Itzapa",26742,"Asiste",7219,26.99
+413,"San Andrés Itzapa",26742,"No asiste",19523,73.01
+414,"Parramos",13554,"Asiste",4106,30.29
+414,"Parramos",13554,"No asiste",9448,69.71
+415,"Zaragoza",20166,"Asiste",5891,29.21
+415,"Zaragoza",20166,"No asiste",14275,70.79
+416,"El Tejar",16775,"Asiste",5211,31.06
+416,"El Tejar",16775,"No asiste",11564,68.94
+501,"Escuintla",135581,"Asiste",39006,28.77
+501,"Escuintla",135581,"No asiste",96575,71.23
+502,"Santa Lucía Cotzumalguapa",95804,"Asiste",26397,27.55
+502,"Santa Lucía Cotzumalguapa",95804,"No asiste",69407,72.45
+503,"La Democracia",19293,"Asiste",5398,27.98
+503,"La Democracia",19293,"No asiste",13895,72.02
+504,"Siquinalá",19307,"Asiste",5639,29.21
+504,"Siquinalá",19307,"No asiste",13668,70.79
+505,"Masagua",38004,"Asiste",10960,28.84
+505,"Masagua",38004,"No asiste",27044,71.16
+506,"Tiquisate",48081,"Asiste",12042,25.05
+506,"Tiquisate",48081,"No asiste",36039,74.95
+507,"La Gomera",39179,"Asiste",10006,25.54
+507,"La Gomera",39179,"No asiste",29173,74.46
+508,"Guanagazapa",13346,"Asiste",4152,31.11
+508,"Guanagazapa",13346,"No asiste",9194,68.89
+509,"San José",53388,"Asiste",14226,26.65
+509,"San José",53388,"No asiste",39162,73.35
+510,"Iztapa",15581,"Asiste",3844,24.67
+510,"Iztapa",15581,"No asiste",11737,75.33
+511,"Palín",56334,"Asiste",17545,31.14
+511,"Palín",56334,"No asiste",38789,68.86
+512,"San Vicente Pacaya",14221,"Asiste",4016,28.24
+512,"San Vicente Pacaya",14221,"No asiste",10205,71.76
+513,"Nueva Concepción",61150,"Asiste",14826,24.25
+513,"Nueva Concepción",61150,"No asiste",46324,75.75
+514,"Sipacate",13740,"Asiste",3288,23.93
+514,"Sipacate",13740,"No asiste",10452,76.07
+601,"Cuilapa",35176,"Asiste",10674,30.34
+601,"Cuilapa",35176,"No asiste",24502,69.66
+602,"Barberena",49388,"Asiste",14522,29.4
+602,"Barberena",49388,"No asiste",34866,70.6
+603,"Santa Rosa de Lima",16734,"Asiste",4848,28.97
+603,"Santa Rosa de Lima",16734,"No asiste",11886,71.03
+604,"Casillas",21176,"Asiste",5356,25.29
+604,"Casillas",21176,"No asiste",15820,74.71
+605,"San Rafael las Flores",10535,"Asiste",2800,26.58
+605,"San Rafael las Flores",10535,"No asiste",7735,73.42
+606,"Oratorio",21058,"Asiste",6218,29.53
+606,"Oratorio",21058,"No asiste",14840,70.47
+607,"San Juan Tecuaco",8476,"Asiste",2972,35.06
+607,"San Juan Tecuaco",8476,"No asiste",5504,64.94
+608,"Chiquimulilla",45898,"Asiste",13163,28.68
+608,"Chiquimulilla",45898,"No asiste",32735,71.32
+609,"Taxisco",25394,"Asiste",7244,28.53
+609,"Taxisco",25394,"No asiste",18150,71.47
+610,"Santa María Ixhuatán",20106,"Asiste",5698,28.34
+610,"Santa María Ixhuatán",20106,"No asiste",14408,71.66
+611,"Guazacapán",15935,"Asiste",4828,30.3
+611,"Guazacapán",15935,"No asiste",11107,69.7
+612,"Santa Cruz Naranjo",13984,"Asiste",3993,28.55
+612,"Santa Cruz Naranjo",13984,"No asiste",9991,71.45
+613,"Pueblo Nuevo Viñas",21419,"Asiste",5825,27.2
+613,"Pueblo Nuevo Viñas",21419,"No asiste",15594,72.8
+614,"Nueva Santa Rosa",31041,"Asiste",8687,27.99
+614,"Nueva Santa Rosa",31041,"No asiste",22354,72.01
+701,"Sololá",75102,"Asiste",21265,28.31
+701,"Sololá",75102,"No asiste",53837,71.69
+702,"San José Chacayá",3387,"Asiste",1103,32.57
+702,"San José Chacayá",3387,"No asiste",2284,67.43
+703,"Santa María Visitación",2059,"Asiste",686,33.32
+703,"Santa María Visitación",2059,"No asiste",1373,66.68
+704,"Santa Lucía Utatlán",18358,"Asiste",4910,26.75
+704,"Santa Lucía Utatlán",18358,"No asiste",13448,73.25
+705,"Nahualá",63409,"Asiste",16648,26.25
+705,"Nahualá",63409,"No asiste",46761,73.75
+706,"Santa Catarina Ixtahuacán",47679,"Asiste",13379,28.06
+706,"Santa Catarina Ixtahuacán",47679,"No asiste",34300,71.94
+707,"Santa Clara la Laguna",8071,"Asiste",2342,29.02
+707,"Santa Clara la Laguna",8071,"No asiste",5729,70.98
+708,"Concepción",5437,"Asiste",1417,26.06
+708,"Concepción",5437,"No asiste",4020,73.94
+709,"San Andrés Semetabaj",11114,"Asiste",3336,30.02
+709,"San Andrés Semetabaj",11114,"No asiste",7778,69.98
+710,"Panajachel",13068,"Asiste",4290,32.83
+710,"Panajachel",13068,"No asiste",8778,67.17
+711,"Santa Catarina Palopó",3323,"Asiste",1026,30.88
+711,"Santa Catarina Palopó",3323,"No asiste",2297,69.12
+712,"San Antonio Palopó",12242,"Asiste",3013,24.61
+712,"San Antonio Palopó",12242,"No asiste",9229,75.39
+713,"San Lucas Tolimán",25377,"Asiste",7652,30.15
+713,"San Lucas Tolimán",25377,"No asiste",17725,69.85
+714,"Santa Cruz la Laguna",4846,"Asiste",1339,27.63
+714,"Santa Cruz la Laguna",4846,"No asiste",3507,72.37
+715,"San Pablo la Laguna",6329,"Asiste",1704,26.92
+715,"San Pablo la Laguna",6329,"No asiste",4625,73.08
+716,"San Marcos la Laguna",2298,"Asiste",643,27.98
+716,"San Marcos la Laguna",2298,"No asiste",1655,72.02
+717,"San Juan la Laguna",10300,"Asiste",3169,30.77
+717,"San Juan la Laguna",10300,"No asiste",7131,69.23
+718,"San Pedro la Laguna",9447,"Asiste",2570,27.2
+718,"San Pedro la Laguna",9447,"No asiste",6877,72.8
+719,"Santiago Atitlán",36611,"Asiste",7602,20.76
+719,"Santiago Atitlán",36611,"No asiste",29009,79.24
+801,"Totonicapán",90604,"Asiste",24102,26.6
+801,"Totonicapán",90604,"No asiste",66502,73.4
+802,"San Cristóbal Totonicapán",31310,"Asiste",7349,23.47
+802,"San Cristóbal Totonicapán",31310,"No asiste",23961,76.53
+803,"San Francisco el Alto",49012,"Asiste",11085,22.62
+803,"San Francisco el Alto",49012,"No asiste",37927,77.38
+804,"San Andrés Xecul",22806,"Asiste",5621,24.65
+804,"San Andrés Xecul",22806,"No asiste",17185,75.35
+805,"Momostenango",86389,"Asiste",23768,27.51
+805,"Momostenango",86389,"No asiste",62621,72.49
+806,"Santa María Chiquimula",44425,"Asiste",10756,24.21
+806,"Santa María Chiquimula",44425,"No asiste",33669,75.79
+807,"Santa Lucía la Reforma",17677,"Asiste",4443,25.13
+807,"Santa Lucía la Reforma",17677,"No asiste",13234,74.87
+808,"San Bartolo Aguas Calientes",8596,"Asiste",2516,29.27
+808,"San Bartolo Aguas Calientes",8596,"No asiste",6080,70.73
+901,"Quetzaltenango",158834,"Asiste",52268,32.91
+901,"Quetzaltenango",158834,"No asiste",106566,67.09
+902,"Salcajá",17024,"Asiste",5251,30.84
+902,"Salcajá",17024,"No asiste",11773,69.16
+903,"San Juan Olintepeque",29934,"Asiste",9388,31.36
+903,"San Juan Olintepeque",29934,"No asiste",20546,68.64
+904,"San Carlos Sija",25812,"Asiste",6961,26.97
+904,"San Carlos Sija",25812,"No asiste",18851,73.03
+905,"Sibilia",7094,"Asiste",1757,24.77
+905,"Sibilia",7094,"No asiste",5337,75.23
+906,"Cabricán",19462,"Asiste",5972,30.69
+906,"Cabricán",19462,"No asiste",13490,69.31
+907,"Cajolá",11908,"Asiste",3149,26.44
+907,"Cajolá",11908,"No asiste",8759,73.56
+908,"San Miguel Siguilá",6369,"Asiste",1912,30.02
+908,"San Miguel Siguilá",6369,"No asiste",4457,69.98
+909,"San Juan Ostuncalco",42771,"Asiste",11878,27.77
+909,"San Juan Ostuncalco",42771,"No asiste",30893,72.23
+910,"San Mateo",6756,"Asiste",2198,32.53
+910,"San Mateo",6756,"No asiste",4558,67.47
+911,"Concepción Chiquirichapa",14424,"Asiste",4003,27.75
+911,"Concepción Chiquirichapa",14424,"No asiste",10421,72.25
+912,"San Martín Sacatepéquez",24031,"Asiste",6168,25.67
+912,"San Martín Sacatepéquez",24031,"No asiste",17863,74.33
+913,"Almolonga",13874,"Asiste",2356,16.98
+913,"Almolonga",13874,"No asiste",11518,83.02
+914,"Cantel",36428,"Asiste",10601,29.1
+914,"Cantel",36428,"No asiste",25827,70.9
+915,"Huitán",10758,"Asiste",3055,28.4
+915,"Huitán",10758,"No asiste",7703,71.6
+916,"Zunil",12341,"Asiste",2467,19.99
+916,"Zunil",12341,"No asiste",9874,80.01
+917,"Colomba Costa Cuca",40012,"Asiste",11060,27.64
+917,"Colomba Costa Cuca",40012,"No asiste",28952,72.36
+918,"San Francisco la Unión",6753,"Asiste",1764,26.12
+918,"San Francisco la Unión",6753,"No asiste",4989,73.88
+919,"El Palmar",24362,"Asiste",7343,30.14
+919,"El Palmar",24362,"No asiste",17019,69.86
+920,"Coatepeque",89886,"Asiste",25236,28.08
+920,"Coatepeque",89886,"No asiste",64650,71.92
+921,"Génova",31049,"Asiste",7960,25.64
+921,"Génova",31049,"No asiste",23089,74.36
+922,"Flores Costa Cuca",18371,"Asiste",4936,26.87
+922,"Flores Costa Cuca",18371,"No asiste",13435,73.13
+923,"La Esperanza",19218,"Asiste",6239,32.46
+923,"La Esperanza",19218,"No asiste",12979,67.54
+924,"Palestina de los Altos",13087,"Asiste",3236,24.73
+924,"Palestina de los Altos",13087,"No asiste",9851,75.27
+1001,"Mazatenango",66157,"Asiste",19171,28.98
+1001,"Mazatenango",66157,"No asiste",46986,71.02
+1002,"Cuyotenango",28025,"Asiste",8132,29.02
+1002,"Cuyotenango",28025,"No asiste",19893,70.98
+1003,"San Francisco Zapotitlán",19113,"Asiste",5364,28.06
+1003,"San Francisco Zapotitlán",19113,"No asiste",13749,71.94
+1004,"San Bernardino",13193,"Asiste",3864,29.29
+1004,"San Bernardino",13193,"No asiste",9329,70.71
+1005,"San José el Ídolo",8469,"Asiste",2372,28.01
+1005,"San José el Ídolo",8469,"No asiste",6097,71.99
+1006,"Santo Domingo Suchitepéquez",35103,"Asiste",9796,27.91
+1006,"Santo Domingo Suchitepéquez",35103,"No asiste",25307,72.09
+1007,"San Lorenzo",11099,"Asiste",3212,28.94
+1007,"San Lorenzo",11099,"No asiste",7887,71.06
+1008,"Samayac",21131,"Asiste",6054,28.65
+1008,"Samayac",21131,"No asiste",15077,71.35
+1009,"San Pablo Jocopilas",17457,"Asiste",4355,24.95
+1009,"San Pablo Jocopilas",17457,"No asiste",13102,75.05
+1010,"San Antonio Suchitepéquez",48964,"Asiste",13740,28.06
+1010,"San Antonio Suchitepéquez",48964,"No asiste",35224,71.94
+1011,"San Miguel Panán",8400,"Asiste",2273,27.06
+1011,"San Miguel Panán",8400,"No asiste",6127,72.94
+1012,"San Gabriel",6214,"Asiste",1972,31.73
+1012,"San Gabriel",6214,"No asiste",4242,68.27
+1013,"Chicacao",49666,"Asiste",13967,28.12
+1013,"Chicacao",49666,"No asiste",35699,71.88
+1014,"Patulul",34020,"Asiste",9362,27.52
+1014,"Patulul",34020,"No asiste",24658,72.48
+1015,"Santa Bárbara",21612,"Asiste",5628,26.04
+1015,"Santa Bárbara",21612,"No asiste",15984,73.96
+1016,"San Juan Bautista",6454,"Asiste",1841,28.52
+1016,"San Juan Bautista",6454,"No asiste",4613,71.48
+1017,"Santo Tomas la Unión",10118,"Asiste",2847,28.14
+1017,"Santo Tomas la Unión",10118,"No asiste",7271,71.86
+1018,"Zunilito",7053,"Asiste",2102,29.8
+1018,"Zunilito",7053,"No asiste",4951,70.2
+1019,"Pueblo Nuevo",9586,"Asiste",2638,27.52
+1019,"Pueblo Nuevo",9586,"No asiste",6948,72.48
+1020,"Río Bravo",22733,"Asiste",6194,27.25
+1020,"Río Bravo",22733,"No asiste",16539,72.75
+1021,"San José La Máquina",18997,"Asiste",5014,26.39
+1021,"San José La Máquina",18997,"No asiste",13983,73.61
+1101,"Retalhuleu",76688,"Asiste",22046,28.75
+1101,"Retalhuleu",76688,"No asiste",54642,71.25
+1102,"San Sebastián",24897,"Asiste",7421,29.81
+1102,"San Sebastián",24897,"No asiste",17476,70.19
+1103,"Santa Cruz Muluá",11360,"Asiste",3383,29.78
+1103,"Santa Cruz Muluá",11360,"No asiste",7977,70.22
+1104,"San Martín Zapotitlán",10200,"Asiste",3277,32.13
+1104,"San Martín Zapotitlán",10200,"No asiste",6923,67.87
+1105,"San Felipe",20609,"Asiste",6116,29.68
+1105,"San Felipe",20609,"No asiste",14493,70.32
+1106,"San Andrés Villa Seca",39034,"Asiste",11126,28.5
+1106,"San Andrés Villa Seca",39034,"No asiste",27908,71.5
+1107,"Champerico",27229,"Asiste",7229,26.55
+1107,"Champerico",27229,"No asiste",20000,73.45
+1108,"Nuevo San Carlos",33301,"Asiste",10105,30.34
+1108,"Nuevo San Carlos",33301,"No asiste",23196,69.66
+1109,"El Asintal",31031,"Asiste",8972,28.91
+1109,"El Asintal",31031,"No asiste",22059,71.09
+1201,"San Marcos",40156,"Asiste",13699,34.11
+1201,"San Marcos",40156,"No asiste",26457,65.89
+1202,"San Pedro Sacatepéquez",67734,"Asiste",21090,31.14
+1202,"San Pedro Sacatepéquez",67734,"No asiste",46644,68.86
+1203,"San Antonio Sacatepéquez",15824,"Asiste",4910,31.03
+1203,"San Antonio Sacatepéquez",15824,"No asiste",10914,68.97
+1204,"Comitancillo",47203,"Asiste",16595,35.16
+1204,"Comitancillo",47203,"No asiste",30608,64.84
+1205,"San Miguel Ixtahuacán",37037,"Asiste",12155,32.82
+1205,"San Miguel Ixtahuacán",37037,"No asiste",24882,67.18
+1206,"Concepción Tutuapa",53114,"Asiste",15647,29.46
+1206,"Concepción Tutuapa",53114,"No asiste",37467,70.54
+1207,"Tacaná",62127,"Asiste",17195,27.68
+1207,"Tacaná",62127,"No asiste",44932,72.32
+1208,"Sibinal",12829,"Asiste",4354,33.94
+1208,"Sibinal",12829,"No asiste",8475,66.06
+1209,"Tajumulco",40307,"Asiste",10407,25.82
+1209,"Tajumulco",40307,"No asiste",29900,74.18
+1210,"Tejutla",31178,"Asiste",8780,28.16
+1210,"Tejutla",31178,"No asiste",22398,71.84
+1211,"San Rafael Pie de la Cuesta",14546,"Asiste",4591,31.56
+1211,"San Rafael Pie de la Cuesta",14546,"No asiste",9955,68.44
+1212,"Nuevo Progreso",25223,"Asiste",7178,28.46
+1212,"Nuevo Progreso",25223,"No asiste",18045,71.54
+1213,"El Tumbador",36986,"Asiste",9960,26.93
+1213,"El Tumbador",36986,"No asiste",27026,73.07
+1214,"San José el Rodeo",14994,"Asiste",4098,27.33
+1214,"San José el Rodeo",14994,"No asiste",10896,72.67
+1215,"Malacatán",77289,"Asiste",20542,26.58
+1215,"Malacatán",77289,"No asiste",56747,73.42
+1216,"Catarina",25409,"Asiste",7065,27.81
+1216,"Catarina",25409,"No asiste",18344,72.19
+1217,"Ayutla",30949,"Asiste",7868,25.42
+1217,"Ayutla",30949,"No asiste",23081,74.58
+1218,"Ocós",9005,"Asiste",2058,22.85
+1218,"Ocós",9005,"No asiste",6947,77.15
+1219,"San Pablo",40756,"Asiste",11277,27.67
+1219,"San Pablo",40756,"No asiste",29479,72.33
+1220,"El Quetzal",19358,"Asiste",4969,25.67
+1220,"El Quetzal",19358,"No asiste",14389,74.33
+1221,"La Reforma",14929,"Asiste",4124,27.62
+1221,"La Reforma",14929,"No asiste",10805,72.38
+1222,"Pajapita",18310,"Asiste",5164,28.2
+1222,"Pajapita",18310,"No asiste",13146,71.8
+1223,"Ixchiguán",17944,"Asiste",5113,28.49
+1223,"Ixchiguán",17944,"No asiste",12831,71.51
+1224,"San José Ojetenam",15559,"Asiste",4067,26.14
+1224,"San José Ojetenam",15559,"No asiste",11492,73.86
+1225,"San Cristóbal Cucho",13715,"Asiste",3399,24.78
+1225,"San Cristóbal Cucho",13715,"No asiste",10316,75.22
+1226,"Sipacapa",15951,"Asiste",5521,34.61
+1226,"Sipacapa",15951,"No asiste",10430,65.39
+1227,"Esquipulas Palo Gordo",10687,"Asiste",3381,31.64
+1227,"Esquipulas Palo Gordo",10687,"No asiste",7306,68.36
+1228,"Río Blanco",4468,"Asiste",1403,31.4
+1228,"Río Blanco",4468,"No asiste",3065,68.6
+1229,"San Lorenzo",10792,"Asiste",3626,33.6
+1229,"San Lorenzo",10792,"No asiste",7166,66.4
+1230,"La Blanca",23936,"Asiste",6040,25.23
+1230,"La Blanca",23936,"No asiste",17896,74.77
+1301,"Huehuetenango",101248,"Asiste",33154,32.75
+1301,"Huehuetenango",101248,"No asiste",68094,67.25
+1302,"Chiantla",71571,"Asiste",17568,24.55
+1302,"Chiantla",71571,"No asiste",54003,75.45
+1303,"Malacatancito",15959,"Asiste",4575,28.67
+1303,"Malacatancito",15959,"No asiste",11384,71.33
+1304,"Cuilco",48184,"Asiste",10167,21.1
+1304,"Cuilco",48184,"No asiste",38017,78.9
+1305,"Nentón",36210,"Asiste",8249,22.78
+1305,"Nentón",36210,"No asiste",27961,77.22
+1306,"San Pedro Necta",31377,"Asiste",7844,25
+1306,"San Pedro Necta",31377,"No asiste",23533,75
+1307,"Jacaltenango",31398,"Asiste",8057,25.66
+1307,"Jacaltenango",31398,"No asiste",23341,74.34
+1308,"San Pedro Soloma",38459,"Asiste",10842,28.19
+1308,"San Pedro Soloma",38459,"No asiste",27617,71.81
+1309,"San Ildefonso Ixtahuacán",35055,"Asiste",9144,26.08
+1309,"San Ildefonso Ixtahuacán",35055,"No asiste",25911,73.92
+1310,"Santa Bárbara",26634,"Asiste",6362,23.89
+1310,"Santa Bárbara",26634,"No asiste",20272,76.11
+1311,"La Libertad",30972,"Asiste",6652,21.48
+1311,"La Libertad",30972,"No asiste",24320,78.52
+1312,"La Democracia",45266,"Asiste",10358,22.88
+1312,"La Democracia",45266,"No asiste",34908,77.12
+1313,"San Miguel Acatán",21024,"Asiste",5283,25.13
+1313,"San Miguel Acatán",21024,"No asiste",15741,74.87
+1314,"San Rafael La Independencia",11050,"Asiste",2865,25.93
+1314,"San Rafael La Independencia",11050,"No asiste",8185,74.07
+1315,"Todos Santos Cuchumatán",24373,"Asiste",5292,21.71
+1315,"Todos Santos Cuchumatán",24373,"No asiste",19081,78.29
+1316,"San Juan Atitán",15907,"Asiste",3147,19.78
+1316,"San Juan Atitán",15907,"No asiste",12760,80.22
+1317,"Santa Eulalia",30707,"Asiste",8596,27.99
+1317,"Santa Eulalia",30707,"No asiste",22111,72.01
+1318,"San Mateo Ixtatán",34097,"Asiste",8996,26.38
+1318,"San Mateo Ixtatán",34097,"No asiste",25101,73.62
+1319,"Colotenango",27302,"Asiste",6715,24.6
+1319,"Colotenango",27302,"No asiste",20587,75.4
+1320,"San Sebastián Huehuetenango",26261,"Asiste",6693,25.49
+1320,"San Sebastián Huehuetenango",26261,"No asiste",19568,74.51
+1321,"Tectitán",8708,"Asiste",2374,27.26
+1321,"Tectitán",8708,"No asiste",6334,72.74
+1322,"Concepción Huista",15045,"Asiste",3451,22.94
+1322,"Concepción Huista",15045,"No asiste",11594,77.06
+1323,"San Juan Ixcoy",18192,"Asiste",5145,28.28
+1323,"San Juan Ixcoy",18192,"No asiste",13047,71.72
+1324,"San Antonio Huista",13969,"Asiste",3410,24.41
+1324,"San Antonio Huista",13969,"No asiste",10559,75.59
+1325,"San Sebastián Coatán",16769,"Asiste",4262,25.42
+1325,"San Sebastián Coatán",16769,"No asiste",12507,74.58
+1326,"Santa Cruz Barillas",79492,"Asiste",21178,26.64
+1326,"Santa Cruz Barillas",79492,"No asiste",58314,73.36
+1327,"Aguacatán",41339,"Asiste",9833,23.79
+1327,"Aguacatán",41339,"No asiste",31506,76.21
+1328,"San Rafael Petzal",9198,"Asiste",2505,27.23
+1328,"San Rafael Petzal",9198,"No asiste",6693,72.77
+1329,"San Gaspar Ixchil",6270,"Asiste",1519,24.23
+1329,"San Gaspar Ixchil",6270,"No asiste",4751,75.77
+1330,"Santiago Chimaltenango",8813,"Asiste",1702,19.31
+1330,"Santiago Chimaltenango",8813,"No asiste",7111,80.69
+1331,"Santa Ana Huista",7886,"Asiste",1857,23.55
+1331,"Santa Ana Huista",7886,"No asiste",6029,76.45
+1332,"Unión Cantinil",12954,"Asiste",2670,20.61
+1332,"Unión Cantinil",12954,"No asiste",10284,79.39
+1333,"Petatán",5027,"Asiste",1217,24.21
+1333,"Petatán",5027,"No asiste",3810,75.79
+1401,"Santa Cruz del Quiché",66028,"Asiste",19877,30.1
+1401,"Santa Cruz del Quiché",66028,"No asiste",46151,69.9
+1402,"Chiché",24260,"Asiste",5672,23.38
+1402,"Chiché",24260,"No asiste",18588,76.62
+1403,"Chinique",9486,"Asiste",2789,29.4
+1403,"Chinique",9486,"No asiste",6697,70.6
+1404,"Zacualpa",26816,"Asiste",6381,23.8
+1404,"Zacualpa",26816,"No asiste",20435,76.2
+1405,"Chajul",37842,"Asiste",10652,28.15
+1405,"Chajul",37842,"No asiste",27190,71.85
+1406,"Santo Tomás Chichicastenango",118034,"Asiste",28257,23.94
+1406,"Santo Tomás Chichicastenango",118034,"No asiste",89777,76.06
+1407,"Patzité",4962,"Asiste",1331,26.82
+1407,"Patzité",4962,"No asiste",3631,73.18
+1408,"San Antonio Ilotenango",20228,"Asiste",5289,26.15
+1408,"San Antonio Ilotenango",20228,"No asiste",14939,73.85
+1409,"San Pedro Jocopilas",25942,"Asiste",5935,22.88
+1409,"San Pedro Jocopilas",25942,"No asiste",20007,77.12
+1410,"Cunén",32786,"Asiste",10166,31.01
+1410,"Cunén",32786,"No asiste",22620,68.99
+1411,"San Juan Cotzal",25617,"Asiste",8639,33.72
+1411,"San Juan Cotzal",25617,"No asiste",16978,66.28
+1412,"Joyabaj",65399,"Asiste",15354,23.48
+1412,"Joyabaj",65399,"No asiste",50045,76.52
+1413,"Santa María Nebaj",60822,"Asiste",18460,30.35
+1413,"Santa María Nebaj",60822,"No asiste",42362,69.65
+1414,"San Andrés Sajcabajá",20824,"Asiste",4800,23.05
+1414,"San Andrés Sajcabajá",20824,"No asiste",16024,76.95
+1415,"San Miguel Uspantán",52438,"Asiste",15788,30.11
+1415,"San Miguel Uspantán",52438,"No asiste",36650,69.89
+1416,"Sacapulas",42951,"Asiste",10978,25.56
+1416,"Sacapulas",42951,"No asiste",31973,74.44
+1417,"San Bartolomé Jocotenango",10860,"Asiste",2661,24.5
+1417,"San Bartolomé Jocotenango",10860,"No asiste",8199,75.5
+1418,"Canillá",10011,"Asiste",2407,24.04
+1418,"Canillá",10011,"No asiste",7604,75.96
+1419,"Chicamán",31535,"Asiste",10270,32.57
+1419,"Chicamán",31535,"No asiste",21265,67.43
+1420,"Playa Grande Ixcán",78853,"Asiste",23676,30.03
+1420,"Playa Grande Ixcán",78853,"No asiste",55177,69.97
+1421,"Pachalum",7578,"Asiste",2170,28.64
+1421,"Pachalum",7578,"No asiste",5408,71.36
+1501,"Salamá",55033,"Asiste",15699,28.53
+1501,"Salamá",55033,"No asiste",39334,71.47
+1502,"San Miguel Chicaj",27345,"Asiste",8921,32.62
+1502,"San Miguel Chicaj",27345,"No asiste",18424,67.38
+1503,"Rabinal",34690,"Asiste",11280,32.52
+1503,"Rabinal",34690,"No asiste",23410,67.48
+1504,"Cubulco",45369,"Asiste",10991,24.23
+1504,"Cubulco",45369,"No asiste",34378,75.77
+1505,"Granados",11644,"Asiste",2993,25.7
+1505,"Granados",11644,"No asiste",8651,74.3
+1506,"Santa Cruz El Chol",8188,"Asiste",2192,26.77
+1506,"Santa Cruz El Chol",8188,"No asiste",5996,73.23
+1507,"San Jerónimo",21412,"Asiste",6137,28.66
+1507,"San Jerónimo",21412,"No asiste",15275,71.34
+1508,"Purulhá",44495,"Asiste",13021,29.26
+1508,"Purulhá",44495,"No asiste",31474,70.74
+1601,"Cobán",176556,"Asiste",54723,30.99
+1601,"Cobán",176556,"No asiste",121833,69.01
+1602,"Santa Cruz Verapaz",26246,"Asiste",8277,31.54
+1602,"Santa Cruz Verapaz",26246,"No asiste",17969,68.46
+1603,"San Cristóbal Verapaz",55367,"Asiste",17867,32.27
+1603,"San Cristóbal Verapaz",55367,"No asiste",37500,67.73
+1604,"Tactic",31382,"Asiste",9240,29.44
+1604,"Tactic",31382,"No asiste",22142,70.56
+1605,"Tamahú",16174,"Asiste",4922,30.43
+1605,"Tamahú",16174,"No asiste",11252,69.57
+1606,"San Miguel Tucurú",34450,"Asiste",10375,30.12
+1606,"San Miguel Tucurú",34450,"No asiste",24075,69.88
+1607,"Panzós",56330,"Asiste",16499,29.29
+1607,"Panzós",56330,"No asiste",39831,70.71
+1608,"Senahú",73262,"Asiste",19834,27.07
+1608,"Senahú",73262,"No asiste",53428,72.93
+1609,"San Pedro Carchá",190682,"Asiste",53758,28.19
+1609,"San Pedro Carchá",190682,"No asiste",136924,71.81
+1610,"San Juan Chamelco",46967,"Asiste",14117,30.06
+1610,"San Juan Chamelco",46967,"No asiste",32850,69.94
+1611,"San Agustín Lanquín",19587,"Asiste",5153,26.31
+1611,"San Agustín Lanquín",19587,"No asiste",14434,73.69
+1612,"Santa María Cahabón",53122,"Asiste",14982,28.2
+1612,"Santa María Cahabón",53122,"No asiste",38140,71.8
+1613,"Chisec",67101,"Asiste",20184,30.08
+1613,"Chisec",67101,"No asiste",46917,69.92
+1614,"Chahal",21430,"Asiste",6043,28.2
+1614,"Chahal",21430,"No asiste",15387,71.8
+1615,"Fray Bartolomé de las Casas",53309,"Asiste",15386,28.86
+1615,"Fray Bartolomé de las Casas",53309,"No asiste",37923,71.14
+1616,"Santa Catalina La Tinta",32694,"Asiste",10052,30.75
+1616,"Santa Catalina La Tinta",32694,"No asiste",22642,69.25
+1617,"Raxruhá",29576,"Asiste",8718,29.48
+1617,"Raxruhá",29576,"No asiste",20858,70.52
+1701,"Flores",32869,"Asiste",10410,31.67
+1701,"Flores",32869,"No asiste",22459,68.33
+1702,"San José",5840,"Asiste",1826,31.27
+1702,"San José",5840,"No asiste",4014,68.73
+1703,"San Benito",37396,"Asiste",12496,33.42
+1703,"San Benito",37396,"No asiste",24900,66.58
+1704,"San Andrés",26660,"Asiste",7343,27.54
+1704,"San Andrés",26660,"No asiste",19317,72.46
+1705,"La Libertad",59014,"Asiste",16858,28.57
+1705,"La Libertad",59014,"No asiste",42156,71.43
+1706,"San Francisco",12752,"Asiste",3978,31.2
+1706,"San Francisco",12752,"No asiste",8774,68.8
+1707,"Santa Ana",18226,"Asiste",5414,29.7
+1707,"Santa Ana",18226,"No asiste",12812,70.3
+1708,"Dolores",22101,"Asiste",6720,30.41
+1708,"Dolores",22101,"No asiste",15381,69.59
+1709,"San Luis",54895,"Asiste",14642,26.67
+1709,"San Luis",54895,"No asiste",40253,73.33
+1710,"Sayaxché",74570,"Asiste",22321,29.93
+1710,"Sayaxché",74570,"No asiste",52249,70.07
+1711,"Melchor de Mencos",23557,"Asiste",6514,27.65
+1711,"Melchor de Mencos",23557,"No asiste",17043,72.35
+1712,"Poptún",43517,"Asiste",13639,31.34
+1712,"Poptún",43517,"No asiste",29878,68.66
+1713,"Las Cruces",26491,"Asiste",6840,25.82
+1713,"Las Cruces",26491,"No asiste",19651,74.18
+1714,"El Chal",11443,"Asiste",3215,28.1
+1714,"El Chal",11443,"No asiste",8228,71.9
+1801,"Puerto Barrios",88034,"Asiste",25138,28.55
+1801,"Puerto Barrios",88034,"No asiste",62896,71.45
+1802,"Livingston",60101,"Asiste",17237,28.68
+1802,"Livingston",60101,"No asiste",42864,71.32
+1803,"El Estor",57875,"Asiste",18291,31.6
+1803,"El Estor",57875,"No asiste",39584,68.4
+1804,"Morales",85458,"Asiste",23098,27.03
+1804,"Morales",85458,"No asiste",62360,72.97
+1805,"Los Amates",51146,"Asiste",13668,26.72
+1805,"Los Amates",51146,"No asiste",37478,73.28
+1901,"Zacapa",52315,"Asiste",14620,27.95
+1901,"Zacapa",52315,"No asiste",37695,72.05
+1902,"Estanzuela",8679,"Asiste",2208,25.44
+1902,"Estanzuela",8679,"No asiste",6471,74.56
+1903,"Río Hondo",18647,"Asiste",4757,25.51
+1903,"Río Hondo",18647,"No asiste",13890,74.49
+1904,"Gualán",38900,"Asiste",9170,23.57
+1904,"Gualán",38900,"No asiste",29730,76.43
+1905,"Teculután",15264,"Asiste",4307,28.22
+1905,"Teculután",15264,"No asiste",10957,71.78
+1906,"Usumatlán",10375,"Asiste",2868,27.64
+1906,"Usumatlán",10375,"No asiste",7507,72.36
+1907,"Cabañas",11566,"Asiste",3106,26.85
+1907,"Cabañas",11566,"No asiste",8460,73.15
+1908,"San Diego",6210,"Asiste",1929,31.06
+1908,"San Diego",6210,"No asiste",4281,68.94
+1909,"La Unión",27064,"Asiste",6853,25.32
+1909,"La Unión",27064,"No asiste",20211,74.68
+1910,"Huité",9546,"Asiste",2705,28.34
+1910,"Huité",9546,"No asiste",6841,71.66
+1911,"San Jorge",10626,"Asiste",3097,29.15
+1911,"San Jorge",10626,"No asiste",7529,70.85
+2001,"Chiquimula",94267,"Asiste",26218,27.81
+2001,"Chiquimula",94267,"No asiste",68049,72.19
+2002,"San José la Arada",7538,"Asiste",1719,22.8
+2002,"San José la Arada",7538,"No asiste",5819,77.2
+2003,"San Juan Ermita",13703,"Asiste",3512,25.63
+2003,"San Juan Ermita",13703,"No asiste",10191,74.37
+2004,"Jocotán",52224,"Asiste",14131,27.06
+2004,"Jocotán",52224,"No asiste",38093,72.94
+2005,"Camotán",44574,"Asiste",12221,27.42
+2005,"Camotán",44574,"No asiste",32353,72.58
+2006,"Olopa",21810,"Asiste",5912,27.11
+2006,"Olopa",21810,"No asiste",15898,72.89
+2007,"Esquipulas",45098,"Asiste",11383,25.24
+2007,"Esquipulas",45098,"No asiste",33715,74.76
+2008,"Concepción las Minas",10260,"Asiste",2483,24.2
+2008,"Concepción las Minas",10260,"No asiste",7777,75.8
+2009,"Quezaltepeque",24071,"Asiste",5998,24.92
+2009,"Quezaltepeque",24071,"No asiste",18073,75.08
+2010,"San Jacinto",10780,"Asiste",2632,24.42
+2010,"San Jacinto",10780,"No asiste",8148,75.58
+2011,"Ipala",19509,"Asiste",4665,23.91
+2011,"Ipala",19509,"No asiste",14844,76.09
+2101,"Jalapa",130920,"Asiste",41200,31.47
+2101,"Jalapa",130920,"No asiste",89720,68.53
+2102,"San Pedro Pinula",50234,"Asiste",13504,26.88
+2102,"San Pedro Pinula",50234,"No asiste",36730,73.12
+2103,"San Luis Jilotepeque",21370,"Asiste",5085,23.8
+2103,"San Luis Jilotepeque",21370,"No asiste",16285,76.2
+2104,"San Manuel Chaparrón",7210,"Asiste",1687,23.4
+2104,"San Manuel Chaparrón",7210,"No asiste",5523,76.6
+2105,"San Carlos Alzatate",15344,"Asiste",4273,27.85
+2105,"San Carlos Alzatate",15344,"No asiste",11071,72.15
+2106,"Monjas",23363,"Asiste",6124,26.21
+2106,"Monjas",23363,"No asiste",17239,73.79
+2107,"Mataquescuintla",35037,"Asiste",9007,25.71
+2107,"Mataquescuintla",35037,"No asiste",26030,74.29
+2201,"Jutiapa",123277,"Asiste",36700,29.77
+2201,"Jutiapa",123277,"No asiste",86577,70.23
+2202,"El Progreso",19244,"Asiste",5035,26.16
+2202,"El Progreso",19244,"No asiste",14209,73.84
+2203,"Santa Catarina Mita",24867,"Asiste",6199,24.93
+2203,"Santa Catarina Mita",24867,"No asiste",18668,75.07
+2204,"Agua Blanca",14356,"Asiste",3276,22.82
+2204,"Agua Blanca",14356,"No asiste",11080,77.18
+2205,"Asunción Mita",42018,"Asiste",9928,23.63
+2205,"Asunción Mita",42018,"No asiste",32090,76.37
+2206,"Yupiltepeque",14956,"Asiste",4712,31.51
+2206,"Yupiltepeque",14956,"No asiste",10244,68.49
+2207,"Atescatempa",16106,"Asiste",4153,25.79
+2207,"Atescatempa",16106,"No asiste",11953,74.21
+2208,"Jerez",5568,"Asiste",1493,26.81
+2208,"Jerez",5568,"No asiste",4075,73.19
+2209,"El Adelanto",5556,"Asiste",1648,29.66
+2209,"El Adelanto",5556,"No asiste",3908,70.34
+2210,"Zapotitlán",7827,"Asiste",2476,31.63
+2210,"Zapotitlán",7827,"No asiste",5351,68.37
+2211,"Comapa",26734,"Asiste",8340,31.2
+2211,"Comapa",26734,"No asiste",18394,68.8
+2212,"Jalpatagua",24603,"Asiste",7359,29.91
+2212,"Jalpatagua",24603,"No asiste",17244,70.09
+2213,"Conguaco",18830,"Asiste",6051,32.13
+2213,"Conguaco",18830,"No asiste",12779,67.87
+2214,"Moyuta",33323,"Asiste",9552,28.66
+2214,"Moyuta",33323,"No asiste",23771,71.34
+2215,"Pasaco",7496,"Asiste",2218,29.59
+2215,"Pasaco",7496,"No asiste",5278,70.41
+2216,"San José Acatempa",11548,"Asiste",3120,27.02
+2216,"San José Acatempa",11548,"No asiste",8428,72.98
+2217,"Quesada",19418,"Asiste",5351,27.56
+2217,"Quesada",19418,"No asiste",14067,72.44
